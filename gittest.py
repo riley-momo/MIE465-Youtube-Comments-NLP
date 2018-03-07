@@ -1,20 +1,15 @@
 import os
-import git
 import github
 
-from git import Repo
+
 from github import Github
 from github import InputGitTreeElement
 
 import os.path as osp    
     
-repo_dir =  os.getcwd() + '\Repo'
-file_name = repo_dir + '\gittest.py'
-token = 'fae88b79568930dd8cc3a0422e108c2a09fdff99'
-r = Repo.init(repo_dir)
-# This function just creates an empty file ...
-r.index.add([file_name])
-r.index.commit("initial commit")
+
+token = '346435fe6eaf2b21254307118ebee84acb8a5510'
+
 g = Github("avatR630", token)
 repo = g.get_user().get_repo('MI465-Youtube-Comments-NLP')
 files = [os.getcwd() + '/testing.py', os.getcwd() + 'gittest.py']
@@ -24,7 +19,7 @@ master_ref = repo.get_git_ref('heads/master')
 master_sha = master_ref.object.sha
 base_tree = repo.get_git_tree(master_sha)
 element_list = list()
-for entry in file_list:
+for entry in files:
     with open(entry, 'rb') as input_file:
         data = input_file.read()
     if entry.endswith('.png'):
