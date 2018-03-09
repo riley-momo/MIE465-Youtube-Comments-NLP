@@ -68,7 +68,7 @@ def get_comment_threads(youtube, video_id, comments):
         #only get first 200 threads
         if len(threads) >= 200:
             break    
-    print("Total threads: %d" % len(threads))
+    #print("Total threads: %d" % len(threads))
     
     return threads
   
@@ -109,8 +109,12 @@ def get_features(text):
     features['wordCount'] = wordCount
     #get frequency distribution
     fdist = FreqDist(words)
+    #store fdist in dictionary for use in creating combined fdist
     features['fDist'] = fdist
-    
+    #convert FreqDist to dictionary
+    fdist = dict(fdist)
+    #append FreqDist to features
+    features.update(fdist)
     return features
 
 
@@ -128,7 +132,9 @@ if __name__ == '__main__':
     #read video Ids from csv file
     videoIds = pd.read_csv("USvideos.csv")["video_id"]
     #Iterate through video Ids
+    j = 0
     for video_id in videoIds:
+        print('Processing video: ' + video_id)
         try:
             #Intiliaze comment list
             comments = []
@@ -145,11 +151,13 @@ if __name__ == '__main__':
                     text = comment["snippet"]["textDisplay"]
                     commentFeatures[text] = get_features(text)
         
-        
+        #API error handling
         except HttpError:
             print ("An HTTP error occurred")
+            #skip video if we cannot retrieve comments
+            continue
  
-        #add comment featires dictionary to video ID
+        #add comment features dictionary to video ID
         videoComments[video_id] = {}
         videoComments[video_id]['commentFeatures'] = commentFeatures
         
@@ -157,14 +165,51 @@ if __name__ == '__main__':
         i = 0
         for comment in commentFeatures:
             if i == 0:
-                fdist = commentFeatures[comment]['fDist'] #Initial freq dist
+                fdist = commentFeatures[comment]['fDist']#Initial freq dist
+                del commentFeatures[comment]['fDist'] #remove after use
             else:
                 fdist.update(commentFeatures[comment]['fDist']) #Update freq dist as we progress
-                i = 1
-        
-        videoComments[video_id]['fDist'] = fdist
+                
+                del commentFeatures[comment]['fDist'] #remove after use
+            i = 1
+        #convert FreqDist to dictionary
+        fdist = dict(fdist)
+        #append FreqDist to features
+        videoComments[video_id].update(fdist)
         
         #get mean wordCount across all comments
         wordCounts = [commentFeatures[key]['wordCount'] for key in commentFeatures]
         meanWC = statistics.mean(wordCounts)
+        WCStdev = statistics.stdev(wordCounts)
         videoComments[video_id]['meanWordCount'] = meanWC 
+        videoComments[video_id]['wordCountStdev'] = WCStdev 
+       
+        #get mean sentiment across all comments
+        sentiments = [commentFeatures[key]['sentiment'] for key in commentFeatures]
+        meanSentiment = statistics.mean(sentiments)
+        sentimentStdev = statistics.stdev(sentiments)
+        videoComments[video_id]['meanSentiment'] = meanSentiment 
+        videoComments[video_id]['sentimentStdev'] = sentimentStdev
+        
+        #----Convert data to csv----#
+        
+        #Convert commentFeatures to dataframe
+        commentFeatureDF = pd.DataFrame.from_dict(videoComments[video_id]['commentFeatures'], orient = 'index').fillna(0)
+        #Convert dataframe to csv
+        commentFeatureDF.to_csv(video_id + '.csv')
+        
+        #remove commentFeatures now that we have exported data
+        del videoComments[video_id]['commentFeatures']
+        
+        #only do first X videos
+        if j == 50:
+            break
+        j+= 1
+        
+        
+    #----Convert data to csv----#
+    
+    #convert videoComments to dataframe
+    videoCommentsDF = pd.DataFrame.from_dict(videoComments, orient = 'index').fillna(0)
+    #Convert dataframe to csv
+    videoCommentsDF.to_csv('videoCommentStats.csv')
