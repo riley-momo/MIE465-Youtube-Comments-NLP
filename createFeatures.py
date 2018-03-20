@@ -30,22 +30,26 @@ def getFeatures(comments):
     profanitySum = sum(d for d in profanity.values())
     #tokenize
     tokenizer = TweetTokenizer()
-    tokens = tokenizer.tokenize(text)
-    
-    ## WIP ##
-    # #convert to nltk Text
-    # words = nltk.Text(tokens)
-    # #get wordCount
+    tokens = tokenizer.tokenize(combinedText)
+    #convert to nltk Text
+    words = nltk.Text(tokens)
+    #get wordCount
     # wordCount = len(words)
     # features['wordCount'] = wordCount
-    # #get frequency distribution
-    # fdist = FreqDist(words)
-    # #store fdist in dictionary for use in creating combined fdist
-    # features['fDist'] = fdist
-    # #convert FreqDist to dictionary
-    # fdist = dict(fdist)
-    # #append FreqDist to features
-    # features.update(fdist)
+    #get frequency distribution
+    fdist = FreqDist(words)
+    #find words to clean
+    wordsToRemove = sorted(w for w in set(words) if len(w) < 5 and fdist[w] < 2)
+    #convert FreqDist to dictionary
+    fdist = dict(fdist)
+    #append FreqDist to features
+    features.update(fdist)
+    
+    
+    ## WIP ##
+    
+   
+    
     
     
     
@@ -60,14 +64,16 @@ def getFeatures(comments):
     
 
 if __name__ == '__main__':
- 
+
+    
+    path = '\\\\SRVA\Homes$\\moherril\\Documents\\Analytics in Action\\Project\\video_csvs'
     #iterate through each video file
-    for filename in os.listdir(os.getcwd() + '/video_csvs'):
+    for filename in os.listdir(path):
         #obtain video_id
         video_id = filename[:-4]
         print('Processing video: ' + video_id)
         #obtain comment data
-        data = pd.read_csv('video_csvs/' + filename)
+        data = pd.read_csv(path + '\\' + filename, lineterminator='\n')
         #iterate through comments
         comments = []
         for index, d in data.iterrows():
@@ -75,4 +81,4 @@ if __name__ == '__main__':
             comments.append(d[0])
         #obtain features
         features = getFeatures(comments)
-           
+    #export to csv
