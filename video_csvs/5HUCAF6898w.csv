@@ -1,0 +1,8 @@
+,sentiment,wordCount
+Awesome project!  and cheers Alex for winning the grand prize!,0.9551,12
+"Excellent interview. About the fabrication, what do you recommend to an electrical engineer who has zero experience with mechanical stuff? And what do you think of Autodesk's Inventor?",0.7622,32
+Genius design. Curious just how long range it is. It would be cool if it could surface and get some solar power or perhaps generate power from waves.,0.5574,31
+Great,0.6249,1
+"I was amazed by this design and idea, but later I saw there are almost the same designs from the past. Nevermind, great job!",0.8419,28
+"Thank you! I need to perform extended endurance/range testing as the current endurance/range of the glider is calculated by extrapolating out current data (6 hour running battery life at ~0.2m/s = 4km). As the glider is only just getting to a point where hardware is complete, there are no power saving measures being used; the motors/boards do not power down when not in use and the microcontroller does not enter sleep mode. Solar panels are on the seemingly never ending list of nice-to-haves, once I get around to it =D",0.6833,108
+Wonderful work! Keep us all updated!,0.6467,8

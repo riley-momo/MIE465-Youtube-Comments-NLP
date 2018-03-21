@@ -1,0 +1,94 @@
+,sentiment,wordCount
+"A commenter on Hackaday pointed out that someone else is already working on something very similar, you should definitely get together:
+
+https://github.com/schnommus/libsigrok-cypress-fx3-test",0.4019,24
+"CNLohr 
+Ad hoc productivity makes no sense, but okay. Whatever makes you happy and placated I guess.",0.7783,20
+"CNLohr haha. Yeah I just read what I wrote. I meant that maybe you already wrote the makefile and test it. Im a little distracted right now, sorry about the confusion. Ill download your repo and try testing it at home. Thanks for sharing your work. Are you gonna keep posting video updates of this, as with the previous projects?",0.5413,69
+"CNLohr new ones use a Cypress plus an fpga with some ram. So it's not quite the same ""gpif->USB"" direct architecture anymore.",0.0,28
+"CNLohr sorry, that was what I meant. Maybe you got around making a makefile and building/testing it on linux.",-0.0772,24
+CNLohr thanks willy wonka,0.4404,4
+D00d! I think I love this chip.,0.6696,9
+"Fantastic work mate, as always!",0.5983,7
+Great stuff. +1 To trying to get Sigrok support. Pretty interested to see what all can be built with that GPIF program. Could it not run via Wine? (I'm sure you tried),0.9325,39
+Have you tried the PSoC 5LP kit? its a $10 kit from Cypress. Might be interesting to make a Verilog episode.,0.4019,25
+"He didn't he was just busy, I'm sure he will pick it up again.
+Besides the project is not dead, join the Discord Server :-)",0.5352,28
+Heard you mention TinyCC and clicked Subscribe. Nice to know someone else uses the amazing little compiler.,0.765,19
+"I GOOGLED FOR THIS STUFF, YO.  HOW DID I MISS THIS?",-0.1531,14
+I believe they are FPGA based,0.0,6
+"I don't understand what you mean ""IDE device emulator"" are you referring to hard drives?",-0.1027,18
+I feel a little less bad now for using their software with a 12 dollar clone.,-0.4458,17
+"I guess you are one of the smartest guys on this planet, your work is amazing!",0.8439,18
+I have this http://www.dreamsourcelab.com/order.html,0.0,4
+"I have this opinion about FPGAs and FPGA-like tools.  I've seen engineers pour far too much time and effort into them.  I really think 90% of the time when people try solving an issue with something with an FPGA/CPLD or hybrid proecessor, using a different processor altogether would be better.",0.6486,57
+"I hurt a little inside on the windows  switch, but another good video nonetheless. I loved the positive message in the end.
+
+I understand the rage of the price increase, and there is a fine line of a company's ability to increase a price to sustain it's business and employees. I think what you pay for when you ultimately buy a prepackaged solution is the guarantee. (Most) companies will work for you to ensure their service is provided, so while a hacked together solution will work, it will be tough to be used in any production environment.
+
+Ultimately we are just paying for silicon, metal, plastic and some other assortments of materials and I think that the real value lies from the logic, assembly and time people put into the product, whether that's the design decisions or the functional pipeline.
+
+My 0.02.",0.9717,159
+"I see several projects with FX3 sdk for linux on github, they don't work?",0.0,16
+"I'm not sure how Saleae thought this price hike was a good idea... It's like the reverse of what jlink did in introducing ""edu"" levels of their hardware (since they're raising the price instead of lowering...): pricing tiers on identical hardware seem contrived... Not sure what the thought process was (make it more expensive so it seems more valuable? Something else investor driven?)   but it seems like a lousy idea unless they were already selling (the newer fpga-based units) below cost... They probably lost another sale here...",-0.4358,102
+"I've just been using one of the $4 chinese versions. It don't think it supports analog signals, but it works great for digital protocol analysis",0.7265,28
+"I.e. once the GPIF information is ""compiled"" it is portable and can be used anywhere.",0.0,21
+Inspiring!,0.4753,2
+It would be awesome if this video started yet another community effort like your video about the vive did,0.765,19
+"Jan Lategahn the software is kind of nice, but also pretty crash prone in my experience, which hardly screams professional. Sigrok is already at least as good if not better because of easily extensible decoders (not to mention device support)",0.6103,45
+LimeSDR uses the FX3 as the USB controller : https://github.com/myriadrf/LimeSDR-USB_FX3,0.0,10
+"Looks like sigrok already supports the fx2, is it much different to the fx3?",0.6124,16
+MadyWinter the fx2 is a 8051 core and the fx3 supposedly ARM9 so probably no,-0.3566,16
+"Might also been nice as a logic analyzer for vintage computer repair where there's wide parallel buses that could use the full 32 bit width of the GPIF system. Guessing that application would need a buffer like http://dangerousprototypes.com/docs/Open_Bench_Logic_Sniffer has (for only 16/32 channels). Since it seems the FX3 has a max input voltage of Vcc+0.3, or ~3.6V.",0.6486,66
+"Nice work. If you really wanted to get something up and running quickly with Sigrok, you could check out supported Sigrok analysers to see how they write their data and emulate that, but it's easier if Sigrok can support your device directly. There's also the Beaglebone Logic analyser, 100Msps, just a bit more expensive but your one would be way more compact. It might have taken weeks if you went the old fashion way, MCU (or CPLD) with SRAM with a USB interface (limited sample depth would be a pain).",0.8689,103
+"Nice. I was able to get a slightly better shipping price to Canada with Mouser (free, by padding my order with a Lattice IceStick (FINALLY back in stock) and a couple cheap Cyprus CY8CKIT kits). If only Cyprus software was Linux friendly.",0.8228,50
+"No makefile yet, but soon.",-0.1531,7
+Oh man that would be awesome.  I had kinda thought about streaming this but I was stuck in Windows :-/,-0.4118,21
+"Ok, after further investigation, seems they went a different direction, i.e. bulk and some other stuff.  Also, def more of a focus directly on sigrok get-it-to-work while I'm more interested in a general solution?",0.7574,43
+Open TechLab's channel worked in the development of Sigrok if i'm not wrong.,0.3724,14
+Perseverance through spite. We won't give up just because we don't want to give entropy the satisfaction.,-0.1833,19
+"Reminds me of how Wacom had the market cornered in drawing tablets and as soon as the knockoffs came around the corner they raised all their prices. But wacom doesnt serve engineers, developers and science enthusiasts so nobody has smacked them into their place yet.",0.0772,48
+"Saleae has to make money somehow and that's by offering a great product at a decent price. I based a piece of production test equipment off one of their Logic16 units and while it was quite pricey for what it was, it worked and their software was the only thing that justified the price. When I went to update the tester they had discontinued the Logic 16 and replaced it with the more expensive Logic16 Pro which offered me new nothing I wanted and broke up the input ports which I didn't want. That made me craft a complete replacement written on the PRU of a Beaglebone. Bye Saleae!!! Now with this price gouge I'm very glad I ditched them. Saleae, you've completely alienated me.",0.9198,138
+"Seems like an act of desperation. To me, this looks like the beginning of the end of Saleae.",0.25,21
+So I have owned a Saleae for about a decade and love their product/software.  Now I am thinking about trying out this DreamSourceLab product you pointed out as the analog performance looks great!  How have you liked yours?  I wonder if there are any other products I should also consider?  Also interested to see where the FX3 project here goes... because basically everything that comes from this channel is just amazing.,0.9598,79
+"Some people on eevblog are looking to do something similar:
+
+https://www.eevblog.com/forum/microcontrollers/please-help-me-to-select-an-usb3-fpga-board-for-my-logic-analyzer-project/
+https://www.ebay.com/itm/Cypress-CYUSB3014-USB-3-0-Development-Board-with-Xilinx-Artix7-FPGA-XC7A35T/173113636330",0.0,13
+"Specifically cyfxgpif2config.h ... needed to be done with the GPIF designer.  But wow, I wish I noticed that before I started down my path... Though I did spend most of my time rewriting the PC-side software.",0.7579,43
+Support added last night.,0.4019,5
+Thanks man !,0.4926,3
+"That's crazy pricing; the original digital-only logic was much more reasonably priced. Most tinkerers don't need 8 analog channels (don't get me wrong, it would be *nice* to have that, but not a deal breaker)",0.1845,43
+"The chip looks very promising. How do you think, is it possible to make IDE device emulator with it?",0.4576,22
+The ooold ones used a Cypress... But I don't know anything about the new ones.,0.0,17
+The original Logic16 was a Spartan6 with a Cypress USB interface if I recall correctly.,0.3182,18
+"The products true value so far was in the (really amazing) software, not the hardware. As we have seen the hardware can be easily replicated. There were many management mistakes made here a) they did not do much to ensure that the software can recognize fake hardware b) they gave away the software for free c) they publicly communicated (in Eevblog) that fake hardware works fine with their software d) now they raise the prices to unjustifiable levels. All that is a recipe for desaster.",0.6808,98
+There. Got mine.,0.0,5
+"They do!  But you can't write new firmware for it, changing the GPIF behavior in Linux.",0.0,19
+"This is excellent. is the rest of the software functionality: triggers, protocol analysers, and storing it in a way that doesn't require loads of RAM, definitely just a trivial excersise?",0.743,36
+Thought the first logic 8 was overpriced. Essentially a $10 cypress dev board. Then they updated the software and you needed to swap the eeprom to one with a certain range of ID's to make the newer software work. Eventually bought one on offer from guilt but this new pricing is making me question my choice,0.0,60
+TinyC?   Visual Studio Community is free and so is Visual Studio Code.,0.5106,14
+Understandably at $700. Yikes.,0.0,7
+We have to pursue what makes us productive.  Pursuit of things more worthwhile also quell productivity in many -- like me.,0.6361,24
+"Well, it never _needed_ eclipse, but I was using that to build the firmware at the moment.  I intend to use Make in Linux.",0.1406,28
+Where is the linux mint?,0.0,6
+"Why would I want to get ""around"" that?",0.0772,11
+Wow.  I got that same board thinking about doing exactly that. Ill try to test your build asap. So it doesnt need eclipse anymore?,0.25,28
+Yay my christmas just came early this year. Spite programming needs a guru to write a standard. Seriously have a bunch of these horrors (boards). Igor! Start the generators!,-0.717,36
+Yeah... beaglebone never really interested me mostly because of the cost and how sophisticated the environment was.  I'm also really sad when working inside other projects and I don't think I'm the best person to add support _to_ sigrok :-/,0.5318,42
+"Yes, hard drive or CD-ROM. Basically it needs to be able to grab 16 bits of data and 4-5 more signals fast enough(I don't remember exactly how many), sending data from disk to controller shouldn't be a problem at all. UDMA/33 mode would be good enough for such device.",0.7549,59
+"You are 100% right in those last 10 seconds of this video! Just try, always!",0.0,19
+You could probably tolerate a lower impedance on the inputs.  My favorite kind of logic level shifter: The resistor divider.,0.2023,23
+You have no idea how much this helped thank you,0.0772,10
+"You, running Windows? W. T. F. I'd rather use an Amiga than go back to running Windows.",0.0,23
+"do you think Julian Assange was right when he said that geeks like you waste time, energy and intellect on little gizmos instead of something really world changing",0.5267,29
+good work!!,0.5399,4
+"i have one of those to... might have been DOA, but it gives me completely random output.",-0.3646,20
+i think Seleae uses Cypress too. I saw  these  GPIF stuff on eevblog before.  Good work!,0.4926,19
+like this? https://github.com/nickdademo/cypress-fx3-sdk-linux/tree/master/firmware/basic_examples/cyfxgpiftousb,0.3612,4
+put an ESP on it,0.0,5
+so their answer to cheap chinese knock-offs using their software is to increase prices? that's going to work :),0.6486,20
+"to be fair, dev boards can be sold at a loss their purpose is to make business not money. Saleae has to make money somehow, developing software isn't free",-0.4023,32
+too bad you stopped your HTC vive stuff.... :/,-0.7783,10
+yay the legend made a video again!,0.5707,8
+yesssssss,0.0,1

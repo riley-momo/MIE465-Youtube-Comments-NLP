@@ -1,0 +1,91 @@
+,sentiment,wordCount
+"+2000jago 
+Snuck that in there! ;-)",0.3164,8
+"+Aluelis 
+Ha ha. It’s at the start of the review update video.
+
+https://youtu.be/pX0OO-HtrIY",0.5859,18
+"+Bipin Patel 
+Yup, not sure if they are a sister company or a subsidiary, but there’s certainly a link there.",0.3857,26
+"+George Of The Jungle 
+Ha ha! First last!",0.658,11
+"+Izzie 
+Ha ha.
+Was banned by my physio for a long time, but back into it again.
+Alas my fitness level has gone down hill a lot. You can see it in my face. I was comparing the last video to one the same time last year.
+I’ve gained a bit of extra face!",0.6239,64
+"+James Lamb 
+Woohoo! Summer time. Can’t stand a beard and long hair in summer. Especially when it hits 50C, (which everyone is saying will happen).",0.5562,35
+"+Minh Phạm 
+It can work in offline mode, (using a cache of the page), so you could theoretically use it for weeks without connecting.",-0.128,30
+"+TheDutyPaid +nobodybodybody
+
+Yup, that’d be a killer service. Provide everything; CAD software, PCB production, components, assembly. Then they have to nail testing and they have the full E2E.",-0.6486,40
+"+gamerpaddy 
+Yup, there are some advantages with it. They are on to a good thing: making circuit design a social activity.",0.6597,26
+"+legoscratch 
+Yup, it’s a pretty decent service.",0.4939,12
+"+nobodybodybody 
+It can be a pain in the arse. Have you posted a comment asking them to fix? They are pretty responsive.",0.34,26
+........ and he's had a shave and a haircut!!!!,0.0,12
+"Ah. easyEDA. I've been working on this years ago, it's convenient to save online, but once the board got complex, it's kinda pain.
+Also, it took me some cost to move from eagle to kicad, but now, kicad is the whole world for me.",-0.4424,54
+Are you still banned from the gym?,-0.4588,8
+"Been researching EDA and PCB software, this is timed perfectly. Good one.",0.7964,15
+Can anyone link me the video where Mick blends the pine64? :D,0.6166,14
+Eagerly await 2nd part. Excellent video.,0.7717,8
+"Excellent. They are pretty decent. If you end up using them, you can support my channel by using the promo link: https://jlcpcb.com/?ref=mickmake
+
+That's under Options -> Set, and then  make sure the checkbox ""Display signal names"" is checked.",0.8979,46
+G'day. Thanks it's a good video.,0.7003,8
+"Hello Mick, nice view into EasyEDA im considering using their manufactioring after watching your review about them.
+
+But i need to ask you something about your setting in your eagleCAD. @4:15 i can see your coppertraces carring yellow nametags. How do i enable them to be displayed, i can't figure it out myself. Maybe you can help with this minor problem. 
+Thanks, Thomas",0.6908,73
+"Hi, hope this guide can help you with that. 
+https://easyeda.com/Doc/Tutorial/Schematic.htm#Footprint-Manager",0.6808,12
+"I moved to KiCad some years ago and newer looked back. It takes a while to learn, but the UI is actually well designed and very productive. CERN is also contributing to KiCad: https://home.cern/about/updates/2015/02/kicad-software-gets-cern-treatment
+Using proprietary file formats is really a pain.",-0.5006,47
+"I really like EasyEDA, but my one complaint is that making a custom symbol and footprint and then grouping them together is incredibly obtuse. Especially the grouping part... I still don't really understand how to designate that a custom footprint and package go together. It doesn't help that the docs are hard to search, you almost always end up getting a bunch of broken forum links before any links to the actual docs. </vent>",-0.8605,80
+"It's alive for a while, and looks like will be going for a while. (Until fail like vidme).
+
+To all who want to try, note this things:
+- This is Chinese company, and all your data will be gone by first blink of the eye of government.
+- They still have childish mistakes on webpages, like mixed content (all page is https, but some fonts trying to load as http).
+So no real QA there. You are QA. Slap it together and push to production, keep an eye for cry for help from users and fix most show-stopper issues, repeat.
+- Low to average quality documentation, and very crude TOS and privacy statements.
+- and also have facebook/baidu/google tracking scripts loads one every page. So much for ""privacy"".
+
+[conspiracy theory ON]
+This is perfect thing to collect user's data, habits and how users design & route PCBs. Perfect datasource for machine learning.
+[conspiracy theory OFF]
+
+So for work that you don't care much and have a backup it's probably OK.
+Just use it with adblocker.",0.2683,213
+Last !,0.0,2
+Love EasyEDA!,0.6696,3
+"MickMake Thank you! I hate my pine too, should have bought for a rpi3 instead :D",0.481,19
+"Nice review Mick!
+I've used EasyEDA to create two PCBs.  I'm on my third board. This time a four layer board. I'd like the top layer to be mostly positive plane, the second and third layer for actual routing, and fourth bottom layer to be mostly ground plane. Could you give me some pointers on that topic? Thanks!",0.9358,67
+Nice. I have to admit EasyEDA has become my favourite. Very quick and easy. Will be good once they get their full E2E pick and place setup.,0.8646,31
+"No probs, mate. It's one that I've been hanging on to all year.",-0.296,16
+"Shipping is a fairly costly business. Some places lower the shipping but raise the item costs. Overall, it’s about the right price.",-0.2023,28
+Thanks mate!,0.4926,3
+Thanks mate. Depends if I get the PCBs back before Christmas.,0.4404,13
+"The integration with LCSC (which has really good prices and service) is already pretty killer. Plus, I love those little cardboard pens they send out, it's worth ordering from them every now and then just to get more.",0.8016,44
+The price of the green boards is very cheap. Note that there is a big price difference when you choose a different colour. Still very cheap thought and they provide a great service.,0.6249,36
+"The same here. It's kinda confusing for me, if I need to make this, it took hours to figure it out (for me at least ...), and even after then I can be confused from time to time, what I should do for a while :(",-0.701,53
+There's even a free wiffy at 4:48!    :),0.7644,9
+"They are currently rolling out an assembly service. Only available to Chinese customers I think right now, but they said they will open it up as they work out the kinks.",0.0,34
+Will they make up the PCB with all the components or is it just a bare board service?,0.0,19
+"Yes true. I have to admit I tried it for a while, but found the interface annoying. Had I persisted I would have been an advocate, but I needed to get the job done and didn't want to waste time with an up-front learning curve.",0.3105,50
+"Yup, like most OSS, KiCad’s Ui is a pain in the arse. Ever used GIMP? Same story, (although I stuck with that). Shame OSS developers don’t create a UI that works well.",-0.4019,45
+"Yup, they’re pretty decent.",0.4939,8
+i think jlcpcb is related to easyeda coz i recently sent my gerbers to jlcpcb to be manufactured and in 3 days it was done and shipped so lets see how that goes,0.0,33
+it's easy to use but we need internet .,0.2382,9
+"love easyeda. tried them all, settled on easyeda and diptrace. easyeda gets used most often due to the fact i can access it from any PC anywhere with a web browser, without having to install any software. and the one click BOM and pcb ordering with jlcpcb is great. their pcb pricing is good and their turnaround times are awesome.",0.946,67
+"went from altium circuitmaker over to kicad to easyeda.
+i think i keep using easyeda, much better than the other user unfriendly, slow, outdated and / or unreliable programs.  they just need a standalone program, browser applications arent ideal, even if they work offline using a cached version (like easyeda)
+
+jlcpcb took 3 weeks from order to arrival on my 2 orders",-0.4359,71
+why i have 18 usd shipping?,0.0,7

@@ -1,0 +1,127 @@
+,sentiment,wordCount
+**DABOODEEDABOODY**,0.0,5
+11 minutes to boot is pretty slow. My Amiga 4000/68060/50 MHz boots Debian unstable with systemd in 5 minutes.,0.1779,23
+"14:50 You hacked a modern operating system onto a 27-ish year old computer just to rick roll us? Well played.
+
+Brings back lots of memories, makes me long for the older and (not really) simpler days. I had a PS/1 Consultant until about two years ago, when I managed to sell it on eBay for around $400. I still have a pile of old Macintosh and a few Apple II computers, that's been an on/off hobby for about a decade but lately it's been more towards ""off"". Will probably end up selling most of that kit, though it's still fun to revive the older hardware and relive the glory days of personal computing.",0.9287,134
+Also did you press the 'turbo' button?,0.0,10
+"Aren't you relieved you got that math coprocessor now? :D
+Compile Long and Prosper. Forever Gentoo",0.4308,18
+"As alexander field said, first you need some cache in there. Not sure where you'll find it though. Looked similar to a simm. Much to strip out but first try and find slackware 1.x from 94 or 95 and see how fast you boot with that. Mine would boot in a minite and a half I think. Maybe another 2 min to full X.",0.1655,73
+Awesome thanks for uploading!,0.807,5
+Awesome.  I respect the effort  you put into this.  And it was fun to watch the video documenting the results.,0.8885,23
+But probably not vulnerable to Meltdown/Spectre.,0.1695,9
+Did you compile it from another machine then sticked that hdd in 486 machine? Or you compiler whole system on 486 pc?,0.0,24
+"Did you try a systemd based distro? Everyone says it boots so much faster, your system would probably be the perfect benchmark :)",0.7717,25
+Did you use original glibc or uclibc/musl libc btw?,0.3182,12
+"Disable: syslog, cron, dhcpd. And use static IP.
+For ssh use cipher=arcfour. More fast.
+For music do not use mocp, use mplayer.
+I use Gentoo on PentiumII 300MHz/256RAM for writing/compile LaTeX documents and reading pdf/djvu/fb2, music+youtube 240p, C++ (gcc 4.9.4), web/mail/chat.
+
+«MAKE THE REALLY OLD PC'S GREAT AGAIN!»",0.7934,86
+"Does Minix or BSD run on this? Shouldn't that be much faster anyway?
+
+I ran SuSE Linux on my Pentium 200 MHz back in 2000 and it was quite usable back then but modern Linux is too bloated to run well on anything but relatively recent hardware from the last 10 years or so.",0.4606,57
+F*nix,0.0,3
+Gentoo is shit,-0.5574,3
+"Good, you don't want to press that button, as it slows down the CPU, lol.",0.6681,19
+"Haha, you just see the end result. I spent many times of the 11 minutes during the troubleshooting process.",0.5719,22
+"Hahaha. Sorry for raising your expectations. :P If there is a demand for it, I might try to get a GUI on it.",0.6739,27
+"Heh. Finally a computer that boots slower than my slightly broken iBook G4. :D Between the driver fix and the messed up internal Airport Extreme card (embedded under the logicboard), I usually have about a 5 to 7 minute wait. Once it's up though, Ubuntu MATE and Lubuntu 16.04 run ok. I can even sort of watch Youtube. Or listen to it at any rate.",0.1093,75
+How long did it take to compile?,0.0,8
+"I agree, but as you can see in the video, the kernel has finished after a few seconds, the rest is services. Of course, disabling services is the best way to go but if systemd starts them in the background while already providing a ""somewhat"" usable system, it would at least seem like a faster bootup (of course the definition of ""usable"" can be highly debated on such an old system...)
+
+Trimming the kernel down to boot a few seconds faster will not help much",0.5808,98
+"I agree. The ultimate 486 would be this AMD AM5x86 paired with the cache. Sadly, this machine does not have any external cache slots. Even if so, finding the right cache chips would be tough as well.",0.0772,43
+I believe more optimisation is possible. I welcome you to share and document your work! I wish to learn how you did it.,0.8775,26
+I can't select the option in the BIOS as there are no external cache installed in this PC. No cache slots even if I wanted to.,-0.5267,28
+I compiled on another more modern machine that moved the disk to the 486 PC. You can read my blog post for the full details. http://yeokhengmeng.com/2018/01/make-the-486-great-again/,0.0,28
+"I completely understand, and it's still very impressive that it's capable of running a modern Linux distro.
+However ..
+I recommend taking a look at Phils Computer Lab and his videos on retro PCs and gaming.
+I'm sure you'll have much more fun with that. I've got an old ThinkPad T42 that I want to turn into a Windows 98SE / MS-DOS retro gaming computer. Biggest issue right now is that I have no working CD/DVD-ROM drive in it. All I can do is boot from USB (1.1).
+Easily replaced the 80GB harddrive with an 64GB SD-card using IDE->SD controller card.",0.9335,115
+I did the compilation on another PC. That took only a couple of minutes. You can see the details in my blog post here. http://yeokhengmeng.com/2018/01/make-the-486-great-again/,0.0,28
+I didn't optimise the installation. Installed way too many packages and services in hindsight as I just adapted from the Gentoo installation instructions.,-0.3412,25
+I don't think Arch will work as no one seems to compile Arch packages for the i486.,-0.296,18
+I have not tried. The default installation instructions for Gentoo is for init. It is possible to switch to a systemd-based one. It involves more work though but I just wanted to get a proof-of-concept up and running first.,0.0,43
+I jumped to the point when you were recording your laptop.  I thought you had a full xwindows environment running.  That would be pretty impressive.,0.7579,28
+"I just checked, the motherboard does not have any slot to put in any cache chips.",0.0,18
+"I just checked, the motherboard does not have any slot to put in any cache chips. There is no turbo button on this PC...",-0.296,27
+"I know a 486 is slow by today's standards, but I didn't expect a 11 minute boot time. You could cut that by a huge margin if you took out some of the packages you don't need. Still cool though. I'd like to see this running on a better 486DX system with some external cache though. Running with no cache is like driving on the highway in reverse. It would make a HUGE difference.",0.8874,81
+"I know there's a lot more stuff in today's Linux distributions but I'm surprised init took so long especially the first part starting all the essential services, assuming the kernel was built maually (and thus optimized for that machine) and not via genkernel. I wonder how much of the slowness is caused by:
+- A slow hard drive
+- Not having enough RAM
+
+Is the software and CPU the only faults here? I find it hard to believe that in terms of scheduling and overhead that modern kernels are this much slower than old kernels",-0.0,101
+I love how the audio playback starts to stutter as soon as something else needs the CPU.,0.4939,18
+I think dsl(dumn small linux) also starts on such a PC,0.0,14
+"I was wondering how a systemd-based system would boot up, as it does not have to spawn so many shell scripts.",0.0,23
+"I'm surprised how ineffective this is running. 11 minutes to boot! :O
+I'd expect something running in a plain terminal to run way faster, even on such an old system.",-0.2558,35
+"If it took that long to come up to Run Level 3, imagine Run Level 7 if you will.",0.0,21
+Interesting video. You should do more videos like that.,0.6682,11
+"It's a lot slower than I remember. But I think I used to get a cuppa while the system booted. In those days, slow boot-ups were not uncommon, and we enjoyed the ""big-machine"" feel, lol. And leaving the system running for months was not unusual.",0.7269,54
+Lols!,0.0,2
+Longest Rick Roll ever. Well played sir.,0.5423,9
+Look at that computer screaming in agony as soon as you start the python interpreter.,-0.6597,16
+"Maybe you should turn off nginx, at least while you're doing other things on the machine.",0.0,18
+Minix or BSD should run on this. The purpose of this project was to see if modern Linux can still run on the 486.,0.0,26
+"Nah, Quake required a Pentium 75 or better.",0.3612,10
+Nice! It would probably be better to run old software tho. I remember running gnome on a 256mb ram 200mhz computer back then. Window 2000 ran smoothly too.,0.7177,32
+No external cache? That would likely have improved speed. What happens if you select it in the BIOS?,0.3094,21
+"No x11, I used to run x11 on an s3 card, ran well, used to run Slackware, sun was faster, rarely booted",-0.0258,27
+ShaTer I think ArchLinux will run too,0.0,7
+"So, now you only need to launch Linux on IBM5100 and hack into CERN, so you could use the LHC to send your memories 2 days into the past. But you also need a phone-microwave device, CRT 42’inch TV and PC, that can calculate your memories into program code, of 3.6 TB... But I hope you can do that! Good luck!
+
+El Psy Kongroo",0.855,76
+Systemd boots fast because of optimizations it does while the system is running it also come in at a higher memory expense. it may speed up boot but will make a system as old as this extremely slow during runtime. we do not notice the systemd penalty much on newer systems. The best way to optimize boot is to trim kernel some more and have less services at start.,0.8201,73
+"That's a good idea. However, the goal of this project was the modern software as it were a modern situation faced by a developer.",0.4404,27
+"That's all stock Debian with standard kernel and glibc, see: https://cdimage.debian.org/cdimage/ports/",0.0,13
+"The Cirrus Logic card is a discrete card ""integrated"" into the motherboard. It's connected to the CPU internally on the motherboard via the VLB bus.",0.0,29
+The power of Gentoo :D,0.6166,5
+"The whole point of Linux on the desktop is making things as painful as possible to show that you are Master Race Unix and even more Alpha than Richard Stallman, i.e. to show how much of an arsehole you are",-0.4404,44
+This computer is slower than my laptop!,0.0,8
+Try a recompile on the machine itself.,0.0,8
+Try with Damn Small Linux,-0.4019,5
+"Very nice. I think I see a mistake in a first minute of the video. There is an integrated videochip! I had integrated videochip in my Pentium 2. It was made by SiS. With them, ALL was slow! But if I plug a discrette videocard, all was worked fast. The reason may be in a videoram - it was not, it was used system RAM (1 Mb). Try with discrette!",0.3755,84
+Very useful,0.4927,2
+With MPXPlay you'd be able to do the same thing in FreeDOS a whole lot faster and more easily.,0.4005,20
+Worked great on mine back in the day with Windows 95.,0.6249,12
+"Yeah, it would take eternity to compile that crap haha, thanks for link.",0.6705,16
+"Yep, I'm a subscriber to his channel! And the 8-bit guy as well!",0.5972,18
+Yep. But that wasn't my objective of this project. I just wanted to see if modern Linux is possible on this ancient PC.,0.296,26
+"Yes I did before. You can read my blog post behind this project:
+
+http://yeokhengmeng.com/2018/01/make-the-486-great-again
+
+as well as that of my teammate which described the DSL install. https://www.chenhuijing.com/blog/hardware-hacks-super-silly-hackathon/",0.5859,30
+"Yes it did. You can read my blog post behind this project:
+
+http://yeokhengmeng.com/2018/01/make-the-486-great-again
+
+as well as that of my teammate which described the DSL install. https://www.chenhuijing.com/blog/hardware-hacks-super-silly-hackathon/",0.5859,29
+"You can read my blog post and the Github instruction for the full details.
+http://yeokhengmeng.com/2018/01/make-the-486-great-again/
+https://github.com/yeokm1/gentoo-on-486
+
+I did not use genkernel because it didn't even work. The CF card is rated for 120MB/s read speed. I slow read speed can be the bus the PATA interface is on. Probably ISA.",0.0,57
+You know those fireplace videos? This is kind of peaceful like that.,0.6605,14
+You should try Knoppix Distribution . It's designed for I486 processors.. But I hope in a future improvement with Gentoo...,0.7096,22
+"You should upgrade with L2 cache, this should give a huge performance boost",0.6124,14
+and you can play Quake1 :),0.6597,7
+antiX/Porteus are out there ;),0.2263,7
+"awww, it has a cd-rom. that's so cute!",0.632,11
+but can it run crysis?,0.0,6
+but it works tho,0.0,4
+emerge chromium,0.0,2
+emerge libreoffice it'll finish compiling long after your death,-0.5994,9
+good god this looks painful to use,0.2732,7
+"i've played on 486@80MHz, was hard but bearable (at that time, with 10-20fps) :)",0.6705,21
+"it finishes booting at 11:40... and (as expected) it only booted to a command prompt.
+Heck! That certainly took very very long!",0.4559,28
+"kernel trimming can help alittle but you are correct not by much. the problem with systemd is that it needs more memory and is constantly logging and compressing and rotating those logs. the system is more active, more writes to disk and more compression taking up CPU. getting a faster boot with with systemd comes with an added expense while the system is running. I used to install linux on 68k macs.. and instead of networking over Ethernet with ssh,  i used a nullmodem to get a serial connection.. lol. they made cool terminals to my linux server.  
+building a distribution around busybox and uClibc may make this more usable. check out they way tinycore linux is built if you have not already.",0.8376,135
+props to you for this--love how the rickroll started stuttering as the 486 was trying to crunch on crypto for ssh,-0.3182,21
+you should try and compile chromium on that thing just to see how many days it would take,0.0,18

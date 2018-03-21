@@ -1,0 +1,46 @@
+,sentiment,wordCount
+"Cool project, but damn what an annoying video to watch... how many flip-transitions can you stuff in a 149 seconds.",-0.7543,23
+"Danke. Das ist der erste Schritt in Richtung frei bewegliches rad loses Fahrbahn-Fahrzeug Straßensystem. (Im kleinen natürlich auch als Produktionsstraßen-Zuführung, Steuerung etc. verwendbar)",-0.3182,29
+"Das die Ansteuerung komplex ist wundert mich gar nicht. Vermutlich ist ein FPGA aufgrund der vielen simultanen Instruktionen die bessere Wahl für die Steuerung. Aber im Prinzip sind das alles nur Details. 
+Ich würde an deiner Stelle schauen was davon patentierbar ist, bzw. ob es sich nicht lohnen könnte diese Technologie in größerem Maßstab eben für Fabrikhallen oder Assembly Betriebe zu verwenden. 
+
+Wenn die Ansteuerung es zulässt könnte man über eine phasenverschobene Ansteuerung der Aktoren auch eine Rotation der Platten (in dem Fall des Prototypen mit der 6X6 Platte in 45 Grad ""Sprüngen"") möglich sein. Bei größeren Platten und gleichbleibender Auflösung des ""Bodens"" auch sehr feine Bewegungen. 
+
+Ich finde es nach wie vor ein Hammer Teil =D
+
+PS: Glückwunsch zum Hack A Day feature. Die Klicks werden sich bald in die Höhe schießen.",-0.9655,150
+"Hab ein kurzes Video über zellulare Batterie Systeme, die ich mal gemacht habe auf YouTube hochgeladen:
+
+
+cellular battery system:  https://youtu.be/teogkWUJz2w",-0.5994,23
+Herzlichen Glückwunsch zur Erfindung  der Magnetschwebebahn.,0.0,7
+"Hi scott. Yes my page is down. I do not run any homepage anymore. I would have to close for financial reasons.
+I can only offer you the information on YouTube or on HackADay.io.",0.4019,39
+Hi. In one of my smaller tests i reached <3500 flip-transitions.,0.1027,14
+I didn't knew Gordon Ramsey was now into electronics! :0,0.0,12
+"I published more information on this
+
+
+https://hackaday.io/project/29190-area-stepper-motor-with-wireless-energy-supply",0.0,7
+"I tried to visit your website: sustainable-inventions.com and it is down.
+Do you have an alternative we can view?",0.0,22
+"Ich denke eher das eine Halle ausgestattet mit so einem Boden, die Fertigungsstraßen selbstständig neu organisieren kann. Manufacturing 3.0 ist besonders in Deutschland ein riesen Thema. Stell dir eine Fabrik vor die quasi alles produzieren kann. Rüstzeiten von der Waschmaschinenproduktion zum Elektrofahrzeug?... Eine Nacht. Ein Träumchen!",-0.8631,54
+"Noch ein Stück weit zu gehen.  Ich bin aber gerade dabei, diese Idee der Straße in allen Ebenen wie einen LEGO Baukasten in 2D Flächen aufzubauen. Ist aber ein ziemlicher Aufwand , da ich zum obigen Projekt nicht nur 1 Prozessor kontrollieren, und in Echtzeit synchronisieren muss, sondern n Prozessoren. Das Teil ist aus einzelnen Kacheln aufgebaut, die man nach Bedarf zusammenstecken kann, und die dann drahtlos mit den Bewegungsdaten von einem Master laufend versorgt werden.
+Die Hardware Kacheln habe ich schon. Die Software ist aber eine ganz schön harte Nuss, und da muss ich mir noch einiges einfallen lassen, damit das so funktioniert. - Aber hast recht. Am Ende könnte man damit eine komplett per Software flexibel steuerbare Produktionsstraße aufbauen und justieren lassen.
+
+
+Und was natürlich für die Fahrzeug-Industrie ein Thema sein könnte: ""Strom in Form von an der Tankstelle automatisch tauschbaren Batterie-Einzelzellen"" (Also nicht so wie jetzt Strom-LADEN und warten, und warten, und warten ... sondern Wie bei heutigen Autos den im Fahrzeug verbauten Batteriepack in viele Einzelelemente automatisiert aus dem Fahrzeug austauschen. 
+Leere Batterie-Elemente heraus, die dann in der Tankstelle in Ruhe schonend geladen und vor jedem neuen Einsatz in einem Fahrzeug auf volle Kapazität überprüft werden. Das würde die E-Autos viel billiger machen, weil man nur noch die Batterie-Ladung als Autofahrer bezahlt, und für die Umwelt wäre es obendrein viel effizienter und günstiger, da die Batterie-Elemente sich durch die Nutzung viel öfter drehen, als fix in einem Fahrzeug verbaut.
+Abgesehen davon könnte man dann eine Einheits-Batterie Zelle bauen, die man dann sowohl im Haushalt zu verschieden starken Leistungseinheiten automatisch zusammenfährt, oder einen LKW und am besten direkt von der hauseigenen Solaranlage. (Autarke Mobilität, Haus, Konsum-Elektrik mit nur einerm Typus von automatisiert verschaltbaren Batterie-Element.
+
+
+Ich habe sogar schon mit dem obigen Prototypen ein Video ""zum Spaß"" gemacht. Kann ich ja mal auf den Kanal raufstellen.",-0.9939,348
+This is fascinating. Thank you for sharing your work. Do you have more information available on how you accomplished this?,0.8934,23
+as short test on how a cellular battery system for E-Cars could work:  https://youtu.be/teogkWUJz2w,0.0,15
+"ja. Drehungen habe ich auch schon Versuche gemacht. Da ich das ganze bisher alleine stemme dauert halt alles seine Zeit.     
+
+Ich habe gerade einen meiner Tests zu zellulären Batterie-Systemen hier hochgeladen. Als Beispiel wie man Strom in E-Fahrzeugen tanken könnte, statt sie aufwendig zu lagen.
+
+Siehe:
+as short test on how a cellular battery system for E-Cars could work:  https://youtu.be/teogkWUJz2w",0.0,68
+"just a joke .. it is very much, i know. And it is my first Show Case Video. Thx for your Feedback.",0.5719,26

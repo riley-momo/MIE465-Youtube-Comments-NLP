@@ -1,0 +1,119 @@
+,sentiment,wordCount
+"..всё нам в учение,испытание и назидание,для Бога нет смерти,все умершие(телесно)идут к Богу и им даётся оценка жизни на Земле!утешение только у Бога!без Бога жизнь пуста и безвидна,суета беспросветная!слава Богу за всё!",0.0,51
+"A good job and kind of fun.  :-)
+
+But as a professional CG EFX artist and software engineer I'm calling ""bullsh*t"" on the same old grounds I always do, ie: there is no real-time modeling of occluding geometry.  The wall in the first corridor is clearly NOT being used by the system to produce an occlusion mask against which the renderer maps the girl.  The biggest giveaway showing that the wall (and other geometry) is not being recognized (ie: not there) is that her shadow does not go up the wall or trash-can correctly -- the shadow, like the girl, is simply being superimposed in front of the live video image (ie: like old ""front-screen projection"" as used in the ancient King Kong movie).  The only thing the AR is really doing is tracking the camera's position/orientation from a pre-registered origin point (probably using an IMU and/or optical flow analysis).  It might also be finding the average ground-plane but I doubt even that {see below).  At first I thought that MAYBE the system was also at least finding the square shape of the video monitor sitting suspiciously in the middle of the large empty room, but upon closer examination one can see what are very likely registration marks on the ground (white rectangles) showing exactly where to put the tv cabinet.  (And what is that big box behind the flat screen?).  Finally, between time 0:49 and 0:53 the newly encountered corridor wall is (finally) being used to occlude/crop the girl as she comes in to view; not doing this would show her behind the wall after the user had turned the corner, ie: like x-ray vision, totally ruining the effect. Admirably her shadow is also being mapped against the new wall (unlike the earlier corridor wall) -- unfortunately the registration of the wall is very poor and the shadow ""bends"" at the wrong place where the wall meets the floor.
+
+MY professional assessment:  The entire scenario relies upon substantial preparation, very simple 3D modeling of a few selected walls/props, and  pre-registration of everything.  My professional eye says they pre-modeled the monitor and at least the second corridor wall (and even that wall/plane was not placed or registered well).  I see no evidence that any other physical geometry in the room other than these 2 planar objects was pre-modeled, and certainly no evidence that ANY of the physical world was being detected or modeled in real-time;  rather the abundant evidence cries the contrary.
+
+Bottom line:  This is another dishonest depiction of AR, relying on a lot of preliminary work and the judicious use of ""smoke'n'mirrors"" in the placement of props, registration of simple pre-modeled 3D objects, and careful user-navigation of the AR goggles so as not to reveal the trickery.  Sadly, there is nothing new here.  Just the same dishonesty we've been shown before.  PLEASE CORRECT ME IF I'M WRONG -- I'd love for it to be true.",-0.9182,570
+AR was a mistake,-0.34,4
+Aaaaaaaaaaaa😖😥😱,0.0,4
+"Abhishek Singh made it, and get killed by it.",-0.6705,11
+"Andrew Clark, via app on your screen. It's AR, not VR.",0.0,15
+"At first I was smiling on how shitty she looked, but the first jumpscare actually got me",-0.0772,18
+Atlet125region Made With VivaVideo,0.0,5
+Awesome! Put it on Daydream and Gear VR to make it more immersive. It will scare the people.,0.2942,21
+Baskoro Hadi simply not render her if the device detects an obstacle.,-0.3612,13
+Cindy! The TV's leaking!,0.0,6
+Completely DISAPPOINTING.,-0.64,3
+"Cool, super!",0.7574,4
+Create a VR app for Samsung pls,0.34,7
+Do you have to wear goggles for this? How does it work?,0.0,14
+"Effing brilliant, even though I'm now sitting in my own wee, thanks.",0.7902,15
+Fake 🤔🤔🤔,-0.4767,4
+Fantastic!!!!!,0.0,4
+Govno,0.0,1
+"Hello Abhishek,
+
+I'm working for Gamology (4.6 million fans on Facebook). I found your video and I really like it!
+
+I'd like to post it on our pages. But first, I need your approval. I'll also credit your original video in the comments.
+
+Have a nice day!
+_________
+Our pages:
+Gamology US - FR - ES - Asia - TBOGM - GCN - Amazing Gaming - Crazy Gaming - Pixel Heroes - Gaming Facts",0.9669,85
+"Hey, 
+
+We own VT (https://www.facebook.com/junglevt) with over 22 million viewers and we’d love to feature your video on the most suitable Channels that Jungle Creations own (www.junglecreations.com/#ourchannels). We'd link all the credit back to you.
+
+Let us know if this is OK and feel free to email us at permissions@junglecreations.com 
+
+Thanks!",0.9573,61
+"Hey, Sophie here from UNILAD. If you could email me regarding this video that would be great! sophie.phillips@unilad.co.uk",0.6588,21
+"Hi there,
+
+My name is Arvian Ordonez and I’m a researcher for Discovery Channel Canada. We’d love to feature this video for one of our shows. Please e-mail me at arvian.ordonez@bellmedia.ca for more info.",0.7579,42
+"Ho give us a break, It's More B.S.",0.0,12
+How can it hide behind the wall in ar?,-0.1779,10
+"I assume he modeled a few primitives to match the tv and the walls, placed a few trackers next to the TV and the rest is typical AR stuff with some basic animations here and there.",0.0,38
+"I don’t even care if the graphics are bad, this is terrifying and amazing😳",-0.6124,18
+I fucking love this,0.6697,4
+I like how he went to the back of the tv to make sure we see no one there,0.3818,19
+I love it!  That is awesome!  I want that AR horror flicks in my lone home!  That will make my life more adventurous!  Let the zombie eat me alive!  Muhahahaha!,0.8823,36
+"I love this, and hate it at the same time lol",0.5106,12
+I might be freaked out if it didn't look like so much ass.,-0.7957,14
+I want it,0.0772,3
+I'm just waiting for Outlast developers to do this. You will literally run and hide on your closet. :D,0.516,21
+I'm not really sure what I just saw.,-0.2912,9
+Imagine taking it off and she still there 💀,0.0,9
+It was amazing how it followed the path behind you.I wonder how that was done.,0.5859,18
+It was good until the playstation  graphics,0.4404,7
+It's following the person on the path.,0.0,8
+It's really scary. And scariest thing is that graphics.,-0.5413,11
+It’s so easy to criticize. We should be applauding how well he did for free,0.8329,18
+Lame!,-0.4753,2
+NICE !!!,0.6607,4
+NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE NOPE,0.0,34
+Need that Nvidia Titan...,0.0,5
+Nice one.,0.4215,3
+No thanks 😂,0.1779,3
+"Not cool homie, NOT COOL!!....lol",0.4374,10
+Now do Knuckles.,0.0,4
+Oh my God in every flipping horror movie the person turns around to see if the Killer is still there what good will come from that,-0.6478,26
+Quem veio pelo Assombrado.com.br?,0.0,5
+Sophie Parker Phillips and now it’s on Snapchat !,0.0,11
+THAT'S FAKE YOU DUMB SHI,-0.7506,5
+The future for horror movies!,-0.6114,6
+The graphics are so bad and because of that it's not scary.,-0.4335,13
+The only thing scary is the 2005 Xbox 360 graphics.,-0.4939,11
+This has serious potential,-0.0772,4
+This is horrible and I love it.,0.1779,8
+This is probably SADAKO(貞子) from Ring.,0.0,10
+This is the future of P0rN,0.0,6
+This is too freaking awesome. I need this. Will you be releasing an app of some sort?,0.3182,20
+Tobias thatd fucking awesome,0.659,4
+Vay babanı sikim😱😱,0.0,5
+Very cool,0.3804,2
+Would be great if she was made of glitched/VHS textures like in the movie rather than bland 3D textures. And also left dark foot-step. But that's a great idea.,0.8934,34
+Would've been tough to actually hold the camera still and not look like I was watching Cloverfield...,-0.3839,18
+"Wow! You should release it as an app, it's gonna be amazing VR experience for horror-philes",0.8356,18
+Wow. I love the tracking from the AR. Looks promising,0.8934,12
+You mean it's saving the 3D info of the person's path? Isn't that too much data?,0.0,18
+bad graphics,-0.5423,2
+cool!,0.3802,2
+excellent job !! How about showing how it's done?,0.6467,11
+i'd be scared as shit no lie lmao.. looking at my phone.. than in real life.. like hollow man,-0.7351,22
+looked good till this Nintendo 64 looking ass bitch poped out the TV.,-0.6597,14
+nasraidub lol i think he wanted to show his AR box/setup,0.4215,13
+nice !!,0.5242,3
+oh my god just imagine the horror games you can do with this,-0.3818,13
+shit,-0.5574,1
+"the sneaker squeak at the end was absolutely perfect, haha",0.8059,11
+"wtf, is that graphic from 90's?",-0.5859,10
+you chased by PS2 graphic or what ?,0.0,8
+Đồ bá đạo,0.0,3
+"Всратая моделька пугает количеством полигонов, вернее их отсутствием.",0.0,10
+Заебись.,0.0,2
+"Иисус Христос наш Спаситель,Господин,Учитель,Наставник и сама наша жизнь,если кто знает об Иисусе и не принимает Его,тот жив только в теле и мёртв в Духе,нет мудрости и разума у такового!Это ходячий мертвец,хоть сам и не подозревает об этом!Слава Богу за всё!..",0.0,60
+Ну так себе,0.0,3
+"О, Русский",0.0,3
+"О, русский",0.0,3
+Особо эффектно это будет выглядеть в гуглглас.,0.0,8
+Чушь петровна. Устрашающий реализм,0.0,5
+компютерный гений))и эту новость еще и  на майл.ру выставили ? да на фотошопе любой более-менее продвинутый сделает,0.0,22
+"オーーーマイ、ガァーーーーー！！！
+(๑°ㅁ°๑)",0.0,13
+你不想把她的头发掀开看看她长什么样吗？,0.0,2
+凄い面白そう！,0.0,2

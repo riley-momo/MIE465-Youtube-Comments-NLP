@@ -1,0 +1,145 @@
+,sentiment,wordCount
+*It is a joy to watch your videos!*,0.6239,11
++_+ Thanks man,0.4404,5
+1/4 wavelength wave is best.  Load with an inductor (coil) in series for a shorter physical antenna.,0.6369,21
+"A monopole should be 1/4th the wavelength (longer is never better; shorter is acceptable but worse) - but this assumes you have a large ground plane. If you don't have a large ground, then a dipole (i.e. a double monopole, L/4 to one side and L/4 to the other, so L/2 total wire-length) would be best, shorter is okay, but longer is never better. 
+Think of it as if you have a sinusoidally varying electric field. You want to sample the highest and the lowest point (with say a superfast multimeter). Where would you put the leads of the multimeter? The red wire at the peak and the black wire at the valley - this is essentially the dipole --> L/2 distance between the peak and valley. If you go shorter with your leads (dipole antenna) you'll get a smaller measured voltage (signal strength). Having longer wires will never be better, as then you  would go ""downhill"" again.",-0.0183,197
+"AM sucks balls, but that was cool.",0.296,9
+"Aditya Mehendale sorry I couldn't get to reply earlier. In theory, multiples of 1/4 wavelength is better in some aspects, including better gain and directivity, in practice not, specially frequencies less than 1 Ghz which tend to have quite long wavelengths. Earth or soil, can be used as a ground plane but be sure to isolate the feedline center/positive/antenna from the soil/ground.",0.6908,76
+Ah und grüß Eunice von mir :),0.4588,7
+"Ah, you are driving an (silver) Ford Focus from around 2002?
+Is there a way of doing that with a Arduino M0 and stream the music live over the USB port to it from the computer?",0.0,41
+Amazing trick and nice video editing. Your videos spark my interests.,0.8519,13
+Amazing work.Congratulations,0.5859,4
+Awesome job! It reminds me of the numbers station project for the pi,0.6588,14
+Awesome work - thank you!,0.784,6
+Awesome! Any luck with FM transmissions?,0.8122,8
+Awesome! Thanks... this should be helpful!,0.8168,9
+Awsome!,0.0,2
+"By definition, it would become a coil-loaded ""whip"" antenna.  Inductive loads may be used for other antenna designs (dipoles and more exotic designs), but the simplest version is for a single wire, which most often is vertically oriented -- horizontal, long-wire,  (etc.) antennas often have tunable inductive elements that are used to match the physical portion to the frequency even more precisely than fixed coils.",0.0,80
+Can the frequency be changed? This is cool as heck but I don't understand the math behind it :/,-0.3506,20
+Congrats making it onto Hackaday !!,0.6103,7
+Congratulations for the video! Your videos teach and make me laugh a lot too!,0.8436,16
+"Could you make a audiostrobe mindmachine decoder? You know, the funny flashing goggles. 1) Filter out the music below 18Khz 2) AM-decode the audiostrobe signal at 19.2Khz 3) output the signal to leds. That would be awesome!",0.807,46
+"DAC won't be really interesting, if possible :-D",0.3732,9
+Damn I have a lot to learn on this but videos like this are quite an inspiration.,0.8135,18
+"Did you see SpriteTM's video BTW, where he uses the internal clock-calibration-register of an 8-pin AVR to make FM?",0.0,22
+Do u have an electronic engineering degree?,0.0,8
+Fantastic yet again.,0.5574,4
+"Funfact.. the video was scripted just before Hawaii happened. I almost removed that gag since I was kind of tasteless. But since the release was postponed by a week I kept it :-D
+The text is influenced by the ridiculous propaganda videos from the cold war in USA ""duck and cover"" where children were conveyed they could hide under the table from a nuclear impact ( https://www.youtube.com/watch?v=IKqXu-5jw60 ). The text is spoken by my girlfriend. We also were trying to use a similar inflection like flight attendants are using as if this was something trivial",-0.6812,102
+"Good job!!!
+Thanks for sharing, Bruno!",0.8679,11
+Good luck getting anything close to a quarter wave on the AM BC bands,0.7096,14
+"Great project, I love the Hawaiian touch at the end.",0.8519,12
+Great work!,0.6588,3
+Haha your humour is fantastic :D Also very nice use of the 8bit DUCK,0.9503,14
+Half of the length for lambda by 2 and very small for fractal antenna,0.0,14
+"Hey mein bester, hammer videos und ein mega geiler Kanal!!!! Bin ein riesen Fan!!!!! Mach bitte immer weiter so. Viele Grüße Michi",0.0,30
+Hi deine Videos sind echt toll aber wieso machst du keine Deutschen Videos,0.0,13
+"Hopefully you already got rid of all the leaky capacitors inside this nice old radio, otherwise....",0.714,18
+"How do you create the file ? what happens to the audio when you convert 
+it",0.2732,16
+"I am in awe.  The level of technology here is amazing, you explained some things about AM transmissions is such an easy way to understand.  The vintage radio looks like a Grundig?  On top of all this, you are a musician. I bet you know how to cook too. ;-)  I think all you need now is a 1kw linear amplifier and you can become Radio Bitluni.  Keep broadcasting!!",0.9115,79
+I don't understand how the carrier wave works. It's running at a given frequency but we modify it somehow?,0.0,21
+"I just tried this and it works great.  It's brilliant in it's simple implementation.  Congratulations.  The only issue I had was the I2S_NUM_0 is the DAC1 pin not GPIO_0, missed that point in the video.  Once that was figured out, I received my wav file on 835Khz.",0.9285,56
+I remember AM transistor radio kits i use to play with in the late 90s..It took me 100 times  the effort to build one...Thanks for the video,0.34,31
+I should've seen that coming,0.0,5
+"I take it you personally are not one of said people to pass the test to opperate a ham radio. It's probably good practice to actually know  the laws prior to falsley accusing someone of breaking them.
+What you are saying is akin to ""well my golly, you have a 3.5mm to AM transmitter in your car, well you better have an amateur radio license to be broadcasting garbage from your phone all over random frequencies that no one outside of your car can pickup!"" That makes no sense right? Nor does you bitching about him creating a radio broadcast that can only be received within the confines of his own home. Which, by the way, is perfectly legal under part 15 of the FCC's rules regarding low power AM and FM transmissions, which states that unlicensed transmissions, both AM and FM are permitted with an effective service range of no more than 200 feet so long as they accept interference from any other devices. So, are you going to try and report someone for breaking laws that only exist in your head or what?",0.9145,202
+"I trust you have a broadcast license.
+What makes people think building a transmitter and blasting on a random frequency is legal?
+
+amateur radio operators have to pass a license exam, and are still not allowed to send any random garbage on broadcast bands.....",0.5859,48
+"I will try to build a basic audio filter in future, so we can try that then",0.0,18
+"IIRC the theory... you always want the best aerial on the transmitter and then it matters less what aerial you have on the receiver. This is to do with getting your desired signal further above the 'noise floor'.
+So maybe borrow the AM loop seen at 2.53 for the TX and use the wire (or a ferrite out of a junk AM boombox) for the receiver.
+Might also be possible to tune the loop (which is inductive ofc) using a variable cap across the twisted pair feeder.",0.873,98
+Im your fan!!!!,0.0,6
+Ingenious,0.0,1
+Is it possible to make FM radio Receiver using esp32,0.0,11
+"Is it possible to use an Analog input pin for audio in? I'm not confirm to audio signals on an 3,5 mm jack but may the voltage drop on a resistor could be used as input signal",-0.3919,38
+Is that the recording in the end an ascription to the Hawaii wrong nuclear alarm,-0.6705,15
+"Isak Thjellesen am I misinterpreting this, or are you saying digital to analog conversion wouldn't be interesting if it were even possible? Or does DAC stand for something else in this case?",-0.3855,35
+Isnt it a perfect time to make a radio wave amplifier???,0.6416,14
+It also depends on the shape of the antenna that you are trying to send the signal to.,0.0,19
+Just had to check what that is... interesting... I'll put it on my list :-D,0.6166,17
+Love the quick jokes!,0.7574,5
+Masterpiece (y),0.6249,4
+Maybe a 1/4 wavelength with a dipole?,0.0,8
+My one seems to be too old. Don't have an ethernet port,0.0,13
+Nice!,0.4753,2
+Now show how to make an amp to make it useful.,0.4404,12
+ROFL enrick!!!! that got me on the floor. Usually antennas are 1/4 wave length. been 30 years since I had worked on it at a technical college.,0.765,33
+"Really enjoyed the video, awesomely simple solution.
+
+I like sharing the following because I found it interesting when I discovered it:
+Having done some research for a paper I wrote, hiding under a desk from an atomic bomb is not as ridiculous as it sounds. Just like regular bombs the damage is worst at the center and gets weaker as you get away from the center.  Essentially if you're at a distance from the detonation that you could see a flash and react to it (""duck and cover""), you're at a distance where the initial blast/heat isn't going to kill you, but the heat flash could still burn you and the flying debris from the incoming pressure wave could hurt you, so putting something between you and that debris/heat can actually prevent a lot of injuries.  
+
+Also, while you would receive some dose of radiation, if you're at a distance from the epicenter where ""duck and cover"" would make a difference, it would not be a life threatening amount of radiation.  With the nuclear weapons currently in service around the world, if you're close enough to receive lethal radiation, you'll be killed in the initial blast anyway.  Interestingly, at these ""duck and cover"" distances the heat wave can still be strong enough to cause 2nd and even 3rd degree burns, but it's so brief that clothing and even something as thin as a sheet, tablecloth, or even newspaper can stop it from hurting you.  
+
+So no, if you're near the center of the detonation it won't do you any good, that much is obvious.  But we're talking about a bomb that can have an effect on many square kilometers of area, and there is a significant portion of that area where ""duck and cover"" could quite possibly save your life and/or prevent injury.",-0.8895,346
+"Richard Grier yeah, fair enough. The inductive ballast will help. It's just a long way from a quarter wave. May as well call it a whip antenna",0.8074,31
+Samy Kamkar bro where have you been no new videos?,-0.296,11
+Sopan Kotbagi  May be because it isnt using pwm,0.0,9
+Sorcery I tell you.,0.0,5
+"Tetris is my ringtone, i thought my phone was ringing",0.0,11
+That indeed is quite interesting. What kind of radiation is involved? I guess alpha and beta are probably blocked by the air at the distance you survive the blast....,0.2247,32
+"That's pretty awesome, you should buy a cheap wideband RF amplifier (you can get miniaturised ones from eBay and such, also they run on 5V), then link it up and see what the range is like afterwards.",0.8689,43
+That's why a loading coil is used.  It matches (as closely as is practical) the impedance that the transmitter sees to that of a 1/4 wavelength antenna -- allowing a much shorter physical antenna to be used.,0.0,42
+The AM transmitter made using an Arduino UNO is very electrically noisy. It broadcasts on a very wide range of frequencies without passive band-pass filters. How come this one isn't as noisy as the UNO?,-0.5497,38
+The a tank filter centred at the Fc would work. But you could also use a switched capacitor filter and drive the clock with an output of the computer clock.,0.0,32
+"The antenna length for a radio transmitter is generally some multiple of 1/4 wave length.  But that's only part of the story, the transmitter's output impedance should match the load impedance of the antenna.  This load impedance differs depending on the type of antenna you use.  I suspect that if you were to cut a wire the same length as the antenna and attach it to ground, you may get better range.  This wire is called a counterpoise and gives the antenna a ""ground plane"" to radiate from.  Or if held inline with the antenna wire, you'd have a dipole, though for a much higher frequency than intended. Also you could add a coil to the bottom of the antenna to add some inductance to it, which makes the antenna appear electrically longer to the transmitter. Good Luck!",0.6996,153
+The point is to show what's possible with no components at all.. but how would the filter look like?,0.3919,21
+"The warning should always suggest laying down with a paper bag over your head. 
+That's my only complaint. Keep the videos coming please 😊",-0.3182,26
+"This antenna is known as a monopole antenna, it's linearly polarized, so it must be aligned to be parallel  with the receiver antenna as much as possible specially with such low transmission power. It should also have a ground plane connected to the ESP32 ground and the antenna should be normal to it. Ground plane dimensions are not very critical, at least not for this, it's best if it's circular though. The antenna length commonly used is 1/4 of the wavelength or a multiple or fraction of that. The feed line, the yellow in this case, is best if it's shielded and the shield connected to the ESP32 ground as well as the ground plane.",0.8905,128
+"This is a really cool weekend project, man! Keep it up",0.4376,13
+This is sooo funny and impressive. :),0.8481,8
+This one was really awesome!!! I really like your style and sense of humor!,0.8938,18
+Try a ferrite antena or loop antenna.,0.0,8
+"Well done! I think you can get better transmission adding a unity gain op amp, since the DAC is really low power",0.743,24
+What do you think shouldnt it be possible to emulate a bluetooth audio device with the esp32 and transmit the music in realtime?,0.0,25
+Whats the use of esp 32?,0.0,7
+"Yes I'm driving that one.. did you see me? :-D
+What is the M0.. didn't try that. Could work. I'd rather use Bluetooth instead",0.7739,29
+"Yes, it is running at known frequency, then with AM the amplitude the ""size"" of the wave is modified with the recorded sound. The carrier wave follows the ""size"" of the sound waves basically.",0.4019,42
+"You Rickrolled us! :')
+I am so glad you made this awesome video!
+Thanks.",0.9428,17
+You videos are great...,0.0,5
+YouTube recommended this video ... About time it found me something good to watch! Great video!,0.855,18
+You’re quite an amazing genius. No one else covering audio like this. Original content...because genius :),0.8751,22
+"bitluni's lab , Yes the cold war era was something interesting and It's so cool that how humourous this video is about that. Also I really appreciate your projects and experiments.",0.8585,33
+"bitluni's lab also try to amplify that signal with an opamp or even a 2N3904 amplifier and tell me how much range you can get out of that, would be awesome if you can get 5 meters or more!",0.6588,41
+can we send voice command using this procedure!????,0.0,12
+check this out: https://www.youtube.com/watch?v=_4-Sx-T6VBc,0.0,5
+great project. i will be doing this today,0.6249,9
+hahahah that little joke xDDD,0.228,5
+how to make a 20hz / 20khz audio transmitter and receiver to use as a wireless ear and also a guitar transmitter?,0.0,23
+i just found yur channel.yur awesome..is it also possible to build an FM transmitter with esp32? can we boost the signal strength with an opamp? does the the esp12e have any DACs?,0.7536,39
+"i see you use a Denon AVR. You might not know this, but these are actually great for controlling via an ESP. Denon provides a Table of instructions for controlling it over the ethernet port on their website",0.7684,41
+"if you pause it, there also is the formula. the frame is also on the project page. it's just a multiplication of the two signal samples but the audio signal is shifted to be above zero.",0.0,40
+it works in the esp8266,0.0,6
+it's most probably much higher... I was just curious what we can do with no components :-),0.34,18
+make the antenna a 1/4 wavelength of the carrier frequency,0.0,10
+mfw living in a country where this would bring you into jail,0.0,12
+no noooo!!! i need to listen to that music !!. it's soo cool,0.3111,18
+"somebody know a simple shematic for an AM transmitter out of discreet parts? 
+(diode, transistors...)",0.0,20
+thank you very much.,0.3612,5
+thanks,0.4404,1
+"that's correct. The Arduino UNO does not have a Digital to Analog Converter. The i2s frequency is also stable. each sample gets the same clock cycles. changing the frequency factors would mess it up too. the ""sine"" used here also creates a smoother signal",0.2023,51
+that's true.. it's just few components more,0.0,8
+"the antenna type that you want is a monopole antena, that type require a length of 1\4 wavelength, but that requires a counterpoise to work properly. also an antenna do not works just by length, tha shape and position takes a good part of the data to characterize an antenna, also your transmitter do not have a constant output impedance so a precisely shaped antenna will be worthless. in this case coil up as much wire as you can and you will be fine :)
+manuel, 18 years old ham radio operator from italy",0.7469,103
+very nice :),0.7485,3
+why no filtering?! it's gonna splatter all over the band like crazy!!!!,0.3544,17
+why not bluetooth?,0.0,4
+"you mean mine? it's really experimental you can find it on https://soundcloud.com/bitluni-996246912 ... 
+I also do some music with friends on
+https://darmstadtvibes.bandcamp.com/
+and
+https://www.youtube.com/channel/UCkNjtGFzvz1CXKhAp1eqzAQ",0.4767,25
+"zoolkhan so what, it's not like a quarter of a watt will be reaching anywhere out of the very room he's standing in. 
+I've experimented with AM and FM for the longest part of my life now and nobody cared at all. They were also just low power applications.",0.1002,53

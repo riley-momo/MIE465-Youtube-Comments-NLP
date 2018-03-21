@@ -1,0 +1,31 @@
+,sentiment,wordCount
+"+svenpetersen1965 I got it from master of clouds... 26 gauge nichrome 80. 
+- Alloy: Nichrome 80
+- Length: 100 ft.
+- Heat Treatment: Annealed (soft)
+- Melting Temperature: 1400°C / 2552°F
+- Resistance: 2.5711 Ohms/ft at room temperature",0.0,56
+"AWSOME VIDEO... good work.. i started to make coding/programming tutorials, if you're interessted in seeing them, then come check them out and tell me what you think ... thank you",0.6597,36
+"Awesome idea, I'll definitely be building something similar to this for myself, it'll be extremely useful around the shop.",0.8748,22
+Charudatt Uplap I wish I could afford a laser cutter. That would be awesome in combo with this!,0.7959,20
+Cool! Though I would probably recommend using a toggle switch. This was way overkill. I have to confess that I planned to use the 5min timer thing for other projects after this one.,0.6239,37
+Could you measure input voltage (perhaps through a divider if it exceeds the Arduino's capacity) and the voltage drop in the wire in order to create a power meter for the heater wire?,0.0,36
+For the lazy person...do you have a schematic and code for your little controller?,-0.3612,17
+Great idea and implementation. You always impress me with your videos!,0.807,13
+"Hi Dave. I just uploaded it to github https://github.com/thecurrentsource. At the top of main.c you can find the pinout. The code is garbage as far as accurate timing goes, but it works. BTW, in the end a toggle switch is a much simpler solution.",0.5187,53
+"Hi Derek, you could send your next video to Dave https://www.youtube.com/watch?v=EOCj0ZtFmMg",0.0,12
+"I like the idea, but if I were to make one, I'd use a footswitch to turn the heating element on and off. I prefer hardware solutions rather than software ones, as it's easier and quicker to spot and fix issues for me.",0.7579,48
+"I would, but I have to travel overseas yet again. No videos for a bit. If he wanted to just share a link to an existing one, I'd be cool with that!",0.501,37
+Not a bad little jig there. Might build one of those for the shop one of these first days!,-0.5848,21
+Thanks! I'll definitely check it out. I've been thinking about writing a breakout game recently (in C though)...,0.7088,23
+Thanks! I've downloaded it and I'll take a look!,0.5399,11
+"Thanks, good to know that the content as well as the sound track is appreciated!",0.8883,17
+Thanks. Much appreciated!!!,0.795,7
+The Current Source Thanks.,0.4404,5
+This is definitley the electronic channel with the best soundtrack. Nice project,0.7906,13
+"You said, you were running 3.5 to 4A through the wire. What is the resistance per length of that wire or what is the diameter? I‘d like to figure out, which wattage would be good, if I build a bending machine.",0.6597,49
+"a very useful tip. Only if you could have a laser cut acrylic case , which could be scaled according to your project would be great. TU for sharing it with us",0.8399,34
+"lovely video, Can you tell us what the music was?",0.5859,12
+"magnets99 I put all the little jingles I write for the videos here: https://www.thecurrentsource.com/music/
+Though I haven't named or uploaded this one yet.",0.0,26
+thanks!,0.4926,2

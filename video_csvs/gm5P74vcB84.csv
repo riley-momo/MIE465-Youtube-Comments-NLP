@@ -1,0 +1,234 @@
+,sentiment,wordCount
+"""pre-sensitized PCB"" heisst das das die Photopositiv platinen von Bungard sind? Oder Ist das was anderes?
+Musstest du irgendwelche vorkehrungen treffen damit das umgebungslicht nicht stört? 
+Oder war das kein probelm?",-0.8677,37
+"""warning labels are indicators of good tools"" 
+I love this guy",0.6908,13
+1:20 what an awfully manual screwdriver.,0.1477,7
+3:15 can't OctoPrint already do this by syncing the time lapse photo capture with changes in Z-height?,0.0,18
+3:25 very nice Raft as well :),0.8016,7
+"4:48 Easy fix https://goo.gl/Bp9Ajb
+So you are getting the circuit by burning away the copper you dont need 
+https://www.youtube.com/watch?v=sNh0ubRcTYU
+This is also interesting
+https://goo.gl/7az4NF",0.6808,24
+"7:04  -- ""It probably just uses the Google Translate feature.""  LOL!  Looks like a great project.  Thanks for the laugh!",0.9532,27
+@vibrations: You shoud think about jerk limitation for improvment.,-0.5574,11
+A 300mW laser does NOT dissipate 300mw of heat. More like 1-1.5W of heat. Looks like the heat sink is beefy enough regardless.,0.6794,28
+"Also mal ehrlich, GreatScott hat wirklich ne komische Aussprache und macht manchmal komische Grammatikfehler, aber deine Videos kann man wirklich gut schauen... Da ist doch nichts dran auszusetzen....",0.0,32
+"Also maybe look into cheap LCD based SLA printer, the resolution is super high for something like this.",0.7506,20
+"Also, check the linear rails for adjustment, might need tweaking a bit tighter to minimise the rattle wobble effect from the balls rolling around. Looks great though!",0.6588,31
+Always a good watch! Thanks for uploading,0.7263,8
+Amazing. Great video.,0.836,5
+"An x & y motion could possibly be more accurate with leads that small.  Who knows what the motion control is doing, following contours and the path.  If you see in the video, there is some variance when he does a close -up.
+
+Burning it just like a laser printer would print, going with the axis in the motions would save the headache of figuring out any bounce vibrations, abrupt turns, and/or backlash.  It's a laser-fine beam, not easy to calibrate the mechanics down to that precision.",0.5096,101
+"And after a week and 5 minutes of testing you realise that you now own a stack of ten useless PCBs. 
+Nah, for developing that isn't all that useful in the early design stage.",-0.6814,37
+And that is much better than being GreatScott! :),0.7345,10
+"Another nice and interesting video, good work once again.",0.8126,11
+"Apropos Zeitraffer synchronisieren, schau dir das mal an
+https://www.instagram.com/p/BbDKkkbB3md/?taken-by=frank.howarth",0.0,10
+"Are there any cheap laser engravers under 100€ that accept g-code? I can only find machines from ""neje"" that only work with 512 x 512 bitmaps.",0.3818,31
+Arnold Schwarzenegger this guy is awesome,0.6249,6
+Awesome work again!,0.6588,4
+Awesome!,0.6588,2
+BERRY COOL,0.3182,2
+"BR H  There are use cases for quickly prototyping with actual boards where a breadboard isn't sufficient, such as doing high frequency RF designs.",0.0,26
+Beautiful! Especially the autofocus explaination,0.636,6
+Beautiful! Exactly what I had in mind.,0.636,9
+Bet the double sided tape woulda dampened it enough for nice straight lines 😃 love yer format awesome vid 👏,0.9186,20
+Brilliant,0.5859,1
+"Bungard boards are well known in Germany, but the very last result I've shown was on a no-brand cheapo (see those droplets of photosensitive coating?) and even that worked great. I'm sure every other presensitized product and also that blue etch resist film will work fine.",0.9072,52
+But in the end we are just speculating here - I would just give it a try and see if it makes a difference.,0.0,25
+"By motion control - I was talking about the the g-code interpreter and step driving hardware.  Backlash has nothing to do with the weight of a machine.  Take a look at 5:09 on the video, and study the etched board.  The pattern printed on the board, I am certain - does not match his layout.  I have to assume the g-code export handle's arc's, and if not by now - Mr. Sweedish Accent Guy certainly knows how to process out his own g-code by this time.
+
+At 7:55, the board shows a great improvement, but still with many blemishes.  There are actually crisp arc's and lines - and then some portions the pattern is distorted.",0.3071,128
+Can you post a link to the prepared boards you use?,0.2263,12
+Can't te laser be focused so you could place it closer to the board to reduce angular vibration?,0.3818,19
+"Couple of things to check. Looks like some of the wobbles come from change of direction, check the machines axis for backlash, huge huge quality killer is backlash.",0.2023,32
+Da wird ja einer ziemlich oft auf Hackaday gefeatured haha,0.4588,10
+"Danke für deinen Rat!
+Lodenstoffe sind Wollstoffe, meist schwere Stoffe, aus denen meist Wintermäntel gemacht werden.
+Jetzt muss ich mich nur noch trauen das Dingen aus China zu bestellen^^.
+
+Wenn ich die Maschine einrichte, werde ich dich sicher nochmal um Rat fragen ;D",-0.3937,51
+"Danke für die Antwort! Wie sieht es eigentlich mit der Legalität aus? Laserpointer dürfen ja nur bis 1mW eingeführt werden, sind die Gravierlaser davon ausgenommen oder ist es dem Zoll einfach egal?",-0.8574,36
+DarkIzo I mean for normal 3D printing,0.0,7
+"Den habe ich natürlich auch abonniert und ich wollte erst behaupten ""Eh dass der irgendetwas programmiert, drückt er bestimmt lieber manuell auf den Auslöser..."" Aber die Fernbedienung ist natürlich auch eine nette Idee :)",-0.2263,38
+"Die 445 nm sind meistens mehrere emitter in dem Laserdioden-Gehäuse, deshalb ist der ""Punkt"" dann eher ein Ei und er lässt sich auch nicht ohne Weiteres auf 0.1mm fokussieren. Ist trotzdem für vieles gut zu gebrauchen, s. mein EleksMaker Video.",-0.5994,48
+Do more with the Cetus 3d-Printer,0.0,8
+"Do you really need all that extra mass on the moving head?  Maybe the heat from the laser could be dissipated into the head itself.  A more extreme weight saving technique is to only move a mirror, while the laser doesn't move, at least in the X direction.  Laserprinters and professional PCB factories do it that way.",0.0,63
+Does that mean Harbor Freight tools are particularly good because they have so many pretty warnings on them and in their instruction manuals?,0.6379,24
+"Doesn't vinyl give off chlorine gas when burned?  Seems dumb not to buy a cheap vinyl cutting head instead, they cost 10$ off ebay.",-0.5859,28
+Don't use the laser to cut vinyl. It will emit a noxious gas that will leave pits in any metal nearby.  It is extremely corrosive.,-0.3182,28
+"Dont worry about that :) you make Real hi Quality & learning + entertain videos, that is the most important : )
+i get most hate from Dane(my ppl) and some German there believe i am German ;)
+but all other is ok/½ok whit my English/dialect and some Love my English/dialect,  Most like my videos and that is the most important",0.9236,72
+"Enough with the ass kissing, they both produce good content.",0.4767,12
+Excellent results. Perhaps bringing the laser diode closer to the bed would negate some of the wiggles. At least on the print head axis.,0.5719,27
+Excellent. I expect this can be done with other 3d printers. I have an anet a8 just in the mail. I hope its possible with it. Ill see once its assembled.,0.5859,36
+"Excuse my lack of German, but as a native English-speaking American, I hardly notice Marco's accent.",-0.128,19
+For a really good timelapse try attaching your camera to the build plate. I did it to my printer and you can see the part grow and it is really cool. I just attached some spare aluminum cut into a strip and screwed the aluminum to an unused hole using a nut and bolt. Make sure it is pretty stiff or you will get some wobble in the timelapse. Good luck!,0.9038,76
+"Funny at the beginning, but he's not GreatScott he's the unique Marco Reps 😎😉😀",0.2382,17
+Generally you need real PCBs fast. Ordering them is pointless.,0.0,12
+"Get yourself some JST XH connectors and a crimping tool then, if you plan on doing mod stuff for electric from China it worth the money :)",0.5994,28
+Getwrecked Google that's not how the cetus works ... Check Makers muse review if you want to learn more !,0.1511,20
+"Good morning Marco. Another great video, thank you sir. Quick question: On your bench, what is the device with the red, green, and yellow knobs?",0.8591,33
+Great Scott meets brainiac,0.6249,4
+Greetings from BlackSea! Good job!,0.7418,7
+"Haha, genau aus dem Grund hab ich GreatScott mal angemotzt in dem einzigen Video was ich von ihm geschaut habe - und nie wieder eins sehen wollen, war einfach zu grausam (oder auf Englisch ""cringy""), dem seine Aussprache. Aber diesen Kanal habe ich abonniert und schaue jedes Video, und selbst mit TPAI hab ich kein Problem. Wobei ich finde, dass dieser Kanal hier mindestens so viele Abonnenten wie TPAI verdient hätte, wenn häufiger so gute Videos kämen (bis jetzt sind sie selten und gut, häufiger und gut wäre natürlich besser ;))",-0.5574,106
+"Hallo Marco,
+ich wollte mir auch einen Lasergravierer zulegen. Einen mit 1 x 1 m Arbeitsfläche um Schnittmuster direkt im Stoff auszuschneiden. 15 W hat dieses Modell. Ich weiß nicht, ob das zum Schneiden von Lodenstoffen reicht. Kann ich den Stoff den gravieren? Welche Unterlage sollte ich den nehmen, wenn das mit dem Schneiden klappte?
+
+Vielen Dank!
+
+LG
+
+Valentin",0.0,69
+Have you seen those 25w fiber coupled laser modules on eBay?,0.0,12
+"Hey :) you can try whit a lower Acceleration, i believe it will fix the  wave /shaking/ vibration  problem
+you can also Test your 3D Printer vibration whit that laser, draw square in each corner, then you can see if it shake more in some of the corner ( no it was not mean as a shaking joke ;)
+""hmm??? what this tiny transistor for"" Haha! i love all your small lovely detail in your videos : ) thanks",0.9387,90
+"Hey Marco, check this project out! http://www.diyouware.com/DiyoPCB-MKI
+They use a blu-ray laser and a custom frame",0.0,18
+"Hi Marco, thank you so much for this brilliant video!
+
+Could you try using the laser to make a soldering stencil in this set up.
+
+Also, you mentioned improvements that you made, could you go into more detail about that?",0.8622,46
+"Hi! I really like your videos, could you add a background music?",0.474,15
+Hi.  Do you think only having 2 screws to fasten the surface of that whole module that carries the laser module is too weak?  I saw construction of the cetus 3d - and I was curious why that bracket was so small.,-0.3818,45
+How bright laser would exposing an uv pcb need? Could 15mW modded laser pointer do it? I have a small cnc machine that has a laser capabilities and am wondering if I could make better pcbs by swapping the engraver tool for laser,0.6199,45
+"How did you make the onscreen text, ""large"" follow your movements? Did you do it manually or did you use some clever software? And if you used some clever software, did you write it yourself?",0.7608,42
+"How noble, still making and etching your own pcb's. Nowadays you can get 10 double sided 10x10cm just for 10-15 bucks incl shipping.",0.4588,26
+"I believe it is hydrogen chloride, which forms hydrochloric acid when it combines with moisture in the air.",0.0,20
+I can’t wait to try this. How did you get the hot end bit to synchronise with the camera for the stop motion?,-0.296,27
+"I did layer synchronized image capture once. Introduced some oozing, and waiting for the camera to focus and capture every layer greatly increases print time. Looks cool though: https://youtu.be/gRRpptMHnqk",0.3182,33
+"I did something very similar with very good results. You can find a blog post about it here: http://www.makermusings.com/2015/09/01/making-time-lapse-video-of-3d-prints/ and a video here: https://www.youtube.com/watch?v=UdcP3cl9LmU .
+
+I don't think the z-axis step would work, at least not with my setup. The X/Y position is not consistent during the Z change, so you'd still see the print head jumping around and being distracting.",0.2484,70
+"I don't have any reliable data, but if it is a real UV 405 nm diode, you could just slow down until it exposes correctly. Put box on top of the machine, than it can basically take as long as it needs?",0.1154,47
+I had the same version from Eleks as yours only in the 2500mw version and I finally had enough as it just could not engrave all that well and I guess it was that electrolytic you showed is probably in it as well.  I would have needed some way to be able to toggle the laser on and off much faster though it wasn't very good at greyscale either.  I have an eBay Chinese laser 50w (really 40w) CO2 that will be here on Thursday thanks to that blue laser from Elek's being so crappy.,-0.2822,100
+I have done that synchronized time lapse with Goode triggering the camera: https://youtu.be/H_cS75ayg4s,0.0,14
+"I like great scott but thats not what this is about, Your english is fantastic you should be proud of yourself I tried to learn german but the sentence structure is so different it must be super difficult to go from german to english or english to german but i can understand you perfectly, not only that but electronics requires you to know some specific words. I always look forward to new content from you thankyou very much. and anyone else who doesnt appreciate the work you do can shut up or fuck off ahahhaha",0.9438,99
+"I meant improvements for the other machine (EleksMaker), but yes, I'll definitely show them! Stencils, maybe by the end of the year or early 2018",0.8419,31
+"I modified the layer change gcode in slic3r to move the head to a fixed position so the part stays in the same position on the image, toggle a gpio for the shutter, delay a few seconds for the camera to focus and capture, then home xy to fix missed steps (workaround bad acceleration, you can see the bed vibrating). Just checking Zstep does not guarantee the bed and hotend will ""stay still.""",-0.829,84
+I need to see what you will use with that other LED driver board!,0.0,15
+I own one. The blue ray does a raster print and can give good results but it takes quite a while to complete. I had to modify the firmware to optimize the raster movements. Now I am modifying it again to use a 5w laser and do the etching the way you show in this video. So far fairly good results and I am happy to see others trying the same idea. Keep it up!,0.9472,81
+I really REALLY need to get / build a machine and stick a laser on it. Building everything on Veroboard is killing me.,-0.6597,25
+I really like your humor!,0.665,6
+"I somewhat doubt that a few °C hotter air will have _such_ a drastically different refractive index that it bends ""blue"" light so much in such a short distance.",-0.2975,33
+I started with raster but moved to gcode traces. Definitely goes much quicker and I get good results. It goes even faster when using visolate to create the gcode for the traces.,0.8765,35
+"I think it is a cheap way vs a fiber laser machine to metal marking 3kUSD -5kUSD, I mean, is more cheap than CO2, laser+psu+lens, I allready make a 80w co2 and I want to start working with fiber laser to mark metal and pcb without etching, A 25w-40w chinese fiber laser machine can cut 1.2mm of solid cooper with 10 or 15 pases, so I think is posible to reach someting with fiber laser. I allready get very nice results with estlcam+445nm laser to make pcb's. Look to my instructable in the last step there are some pics of a pcb for k40 co2 laser conversion to arduino. http://www.instructables.com/id/Heatsink-for-Diy-Laser-Engraver/",0.4576,129
+I was thinking of opencv and a couple tags on the print bed... Fix the video on the fly?,0.0,21
+I wish I could fast forward over 9000...,0.4019,9
+I'm a new subscriber. Just wanted to say like the way you explain.,0.3612,15
+I'm wondering if it's safe to use this laser without proper glasses and if those chineses glasses are trustable,0.7351,19
+I've seen a ton of your videos. finally subscribed! great videos!,0.6892,14
+"Ich bekomme ja viel zu hören in den Kommentaren, aber das ist besonders fies! 10/10 , jimmies rustled.",0.0,21
+"Ich habe bei Bungard-Platinen auch nie wirklich drauf geachtet. Gut, ich würde sie jetzt nicht stundenlang auf der Werkbank offen unter der Raumbeleuchtung liegen lassen (kommt natürlich auch drauf an wie hell und welches Leuchtmittel es ist), aber Bungard braucht schon einiges an Belichtung bis sich was ändert. Wenn, dann hatte ich Probleme durch Unterbelichtung als mit Überbelichtung.",-0.6808,66
+"Ich weiß nicht, was Lodenstoffe sind, aber mit 15W lässt sich schon einiges schneiden. Textilien, die mit Poly* anfangen ohne Probleme. Als Unterlage wäre etwas Metallisches, das den Strahl nicht direkt in das Lasermodul zurück reflektiert, gut geeignet, vielleicht ein engmaschiges Metallgitter?",-0.5994,52
+"If you manage to tune the jerk and acceleration and decrease them from the firmware side, you could stop that axis dependent vibrations propagated because the small scale. that adjustment just eliminate the resonances.",-0.5574,37
+"Is it ok if I call you ""GreaterScott""?
+
+Edit: Since we are arguing somehow, let's just say GreatestScott, ok?",0.1926,26
+"Is the second board, the board with the zebra, with etching?  Looks good!",0.4926,17
+It can.,0.0,3
+"It's all about time, not cost. Sometimes you need it quick to test something. Doing this is faster than any place on the planet can ship a board to you",0.0,33
+"Ja, genau die normalen Bungard Photopositiv. Ich würde es vielleicht nicht im Freien in der prallen Sonne machen, aber indoors hatte ich überhaupt keine Probleme, auch nach 3 Stunden Herumliegen nicht",-0.5994,35
+José Mauricio Zavaleta yes a lens for the diode to play with.  Then the fun power supply to figure out.  Make a mistake a Poor! Kiss $100 goodbye.,0.7177,33
+"Kennst du ""GreatScott!""? Der kann auch kein Englisch.",0.0,13
+Lasagne :-),0.3182,2
+"Let us compare  Marco whit some English-speaking  YouTuber   AdoredTV ( from Scotland, one of them i follow ) i have some time problem understand hem(AdoredTV)
+i am sure you can find people from English-speaking country, there is harder to understand in Marco's : )
++ sorry for my English + i am dyslexic + have a nice day ;)",0.4588,64
+Looking forward for the next video on this topic. Great work ! Impressive workshop/equipment you have.,0.8268,20
+Looks like the bed has the jiggles.,0.3612,8
+Man stop wasting your filament on rafts! Just put it straight on the build plate!,-0.555,17
+Marco I tried doing this with a TTL controlled laser and the pins on top of the extruder seem to only put out about + or - .3 volts??? Any idea what I'm doing wrong?,-0.504,40
+"Marco Quezada yes, positive",0.743,5
+"Marco, could you confirm that the boards are sensitized with a positive photoresist? At least it appears to me that way from your process. I have negative film and I can burn it off with the laser to expose the copper. But the light causes it to polymerize (as it should) and then becomes harder to remove. I want to try with positive film but have not been able to find it, it should make for an easier development step.",0.7003,89
+Maybe is the plume created from ablation cause scattering? not sure just guessing,0.0098,14
+Maybe you can use some of their ideas in your project,0.0,11
+Mount the camera to the print bed for smooth Time Lapses,0.0,11
+"Nah, I'm horrible and just covering that up in videos :)",-0.2263,12
+No dickbutt. Very dissapointing,-0.296,5
+"No, please don't! Background music is annoying, distracting and if mixed wrong (as in too loud) could destroy the whole video. Please never add background music, that is just horrible!",-0.9214,38
+Not really helpful when I need a single one on a saturday afternoon.,0.4754,14
+"Not sure what you mean by ""who knows what the motion control is doing"". It would be generating GCODE you can even check beforehand. With such a lightweight machine getting rid of backlash shouldn't be such a big deal - and it's something that should've already been taken care of for the 3d printing. Despite the rails I would rather be sceptical of the cantilever design.",0.5106,72
+Not to mention it could damage the lens on the laser,-0.4939,11
+Oltronix Power Supply B703 https://www.youtube.com/watch?v=Tr0FfZ-A3P4,0.0,5
+"One of many LT demo boards lying around. I don't have an application yet, and because it is from 2005, it's not that great by todays standards.",-0.7713,31
+"Or read coordinates of the heat plate and capture when in middle. add command to go to middle of plate after every layer.
+or simply use object tracking in post",0.0,32
+"Really nice, man. Looks promising.",0.6997,8
+Repetier server pro has timelapse that you can sync with the layers,0.0,12
+"Seegal Galguntijak i think it would be better, not too loud would make the video even more pleasing and make the solo speach less piercing, i've always hated direct speack it gives me headache",0.3384,36
+So early it's only 360p,0.0,5
+Thanks for the quick reply Marco and have a great weekend :-),0.8519,12
+Thanks for your reply sir.. I didn't understand that you have exposed the board in chemical solution before laser engraving right.. After the chemical process you put the copper clad pcb under the laser engraving machine..,0.5994,39
+That little orgasm whenever a video switches to 60fps..,0.0,10
+"The Joke is that he is a better version of GreatScott, i.e. GreaterScott",0.6249,17
+The PCB is made with a photosensitive layer. That layer reacts to UV light. If I point the laser beam at it I can expose areas that I want to remove later. After exposing it like that I have to remove the now exposed photosensitive layer. That is usually done in a sodium hydroxide solution which will remove only the exposed material. Then I have a board with remaining unexposed photosensitive layer and bare copper areas which can be etched away in the next step.,0.2023,91
+The exposed boards are developed in a sodium hydroxide solution as recommended by the manufacturer. The software that creates the machine movements from PCB gerber files is called FlatCAM and the software that sends it to the machine is called LaserWeb,0.5994,42
+"The fiber seems the way to go, for a step - up from a laser diode.  I do not know how much equipment involved.  Looking at the co2 ones with the mirrors and all that stuff that needs cleaning and alignment, seems like too much.  With a fibre line - just mount the end part somewhere, aim and have at it.
+
+I search "" 25w fiber coupled laser"" eBay and find $2,000+ USED equipment.  Not really affordable.",0.3612,88
+The hard part is not making small etched features - it is the drilling and vias that make a PCB useful for anything more than a blinking LED project.,0.3612,30
+This guy did a really cool stop motion video by adding something else to print off to the side of the print and capturing an image when the head was away from the main print. https://www.instagram.com/p/BbpN17rF0w0/,0.0296,37
+This guy sounds like Hannibal lecter,0.3612,6
+"This is a really great presentation of laser PCB etching! I was looking at the Cetus3D because of the linear rails but had reasoned that it was of no practical use for my needs printing Ultem 9085, until now I see what can be done using it as a laser machine and only $299 plus parts that’s awesome! The download links, intelligent straight forward content that I can watch all the way through while enjoying the ever so subtle wit of the presenter is quite refreshing! Subscribed!",0.9621,97
+"To me that still does not explain what you are trying to say with ""who knows what the motion control is doing"". As for the backlash: Indeed ideally what you are saying is true - but it does depend on the anti-backlash nut design though. Anyway, enough said.",0.4215,55
+"Torsten Curdt You can use the fact that Gerber files were originally for plotters, though newer extensions may assume a rasterizer.",0.0,23
+"True that, I might just try it out. If it doesn't work then I'll just order a proper one from ebay. Thank you for your answer!",0.68,30
+Try placing the Cetus on the ground. My results where MUCH better compared to the printing done on a table!,0.4926,22
+Tss tss ...Marcos ...Marcos .. at 2:02 ... banggood TS100 placement ... what one has to do to survive on the internet video business :) :) :),0.8402,29
+Und woher hast du Laserschutzbrillen auf die man sich verlassen kann ohne immer Angst zu haben dass man sein Auge grillt?,-0.5994,22
+"Uses an open source program to turn the Gerber files to G-code.
+Have you ever tried the open source PCB design program KiCAD?",0.0,25
+Very interesting video,0.4576,3
+Very nice video sir.. Right now I am working on convert 3d printer to a pcb laser engraving machine.. This tutorial is very helpful to me.. After pcb engraving you have dipped the board in water right.. No chemical process.. May know the software for laser engraving pcbs,0.6106,53
+"Very nice, great tip to convert the gcode",0.8162,9
+"Vibration by X- axis, Y-axis is perfect, so diagonal lines are middle quality.",0.5719,17
+"Welcome, thanks!",0.7345,4
+What is the chemical name of the gas?,0.0,9
+What? No dickbutt!?,-0.4314,6
+Where have you been bro we missed you...,-0.296,9
+Why do you have a pic of micrometers on the front?,0.0,12
+Why do you raster the PCB? Following the traces will likely give you even better results.,0.4404,18
+"Why on earth do you SOLDER stuff to an XH connector?haven't you got a crimp tool? Seriously, who does shit like that? It's painful to watch!",-0.7602,32
+Wodpuncher001  new vid today or tomorrow!,0.0,8
+Wow fucking amazing,0.8357,3
+"Wow, the speach is the reason I watch most videos for. If it gets distorted by background music, it just annoys me horribly.",-0.6249,27
+Würde ich nicht ernst nehmen bis die Beschwerde von einem kommt der erst mal selbst zeigt dass er es besser kann. Und hat idealerweise bis dahin verstanden was eine Lernkurve ist und wie die aussieht.,-0.8316,37
+YEAH! Thank you for such useful content.,0.8236,9
+Yes it does! Exactly what I had in mind. Maybe without gcode modification and just by listening to the Z-axis step pin?,0.4574,25
+You aren't too bad yourself :) Hope to see the Fluke working soon,0.8294,13
+You can drill them by hand or use smd,0.4939,9
+"You can use the laser pin to trigger a camera as well, when you're not exposing the board of course.
+Or do what Mike did with milling - move to a limit switch.",0.443,36
+"You mentioned creating 3D printing time lapses with the based on nozzle position, Octoprint will actually do that for you!",0.3595,22
+"You need a fan pointed at the work piece. The laser heats the air around the traces and that causes local refraction, so your laser accuracy is wobbly. If you keep a fan on, then that moves the hot air out of the way quickly, so you'll get more consistent lines.",0.5574,57
+You. Are. AMAZING.,0.6739,6
+best video ive ever seen thanks for sharing!,0.8805,9
+"easily does 0.1mm features (65mA laser current, 405nm - 750mm feedspeed, careful with accel times) - ping me if u need some data (i burned a lot of bungard to get to right values ;)",0.765,41
+fantastic stuff -- subscribed!,0.5983,6
+"fucking stupid, now Im all sad that google translates doesnt have english to javascript capabilities",-0.7778,16
+full face reveal! :),0.5093,5
+good idea though it simply adds an unnecessary amount of mass to the build platform.,0.4404,16
+"great job, great video, but i understand only half of what you say, maybe you could be so kind, in the future, to say a couple of words more about your every step, cause as an absolute beginner, i can hardly follow you... die materie is mir einfach zu unbekannt, wenn du ein klein bisschen genauer beschreiben würdest, was du gerade machst, wäre der pädagogische wert viel höher!!! trotzdem, sofort-abo in sekunden nach dem video-start...! thank and grettings from Cologne",0.8913,97
+haha I thought so too...,0.4588,6
+https://www.ebay.com/itm/322895867903,0.0,1
+"i subscribed! fuck you and your cool laser printer i hate you, i can't do it my self, show me how, i love you. but i hate you fucker.",-0.9279,35
+"keine Angst, so schlimm ist es lange nicht :D",0.6166,10
+"maultrommel ping :P would you mind making your findings public? While i don't own this printer, i am sure others would appreciate it. :)",0.8668,27
+"moving camera =! smooth
+i dont see the point in a laser beam timelapse",0.0,15
+prolly not unless calling people who they aren't is ok to you,-0.2235,12
+that diode still need lens right?,0.0,7
+this coming from a mullet. I'm sure he'll get right on it.,0.3182,14
+was hältst du von diesem Laser? https://www.banggood.com/445nm-1_6W-1600mW-Blue-Laser-Module-With-Heatsink-For-DIY-Laser-Cutter-Engraver-p-983766.html?rmmds=detail-bottom-viewalsoview&cur_warehouse=CN,0.0,8
+you could change the resistor to 15 or 20 ohms and decrease the speed.,0.0,15
+"☠️☠️ Before you laser cut vinyl, make 100% sure it is PVC free! PVC gases are TOXIC!! ☠️☠️",0.6571,29
+😊,0.0,1

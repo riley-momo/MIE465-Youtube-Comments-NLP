@@ -1,0 +1,10 @@
+,sentiment,wordCount
+How to build this arm?,0.0,6
+"I wrote a blog about this project. It isn't a tutorial. But maybe it will help:
+https://electrondust.com/2018/01/21/small-stepper-robot-arm/",0.4019,20
+Its a helpful post. Do you use social network? I want to ask you something,0.4767,17
+Nice mate. Could the gripper pick the cube nearer the end of the fingers ?,0.4215,16
+"Thx. The tips of the gripper simply don't get to touch the sugar cube before other parts of the gripper do. That's why it is lifting the sugar cubes like that. The tips are good for lifting small objects. It's a bit hard to explain. I would've to reform the tips for them to be useful with objects as big as those sugar cubes.
+fun fact: That gripper is actually just a cable tie. Wasn't me design though. I got it from here:
+https://www.youtube.com/watch?v=bLnAJ-mSElE",0.9136,94
+Very nice.,0.4754,3

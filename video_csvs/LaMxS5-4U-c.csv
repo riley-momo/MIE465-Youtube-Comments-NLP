@@ -1,0 +1,167 @@
+,sentiment,wordCount
+"""I'm a Module!"" t-shirts anyone? This could be the synth runner up to the guitarists ALL THE GAIN!",0.6924,23
+"*this software gets brought to my attention*Nobody ever heard from me again, just calm notes floating among the clouds. :)",0.6486,25
++,0.0,1
+...like me,0.0,3
+"...one question ... how can i download the free plugins? i can klick on the button ""free"" and it turns red ... but ah ...hmmm where is the download knob?",0.3632,36
+16:49 Would the VCO not run at a low-enough frequency?,0.0,11
+">it's kinda of a boomer, I like to send near DC signals to my subscribers to see if they blow up a speaker or two xD 
+
+j/k great vdeos",0.9142,33
+"@Malsipots
+Go away!
+I liked it!",0.5242,8
+"Ah, I see: from the source code, it uses oui-blendish, that’s why.",0.0,19
+"Almost any sequencer from the plugins would work for this, as they all allow you to set the clock speed.",0.2263,22
+"And this other one...
+Autodafe Drum Kit for VCV Rack (free) contains:
+Kick Module.
+Snare Module.
+Closed HiHats Module.
+Open HiHats Module.
+Claps Module.
+Cymbals Module.
+Ride Module.
+Rim/Claves Module.
+8-Channels Drum Mixer.
+
+https://www.autodafe.net/virtual-instruments/vcv-rack-modules/autodafe-drum-kit-for-vcv-rack.html",0.0,51
+Apparently VST plugin support is coming in a future update. Softube Modular is similar software that exists as a plugin. That costs around 80 bucks.,0.4019,28
+"Around 5:40, what are you doing after you say, ""it's not really loud, is it?"" because I have the same (module) set up as you and I almost don't hear anything, even on 100% volume.",0.0,46
+"Bro, do you even modular synth?",0.0,8
+"By the way, Autodafe just released 2 more modules...
+Autodafe Module Pack for VCV Rack (free) contains 11 modules:
+LFO module with CV Input.
+Simple but handy 1x8 and 2x8 Multiples
+Clock Divider
+8-Steps and 16-Steps Sequencers
+8x16 Trigger Sequencer
+Fixed Filter Bank
+Foldback distortion.
+Bitcrusher
+Phaser
+
+https://www.autodafe.net/virtual-instruments/vcv-rack-modules/autodafe-module-pack-for-vcv-rack.html",0.0,59
+Can it output cv/midi to hardware? I saw a module that looked like it could.,0.3612,19
+Can this be used as a DAW instrument?,0.0,9
+Can you use the mouse wheel to turn a knob? That seems like it would be easier than trying to manager a circular drag.,0.5267,26
+Can you use this software on the iPad?,0.0,9
+"Clicks video
+""I'm a module!""
+Closes video",0.0,10
+"Cool, thanks.",0.6369,4
+"Damn it, another piece of software I never heard of, and now I have to install it, get high and spend days in it.... thank you :)",0.4215,31
+Do you still have that old EF-303? Would love to see you play with it.,0.765,19
+Don't mind that idiot. I enjoyed the video very much and it was also very informative of the basics.,0.7186,21
+Download... but is not working on my MAC,0.0,9
+"Excellent video, looking forward this project.",0.5719,8
+"For stereo (or any multiple connection) you can just hold Ctrl and drag, i.e. drag from a source to output 1, hold ctrl, then drag from that same source to output 2.  Or drag from the same Osc to 4 different filters or effects, etc.",-0.6808,56
+"HI. To do have output on 1 and 2, you can click an drag the output of the vca in input 1 of audio interface and than click on output 2 of the audio interface and drag to your output vca. That will combine the output of both 1 and 2 output. (Just know that I just watched the first 7 minutes of the video I have no ideas if you have a better solution further...)",0.0516,83
+"Hello Ben and Gear,I can't open it in my W7-64 sp1 in standalone mod and so vst on FL12.5- 64,any idea for this inconvenience?Thanks in advance.",0.0,38
+"Hey, what are the system requirements of this? is it win7 compatible, or is this win10? for windows what .net framework does it use?",0.0,32
+"Hi great video,can you tell me where to download your patches to the VCV.I really liked your result.Thank you",0.8016,23
+Hi. I can see that when you right click you have many modules. when i right click mine i just get a few just fundamental. How do I get the rest on there?,0.0,37
+How do I make the lawnmower sound again?,0.0,9
+How to route into ableton?,0.0,6
+"I actually disliked Softube Modular. It's SO processor intensive, uses iLok, and is quite limited. Reaktor Blocks on the other hand is $199, and you have access to the user library, which has thousands of absolutely incredible ""blocks"" (modules). Plus, you're getting Reaktor, which is infinitely powerful. IMO if I had to stick with one plugin for the rest of my life, it'd probably be Reaktor simply because I've been using it for 15+ years and still haven't run out of uses/ideas. :)",0.4485,103
+"I actually would of dived out of the video 6 minutes in but I find synth intriguing and I have to agree, the tactile nature of a physical object is somehow more intuitive. Good video.",0.8185,38
+"I agree, that would be cool.",0.5859,8
+I agree. Reaktor with it's Blocks is far more flexible and fun than Softube Modular. Though Softube sounds pretty awesome for a plugin. But so does Reaktor,0.9281,30
+I am really liking this pop-up series.  Hope you continue.,0.7089,12
+"I didn't realize they greeked the names of the recreated modules.  That, is hilarious.",0.4019,17
+I downloaded this program yesterday... I'm a total newb with modular... but I do understand the basics of synthesis... you've done a great job of making VCV accessible... Thanks!!,0.9018,35
+I guess it helps teach people how to use actual modular synths,0.3818,12
+I love that! :D,0.8599,5
+"I love the composition you came up with at the end. I hear what you are saying concerning the enlightenment of manipulating physical modules, but my conclusion was it just won't work for most people due to time and money. Most don't have the money to buy analog modules, nor do they have the time to build them from scratch. Nor would it make sense for most people to build physical modules if everything else they are doing is software based. That being said, I would love to build a wall of synth modules at some point in my life, but it wouldn't make sense to put music exploration on hold when I have a whole world of software modules at my fingertips.",0.875,132
+I'M A MODULE,0.0,3
+"I'm a person with a large modular system and software development knowledge wrapping my head around an undocumented open-source project that had been initially released a few days prior to this video. I want to do an updated video now that there are more modules, but yeah, some people want to watch someone with prior modular synth knowledge get through the learning curve of a new program. <shrug>",0.5853,72
+I've been playing with this too! Thanks for the video!,0.6467,12
+Im a bloody beginner to modular synthesizers and love this tutorials. please keep on explaing the simple things as you are! love your videos <3,0.8999,27
+"Imagine the video ending right after 2:11. ""so there you go, goodluck with it"" lmao",0.5994,19
+Interesting. Was hoping the virtual Modular Synth software market would get another free addition like the very amazing (but also very cumbersome to use) SynFactory from many years ago which was my first introduction to software Modular Synthesizers at all.,0.9371,44
+Is there a way to sync to midi clock and run the sequences into ableton ?,0.0,16
+Is there no chaos/random module for this yet?,-0.296,11
+Is this something that can interface with Ableton...?,0.0,10
+It sounds like BELLS RINGING ANNOUNCING THE DEATH OF THE ROMAN CATHOLIC CHURCH BY 2020 ( as predicted by ISAAC NEWTON) Thanx for your inspiring tutorial.,-0.0857,28
+It was because of the exponential form the vca. Any idea why that would decrease the sound so extremely? I had level 100% up.,0.0,28
+Its weird i cant get my asdr to propperly function onlt my release is giving sound and atack just functions as a amp controll.,0.1779,25
+Just tested this software. Very usable for such an early version. If the developers add a few more features and modules it will be great.,0.6249,28
+"Login to your account from the VCV app itself, then click Update Plugins",0.0,14
+Love how rapidly you're putting out these videos!,0.6696,9
+"Malsipots shut up, I’m watching a fucking video",0.0,11
+"Malsipots: 45 subscribers.
+B & G: 3.1k.
+Hmm...someone is a small-hat-head.
+
+Insults don't keep people from liking the video, nor do they get you more subscribers.",-0.0258,36
+Man this was sick!! Super impressed! Especially with the price tag!!! I would love to see some in depth tutorials on Rolands new Eurorack digital multi effects/modules. They're are a whole bunch of em and the whole customisable aspect is mind boggling to me. I don't see how each module stands out from the other,0.877,65
+Morantay Loving your Pikachu avatar!,0.636,6
+No reason to imitate the look of synths in the UI. It's not practical at all!,-0.3595,18
+Oh my.,0.0,3
+"RellyAlexander ""I'm a Module!"" t-shirts anyone? This could be the synth runner up to the guitarists ALL THE GAIN!",0.6924,24
+"Right here, https://patchstorage.com/platform/vcv-rack/",0.0,4
+SCappa? Nice ending!,0.4753,5
+"Samuel Teodoro Ferreira did you find them? They're on the front page of the website for vcv rack. You login to the website and add them from there, then sign into the program and you can update it.",0.0,42
+Sounding incredible at the end,0.0,5
+Subbed immediately and I don't even know any of your other videos.,0.0,13
+THANK YOU SOOOOOOOO MUCH!,0.4199,5
+Thank you for that observation! I was dismayed by the apparent limitation until I stumbled upon your note!,-0.4912,20
+Thank you!!!!! Very siiiiiick!! Been playing with this for hours! Cheers,0.833,17
+Thanks a lot mate =D It really showed up the possibilities of it. That will be my beginning with Modular Synths iihhhuuuuuuuuu,0.7865,23
+"That GUI reminds me a lot of Blender, for some reason...",0.0,13
+That could really be all you 'need' to know before starting this. haha,0.5423,16
+That was a great tutorial! I would love to see some of the Make Noise and Intellijel stuff.,0.8622,20
+"That's cool. There must be a place to share and listen to, just different interesting patches that people have come up with.",0.7351,25
+Thats a lot of new shit to learn.,-0.5574,9
+The GUI looks a lot like Blender,0.3612,7
+The Gui is the same than Blender?,0.0,8
+The first 6 minutes are truly amazing. Not only do you deliver a lot of basics to someone who has no clue about sound creation but you easily adapt to the tool as you go.,0.6124,37
+There is software modular called Wren..it's also open source though not many people know about it..maybe you could make video on it Benn :),0.4588,28
+This is legit amazing :O,0.3954,6
+This took so long that this is my favourite song now.,0.0,12
+"Thx for the terminology, this info was golden and fast for me, nice job!",0.68,17
+UI elements look like Blender's.. :),0.6705,7
+Very nice introduction. Waiting for the Reaktor Blocks Video ;),0.4754,11
+"Weird ADSR behaviour sorted, after re install of Rack , now back on track..ta for putting up tutorial !",-0.2481,22
+What would be the minimum PC requirement for Free Modular Software??? txxx!!!,0.6923,18
+"When the ""Space"" knob of Elements is at zero, it plays the output of the strike/blow/bow module out the left channel and the output of the resonator to the right channel. It's not a bug, that's how the hardware version of Elements works.",0.25,53
+YEAH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0.0,4
+Yooooooooo. Benn Jordan tutorials!?!? Subbed.,0.0,11
+You can download more free or paid plugins from the VCV website under here (https://vcvrack.com/plugins.html). You need to download the plugin and drag it into the plugin manager folder to sync third party plugins.,0.659,38
+You don't need to mix or split the output for stereo. Just use two patch cables out from one output to the channel 1 and 2 (L and R).  It took me awhile to figure it out but you are not limited to one patch cable per connection.,0.2498,53
+"You don'y know what you're doing, it's the blind leading the blind. At least learn how to use it and prepare something before you tape it. Have you any idea how irritating it is to watch someone bumble through trying to work shit out as they go along? Evidently not. Super bad video, you will not get many subscribers putting crap like this out.",-0.908,71
+You have many modules that I dont see in my VCV after install in my computer... Where I find ? I Prefer free modules.,0.5106,26
+"You should take a look again, there are a ton of user-made modules now. A ton!",0.0,19
+"You're great teacher.  You're pretty fast and I can't ask questions.  Reminds me of college, especially grad school.  Thanks for sharing.",0.9226,26
+You.are truly a.brother of mine (: haha,0.8442,7
+are you the flashbulb?,0.0,5
+best tutorial how to use this soft. thanks,0.7964,9
+but I was able to get a sine wave with PD!!!  :),0.7074,15
+"could you help me with installing plugins?
+I've downloaded sourced zip files from the web page, and moved them to plugins folder together with Fundamental folder, but I still cannot see the plugins when I right click in the Rack's background. I can only see basic Fundamental plugins.
+on iMac for some reason only the Fundamental folder contains the plugin.dylib file.",0.2144,67
+"does it have midi out, so i can hook it up to some other vsts",0.0,16
+feature something related to pure data as you said :),0.4588,10
+"finding this a little bizarre, followed exactly your procedure, precisely copying order of module additions and cabling .great until I introduced the ADSR  even with the seq 3 added ..nothing ...all levels up and strangely sequenced sound only achieved with ADSR deleted from rack..can individual modules be corrupted in someway..I dunno ..weird.",0.2247,63
+"great tutorial, thanks a lot man. super helpful for a noob like me",0.9432,15
+"hey do you mind me asking how you fixed this? I have the same issue, redownloaded Rack and replaced the prior version and still have an issue where the only part of the ADSR that receives signal is the release knob.",0.0,44
+hey i have everything set up the way you do at 4 minutes but the ADSR won't trigger and the sequencer won't sequence. what's up with that?,0.0,29
+hey i just gotten the VCV Eurorack and im seconds new to how to get all the patches in it etc have u made a tutorial on that course ill check in but also do u have soundcloud,-0.2263,38
+i did the same exact thing but i still didn't get my freeze button working??,-0.1486,17
+i just killed 3 hours watching your video and building my first rack myself.  this is so freakin awesome.  i just want a big blizzard to come so i can be locked up with this thing.  i am hooked and your demo helped me get started.  i'm am completely fixated now.  I subscribed and will be viewing all yer junk on this rack thing.  i'm loving it.  THANK YOU!!!,0.8476,79
+is there a module to be able to control the BPM?,0.0,12
+it dosen't work on my pc ( windows7  - 64bits - )  someone knows why ?,0.0,17
+lol that intro is gold,0.4215,5
+love it! thank you very much!,0.8065,8
+"nice, cool, kicken, vet, gaaf, strak",0.6249,11
+not works on most intel gpu :(,-0.4877,7
+"oh yeah, great",0.743,4
+"protip:
+don't make a tutorial if you don't know how to use the thing you are making a tutorial about",0.0,21
+"so I am able to use this for actual music production? Since I couldn't afford such a range of modules, is this an option for me?",0.0,29
+strange i see 20 dollar on the vcv website when its free. ah silly me haha,0.6808,17
+thank you so much,0.3612,4
+thanks. Modal/Clouds PD tutorial would be super interesting! Subscribed.,0.8687,14
+there actually was a cloud generator in the list of modules. it's the e-series e340 cloud generator,0.0,18
+"this was super helpful, thanks!",0.8718,7
+you look like the mountain from game of thrones,0.3612,9

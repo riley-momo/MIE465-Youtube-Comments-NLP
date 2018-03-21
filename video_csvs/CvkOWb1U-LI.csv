@@ -1,0 +1,254 @@
+,sentiment,wordCount
+#trending,0.0,1
+*#BRINGSCRAPYARDWARSTHEGAME*,0.0,3
+"*I Want You To F.vck Me*
+*Cl1ck H.e.r.e To Watch S.E.X.Y W3bcam Girls.* >>> http://pm.vu/5aa5141d9bc44?c=UeY3310",0.0772,34
+"...Thought was lame topic, but quite neet. Not like Id need to know about it, but fun...Also who else would cover it :)",0.7747,29
+01101000 01100101 01101100 01101100 01101111 00100000 01110100 01101000 01100101 01110010 01100101 00100000 01100110 01100101 01101100 01101100 01101111 01110111 00100000 01101000 01110101 01101101 01100001 01101110 01110011 00001010 01001001 00100000 01101000 01100001 01110110 01100101 00100000 01100011 01101111 01101101 01100101 00100000 01110100 01101111 00100000 01110100 01100001 01101011 01100101 00100000 01101111 01110110 01100101 01110010 00100000 01110100 01101000 01101001 01110011 00100000 01110111 01101111 01110010 01101100 01100100,0.0,61
+0:56  422 GB lol,0.4215,4
+"100% done
+
+
+
+
+After 10 mins: 
+100%",0.0,9
+"3:08
+>”Coding and algorithms”",0.0,7
+"3:09 these stockphotos...Who the hell uses inline css when it's year 2018?
+
+It's time to stop",-0.7783,19
+"3:25
+did he just say tom instead of time",0.0,9
+"3:46 What are you mouthing? (""Help Me""?... Nah...)",0.0,16
+3:52 awkward silence...,-0.1531,4
+3:52 come on! linus did it better LMAO,0.8327,9
+3:53,0.0,1
+3:54,0.0,1
+3:54 🔥,0.0,2
+4:16 deja vu...,0.0,4
+"99%
+
+BSOD
+
+GAME OVER",-0.6037,5
+AKA Microsoft minutes,0.0,3
+Also dark web,0.0,3
+Also making progress bars more accurate will just grossly increase the overhead of the processes.,0.4939,16
+Am I the only one that thought the windows performance score was no longer a thing? where is it!?,-0.4314,22
+Am I the only one who could hear a fan going loud in the background during the whole video?,0.3182,20
+An episode I'm interested in and I have to play it without sound.,0.6249,14
+"And again, Techquickie doesn't realize that Windows has done automatic defragmenting for a long time now.",0.0,18
+And why does it say 100% and still not finish?,0.0,12
+"Another reason not to use the toy ""windows"" operating system.  <("")",0.0,17
+"Anyone else realize he said ""It has a responsive design so your website will look good on any device"" twice at the ad read?",0.6597,27
+Anyone else suddenly want Scrapyard Wars: The Game?,-0.5106,10
+"Anyone know why different people do different segments? Is it because they know more about it, they have a better personality for the topic, or is it just that they needed someone to do it and this person was available?...",0.504,45
+"Aren't installers developed by whole different teams, sometimes even bought from other companies?",0.0,15
+"At least microsoft can fix the ""60 seconds remaining"" and show ""1 minute remaining"" cuz dat thing is making me go throw my pc at the window.",0.0,32
+Birch where’s Linus,0.0,5
+But nothing else is running when it does this for me.....,0.0,12
+But the real question is: why doesn't the progress bar disappear the instant it hits 100%?,-0.4993,19
+"But then, why is Linux so much better at estimated time remaining?",0.4902,14
+Can you guys make a fast as possible about project treble?,0.0,12
+Can you make a video on bananacoin??? I would really like som better explanation of it.,0.7577,20
+Can you please explain about IBM computers.....,0.3182,8
+"Can't make out, what kind of accent is that? :D",0.6166,12
+"Coincidentally, I am watching this techquickie video while transferring 25GB to a portable hard drive.",-0.1027,17
+Did anyone realise that he said help me around 3:52???,0.5007,13
+Did you know that the wrong protector can ruin the feel of your mattress?,-0.7845,15
+Does anyone know if Squarespace websites have a responsive design that means they look great on any device?,0.765,19
+ESTAMATED<---------- so its literally guessing look at the word ----------->ESTAMATED<--------------,0.0,13
+"Estimated time: 2 hours
+Actual time: 2 minutes",0.0,10
+"Fragmentation isn't something that affects SSDs. Also, stop with the godawful intro.",-0.296,15
+Fuck Gates. Fuck Windows.,-0.7906,6
+"Fuck, this host is terrible...",-0.5423,7
+Glitch in the matrix there at the end.,0.0,9
+Good to see Wesley Crusher landed on a job after Enterprise.,0.4404,12
+"Great hosting Jon. Sometimes you could articulate a tiny bit better or talk a little bit slower, but I like your style!",0.793,25
+"Haha I love you John, no homo, but I really like the videos you're in",0.771,17
+He needs to speak slowly. Plus his accent is unbearable.,0.0,12
+He totally reads the add at the end.,0.0,9
+Hello New Luke,0.0,3
+Hes getting way skinnier now. Good job!! I hope you get to where you're at,0.7494,18
+Hi bro. How to recover write protected pendrive and how to do it..,0.4404,15
+His face is so... wrong.,-0.4767,7
+Holy fuck this channel is just desperate.-.,-0.5423,10
+I always assumed the discrepancy was due to giving a certain percentage based on the number of files while not accounting for each file being different sizes.,0.5859,28
+"I can tell by listening to this that you did NOT consult a software engineer who has experience writing progress indicators. Since you're just making assumptions here.
+
+The only thing that can muck up the ""accuracy"" of a progress indicator is externalities: events occurring outside the program. Otherwise, unless the progress indicator is not properly implemented, it will project an estimated time to completion from several factors: how long the task has been in progress, how much of it has been completed in a particular period of time (called a ""burst rate""), and how much of it has been completed since the job started (called the ""average rate"").
+
+Then there's another variable that I've only seen used a few times, so it's not commonplace: a median rate. Basically this is the median value of the determined ""burst rates"".
+
+Now of these three rates, which is the most accurate? If you said the ""average rate"", you'd actually be wrong. It's actually a combination of the burst rate and average rate, with the median rate being slightly more accurate if it's the only variable on which you're relying. The problem, though, is how much memory is needed to maintain the data necessary to calculate the median rate. Which is why it's almost never used. Instead a combination of the burst rate and average rate is typically used in determining the estimated time to completion. Some rely only on the average rate.
+
+Until externalities come into play. There are numerous variables that can affect the overall transfer. And both the source and destination come into play. None of this can be adequately accounted for.
+
+The only thing on which we can base an estimation is the average and burst rates.",0.9186,332
+"I did like then dislike, it ended up a dislike.",-0.4019,12
+"I don't care what ""they"" say, I like to watch my initial file transfer speed spike of +6GB/s settle into a steady stream of ~200-400MB/s.",-0.033,36
+I don't have HDD...,0.0,5
+I feel so bad for the progress bar!😭 sorry for getting mad at you. You have so much to do I can’t even m😭😭😭😭,-0.6989,32
+I feel they are running out of ideas.,0.0,9
+I felt like I learned nothing,0.3612,6
+"I fucking hate progress bars that dont give you an option to see WHAT is literally being done / moved around.
+
+Just a static progress bar ""stuck"" is always pissing me off, I'd much rather just see the what is being done to know it's not stuck!",0.127,52
+"I have a two hour long vid that took an estimated 12 hours to render, plus a few more hours to mux the audio & video together while the progress bar was at 99.99999% with ""5 seconds remaining"" [the vid is being uploaded right now as I'm typing all of this]. All of that rendering took place on one of the workstations at the Oklahoma City Community College Keith Leftwich Memorial Library's Student Computer Center on the third floor. If I rendered the project at home on my new desktop that I just built, it would have taken a few weeks or more, maybe even a month, compared to the 2010 13"" MacBook Pro A1278 7,1 that I used previously it would've taken about more than a month today running on MacOS 10.11, compared to a few days to a week when it ran on MacOS 10.6.8.
+
+Right now, I have another vid being rendered. It's about 15 minutes long, but it only took about an hour and 20 minutes to render on one of the college library's workstations, plus the muxing that takes place for another hour or so when there's ""5 seconds remaining"" at 99.99999%. This would've taken about a week and maybe half at home on both my mobile workstation and desktop.",0.2263,240
+I have been updating windows for 18 hours now. it is still on 86%,0.0,16
+"I just don't understand why YouTube et al, never buffer in a way that would make any sense if you wanted it to work correctly?  And why do people even in IT related fields think that that is equal to a download in a confused way of thinking it's the same as an actual download?",-0.3939,58
+I like Techquickie videos when Linus is the main person in the video . Please bring those videos back when Linus used to be in these videos.,0.5859,28
+"I like you John, but it's like you had a chewing gum in your mouth when talking. Really found distracting.",0.198,23
+"I love linus when he explains
+His way talking sucks",0.4019,10
+"I love you Jon, you're so awkward. Lol glad to see you in some videos",0.8565,17
+I observed that linux predict more acurate than windows,0.0,9
+I once had defragmentation running and it said 1 minute remaining. It still said the same thing 6 hours later.,0.0,22
+I really really like John hosting,0.4716,6
+I stopped using stupid windows...and stupid x86/Arm-processors which also fail very often xD,-0.7976,17
+I thought SSDs don't suffer from defragmentation so it doesn't take any longer to look up the file fragments,0.431,19
+"I typically just build double progress bars. One for overall progress and one for the individual step... but as you correctly pointed out, these bars take way too long to build considering that they don't actually add any functionality! The only use is to let the user know that the program didn't ""freeze"".",0.4753,60
+"I will say though, in my experience. OSX is worse at guessing.",-0.4767,15
+I would like this man to read the teleprompter in a more realistic way ge just seem like a robot,0.6124,20
+I'm glad to see Wesley Crusher found work at Techquickie!,0.5093,11
+"I've NEVER trusted that damned 'progress' bar.
+But, there are definitely times when I know that a file should be moved faster than a person can notice, and it instead takes several seconds.",0.4939,39
+I've always wondered this!,0.0,5
+"If only this was a ""progress bars as fast as possible"" video",0.4215,14
+"If there is significant interest by people that warrants a video about progress bars, then perhaps developers need to address the quality of life aspect it represents. Maybe stop spending time attempting to convince us to cut developers slack and use that time instead to improve our QoL?  Conundrum: Do I work harder or try to convince others their needs aren't as important so I don't need to work as hard? One last thing, people generally know how long a pot of water will take to boil and can plan accordingly.  Misrepresentation of time allotment affects overall productivity and planning",0.6776,107
+Is that a washing machine in the background?,0.0,9
+"It's impossible to get an accurate time-based progress bar.  (See reasons in video.)  It's very possible to get an accurate percentage-of-stuff bar.  File copying/moving is cake: % moved vs % total.  Installation of software components can also be size-based, with individual sub-bars for whichever might take an inordinately long time.
+
+This all requires time to program, which the devs may have exhausted in crunch time.  I cut them a lot of slack because I know the drill.",-0.2023,91
+John is the new Luke,0.0,5
+John needs his own script. Who ever wrote this probably spliced a lot of what Linus usually says. It doesn't work with John's personality. John is like the discovery channel and Linus is like the cartoon network.,0.6124,41
+Jon's accent is so satisfying!,0.632,6
+"Kinda weird to talk about a technical process, and then cite ""windows,"" the toy operating system..",-0.1045,21
+Lets use an AI to make better estimates!,0.4926,9
+Linus looks well different,0.2732,4
+"Linus, is this guy your jobless brother in law that you took because of family? #SarcasmDisclaimerHereForTheAutistic",0.0,18
+"Linux progress bars seem to be way more accurate. Might be my imagination, but I'm pretty sure that this is just a Windoze problem.",0.6808,27
+MOAR JOHN HOSTED TECH QUICKIE VIDEOS! PLEASE!!!! YOURE AWESOME AT THIS BRO,0.7405,16
+Mac’s are better.,0.4404,6
+Make a video of tor,0.0,5
+Make windows great again,0.6249,4
+Maybe it's time to replace the progress bar with an animation of someone shrugging their shoulders.,0.4215,17
+Microsoft word vs google docs,0.0,5
+Minecraft save. Explain those!,0.5411,6
+"Most annoying shiy is when ur transferring a folder if pics or vids and you leave it running and come back a half hour later to find it stuck on the 5th fucking item saying it can't be transferred. Couldn't it have skipped all the untransferable files and dome the rest!?
+Makes me wanna bang my head in the wall every time it happens.",-0.6689,68
+Most awkward LTT video of 2018?,-0.2247,7
+"NVME was designed for this kind of problem. OS like Linux will transfer the file at 50% speed dedicated and pre-allocated resource to that transfer. So your MVME a total speed of 1,200 MB/s will transfer at 600 MB/s which will split 50% again if you transfer more files. The kernel and other system apps and user apps gets rest of 50% speed.",0.3626,74
+No,-0.296,1
+Oh look a Rooster Sauce shirt,0.0,6
+Omg the mouth noises are so loud,0.0,7
+"Only for stupid, low-bandwidth Amd/Intel/Arm processors...xD",-0.5267,13
+"Or you could purchase a Samsung 850 EVO 4TB SSD for _only_ $1200, and you will never have to copy files between drives again!",0.0,27
+"Overpriced DLCs on steam.
+This. I’m looking at you paradox.",-0.1027,15
+"Please don't take this the wrong way, I don't mean to be disrespectful, but please work on your pronunciation and accent especially if you are going to talk fast. I mean I know you are Asian and you can't help some of those things but I've heard lots of Asian guys with way better English pronunciation than this, whom I've practically had no difficulty understanding. It's completely doable. It's all about rolling your tongue the right way and speaking all the syllables in a word fully.",-0.3372,93
+Pls bring back joji vlogs,0.0772,5
+Showing uncertainty of the progress bar wouldn't overwhelm CPU computing power nor other computer's resourcesm,0.2306,15
+Sorry I can't hear you over the air conditioning running full tilt 3 feet from your mic.,-0.0772,18
+SquareSpace has a VERY responsive design so that your website will scale to have a great look on any device...,0.8237,21
+"Tcll5850 I get the opposite usually. On an old laptop I have, packages download super-fast, but install super-slow. That laptop is really an oddball. (at least for me. It has GigE but uses IDE drives)",0.0,44
+Thank was a painful jump to ads... more thank Luke's...,0.3384,12
+That accent tho,0.0,3
+That ad segway... 10/10 Perfect LUL,0.5719,7
+"That was the best awkward silence I've seen all year. 10 out of 10 would cringe again. It was so real, so beautiful.",0.8727,27
+The best video ever. To explain the inexplicable,0.6369,9
+The cringe before the ad was worth it! :D,0.7371,10
+"The progress bar CAN have a way of anticipating other background works. Microsoft should make a windows API to alert all running functions of other running functions and their resource usage, and from here calculate the rest.",0.6124,40
+The progress bar on this stupid video could not move fast enough... What an arbitrary subject told in the most most mundane simpletons way.,-0.296,26
+The real reason no one makes better progress bars is because no one refuses to buy software because of an inadequate progress bar. There is 0 financial incentive to make progress bars better.,0.8625,35
+The title should be why ETAs are wrong so often. The progress bar could not be wrong bcz progress bar finishes exactly the same as a task in progress. ETAs could be wrong bcz it is just some sort of anticipation and forecast. And forecast sometimes doesnt happen.,-0.0005,52
+"Then why is the OSX bar more accurate... till it gets to 5 seconds, that normally is actually 10 seconds.",0.0,23
+There ought to be a way to prioritise file transfers so that the process doesn't get slowed by non-essential interrupts from the operating system.,-0.3182,25
+"These examples I can live with. What really pisses me off is the fucking Windows Update installation after a reboot that actually spends longer telling me it's at 100% - NOT 99%, no, it has to tell me it's actually finished.",-0.5984,47
+They used *coding* and *algorithms* to keep track of the different variables that affect throughput,0.0,19
+This can't possibly be an LTT video!  Linus' screecy voice and ugly face isn't up there!  WHAT'S HAPPENING???!!!!,-0.7191,27
+This guy fucking sucks ass his pronunciation is fucked and is soooo fucking annoying!,-0.9355,15
+This guy needs ccleaner for his nose.,0.0,8
+This is perhaps the saddest video on techquickie ever,-0.6124,9
+This is why I use Linux,0.0,6
+"To be fair: macOS is FAR more accurate, and I could practically set my watch to it",0.3182,19
+Tor browser as fast as possible,0.0,6
+Try downloading a blockchain...,0.0,5
+Watching Techquickie still involves staying at your screen,0.0,8
+Watching tech quicky.. is still staring at a screen tho... logic does not compute,0.0,16
+"Well this ducking sucks 
+1-99% 10second
+99-100% 2 hours",-0.1027,11
+Weres linus?,0.0,3
+What a bad joke!,-0.3802,5
+What a sexy voice!,0.5707,5
+What about Linux? The progress bar there always seems to be very accurate and what happened the Mac one because that thing is never correct.,0.4215,27
+What accent is he using?,0.0,6
+"While updating subnautica once my time said ""over 1 year""",0.0,12
+Why YouTube! Why do you do this!,0.0,9
+Why does he sound like he has a potato in his mouth?,0.3612,13
+Why don't they use tools like iotop on Linux to estimate the disk io speed?,0.3612,16
+Why is Wetransfer pretty good at it then?,0.7269,9
+"Why is takes more time to transfer huge no. of files than a single big file, both having same memory.........",0.0258,23
+Why is the video so quiet? There's no music just the sound of a fan in the background,-0.0422,19
+Why were you installing an RPM on Windows?,0.0,9
+Woah that was an interesting ad. It seems that just before the ad finished playing another up came up for 3 seconds. I'd guess companies are now paying other companies to include small ads in THEIR ads for smalll money lol,0.743,43
+Work on your voice too nasal,0.0,6
+You didn't answer the real question: Why does it always stop at 99% for two hours?,-0.296,19
+You know there’s nothing wrong with the progress bar... until it starts going backwards,0.6546,17
+"You seem to be under the impression a progress bar reflects actual progress instead of being yet another busy indicator. Progress bars in far more libraries than I like are optimized for perception of progress. For example one of the more commonly used ones in installer software uses a delay the start then show progress exponentially. In other words just a dumb animation that gives you the impression it's doing something but not how much of that something is done. Do some searching of progress bar algorithms for programmers and you find a variety of stupid ""tricks"" in the wild. Rarely do you see anyone actually reflecting progress with a progress bar.",0.9323,120
+You suck,-0.4404,2
+Youtube is stupid as $hit...there. I hope you enjoy that answer xD,0.7579,16
+actually watched this to kill time for a game download,-0.6908,10
+advertising???? Really????,0.0,8
+because progressives are subhuman garbage,0.0,5
+bring back the old guy!,0.0,6
+camera quality seemed a little lower than usual...,-0.228,9
+can someone explain why when i transfer mkvs to my server it starts off super fast then drops so fast,0.5994,20
+"can you make video explaining why even though usb 2.0 and 3.0 was claimed to have transfer speed of 480Mbps and 4.8Gbps, in actuality its never able to achieve 50% or even 20% of that.",0.0,40
+drink some water and blow your nose plz,0.0772,8
+first LTT edit fail,-0.5423,4
+google slides vs powerpoint,0.0,4
+https://www.merriam-webster.com/dictionary/adage,0.0,1
+i hate the way he speaks....,-0.5719,7
+installing skyrim 99% installed,0.0,5
+is it me or do i hear a hard drive in the background?,-0.1027,14
+jon is the only person alive to have a southern accent along with weird canadian word pronunciations,0.2263,17
+like for that awkward pause,0.2263,5
+"linux suffers from this same thing, so it's not just windows ;)
+
+the most hilarious one is a 30min installation completing in 30 seconds",-0.1957,25
+"mine windows update was stuck on 86 percent for 13 hours
+screw you",-0.6124,13
+"nice video, thnx",0.4215,4
+"not an issue on a Mac :D
+(jk it probably is)",0.6166,13
+nvm he answered it lol,0.4215,5
+safd,0.0,1
+skwerspace,0.0,1
+"so in the end... it depends?
+P.S. good luck new narrator guy whos name I've yet to learn",0.7096,23
+so your still employed at linus tech right?,0.0,9
+"ssds access locations the ""same"" speed regardless of where things are located... eg. access cell A6 is just as fast as asking it to access cell ZZ...",0.0,32
+"talks about hard disk coding and shows a photo of HTML
+XD",0.6289,12
+they're wrong because their written to look animated. LOLs.,-0.4767,11
+this hasn't been happening since windows 95.  windows 7 was the first OS to give time estimation on file transfers in file explorer.  derpy derp,0.0,27
+this was like the longest squarespace ad on this channel and ltt ever!,0.4199,14
+tl;dr: it's really hard to know the future in a constantly changing environment.,-0.1761,17
+umm... That sound when dry lips touch each other 3:54 ... enticing.,0.0,14
+very nice star wars battlefront 2 joke,-0.1952,7
+vhcxju.yf,0.0,1
+was it only me that thought they got a funnyjunk notification at 3:30?,0.0,14
+where is linus bro,0.0,4
+why is someone w speech impediments hosting,0.0,7
+"why was the Squarespace ad talking over animations and people playing with food?
+its a website builder. not kitchen table.",0.2023,23
+"widows is 'Stupid'.
+period.
+done.",0.0,10
+you sound like you are spitting,0.3612,6

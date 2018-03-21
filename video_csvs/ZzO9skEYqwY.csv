@@ -1,0 +1,308 @@
+,sentiment,wordCount
+"$50????
+Hell nah",-0.7882,7
+"*High acceleration, not fast acceleration. A fast acceleration is a quickly changing acceleration, so metres per second cubed. Anyhow. Looking to automate through-hole drilling on PCBs. (Looking at 96 boards with 17 pads each, and I am also lazy.) From your experience with EleksMaker material, would you say that this brand and source (banggood) can be trusted to provide good value for money? Thanks!",0.8908,80
+"1. was hast du gelernt?
+2. was arbeitest du? 
+
+Ich wünschte ich hätte Talent in Sachen Strom und co..... aber wir hassen uns 😄 Habe einen 3D Drucker und das piepsen der Motoren treibt mich in den Wahnsinn 😄 Respekt vor deinem Know How! Neid!",0.5781,52
+"265 steps? I guess you mean 256, lol. I love how silent they are!
+Is there an higher current version available?",0.8249,26
+"2:15 nicht Uv oder, 405 ist ja erst Violett",0.0,10
+4:12 Purrs like a kitten.,0.3612,6
+">=2.5W 445nm will cut both easily, but there might be charred edges",0.0387,16
+"@Marco Reps, why do you say at the end that you would have to make a lot of pcb to justify purchasing this machine? What's the expensive parts?",0.0,31
+"AOI :)
+It's a common step in PCB fab.",0.7184,10
+"Admirable! I couldn't afford such a standpoint at the moment, but I hope I can some day :)",0.8871,20
+"Ah ok, i think my rusty programmingskills need a upgrade :/  thx Marco",0.3182,14
+"Ah. Got it. I thought I missed something on the video. I wasn't saying this is crazy cheap, but this machine is almost as cheap as it gets when talking about cnc / engravers",-0.3182,38
+Also that sound comparison was wild. Do an ASMR video.,0.0,12
+"Also, FIlastruder now has these in stock on sale for $12.99 USD",0.0,14
+"Ambient light, even from the very bright lights I used for that final shot, is not a problem at all (22 minutes direct exposure) but glare around the actual laser dot can expose the photosensitive layer, which results in blurry lines. Maybe hardware store spay paint and higher laser power is a better solution if that happens",0.7921,63
+"An idea for the next use: Strap a tiny camera to it, and extend the lens with an extreme macro ring so you can do huge resolution microscope scans of larger objects.
+Machine vision cameras with the ""100X/200X 2X Barlow"" fake C-mount lens(commonly found on eBay, and is not actually a microscope) work extremely well for this purpose.
+A super-resolution algorithm implementation would also be quite nice, it's done commonly in the thermal imaging industry to quadruple the effective pixel count via small hand movements.",0.9133,99
+"And then combine image and original picture for QA purposes. Derive the difference, and instantly spot and identify possible or actual faults! Woohoo!",0.4738,27
+"Awesome video as always! The results are just amazing.
+
+Concerning the German stepper drivers:
+- Can we buy them outside Germany? (For example eBay/Aliexpress)
+- How do they compare to the inexpensive DRV8825 drivers which are also compatible",0.8478,47
+Awesome video. Can you do an entire video on those drivers. Very interested in how they work. Would like to see them on 3d printer,0.8622,28
+Awesome!,0.6588,2
+Awesome! Do you recommend replacing the stepper by trinamic for noobs at this point of time (without additional arduino)?,0.784,23
+Be happy you aren't Danish ... https://imgur.com/PhmSI5a,0.5719,7
+"Beautiful enclosure you made there! I want one too, but door interlock and key switch would be a little bit too German for my taste, damit kannste das Teil ja fast beim TÜV vorführen :)
+The 405 nm laser doesn't cut very well, at least in my 5 V + 10 Ohm series resistor config, which I found to be perfect for Bungard exposing. When properly driving it at full power, I think it would be fine for paper and plastic foils",0.9035,89
+Because that 2$ offer by jlcpcb.com still exists,0.0,9
+"Bei eBay (meistens USA) gibt es häufig gebrauchte fiber coupled laser module, die fast kleiner als die EleksMaker Module sind, aber 20W leisten können ...",-0.8316,29
+"But being able to test sub-parts of a new design, whose parts are only available in SMD, the time saving is enormous!",0.0,25
+But has it TMC2130?,0.0,6
+"Can I use the trinamics 2130s I find on ebay, cant tell if it has the same pinout..
+
+Great video, just got my kit in the mail yesterday. Looking to do all three upgrades. 
+
+Thanks",0.7906,40
+Can this be done to a 3d printer?.....i like this idea for it and love to minimize noise.,0.7717,22
+Can you Plz make a video on how you made the new Drivers work with grbl with an additional Arduino,0.0772,20
+"Can't believe this hasn't been asked before, what is that gorgeous looking wooden TS100 case that you're showing off @3:02
+Thanks for this video, I'm nearly finished rebuilding my Makeblock XY plotter with laser engraver upgrade to be controlled by the PiCNC hat and a raspberry pi so I can control it via laserweb. I think I might upgrade to the trinamic drivers in the future.",0.7845,72
+Computer controlled Self Improving machines ... This is it! We all realize now that Skynet is Born !!!,0.6083,21
+"Could do CoreXY and remove the motors from the moving parts to lighten the load, which then would allow for a speed up and remove ""echoing"" / ""Ringing"" from sudden direction changes / stops. Of course speeding up things isn't always the best, since that would probably lower the effectiveness of the laser etching capability and would require retracing.",-0.6449,67
+"Could please tell me how you wired the laser to the board. I have the same one and do not know to wire it. My laser has 2 wires, the board has 3 prongs. Please",0.5574,39
+Could you make a few bucks by exposing prototype boards for home-gamers?,-0.2732,13
+"Da hast du wohl recht, ist vielleicht ein bisschen Overkill, aber wie würde der Ami sagen: Safety first ;)",0.5719,22
+Damn I have that exact laser kit.  I am so ordering  that diode and triodes,-0.4019,16
+"Damn, German influences ... we say zwei-hundert-sechs-und-fünfzig = two-hundred-six-and-fifty. 2^8 should be the international standard :)",0.0772,20
+"Depends on what you are doing, for larger designs the standard hardware is perfect, but for very small SMD PCB layouts the upgrade is better",0.7351,27
+Did I miss the video of you making that wooden soldering case? I need to make one of those!,-0.2244,21
+Do you have a picture of the final results in high res? Wonder if you still see the edges from the steps,0.0,23
+Do you know how Late it is?,0.0,8
+Do you protect the whole thing from light during the procedure? Or is the ambient light not really a factor here? What's your procedure for the development and etching?,0.4836,32
+Do you think that this - https://www.banggood.com/EleksMaker-EL01-500-405nm-500mW-Blue-Violet-Laser-Module-with-PWM-for-DIY-Laser-Engraving-Machine-p-1179513.html?rmmds=search&cur_warehouse=CN - would be a suitable replacement as it would not require the PWM modifications ?,0.0,22
+"Does it go into lock mode as if it drove into a limit switch? Then you are getting false positive stall detection, play around with the values  coolstep_min_speed and sg_stall_value",0.7845,32
+"Endurance have create a new 8.5W+ laser... Infinite power: can engrave on a stainless steel, aluminum, copper, etc.
+https://www.youtube.com/watch?v=hv41RWch1o8",0.2732,27
+"Excellent tips; thanks.
+Did you fix the issue with the laser firing upon controller initialisation? I have the same issue. I originally assumed it was a floating pin that needed a pulldown resistor but haven't found time to investigate yet.",0.3818,45
+"FRIEND really you sound like lagerfeld...if one day i make a movie , it is your voice that i put in movie as voice off",0.7715,27
+"Fantastic library! I've tried to do it all manually with bitwise operations before finding it ... man, what a time-saver! Especially happy to avoid that two's complement signed number for the stall guard threshold :)",0.8486,38
+Fantastic upgrades. Thought of going to market with this?  I'm sure many would be interested.,0.8225,18
+FlatCAM,0.0,1
+"For that I would avoid belt drive machines. I'll make a new CNC machine with chinese linear rails and ball screws, until then I don't know for sure if they are any good",-0.3098,35
+Fuck I wish I understood more of the this.,-0.2023,10
+Gab es auch von der Software auch Änderungen?,0.0,9
+Get away from the beam!,0.0,6
+"Given how successful these modifications appear to be, have you ask the manufacture if they are interested in including these changes into their standard product? You implied the modified mechine is very expensive, can you give an idea of the price?",0.782,45
+Great job with the precision and silence. Thanks for sharing your steps. Can you let me know how well a PCB etched using the improvements?,0.9217,28
+Great pro tip I got from that was using a breadboard for soldering pins to pcbs. The rest of the video was also very informative of course.,0.6249,29
+Great research. Very impressive performance. Thanks for sharing!,0.9319,11
+"Great video, great upgrades!
+
+ok...awkward question time...I have no experience with electornics, but I do own a laser machine similar to this, can I follow your video to upgrade mine? or anyone know where I can find a more step by step/for dummies tutorial for upgrading my laser?",0.6312,60
+Great work. I have tried to implement the SilentStepStick with your suggestions but after few steps the machine stops to work. Any suggestion with LaserWeb machine profile?,0.1655,30
+Great!,0.6588,2
+Gute Arbeit,0.0,2
+"Haven't used the TMC2100, so I might be missing something, but yes it looks equivalent in the standalone mode",0.4249,22
+"Hello, did you change the driver (for windows) for the original stepper drivers befor change to TMC2130?",0.3182,22
+"Hello, have you increased the laser power? If I buy 2,5W laser module,can I increased the power? If it's yes,can you explain how? Thank you",0.7383,34
+Help me,0.4019,2
+"Hey Amrco, What are the Rules for Co² lasers here in Germany? I want to make a 40w laser cutter but I heard that over 5mw Lasers are illegal...",0.0387,32
+"Hey, developer of the TMC2130 library here. Even if the main focus has definitely been 3D printers and Marlin, it's really cool to see the library and the drivers make into other fields as well! The scope shots especially were really interesting.",0.8733,48
+"Hi Marco - great video. I am busy with planning of exactly this project. You answered a lot of my potential questions. The diode lasers have very short cavities, so their collimation is not good, and their beam is elliptical. That can be fixed though. Take a look at: https://www.edmundoptics.com/optics/optical-lenses/aspheric-lenses/Blue-Laser-Collimating-Aspheric-Lenses/
+I am wondering why you have such a long optical path. Surely things can be much improved by having the laser closer to the PCB, with a fan or compressed air to keep the optics clean. I'm also considering using a small mechanical shutter, instead of turning the laser on and off. Best regards!",0.953,118
+Hi Marco just for info: My laser is delivered. No problems at the german zoll.,-0.5994,18
+"Hi Marco,
+
+nice video of you. Too bad you didn't take my belt holders on thingiverse for your upgrade;)). The Trinamic drivers are already fascinating, I wanted to install them in my 3d printer, but I also love this stepper motor sound. Can you tell us something else about the cutting power of the 300 mW laser module? For small engravings I'm still looking for a laser with a small dot, my 5500 mW laser is just for the rough stuff. You may also be interested in my videos about the Laser Engraver, but they are in German.
+Greetings, 
+Martin",0.9349,114
+"Hi Marco, has the EleksMaker come through the zoll without any problems? I think the german zoll will not import it or only with luck.",0.6437,28
+"Hi Marco, i try to get a simple PCB Design from KICAD over Laserweb to the laser. How is your Workaround with Laserweb? Do you import .svg or .dxf to generate the gcode? i have no luck with both :( thx Zh4ng",0.1926,48
+"Hi Marco.
+Thank's a lot for this movie. I have the same model od Eleks Laser, and I have the same problems as You. All information you present is just a hit. I'll try to rebuild and improve my Eleks Laser too. Thaks!",0.126,50
+"Hi, Danke für deine tollen Videos, das hat mir sehr geholfen und die erste Platine wurde auch ""ok"" - die ""Belt Holders"" zu wechseln ist absolut Pflicht - ansonsten wird es ungenau am Ende der Achsen.",-0.8316,43
+"Hi, I'm planning on buying 2 of the stepper drives and I'd like to know what pins you removed to put it in universal mode?",0.3612,27
+"Hi, Marco   Did you print the carriage tensioner pieces from PET-G as Nottingham82  or did you use something else?",-0.3818,22
+"Hm, flatcam doesn't support laser yet i think. How do you solve the M3/M5/S and Z problem?",-0.4867,24
+How are you viewing the waveforms for the motor? Is it across the sense resistors? Or across the motor windings directly?,0.0,24
+How would you use this to make pcb's?,0.0,9
+"I almost ejeculated, amazing, and i got the same laser,  question, i want to use it also as a router cnc drill, and tips and links or is there a complete setup that will fit?",0.7447,41
+I am more of Cetus3D person :),0.4588,8
+"I am not qualified to give legal advice, but I have seen many of these affordable 40 - 80 W lasers operated in Germany. If you were a factory owner who made his unqualified workers use such a machine, it surely is illegal. But if you order one to your home and use in your garage it'll probably be fine.",0.1027,65
+I can't able to print using outline mode,0.0,8
+"I can't help but think with that tensioner you'd be better off having a spring in the gap and fixing the nut on the outside to account, that way the nuts always under load and less likely to slip.
+
+I've got some of the 2130's on order for my delta (also from watterott :D), i'm very much looking forward to playing with using the load detection to replace the endstops :D",0.6829,78
+"I don't like laserwebs toolpath creation that much, flatcam is much better. Export gerber files, import to flatcam, generate gcode, import to laserweb or similar to send it to the machine.",0.4386,37
+"I doubt it, because jlcpcb.com still has that 2$ offer. Maybe with a next-day-delivery option, but I don't think that kind of stress is worth a few bucks :)",0.1181,33
+"I have the same engraver (well, the older iteration of the same engraver) and have always had huge problems with jagged (and I mean really jagged) lines. Think these stepper drivers could fix that issue for me?",-0.1027,44
+"I saw lots of open areas where the pad polygons seemed not being closed at their start-/ endpoints. Was that intended to be or does it mean the stepper did lose some steps? When using this machine as PCB laser engraver such left over copper traces would mean the difference inbetween ""go"" and ""no-go"" ;)",-0.2023,63
+"I saw the same thing and and thought it was odd to see that since it's usually something you want to avoid which talks about the design quality of the cheaper driver, but yet again this was not an audio application so one can kinda understand the desition",-0.2732,49
+"I see, so mechanics, tolerances, and accuracy are good enough? Thanks!
+Oh, more things: I would suggest a fan somewhere to purge the exposure area from smoke that can affect the laser dot quality. In directed-energy-on-powderbed 3D printing processes, not only is a purge like that used, the toolpath generation even takes the gas flow direction into account so as to not direct the beam through the fume clouds that are on their way out across the yet unexposed powder surface!
+Also, instead of obsessively trying to force blocks of metal around just to redirect a weightless laser beam, and taking painstaking and costly (if amazing and innovative) efforts to reduce mechanical trouble, have you ever considered galvos? https://www.aliexpress.com/wholesale?SearchText=galvo, https://www.amazon.de/Others-Seeedstudio-Galvanometer-motor-SC17-15K/dp/B0711XGSDG In fact, you could even combine 2D gantries with galvoed laser to increase exposure speed by using the gantry movement for rough X/Y scanning letting the galvos do the fine work. That way you could drastically reduce, even eliminate vibration from actuating heavy equipment (because you could simply let the print head travel at constant speed) while still achieving fantastic accuracy and resolution without sacrificing build space dimensions! Cheers!",0.9632,216
+"I used your printed upgrades. I had to do a little hand filing, but that was because of the tolerance of the 3D printer I was using. I was not going to reprint it when 5 min of hand filing got the roller to spin free. I now can't wait for my drivers to come in. Keep up the fantastic work.",0.9582,67
+"I usually make my boards laminating them with dry film photo resist. Does this method work for that kind of film? I think you use pre sensitized boards, right ?",0.0,33
+I want to try and cover the board with some lacquer and then use the laser to remove it. Not sure how well that will work but it would save one step and some chemicals. Still waiting on some parts.,0.7684,43
+I was wondering how the stepper driver are providing the better performance. The controller is sending a pules when a step is needed. The only way I can think of is that the stepper driver introduces a delay and therefore smoothing out the timing errors. Futhermore I think you can see it in the results! Because there you see that not  all forms are completely closed. This can then be explained because the laser introduces nearly no delay. Any other ideas?,-0.68,88
+I wonder why you added the Monopoly logo in video post processing :o,-0.1027,14
+"I would rather DIE than farm skilled work to China. Also, I'd like to be able have an intelligent conversation with the people I work with.
+China can offer to pay me, in order to make PCB's for me, and I STILL pay several HUNDRED pounds to have them turned around quickly in the UK.
+
+Flip side of the coin, I'm sure you are busy enough as it is, without taking on jobs that require high accuracy, lots of your time but low pay.",-0.4707,94
+"I would recommend the standalone mode for the trinamic drivers (and I am using that for my machine now, too). For that you only have to remove the 3 pins that I've shown at 3:30 and invert the direction pin mask of the GRBL controller (you can just google that)",0.3612,56
+I'm glad you used the voting system on the YouTube community features to help you decide what video to make.,0.6908,21
+"I'm using a text editor like notepad++ and replace all lines ""G01 Z-1"" (or whatever it's configured to do) with the line that turns on the laser and all lines ""G00 Z1"" with the line that turns off the laser",0.3612,50
+"I've been watching your channel for a while now, but I still don't understand your intro xD",0.7351,18
+"If you google for 'Logend wooden box iron box TS100 smart iron wood box' you will find it.
+https://www.englishtaobao.net/product/559739613540/",0.4019,22
+In this video with the 405 nm diode presensitized pcb material by Bungard. With the more powerful 445 nm diode hardware store spray paint,0.4754,25
+In this video: Weller WSP80,0.0,7
+Interested on your progress. Do you plan on sharing your design?,0.8074,13
+Interesting comparison! I wonder if there are any technologies in the Trinamic driver that could benefit HiFi amplifier ICs,0.7177,20
+Interesting idea. May I ask what you are using for the spray resist?,0.4019,15
+"Is it just rolling in 2020 extrusion?
+
+Might be able to get even faster speeds and tighter control with some linear ways.",0.0,24
+"It's only heat that can kill the laser diodes, afaik. I've been doing a lot of jobs > 30 min, didn't feel any warmth on laser modules at all. But it depends on the output power. Another possibility is that the 30 min rule exists for the constant current source which might also get warm. But I've never seen it",-0.7415,66
+Just Wow. Echt toll!,0.6239,6
+LOL! Wow ... a CNC'ed Wood case  for the TS100 solder iron .... you Rock !!! :) this is called upping the game!,0.91,27
+Lol (Laser out loud),0.4215,6
+Makes me want to do this on my CO2 laser machine.,0.0772,12
+Marco Reps I really like the fact that you showed the effect visually with the oscilloscope. It's one thing to to say it but seeing it was great. I am not sure if you could show the other features visually,0.7272,42
+Marco Reps More likely it is the other way around. The trinamic chips or stepper motor drivers of the future can benefit from reduced distortion methods of audio ICs or discrete components such as Darlington pairs or negative feedback loops.,-0.1779,42
+"Marco Reps That is not very expensive at all and I am considering buying one. It would be nice to be able to source all the parts for the update in one place. The modified mechine is very impressive. 
+Please can you point to the video that deals with optimising the laser dot size. You refer to it in one video and say the details will appear in the next, but I have not been able to find it.
+Do you think belt drive is better than a screw thread? I have always assumed that a screw thread drive would be more durable.
+How well do these very fine featured boards etch?",0.9264,121
+Marco Reps thank you so much!😊,0.4199,8
+Marco Reps the WSP80 is a full soldering station from what I see. I do mean the one with the neat display in the wooden box....,0.4588,29
+Marco Reps vielen Dank für den Tipp 😍,0.0,8
+"Marco Reps when seeing that case I fell in love with it - would be great if you could pass a link as soon as it's available!
+
+PS Great video",0.9286,31
+Marco Reps. Haha I know the problem very well (in Dutch). It's even a bigger challenge when you need to go back and forth on a daily basis. Great video as always btw!,0.8118,39
+"Marco, Have you seen Mike Everman's servo belt drive? (http://www.cnczone.com/forums/linear-and-rotary-motion/59570-forum.html) . It's aimed at reducing (eliminating) belt stretch errors in machines like yours.  It uses a  layer of belt fixed to the frame that engages (tooth to tooth)  the main drive  belt on the sections either side of the drive carriage , so providing traction and removing tension from the drive belt. Mike holds a patent but he has said he's happy for individuals to use his idea.",0.714,89
+Maybe this will work: https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20171221095911&SearchText=TMC2130,0.0,6
+Me neither :| The forehead GoPro is how I used to film for a long time and I edited it in the style of third eye mythology. The logo it transitions into is just a random logo I made in Adobe Illustrator an eternity ago,0.0762,46
+Merry Christmas !,0.5848,3
+Merry Christmas and a joyful new years :) God bless each and every one,0.936,14
+"Merry Christmas and thanks for a brilliant video. I have to investigate getting this machine, upgrading and etching PCBs. The time saving alone would make it worthwhile, not waiting for couriers.",0.891,36
+"Merry Christmas! ...I heard you say this is capable of 3D printing, then what  about a heated bed. Not a big deal I know. They make them all day long over there :-) I am currently producing project boxes (and many tears ) with something called the Ultimate Parametric Box at Thingiverse (really excellent use of OpenSCAD. And out of the last five attempts I got one good piece 130x80x25.  representing one half of the finished enclosure. The headache is managing to keep the large flat surface stuck to the heated bed without lifting a corner during the session.  I am so happy when the parts remain stuck flat to the bed :P I have much wasted material because of warping and lifting. How would the Eleksmaker manage the heated bed I wonder......did you do another vid on the 3D printing variant?",0.94,157
+"Muito top, sua explicação é muito boa! Parabéns!!!",0.453,13
+"Nah, I don't have a heated build platform yet, so PLA had to do. It works great now but it will deteriorate",0.3291,25
+"Nah, Trinamic Logo, but maybe we'll do DIY semiconductor design next with a more precise laser :)",0.6364,19
+"Nah, not *very* expensive, but commercial PCBs from China are getting cheaper and cheaper! I'd say this machine cost 200$ for the machine, 30$ for the 3D printed parts (if you have to purchase them), 30$ for the laser module and 40$ for the stepper drivers = $300",-0.126,62
+Need to make a new GRBL board with out having to do the wire mods. =),0.4939,17
+Nice to hear. I hope my Laser do so too....,0.6908,12
+Nice upgrades! May I ask what precision can you achieve with that motor driver?,0.4753,16
+"Nice video as usual Marco.
+Soldering iron case...Google 'Logend wooden box iron box TS100 smart iron wood box'",0.6705,23
+No ... not yet anyway ... ;),-0.0772,7
+"No chance, won't even leave a mark on any metal! The only thing it can do is remove anodizing dye",-0.0885,22
+"No problems with BG so far, but a roll of solder didn't arrive once :) About EleksMaker ... I've shown everything I found worth showing. The laser machine is good, even better after modifications, the 405 nm laser had a constant current source glued in which I didn't like. But again: Good after modification.",0.7625,61
+Now this is the first video that eradicated all my doubts in purchasing a TMC driver.,-0.296,17
+Now you can add sounds so it can do a *pew* *pew* *pew* sound when it is active and they won't be drowned out by the stepper motor sounds.,0.7046,36
+OK,0.296,1
+"OK Marco, we need to see the code and wiring diagram for  the 2nd Arduino.",0.4466,17
+"OK great.  Thanks so much for the reply.  That is what I was hoping the answer was.  Usually heat is the killer for anything electronic, so as long as every part of the system (laser diode and power supply) stays cool, one should be able to run indefinitely.",0.8668,56
+OMG you printed my x axis adjusters! glad it worked for you and thank you for including it in your video!,0.7256,23
+"Oh allright, thanks",0.4404,4
+Oh wow. I wish I could learn from you!,0.7777,11
+"Ok, die Maschine wurde beim Zoll wegen ""Produktsicherheit"" abgefangen, vom Gewerbeaufsichtsamt begutachtet und aufgrund des fehlenden Schutzes sowie der zu hohen Leistung des Lasers (für eine Privatperson) dort einbehalten. Wird von denen zurückgeschickt..
+Jetzt werde ich versuchen es ohne das Lasermodul zu bestellen und den Laser selbst getrennt zu beziehen :(",-0.6808,59
+"Ok, got the link from the description. Dankeschön.
+Google thinks the site is dodgy, but will allow me to go there :)",0.7579,26
+"Ok, überzeugt, kaufe ich mir 🤓
+Deine Mods sind wirklich sehr praktisch! 
+
+Hast du eigentlich schon Erfahrungen mit einem stärkeren Laser gemacht, der damit kompatibel wäre? Mir ginge es drum PVC, Thermoplaste oder Holz zu cutten.",0.3595,43
+"Once you attach the Arduino, do you interface with it after installation or does it go automatically to calibrate the edges each time and stall when hitting an object?",-0.2023,31
+"One more thing, could you please share the test file you run on all the CNC machines to check the PCB quality? (I'm referring to that Zebra one)",0.5423,32
+Oooh... Nice re-work!,0.4753,5
+"Please search in eBay with ""ts100 logend box""",0.3182,10
+Realworld DRC/ERC :),0.4588,5
+Sexy,0.5267,1
+Sharp! quite impressive.,0.5974,5
+"Sir, do you have an opinion, or better, an experience, that would indicate if either the stock 445nm laser or your modified 405nm module will vector cut plane paper and/or card stock?",0.2023,39
+So... when is your Prusa i3 MK3 arriving?,0.0,10
+"Springy tensioners worked quite well on the Cetus3D printer, but probably only when next to no mechanical load is to be expected",-0.3723,24
+"Sure, one day when I'm done. Its going a bit slow. Waiting for some components, sourcing others, and job interference :-)",0.5574,26
+"Surely you can use more lasers on it,",0.4404,9
+TS100,0.0,1
+"Thank you, awesomely useful video!",0.69,7
+Thanks Laser Graffiti for posting the URL link.,0.4404,9
+Thanks for sharing 😀👍,0.6908,5
+"Thanks for the reply, although I am already following Tom's videos. His video was actually the reason I now need to have the TMC2130 on my Prusa :D The issue is that the Rambo Mini has very few unused PINs. Having four TMC2130 will make the multi material upgrade unusable. I guess having only X and Y is the best tradeoff.
+
+Just received the parcel from Watterott, so hopefully I will be able to do a quick and dirty proof of concept tomorrow (using P3 header and changing the PINs in the firmware). Today I have to install the beamer and screen :)",0.9405,114
+Thanks for the video very interesting!show us what software you use to get from Gerber or image to Lasered copper?,0.4926,23
+Thanks!,0.4926,2
+"Thanks! I don't have printer, so I have to find someone to do it.  (Or load STL into something, get dimensions, and start filing!)",0.5399,32
+"That idea really reminded me of Microsculpture https://petapixel.com/2016/04/25/macro-photos-made-10k-images-captured-microscope-lens/  
+Thematically a bit off but maybe some of you find it interesting.",0.5499,21
+"That is getting insane, that you can do that at home",-0.4019,12
+That led at the end tho........................BTW was that the MACRO REPS logo on the chip (at 2:48 ) ??? you sneaky beautiful bastard!,-0.3252,29
+That was so freaking cool to watch. I love upgrade/tinkering vids like these! Cheers and happy holidays!,0.9397,22
+"That's a TS100, have a look at my video about it. The wooden box has to be purchased separately tho.",0.0,23
+That's a very nice case for the ts-100!,0.5244,11
+The TMC2130 are amazing little things!,0.6239,8
+The Trinamic drivers were probably the best upgrade for my 3D printer - Delta printers are especially noisy with four motors going constantly; now all I hear is the fan noise,0.6712,32
+"The final result was Bungard presensitized FR4 base material, but I think almost every product will work",0.0,18
+"The manufacturer sent me that a while ago, I don't know when / where / if at all they are selling it",0.0,23
+The manufacturer sent me this link: https://www.ebay.com/itm/162776351409,0.0,8
+"The oscilloscope outputs at 4:43 from your drivers are exactly the same as a ""class a"" audio amplifier (or likely ""class ab"" on the left) vs a ""class b"" audio amplifier (on the right). The cross over distortion (or in the audio world THD) likely influences stepper driver movement in the same way as it does a speaker driver or our ears. Hence being more quiet and having fewer artifacts.",0.0,85
+The white ones? Looking very much identical ... but if you want to be 100% sure you should check the datasheets,0.5267,23
+This is a fantastic video. I'm looking forward to seeing how all of this is done and how to configure it. I just bought this same machine and am following your upgrade path. Please put a configuration video with information on how to do it!,0.7345,49
+This is awesome,0.6249,3
+Thomas Sanladerer has a video specifically on that. https://www.youtube.com/watch?v=sPvTB3irCxQ,0.0,10
+"Those definitely look like missed steps to me. Notice how some of the boxes are either not closed, or have ""legs"" where the laser closed the box shorter than where it began engraving. These plagued my A5 Pro. I had to re-square the frame, added some 3D-printed axle spacers (https://www.thingiverse.com/thing:2501088), the belt tensioners featured in this video, and fiddled with the acceleration to sort it all out.",0.2732,81
+"Unfortunately sold out now at Watterott - I was thinking about buying them before, but now knowing how incredibly silent they are, you convinced me.
+Though it seems that's the only store you can get those at in Germany, sadly",-0.2144,44
+Very interesting video. Everything ordered and printed justness to wait for the deliveries now.,0.4576,16
+"Very nice.  Quick question.  On many of these laser diodes, they specify not to run the laser for more than 30 minutes continuous.  Is this just a matter of better cooling to improve the duty cycle, or is the duty limit inherent to the diodes?  Thanks",0.8977,52
+"Vom Hersteller direkt bekommen, hier gibts die scheinbar: https://www.ebay.com/itm/162776351409",-0.5994,11
+Vuthana Mear,0.0,2
+"Waow! Next upgrade, go for Octarine Core for additional 25% coo ...wait nevermind...",0.0,18
+"Well err, not quite a legit comparison. Speakers are essentially (ideally) a resistive load being driven by a voltage source (Class AB or Class D). Steppers have a significantly greater inductive component and are being driven by a current source. The feedback loop in an audio amp is controlling the amps voltage output whereas the stepper driver feedback is controlling the current that the stepper coil is allowed to ramp up to. If the scope is showing only voltage across the stepper coil then that's not the whole story....",0.5574,99
+"What a good idea, will have a look!",0.4926,10
+What is this solder iron that you have and where can i purchase one?,0.0,15
+What's the oscilloscope?,0.0,4
+Where did you get the PCB?,0.0,7
+Which boards do you buy to use with the laser?,0.0,11
+Will upload along with the config and software stuff,0.0,9
+Wonder if the Watterott /Triaminics driver would work on a Carbide 3D Shapeoko 3,0.0,15
+"Wonder what power laser is required to etch a standard copper clad board, if they make even a small desktop laser pcb etcher they will sell loads of them to hobbyists and businesses for rapid prototyping",0.0,37
+Wow fantastic,0.8126,2
+Wow! Really great Upgrades! Very impressive. Especially the Trinamics Driver.,0.9242,14
+Wow!! those modifications worth a lot!! Great details!,0.8994,13
+"Wow, woher hast du die schöne Box für den Lötkolben?",-0.0258,12
+Yeah those trinamics are a beast of an IC,0.296,9
+"Yeah, the TMC2130 is great. Got some on the way, too. Now I just have to figure out a way to install them on the Prusa MK2... Maybe your Arduino-Code can help me with that?!",0.8516,43
+"Yeh, beautiful idea! I already have nice ""h264 built-in"" camera that gets huge resolutions at high frame rates through USB 2.0. Will take a look at that lens.",0.8516,34
+"Yes, I've noticed that too. I think it's a result of a relatively new GRBL feature that adjusts laser PWM power based on movement speed. When the axis moves slower, the power is reduced to avoid burning. Since I have adjusted the laser power to a level that just barely exposes Bungard FR4 boards, I could imagine that the GRBL-side adjustment causes insufficient exposure",0.0754,70
+"Yes, sense resistor and active differential probe to avoid triggering the short-to-ground-protection",0.4939,13
+"Yes, the new Prusa i3 mk3 that just came out uses the same drivers for sound and also for endstop detection.",0.4019,23
+You can turn that GRBL feature off if you use M3 to enable the laser. Use M4 to enable the dynamic power mode which has its uses but probably not in PCB work.,0.2023,35
+"You never want springy tensioners for precision movements. That kinda defeats the purpose. They have to move reliably and precisely, and springs make corners round :)",0.3479,29
+You're most likely the best maker-engineer I've seen on Youtube.,0.6666,11
+Your listening to smoooooth cnc on 95.5 the coyoteeee.,0.0,10
+"Zebra <3
+Great work!",0.807,5
+Zhang Wu I never had any problems. For some cheaper products I had to pay taxes and customs but not this laser machine. That came right to my door without having been opened for inspection.,0.1101,38
+any idea what the kerf on that laser is.. because im wondering whats the smallest smd foot print i cant get away with.. if it could do a 48qfp microcontroller that has 0.21mm space between each pin i would totally go for this machine,0.0,47
+"ayyyyy :D
+
+edit: dann mach ich das hier mal zum ersten deutschen kommentar um 5 uhr morgens 😁",0.6166,19
+brilliant indeed !,0.6239,3
+can you cut aluminum with the stock laser?,-0.2732,9
+conrad.de,0.0,1
+cool,0.3182,1
+crckdns Ist mir genauso gegangen (hier hat das Gewerbeamt ne Grenze bei 1mW für private gesetzt)... Leider liegt das Paket  seit 10 Tagen immer noch im Exportzentrum.  Werde nochmal einen über Gearbest mit der Schmuggelpost bestellen. Dann sollte er ankommen. Bin gespannt ob ich von Banggood nen Refund bekomm :D,0.6166,56
+"crckdns Witzig ist auch, dass ich nen 500mW 405nm Laser mitgekauft hab, der wurde aber extra verschickt und ist problemlos bei mir angekommen. Ist deine Maschine denn schon zurückgeschickt worden? Bei meinem Tracking regt sich nichs mehr...",0.0,42
+"f0wl jup, ich habe auch einen 500mW extra bestellt, dieser ist über die Niederlande zu mir gekommen ohne Probleme..
+Meines liegt wohl noch beim Zoll, evtl muss ich denen einen Brief schreiben dass ich die Annahme verweigere, Vllt wird es dann schneller zurück geschickt :/",-0.8807,50
+https://www.thingiverse.com/thing:2482004,0.0,1
+i didnt even know the made such drives! they perform amazingly,0.0,12
+"is it also possible to mod this by increasing the ""print area"" to 20 inch by 30 inch that fits a dollar tree foam board in one go?",0.0,31
+it is expensive for a guy like me with $300 salary here in India,0.3612,15
+"oh man, this motivates me a lot to pimp my machine a little.
+Can you post some details about the 3d printed parts and the end stop solution and spi interface you built?",0.0258,36
+omg,0.0,1
+pretty cool laser machine,0.6705,4
+rohde & schwarz rtb2004,0.0,5
+"sehr cool machst du das selbe für deinen cetus ? :D hab auch einen und würds dann direkt nachmachen wenn das ""Einfach"" geht gruß :D",0.8851,27
+"so since stallGuard, CoolStep and dcstep are not used the TMC2100 would be  sufficient?(TMC2130 is sold out, again)the github doc on that one leaves 5 pins unconnected to put it in universal mode :https://github.com/watterott/SilentStepStick/blob/master/hardware/SilentStepStick-TMC2100_v13.pdf . Thanks again for that great vid !  Must have lived under a rock somehow since I wasn`t aware of the trinamic drivers before...will see if that can improve accuracy for microcarvings on my eleksmill as well...",0.8805,86
+thomas sanladerer also made a video about them in 3D printers specifically,0.0,12
+too amazing real germany engineering upgrade ! thx for share !,0.8436,11
+what soldering iron are you using?,0.0,7
+"what's up with the dimensional accuracy though, how come those lines aren't parallel",0.0,14
+wow!!! ich bin schwer beeindruckt! ich will auch sowas ! <3,0.8346,15
+"yep that is the piece of crap that DAMAGED MY 600Euro FLOOR, f that.
+And nobody pays me that back but me...  unsafe piece of shit.
+WannaDuino",-0.8134,31
+you make amazing content,0.5859,4
+Отличный канал !  Палец вверх !,0.0,6
+заказал TMC2130. Очень понравилось как двигается каретка :),0.4588,10

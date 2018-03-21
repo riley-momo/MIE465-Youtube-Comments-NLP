@@ -1,0 +1,673 @@
+,sentiment,wordCount
+"+ACvoltage Electrics thank you for the kind words. If our video is share worthy, feel free! A DIY on the Genesis coil.... Boy with me being a perfectionist... That would be quite an episode 😉",0.9273,41
+"+Albin9000 the capacitors are crucial, and this device will not function without them. I'll be updating the video info soon to include location to buy these capacitors!",0.0,32
+"+BogZ Ola! Thanks for being number one. We've been quite busy lately wth personal conquests, so we apologize for such a long delay on this episode!",-0.3958,31
++Brian Bell I am fortunate to not have nerve damage. Glad you are safe as always!,0.8938,19
++Brian Bell thank you! Depending on how much capacitance you have the entire circuit needs to be tuned. Meaning depending on the capacitance you'll need a specific number of primary turns,0.4753,34
++CustomBoosted much appreciated,0.5106,4
++Down to a Science I'm honored. Thank you. Shares help a lot. You can help us by sharing any video you find fascinating!,0.9612,28
+"+Edward Z great questions! The primary I believe to be 20 gauge Wire. The secondary I believe has 375. However, rely on distance wound on the secondary instead of counting turns.  those 6 ish primary turns are different though. Don't deviate more than half a turn. That should match resonance (I experimented fiercely to find those numbers)",0.6588,67
++Keystone Science thank you nate! I appreciate your fellow enthusiasm! I have loved your episodes.,0.9115,19
++Ludic Science we thank you! I've built five of them now. Love making them!,0.8065,18
++Mikel Miranda hi! They certainly would be. As long as that material is absolutely insulating.,0.4003,19
+"+Patrick Joseph and ceramic will work, but you'll see a drastic reduction in performance. Ceramic are not good for high frequency oscillations such as in a tesla coil.",-0.4782,32
+"+Patrick Joseph mouser.com is where I buy mine. Very very cheap! Mouser.com is great. I wanted to include that in video, but promoting another company may be illegal so I left it out.",-0.1007,39
++Rod madness .0039uf is also 3.9 nf,-0.4404,9
++Rod madness they are .0039uf polypropylene capacitors! 3kv. They can be found on mouser.com for very cheap. With shipping- 10 cost me 11 dollars.,-0.4926,31
++Stone Cold7 certainly. Always glad to discuss!,0.69,11
+"+Stone Cold7 thanks for reaching out! The spark gap cannot conduct through you, as you're not placing one hand on one screw, and another hand on the other screw. Only one terminal is being touched, meaning there is no pathway available for risk of shock through your body. You'd have to stand on a perfectly grounded plane barefoot for any true risks. For very large coils, however, definitely best to not adjust while in operation. I completely agree with that!",0.8696,93
+"+Weetart ED thanks for the feedback! You indeed CAN power from a 5v usb. It seriously comes to life. Like double the performance. But.... It is overdriven and you run serious risk of blowing transistor or any component on the circuit board. As per heat sink while at 3 volts, that in theory should allow very long runs.",0.5411,67
++YOUR NPN FRIEND awesome! We love Shares,0.9406,9
+"+iMAD SCIENCE I agree I wish they were bigger. 1/2 inch is not my style. But I sacrificed spark size, for durability, functionality, and appearance.",0.7269,32
+.0039uF is 3.9nF,0.0,5
+"1:48 measuring plexiglass in inches, 6:00 measuring plexiglass in millimetres.",0.0,12
+2 questions. Is the primary solid or stranded wire? And what AWG gauge is the primary?,0.2406,19
+3.5k views yet on trending? how much did you pay?,-0.1926,13
+3.9nF is .0039uF.......  👍,0.0,7
+3:21 it is very important to pull out,0.2716,8
+3:42 preppairing to autosave game,0.0,5
+6 1/2 turns was through experimentation. Adding and removing turns until the maximum spark length  was achieved.,0.2263,19
+"8mm at best, haven't gone back to it to experiment with it to get better out put, but any tips are welcome. the designer knows best.",0.9366,30
+"A 3kv dc rated cap will not survive 3kv ac tesla coil primary circuit voltage. Not even 6kv will last forever. I put three in series to create a 9kv cap which will literally last forever. The reduced capacitance allows for faster break rates, thus, more of a tesla coil effect. Also, the entire circuit is tuned to the exact build you see in the video. Primary turns are intentional, cap bank is intentional, and secondary size is intentional. Could get slightly larger sparks with larger capacitance, but, then break rate would be low and also primary turns would need to be changed.",-0.2732,117
+"A tesla coil is much like any other precision invention out there, like an engine. Replace one piston with another piston not designed for that exact engine, the entire engine will sieze up, break, or explode. Same for guns. Bullets are designed for the specific barrel size. Put in one too small, it will hardly shoot. One too large, it will either not fit, or, your barrel with explode. This tesla coil is identical to all tesla coils in that every single part is calculated to fit in perfectly with the rest. That is how this one boosts 3 volts up to 30,000. Every part is in resonance. In harmony. Now, slightly different parts can be used, but they must be close. 120pF capacitors are exactly 1/10th the capacitance the coil calls for. That causes the primary circuit to have a frequency 10X as high as it should. Meaning, the entire coil system would be out of wack. You could build a tesla coil with those caps you have, but you'd need to engineer an entirely different tesla coil. Sorry!",0.5829,209
+"Ac is 120 cycles of dc. It has 60 half cycles of dc push, and 60 cycles of dc pull. Net effect is push pull push pull. Making ac. But it charges the proper capacitors exactly the same oh each one of these half cycles, as a straight dc current wounld",-0.0516,57
+Actually that’s EXACTLY what I use. It’s excellent. Just make sure both surfaces are clear of dust and get a nice even coat!,0.8932,30
+"Actually yes. That is why the bolt is designed to have the base wire wrapped around it. So you can use the bolt as a connector for that. It creates a higher current spark, slightly longer too, if you ground the bolt connector.",0.6908,49
+"Agreed! Sound levels have been infuriatingly hard to master. I’ve been trying to be better in recent episodes. What do you think of the sound in our newest episode, I could use some feedback.",0.5983,41
+"Ah, musical SSTC. Those are a little bit above the scope of my channel for now. But, I will be building a singing plasma arc. You'll enjoy that one",0.4939,34
+"Ah, so that depends on capacitor size. That’s fully depends on capacitor size",0.0,17
+"Ah, yes. You’re welcome. Tesla coils are precision equipment. They cannot be built with a random  variable. Throws everything out of wack.",0.6908,30
+"Also Keystone was my first collab. Nate is a nice guy, though increasingly more busy",0.4215,17
+"Also, adding to that, the capacitor is rated 2kv DC (usually). In tesla coil use, DC capacitors need to be rated 1.4 times the amount of the source voltage. if not, the capacitor will eventually die (may last a little while though).",-0.5994,53
+"Also, make sure that spark gap is very close. Say.. the thickness of two papers",0.4939,18
+"Also, some circuit boards have a resistor built in on the High Voltage side... it is a safety measure to reduce shock, but it drains tons of energy. Do you see even a single resistor on the high voltage side of the circuit board from the zapper?",0.4118,52
+"Also, that’s a sign that your capacitor is either in the wrong spot of the schematic or your capacitor is shorting out.",-0.4767,26
+"An ac cycle indeed can charge a  capacitor. Ac has 120 charge cycles which are half cycles a second. First half second, positive charge, second half second, negative, third, positive. And so on and so on. If the capacitor is small enough that it fully charges during that half cycle, and your spark gap is set to go off at the peak voltage of that half cycle, then you have 120 half cycles that can charge a cap and ignite the spark gap.",0.6003,95
+And is present about two thirds of the way through the episode,0.0,12
+And why not use millimetres for the first set of dimensions...?,0.0,13
+Any advantage to  connecting the foil on the base to an earth ground?,0.25,14
+Any advantage to connecting the counterpoise to an earth ground?,0.25,11
+Any problems using 2 D cells? It is still 3 volts but I was hoping it would stay at the higher max voltage longer than the AA cells. When the voltage starts to get down to 3 volts & lower the distance the top load will spark to your finger seems to reduce.,0.5574,56
+Are you Teslas Son?,0.0,5
+Are you planning a solid state Tesla coil tutorial? These are the original concept the park gap ones. They weren't really accurate but you can tune a solid state one and make it also self tuning by some sorta feedback. That quite improves the output power.,0.7899,50
+As a high voltage capacitor  is not available. I have used two capacitor one of 3.3nf 2000v and other of 5.6nf 2000v,0.0,25
+"Ashley, great compliment, thanks! what was your favorite part?",0.9245,13
+"At this point, a replacement circuit may be the cause. I hope though that you don’t spend that money and have it not work again. But it appears to be a circuit issue. You’re positive the rest of the coil is built correctly?",0.7579,52
+"Awesome DIY...you should do more of the tutorials. I noticed in your description you said that they can over heat. If I placed  small cooling fan and a heat sink, would that eliminae the over heat problem with the transistor? I was also thinking that I could power the 3 volt unit with a micro-USB from a computer in conjunction with the battery pack..... to give a computer desk verion and a portable version ( as a portable one ... I would use spray lacquer on the Primary Coil )....what do you think ?",0.6199,103
+Awesome videoooo! I thoroughly enjoyed all of it! I wanna make one for myself :),0.9057,17
+"Awesome! I do have to ask, which circuit did you end up with for the bug zapper racket circuit? I’ve had a few people report that the REALLY cheap rackets perform not too well. I spent three days exchanging emails with a kid doing this for his science fair project, and it turned out he bought two circuits that flat up didn’t work from factory. Not his fault or mine, but really big bummer for him!",-0.5359,88
+"Awesome! Remember, treat it with respect, it will last years. My first one from two years ago is still ticking",0.8805,24
+Awesome! Welcome to the channel!,0.8264,7
+BTW: This zapper has a momentary switch to activate the power so it needs to be hard wired to bypass the switch.,-0.1027,24
+Bag chafe? Work on speed first. Remember: E=mC(C)... It's the acceleration of mass that pumps up the force delivered. The remainder is joint muscle control from the ground to the delivery point. Thanks for the video. I subscribed.,0.4404,51
+"Because you may not have designed it to charge discharge properly. Now, are you saying you built my coil and capacitor is not charging?",0.0,27
+Both digikey and mouser are great! I personally like mouser because they are based in Dallas while we’re in Austin. Normal shipping takes only 18 hours!,0.8011,31
+"Brass in theory will give better results, but, slowly corrode over time",0.2382,14
+"But if you will can to see that ( capacitor unsoldering and two high voltage wire soldering in this circuit ) then it become more simple for our . OR if you can , please make one more video to make mini Tesla coil like this video but with out bug killer racket circuit. Please",-0.3818,56
+But looks very nice,0.4754,4
+But my power source transistor I was damaged up why?,-0.4404,11
+But that corrosion would take a year of use,0.0,9
+By secondary you mean the tower?,0.0,7
+By your comment I'm guessing *you* like his face too much.,0.3612,14
+Can I use 20 gauge copper wire for the secondary coil?,0.0,12
+Can I use 28 gauge magnet wire instead of 32.,0.0,11
+Can I use brass bolts instead of normal bolts?,0.0,10
+"Can i use 22nf 2000v capacitor 
+
+PLEASE REPLY
+
+NEEDED URRGENTLY",0.4648,10
+Can i use 31 swg wire,0.0,6
+Can you make a microwave transformer powered tesla coil?,0.0,10
+Can you tape aluminum foil instead of buying aluminum foil tape?,0.0,12
+"Certainly! The ""This tesla coil changed everythng - The Genesis Coil"" episode. It was right before this one.",0.4003,23
+Certainly.,0.34,2
+Certainly. May be more performance out of the coil doing so. But still stick to the rest of the design,0.34,22
+"Check out ElectroBoom's video on this very subject:  https://www.youtube.com/watch?v=m7CtnR47w20
+I'm no expert but I play one on the internet.  Basically keep your mic close and gain high so your voice drowns out everything.  Compress the shit out of every track and try to maintain a constant sound pressure throughout the whole mix.   Don't blast us with techno if we've just had to turn up the volume to hear your quiet voice.   Just my 2c and I have no idea what I'm talking about, YMMV.  Good luck, we're all counting on you.  Your content is great and your Gaston/Flynn vibe just makes me laugh.   Great work.",0.9839,118
+"Check out my little coil guys. :)
+https://youtu.be/3Dz9TnDVm6k",0.4091,9
+"Considering that the primary LC circuit isn't tuned to the secondary, better magnetic coupling is likely to make hotter arcs. It's not technically a Tesla Coil, as there isn't resonance happening in the secondary unless you were *very* lucky. Were it to be a resonant transformer and not just a step-up transformer, at these frequencies, you would probably still want a cylindrical coil rather than a pancake coil, but with fewer turns (as the extra inductance would probably lead to over-coupling for a coil with that resonant frequency and dimensions, which is likely very high around 4 MHz). My recommendation is that you leave off the topload for this transformer, and go for a point or wire breakout. You don't get any benefit from the capacitive loading unless it's oscillating, and it will hurt the output's ability to form streamers (you might actually get some freely breaking out without it)!",0.2434,169
+Cool build man ! Peace from southern Ontario Canada 🇨🇦,0.7263,11
+Cool video.. clear and to the point.... Will save for when I build my Tesla coil...:D,0.7964,20
+"Correct, because the exact positions needed were more precise than sixteenths of an inch. Thus, MM.",0.0,20
+"Correct, you can use C and D cells as well",0.2732,11
+Correction: I counted - approx 420 turns. Hope this helps,0.7096,12
+Counter ... what?  (bottom wire of secondary coil)?  You said that too fast.   What does it do?      Also you didn't mention anything about stripping the wire on the secondary coil (top and bottom).   I assume you need to do that to complete the connection to the door knob and the aluminum tape  at the bottom.      Thanks,0.533,66
+Details of the capacitor please,0.3182,5
+Did you punch a wall a few times or did you get into a fight?,-0.3818,16
+"Did you remove the capacitor from the original circuit board? Also, make sure the high voltage source is on one side of the spark gap, and the capacitor, and primary coil are on opposite side of gap (electrically) just as the diagram shows.  Also, are you certain the circuit board is functioning? About one in ten that I bought were bad from factory.",0.5362,73
+Did you use 3 or 5 volts for input power? How long was the coil in operation for?,0.0,20
+Do you think a custom printed PLA case and spark gap holder would be fine for this project?,0.4019,19
+Does the 3.0kV 0.0039uF film capacitor work as well? because i build it and nothing happend (even when i make the sparkcap smaller then 1 mm).,0.2732,32
+Dose this tesla coil use a flyback transformer?,0.0,9
+Dude u look like a really nice guy and in my opinion u deserve a lot more subs..,0.6801,19
+"Estimate the value of capacitance needed by calculating the resonant frequency of your desired secondary winding (turn number, top load capacitance) , then play with other parameters of the primary circuit to achieve resonance  youtube.com/watch?v=awyLYgu6ODM
+check other videos that explain in more detail",0.7906,46
+Every other coil on YouTube is fake? I don’t follow.,-0.4767,14
+"Exactly! It only uses 3 W. If you connect that bolt which is connected to the counterpoise to an actual ground, you will get even better performance. That is why I installed the bolt so that you can later attach it to ground",0.4926,47
+"Excellent video, well explained and laid out, something to build with my Grandson.",0.7003,16
+Excellent!,0.6114,2
+Excellent! That resistor is designed as a safety measure so that the device doesn't stay charged. So glad it's working!,0.8994,23
+"Excellent, so that is one model that work well!! If you have issues let me know",0.7494,19
+Facebook advertising is your main 9-5?,0.0,7
+"Fantastic tutorial, what size were the capacitors?  I'll go shopping as soon as I know.   Thanks again mate, love your work",0.8934,25
+Feel free to contact me via email for inquiries. It can be found under the about us tab.,0.5106,20
+First,0.0,1
+Found them.  I needed to search for 3900 pF.,0.0,11
+"From factory, Pvc pipe is measured in inches, and so are the nylon spacers - otherwise I would have. Metric is superior.",0.5423,26
+"Get a ZVS Driver (CRT TV Flyback Transformer driver) and do some experiments with it, I am pretty sure everyone will like it😃😃",0.7906,28
+Give the build a try! Total cost is 20-30 dollars.,0.0,12
+Glad it works!!!,0.5962,6
+Glad you're here!,0.5093,4
+God...who did u kik so bad??,-0.7051,10
+Gonna give it a try.  The secondary coil  is just connected to the nob on top and the bottom  to a bolt which is not connected  to anything else?  The schematic shows it's grounded?,0.2869,37
+Gonna have to make one of these soon,0.0,8
+"Good day, I like your video. Trying to make my own Tesla coil. Somehow its hard to get this kind of capacitors here. Where did you get the one you've mentioned in the video? Is there any idea how to replace it with lower voltage ones?
+Thanks in advance.
+With respect, Nikolay",0.8466,60
+"Good question. Metric is superior. I used inches due to habit, and the pvc comes measured in thicknesses of inches",0.7506,23
+"Good to know, thanks!",0.7263,6
+Grant is a good guy. Him and I have communicated. He specializes in diy. I specialize in high voltage and ion physics. We’ll maybe collaborate in time,0.6597,33
+"Graw easiest way is probably to use a car ignition coil run from a pulse circuit (ne555 chip and power transistor) for the high voltage input. It's a pretty popular circuit...just search for ""ignition coil high voltage supply"" on YouTube or Google.",0.8316,50
+Great content.   I'd advise you to manage your sound levels a little better.  I'm constantly reaching for the volume control.,0.818,23
+"Great inquiry. I indeed did this, and found a wonderful ability to transfer energy between two twin coils. However, since power level is tremendously low, I can only transfer said power about 9"" apart.",0.8692,41
+Great job and a clean build! Also very efficient! Thanks for the tutorial! God bless in Jesus' name!,0.9592,23
+"Great observation actually! So commercially, when you order 1/4 inch, it ends up around 5.5/15.... or 37% thicker than a quart inch. Weird how plexiglas measurements work...",0.5707,36
+"Great question. I never counted, rather, just filled the length of secondary, and made sure to tune primary frequency to whatever the secondary came out to be.",0.7506,32
+"Great question. I'm heavily familiar with all types of coils, including the dozen types of solid state. My only complaint about solid state coils is that if a sharp breakout point is not used, most solid state coils self destruct and destroy their transistors. The energy fails to cause natural breakout on a toroid, and bounces back down to the primary circuit and destroys the components. Personally, I am not a fan of fragility. So intend to stick with SGTC's, as they are much more resilient. Though, they are also less efficient. I do want to build a small sstc soon though. Stay tuned!",-0.5734,119
+Great tutorial! There aren't enough DIY tesla coil vids on YT. Would love to see one for your genesis coil!,0.8715,23
+Great video sir,0.6249,3
+"Great work Greg, and thank you for the credit!",0.8588,11
+"Great! Now if the transistor burned out, and it’s definitely the transistor, I had to buy a new circuit. I tried soldering in a new one but they are so tiny I did not have the skill. Sorry 😐",0.501,46
+Ground is the counterpoise,0.0,4
+GuardedDig2  may I know the materials used? In details sir?,0.0,13
+Haha good having you!,0.7345,5
+Haha no but i work for small companies or ngo in our country here in india :p m a developer :),0.7096,21
+Haha thank you. I built 3 because I love them so much that I simply wanted three.,0.8658,19
+Haha yeah I watched his episode on that. I always wondered why he yelled.... thanks!,0.8122,18
+"Haha, honored to! Just a warning by though, some people have reported it not working when using the really really cheap bug zapper rackets. Go for the 10-15 dollar rackets, it will kick some  electrons!",0.717,41
+"Happy you built along! Any voltage over 4 volts will completely destroy the bug zapper circuit. You would need a whole new transistor, a new transformer on the circuit board, and new diodes and capacitors on the circuit board as well....basically...you need an entirely new high voltage source to power your coil with. This coil is specifically designed to be run by 3v only, with 5v bursts if needed. Also, primary to secondary arcing will begin to occur if the output voltage on the coil goes too high. Bascially, using that big of a power source would absolutely require an entirely new tesla coil.",-0.0989,119
+Happy you found our video! Check out all our more recent episodes - pretty cool stuff there too!,0.8764,20
+"Have you thought of using a Fuji camera circuit, these put out some power.",0.0,16
+"Hay bro, You have 3 Tesla Coil can send me one of  those! Just kidding Great Video",0.6996,19
+He's trying to be like grand thomson,0.6705,7
+Here is a link to the ones I got from digikey.https://www.digikey.com/product-detail/en/ECW-HC3F392J/P16753-ND/,0.0,14
+Here is my youtube video showing my tesla coil in operation. It is a demo of 2 of the experiments Jay did in one of his related videos. Thank again Jay!https://youtu.be/M2N4lCEvWiM,0.4199,35
+"Hey it is Justin again, So I have decided to make three mini tesla coils for my science fair and I was wondering how much wire will I need to make one coil? And is there any other project you would recommend with the mini tesla coils? And where can I get my capacitors?",0.6531,58
+"Hi justin, I have the link in description. Not sure on length of wire - its measured with length of secondary, not length of wire.",0.3182,29
+"Hi justin. Unfortunately Tesla coils don’t work that way. They are specifically designed with every part perfectly in resonance with the other parts. To build a larger one, you would need to change a lot... basically make a whole new Tesla coil. One thing that leads to higher performance is to use a higher voltage power source, and widen the spark gap. That also requires a higher voltage capacitor... but then would also require more spacing between primary and secondary, and also a corresponding change in number of primary turns.",0.4215,103
+Hi! The circuit diagram is just a standard Tesla coil circuit,0.0,12
+"Hi,
+
+I've build your version, but unfortunately the power out is really low (spark cap is set to max)!
+
+Do the windings on the primary and secondary need to be running in the same direction, or does it not matter?
+My secondary is  420 turns and the primary is 6 1/2.
+
+Thank you for this nice project!
+PS: Will try to post the version I made (with 3D printed parts) on my channel this coming Sunday.",0.442,89
+"Hi,
+
+Is the PVC pipe really a 1"" (25.4mm) diameter?
+It looks much bigger. Or... Are you talking about the inside diameter?
+The length also looks off to me!",0.0,39
+"Hi.
+Can i combine a capacitors in series like  6.8 nF , 4.7 nF and 2.2 nF ,  to get the equivalent capacitance 1.3 nF, if all of 3 capacitor are 3 KV, 
+or all of 3 need to have same capacitance?",0.3612,46
+"Hi. I've been having trouble with the circuit. I have one similar to the one at 2:33. I soldered new wires in place of the original capacitor and did everything as instructed in the video. The spark in the spark gap was very weak, and it eventually went out permanently. I could use some help. Thx",0.5279,63
+Hope it inspired you to build one for yourself,0.7269,9
+How about sticking to one system of measurement?,0.0,9
+How did you end up with 6.5 turns for the primary then?,0.0,13
+"How is your ground / counterpoise connection? In the photo, I could not see the connection very well.",0.3384,21
+How many round are required in 2nd coil??,0.0,10
+How many turns is the secondary coil,0.0,7
+"How many turns on that form for the secondary coil?  This determines the resonant frequency.  it makes it easier to tune if you know how much inductance you need to match the capacitors.
+That or just adjust the primary number of turns.",0.4767,46
+"I actually have a 12v coil. It was in a couple of my earlier episodes. For 12 volt, you need larger components, and an entirely new circuit board. 12 volts draws a couple amps, while this little 3v coil runs at less than an amp. I can do a video in the future about how I built my 12 volt coil.",0.0,69
+"I actually have not seen that model! I thought I had taken them all apart by now... perhaps that one will be great. The one I use produces 3,000 as well. It’s a great circuit",0.8908,41
+I agree. I built one on the 9volt exciter coils with the transistor and resister and it works great. I initially had the primary wired backwards. But it does work and they are not fake.,0.9012,39
+"I am honored to help. Sorry for info overload, I had three cups of coffee in me earlier. I wish you the best, keep me posted!",0.8977,31
+I appreciate it!,0.4574,4
+I appreciate that. Thank you.  I am mostly healed now!,0.6696,13
+I appreciate your viewership,0.4019,4
+"I bought a stinger racket and removed the power source. The circuit board is different than the video. It looks like all I have to do is remove the capacitor, as the HV1 & HV2 leads are already on the same contact strip as the capacitor. Does that sound right?Thanks!",0.4199,57
+"I built one before but my one doesn't work well. It's noisy, and not much voltage out. i want to know how to solve it.",-0.1583,29
+I can't find the capacitors !! can someone please attach a direct link for them please . Much appreciated,0.8168,20
+I can't understand the wiring in tesla plz show it in the form of wire like this wire joint there show it clearly I wanna make it   By:true fan of you,0.7783,33
+"I can’t find the 3kv @ 3.9 nf like the ones you are using, what to do ?",0.3612,21
+I do WWE as a side job,0.0,7
+I don't know why there is 3k subscribers. You deserve more then 100k.,0.0,15
+"I don't know why, but I'm having a tough time finding matching capacitors.  You can find ceramic disc with the same ratings, bot not film type.",-0.1901,30
+I don’t follow? You mean my knuckles?,0.0,11
+I figured more V more better.   I'll keep you posted on how it works out.  Thanks again,0.7485,19
+I got mine from digikey.com and they look exactly like the video.,0.3612,13
+I got some from digikey.com.,0.0,6
+I got this model https://www.amazon.com/gp/product/B00CO6VP02/ Is that the one you used? Thanks.,0.4404,14
+I had an error twice and my source was broken. This project took a break from me,-0.7003,18
+I hate those bug zapper coils ..,-0.5719,7
+"I have a question about d battery 
+
+To which I should connect the battery wires with d circuit or else 
+I didn't understand that part????
+plz help sir????",0.6072,34
+"I have link in description of video. If I recall right, they were 3.9nF? 3kv",0.0,19
+"I have removed the capacitor from the original board and connected the three capacitors in series.
+There is indeed a resistance, parallel to the output of the high-voltage output. Do I have to remove it? (Probably)",0.3182,42
+I have the link in video description - they are really great caps,0.659,13
+I have the links to the capacitors in the description if that helps.,0.3818,14
+"I have yet to check out your page here or other sites but have you experimented with building a large Tesla coil, like room or building sustaining type design?  #future",0.5023,32
+I just GOTTA have more cowbell!,0.0,7
+"I just finished building a Tesla coil that works great using an online calculator called “javatc”. If you put in the dimensions and specs of you coils, it tells you the frequencies so that you can match up your frequencies before you build it",0.6249,48
+"I just followed YOUR instructions.   BTW: the long spark is only after a fresh charge.    Funny, when close to my touch sensitive under-cabinet lights ... it turns the light on.  :-)",0.8126,36
+I just soldered the capacitor bank and noticed 2 of them have the numbered side opposite the 3rd one. I assume these capacitors do not have a polarity. I saw no obvious polarity markings. I am hoping I do not have to re-solder them so the numbered side is facing the same direction on all of them. Any advice? Thanks much.,0.5423,67
+I knew I would've had an use from an old zapper some day. Now I just need to find those capacitors unless they're not mandatory,-0.0572,26
+I like this build a lot and see it as a future Piddling project! Love your channel also! Good work heal fast & Merry Christmas!,0.9322,28
+"I love this! It's very clever. I'm something of a newbie to physics/engineering though. Could I get buy without soldering the ends of the capacitors? I don't have a soldering iron and have never used one, so I was hoping there might be a work around for that. The rest of it looks like it would be doable for anyone with a drill and fine motor skills, though.",0.9345,78
+"I made one of these in highschool using the same bug zapper, only mine was made with cardboard, hot glue, and aluminum foil for the top load.. Get creative if you don't have access to power tools or higher quality materials!",0.6114,46
+"I made the wiring as you described, even when troubleshooting, everything turned out to be the way you described it. Thank you very much for the help and the many movies, greet a subscriber of your channel",0.802,41
+I mean primary,0.0,3
+I mean the secondary coil contact bolts,0.0,7
+"I really appreciate this. Thank you. You can help by sharing on social media, or Reddit",0.8933,19
+"I really appreciate you taking the time to comment this. Very glad you enjoyed, we strive for higher quality videos. Check out our newer stuff, we’ve got some cool topics since this video.",0.9032,40
+I tested the rest of the coil and everything checked out,0.0,11
+"I thought they were your favorite as you ""strongly prefer"" them :-)",0.7506,14
+I tried DigiKey no luck with. 3kv @3.9nf,0.2023,11
+"I tried to make it but when I switched it on and bring a bulb near it , it was flickering like something frequency is there it was not constantly lightning the bulb.plese help me sir.",0.7783,37
+I want your 3 volt tesla coil.,0.0772,8
+"I was expecting the output to be super weak, but considering the tiny power supply it works verry verry well",0.4854,21
+"I was really serious about the subs, though",-0.1513,9
+"I would like to do this for a science fair project.  So if I want to make one double the size, should i make it taller or wider? Do I double the components inside? Do I double the power, and do I get two bug zappers? What brand do you recommend?  Justin",0.8333,59
+I'd buy this,0.0,3
+"I'm a fan of TKOR. I think the wrap he got for the explosion was a little over inflated. Anyways, haha, no I specialize in ion physics and energy sciences. He specializes in DIY's.",0.6369,40
+I'm afraid you lost me there,-0.3182,6
+I'm guessing your call is correct (high break rate).   I just adjusted the spark gap until I got a good buzz and since the spark was great I figured I stumbled on the right adjustment.   Can't wait to run it tonight in the dark!   Of course now I'm hooked and will have to build a big one ... Thanks a lot!! (sarcasm intended)  :-),0.9421,73
+I'm not a sound engineer but I play one on the internet.     Keep the mic level good but compress it in post.  then the volume is much more manageable.,0.7876,32
+"I'm pretty sure. I tried to test it with a voltmeter, but I couldn't get any readings. I'd bought two bug zappers when I gathered my supplies in case something like this happened, though. I'll probably start with the replacement. I thought maybe the board was warped as well, because I'm not very good at soldering, and so I had to attempt it multiple times.",0.4794,74
+I*,0.0,2
+"If I added a small cooling fan to the side would that be sufficient to cool the circuit. Cause tbh I ain't very patient and don't want to wait for it to cool after 30 seconds 😂
+Subscribed:)",0.6886,40
+If I do my math I need about 41 feet of magent wire(OD of 1 inch pipe is 1.315 X 375 wraps is 493. inches divided by 21 is 41 feet) Does that sound about right?,0.0,41
+"If designed exactly in video, even safe to lick - i've tried it!",0.4926,15
+If the spacers are 1” then the plexiglass Looks like 1/2 inch not 1/4 inch... just saying...,0.3612,20
+"If you build the coil precisely like in the video, it is tuned to the best option already",0.7717,19
+"If you have any more questions, feel free to ask",0.552,11
+"In fact, the very, very first one I made was powered by a MOT. It was borderline lethal, unbalanced, and non-resonant.  I nearly killed myself, and vowed to not make an MOT powered coil again. However, i'm sure i'll dip into that realm again, now that I have a decade of experience under my belt.",-0.4939,66
+"In order for the exact performance of this coil in the video, you need exact same specs as our capacitor. 2000 volts is Less than 1/4 the required voltage rating if 9kv. It would work, but your entire coil will be out of tune, with low performance... and the capacitor will be destroyed eventually.",-0.7876,61
+In place of the small transistor on the circuit board?,0.0,11
+"In the video, I show that you connect the bottom of the coil to that bolt and that foil tape around the edge.",0.0,25
+"Incredible. Just remember though, those transistors are fragile! Don’t run too long.",0.0,18
+Is it safe to touch electricity from coil ?,0.4404,9
+Is our link in description not working?,0.0,8
+Is the wire in the primary coil also 32 gauge? It looks larger? Thanks/,0.0,17
+Is your counterpoise the aluminum foil tape around edge?,0.0,10
+"It doesn't matter, what he built isn't a Tesla coil, just a pulsed transformer. You're right about the resonant frequency, it's likely to be close to 900kHz-2MHz at this size.",-0.0191,37
+"It indeed would lower voltage. That would throw the system far, far out of resonance and might reduce voltage by over 50%. You could try compensating with more turns in primary, or, a high capacitance cap. It is possible to still have it function, but you'll need to modify",-0.1531,57
+"It is not optimal. And would throw the system off resonance. You can try, but will need to modify your number of turns in the primary by reducing.",-0.0271,32
+"It is thicker, and gauge is not too important for primary, as long as it is thicker and stiff",-0.1511,21
+It is this stinger racket I am using. Original price $14.https://www.amazon.com/Kaz-BKR200-Stinger-Zapper-Racket/dp/B00CO6VP02/ref=sr_1_1?ie=UTF8&qid=1518373557&sr=8-1&keywords=stinger+racket,0.3182,16
+"It looks like the perspex material your using isn't 1/4 inch, iit looks like its 1/2 an inch. Im building it with 12mm perspex and 40mm tube for the secondary coil form. this will be a prototype build, and will build a new one based on my own design. im also building a 12kv tesla coil and a second 15kv one for my new youtube channel, Tesla Spark and more, would be great to do a collab with your channel as you have inspired me to start mine along with a few other channels like keystone and tanner tech.
+the second one of these im building will be different so it won't infringe on your copyright as i fully understand how much you have had to do to design and build it.  have many high voltage builds planned and doing a collab with your channel would really help me build my channel. be great to be in direct contact with you so let me know if that's good to you. my channel will be done with kiwi style as i live down under in New Zealand.",0.9781,198
+"It needs to be perfect, overlaps and faults effect the resonance that tesla coils rely on to work. its worth the effort to get it perfect. and no not all of the tesla coils on youtube are fake, they all just need to be done exacly to work, little changes like wire diameter, form diameter and number of turns all effect the out come of the coil. keep trying and eventually you will have a Ah Ha moment where everything will work. if this build is a bit much, check out the ones Keystone Science has made and also Ludic Science, both legit channels and have personally built every one and know they work.",0.7024,125
+It should perform immediately,0.0,4
+"It truly is a miracle i'm alive. Was leaning forward to take an upclose picture, an arc (non-tuned, overpowered, high current) jumped to my hand and flew out my hip to the table i was leaning against. I flew back, fell over, and really scared myself.",0.8522,56
+"It uses a small flyback on the zapper circuitboard, built in.",0.0,13
+"It varies from location to location, and I imagine it is different in different countries. Just aim for a racket that is over 10 dollars. The cheapo 5 dollar ones sometimes just dont work.",0.0,38
+"It will not. Winding a wire without enamel or insulation on it has the effect of creating a conductive copper pipe. Electricity now has no reason to go around each turn, and instead just shoots up the length of the secondary without going through each turn.",0.0,50
+It's because he needs to wash his hair,0.0,8
+"It's me, Bogdan btw",0.0,5
+I’ll tell you what... I want this to succeed... so under the about us tab on our channel page you can find my email. Send me a picture of your layout. There is no reason it isn’t working.,-0.2263,47
+Jesus Christ. don't stop there. what was the problem? did you get it running. ugh the suspense is making me nuttier.,-0.5591,26
+"Joseph D'Bennidetto I think i might have a frequency problem; someone commented above that they had a similar problem, but that it worked well when they altered the primary coil. I'm going to look into that",-0.0129,39
+"Joseph D'Bennidetto Lol! I found a few kinks in the 32 gauge wire, plus one overlap. Sloppy of me. As for the spark gap, idk. I'm still trying to work it out, but I have a lead.",0.3489,45
+"Joseph D'Bennidetto Michael budman, who commented on the video recently, is who I was referring to",0.0,18
+"Just finished my Build of this, few minor issues but they were easy to sort out. have it powered by two 18650 batteries in parallel and it produces little sparks and only slightly lights up a cfl bulb, but not to concerned, now for mark two with increased output from the same power source as i have loads of 18650 batteries salvaged from cordless tool battery packs.
+Follow Jays instructions and you too will have a beautiful little coil  to play with.",0.9388,88
+"Just guess! uhmm, seriously i get what you are saying by being in tune, and whatnot. Think he just eyeballed it here. Sometimes your first instinct is the correct one!",-0.3147,36
+Just tell me whether I can use the fly's killing racket chip or not 😃,-0.6597,15
+Keep or remove it. Coil functions same either way,0.0,10
+Keystone Science is here?! I am a subscriber to Keystone Science and for Plasma Channel. Both of these channels are awesome! :),0.8264,26
+LOL...   I watched the whole thing before I asked and completely missed it.  At the 5:50 mark.,-0.3597,20
+Legend Smile ;),0.5267,3
+"Liam, great input, thank you! However, it is in resonance. The number of turns and size of capacitor was experimented to create the largest spark. At 6.5 turns and 1.3 nF of capacitance, it creates the highest voltage. More than 6.5 turns, spark size is reduced. Lower than 6.5 turns, spark size is reduced. I didn’t show the tuning steps for this build, because I already did it when creating this design. The video was created for simplicity and a ‘build it EXACTLY like this’ type of video. The two coils are in resonance with each other, as the number of primary turns is optimal, and changing number of turns from 6.5 drastically reduces output. Thanks! By the way, I love speaking with another passionate Tesla coiler- happy to have you on board.",0.9884,159
+Lol! It’ll callous eventually. Thanks for sharing this awesome hack!,0.932,15
+"Loving the video and subbed, but got the flyn Ryder vibe or Gaston, it's up in the air atm",0.3506,21
+Maybe I missed it but no primary-secondary tuning?,-0.5267,9
+Michael Budman I've had similar problems. Have you had any success??,0.3313,14
+"Mine, when ever you put the hv leads on the secondary the spark gap stops making sparks.",0.0772,19
+More the son of Thor. Tesla and I are brothers though,0.0,12
+Most underatted channel i wish u for 100k soon,0.4522,9
+Much appreciated,0.5106,2
+"My exact length is a hair short of 4"", and internal of 1"" pvc",0.0,17
+"My guess is that you've got it tuned roughly to the lower resonant pole of the secondary/topload combination, but the ideal tuning is directly in between the upper and lower resonant pole. (especially when you've got appropriate topload capacitance).
+
+Doing some back-of-the-envelope calculations, your secondary coil alone sits at about a 2.7 MHz resonant frequency (although not knowing the number of turns, the wire gauge, coil length, or the turn spacing, it's hard to say exactly. Small changes in these parameters can vary the resonant poles wildly). With a primary capacitance of 1.3nF and a 6.5 turn coil with that geometry, you end up with about a 2.3 MHz resonant frequency for the primary side. These don't match, and the impedance of the top-load is most certainly too high, so I recommend removing it and experimenting with fewer turns on the primary, as you've got ballpark values.
+
+Reproducing this coil ""exactly"" is a near impossible feat, as a lot of information is not given, but even if it were, it is unlikely that people would be able to match resonant frequencies just by copying what you had done. LC-systems are finicky and volatile beasts. 
+
+Here's a link to a Tesla Coil calculator: http://www.classictesla.com/java/javatc/javatc.html, which is very good at giving you close-to-perfect values. Tuning is of course a must!",0.9714,252
+"Nate from keystone and I have collaborated. Great guy. How to make the circuit? As in fly zapper circuit? True. For simplicity I included a prebuilt high voltage source in my design. Otherwise this is the first tesla coil with this specific physical construction, utilization plexiglass, bolts, and compact size. I used a prebuilt zapper circuit to make it easier for others to duplicate. Also, Nate’s is a solid state coil, while mine is traditional spark gap coil.",0.9111,94
+"Neat project ... here's one I did ... RoboGuts + FDD + RoboToons Robot Anthem ""Thoughts""  https://www.youtube.com/watch?v=iaiVtllxKHc  But I'd also like to to contact me about some other projects with talking, acting robots I've been developing.",0.6705,40
+Nice job! :),0.7263,4
+Nice presentation...,0.4215,3
+Nice video,0.4215,2
+Nice video man! A couple years ago I did this but I didnt quite understand electronics and didnt add a copacitor bank I should revisit this project and do it right if I add more capacity should the tesla coil work better or even add together two high voltage transformers in series would that make it more extreme.,0.722,60
+Nice video my friend! Shared and liked! ;),0.9133,10
+Nice video! What are the frequencies of the primary and secondary coils?,0.4753,14
+"Nice video.  This will make for a great science project for my son at his school that I am helping him with.  I was only able to find 1600 volt rated capacitors @ a local electronics outlet.  I am still looking for a HV power supply.  My question is will a 1600 v power supply work veery well???  I was thinking that I would have to make the gap much smaller to get any result...
+Your thoughts.
+Thanks",0.9279,87
+Nice work!,0.4753,3
+"Nikolay, out of curiosity, which country are you from? Also, you'll need high voltage rating on the capacitors if you want the spark gap to work. The entire circuit runs on several thousand volts, meaning the caps need to be rated 2X or 3X the voltage of the circuit. However, you should be able to put 9   1kV caps in series, or 4   2kv caps in series to make it work. Also, I have a link in the description for where to buy the exact caps I used - they are very cheap. hope this helps.",0.8115,109
+"No doubt, metric is superior. However the PVC comes in inches, so using both was inevitable.",-0.0516,20
+"No need to strip wire on the ends of the secondary. The coil produces over 20,000 volts, that enamel is rated for 100. Above 100 it conducts slightly. So no need to even worry about stripping ends of wire for contact. Also, counterpoise. A counterpoise is a simulated, fake ground. It acts through radiating energy out and acting like a ground. The base of secondary is wrapped around the bolt, then taped down with aluminum foil tape specifically. The ring of tape I show is essential, and acts as a counterpoise.",-0.7017,105
+No sir. Power level is too low to affect the human body. It is hardly even detectable through the fingers.,-0.5106,23
+No worries! I wasn’t insinuating you didn’t. Glad you found it. Let me know if you have any issues during building,-0.3164,28
+"No, I like your face. That's why I stare at it through the lens so much.....",0.0772,19
+"Not a fan of gloves, honestly. But my torn up knuckles are from getting tired and pushing past how far I should go, then missing my target and skimming the bag. Meh, I heal",-0.2732,39
+"Not magnet wire its insolated copper wire just wan,t to say it cx",0.0,15
+Not the safest idea to adjust to spark gap with a metal screw driver while it is on.,0.4939,19
+Now that would be an ABSOLUTE MUST SEE for me. I would be ALL over that. Yes please do a tutorial on that. It would be freaking awesome !!!,0.8007,34
+OK my build is complete and it does work. Very cool. Thanks much Jay!,0.84,17
+OK so I am getting ready to apply the adhesive to secure the secondary to the base. It looked like something like Shoe Goo is that sufficient. Any issues if I wanted to use that adhesive?  Thanks much I am almost done!,0.9359,46
+Of course. I just wanted to make sure it went through,0.3182,12
+Oh? Hopefully in a good way,0.6808,7
+Ok,0.296,1
+Ok what are the links’s,0.296,7
+Ok.  So we took our electric fly swatter apart & the capacitor in the board reads CBB81  223J2KV.  Will this capacitor hold up for a school project???  What would you expect the voltage to be according to the capacitor info (2000v)???  The gauge of wire that I purchased is 28.  I have a whole roll of it.  What length of wire will I need for the secondary & what size & length of wire for the primary???,0.4871,93
+Okay so 10mm is not bad.... but they should be visible. Is the base of the coil attached to counterpoise?,0.1154,23
+"Okay so if same capacitors, then they can’t fail. Sparkgap can’t fail, nor can primary or secondary coil. This definitely narrows down failure to the circuit board. I hope it’s just that resistor- we’ll find out. Update me if anything changes",-0.5859,56
+Okay so what happens if you short circuit the primary winding? Basically trick the device into thinking its primary is connected?,0.264,23
+"Okay, I got it working. I removed a 22M ohm (red, red, blue, gold) resistor from the high side, tuned the spark gap, and changed the batteries. I know I should make one change at a time to troubleshoot effectively but the important thing is IT WORKS! Thanks for the help.",0.9208,63
+"Ontario? Awesome! If you buy from Mouser, hard to tell. For me, they take only 18 hours, with only $2 shipping becuase their national warehouse is only three hours from my city (Austin). You are out of country. I'd imagine maybe 3-5 days? Also, I have the link in the description for the exact caps if you want to buy them. Very cheap!",0.7135,78
+Or you know... use a drill to wind your coil.,0.0,12
+"Originally did that, but then my drill broke prior to filming 👍",-0.5719,13
+Our link also goes to correct capacitors as well. Thanks for helping fellow viewers though!,0.7574,17
+People with small coils usually drive german cars,0.0,8
+Perhaps consider keeping measurements in either imperial or metric or both.,0.0,12
+Perhaps when i purchase more tools! Currently down a few,0.0,11
+"Plasma Channel
+Thanks for helping...",0.4404,6
+Plasma Channel Do you have nerve issues now if you do in the future thats probably part of the blame MOT are no joke and when I'm showing my friends them I make sure ti constantly remind them that they can and will kill,-0.4019,44
+Plasma Channel I'm in the works of one but I'm making sure to put a lot of planning into it so I don't hurt my self,0.7924,26
+Plasma Channel It should be easy to make the primary coil changeable for easy tuning and it should be easy to change out the capacitors if i put them into barrier terminals,0.802,32
+"Plasma Channel Ok, I tried, but the spark dissipated as soon as I adjusted it. Should it take a while for the electricity to get past the capacitors? Or should it perform immediately?",0.5122,38
+"Plasma Channel Size of the coil doesn't matter, it is how you are using it",-0.0191,16
+Plasma Channel did you connected it to ground? You need the capacitor(top load to ground) to discharge!,0.0,22
+Plasma Channel did you get my email?,0.0,8
+Plasma Channel do you know how many volts it produces? You could plug it into an equation to figure out the turns of the secondary,0.0,26
+Plasma Channel haha thanks I’m guessing you shouldn’t lick your large coil though,0.7096,17
+Plasma Channel is the ground of the secomdary connected anywhere else?,0.0,12
+"Plasma Channel of course my pleasure to keep your channel growing a little bit more , its your idea after all",0.6597,21
+Plasma Channel oh ok,0.296,4
+Plasma Channel ok thanks for replying,0.6249,6
+Plasma Channel over or under 1000 turns? And I presume you tuned it with the spark gap,0.2263,18
+"Plasma Channel thanks 
+You too keep these awesome videos comin subbed immideatly",0.7906,12
+"Plasma Channel thanks dude for the suggestion and once again thanks for sharing, really nice and really awesome idea thanks",0.9583,21
+"Plasma Channel yes the link is working but it opens a page with many capacitors , none of which are 3KV 3.9 nf",0.2144,23
+Plasma Channel-yes,0.0,2
+"Please feel free to reach out for additional questions, my email is quickest",0.6908,14
+Please give me circuit diagram of this tesla coil,0.3182,9
+"Please give more details of the bug killer batminton circuit ,because it is some difficult . Please",-0.4939,18
+Please help Serbia go to moon. Together we make Serbs great spacefaring race,0.8442,14
+Please make it play music.,0.5719,6
+"Please remove that resistor, making sure it is the resistor on the HV side. Also, have you double checked that the wiring  is identical to the schematic shown on episode?",0.5574,34
+"RE: transistor.  Thanks, I remember your caution in the video description.   If I do blow a transistor, is there better transistor I could use as a replacement?
+Thanks again",0.8271,35
+Really appreciate that. You can help by sharing our videos!,0.831,12
+Realy nice and eazy way to build your self a small sgtc I like it.,0.6486,16
+Right - don't run it more than 30 seconds at a time. Check. I also 2 goofy LED's I can probably remove. But t doesn't seem ot affect performance. Also setting the spark gap is quite interesting. There does seem to be a sweet spot for best output. The fluorescent bulb I have lights up from quite a bit away. I was surprised at that. I am off now to get one of the globe bulbs to do the plasma demonstration. Thanks again.,0.9459,93
+Rotor gaming almost any wire rated to handle over 1kv,0.0,10
+"Secondary base is wrapped around bolt and attached to the aliminum foil tape on edge. That edge acts as a counterpoise, eliminating a need for ground connection. However, yes the top is just connected to the knob, internally.",0.5423,44
+"Simple, clear and feasible . Keep up the good work!",0.6996,12
+"Sir can we make a noise less tesla coil 
+
+In this tesla coil the sound of discharging of capacitor is very bad",-0.5849,22
+Sir for secondary coil you are connecting other side to what one is for top load but other is connected with what????,0.3313,25
+Sir i want make major tesla coil with song frequency . So please help me sir,0.707,16
+Sir please tell me what to do . I am really confused ?😢,-0.0754,14
+"So I made this coil, but instead of two AA batteries, I am going to power it with my TEKPOWER power supply (it goes up to 30V & 10A).  My question is, with this configuration, how high can I ramp up the voltage without destroying it?",0.5975,54
+"So that is a 2Kv, 22nF (.022uF) capacitor. Good bang, but such high capacitance, your break rate (individual pulses across the spark gap) will be low. Will lead to more powerful sparks in the end though, just lower pulse rate.
+
+
+The 28 gauge is not optimal, but will definitely do, as long as it is enamel covered. If you can, try a 4.5 inch secondary, instead of 4 inch secondary, as the thicker wire, in order to keep the same amount of turns, will need more space to wind on a form. 
+
+
+The 4.5 inch length was a guess on my part. Basically, at 32 gauge had highest performance at 4 inches of winding, in my experimenting. Perhaps since your wire is thicker, a longer form at 4.5. 
+
+
+let me know if you have any other questions!  I have taken apart all models of the zapper rackets - i'm familiar with most of those circuits.",0.633,184
+"So, 3 3kv caps in series is 9kv - that means 4-5 of 2kv for identical voltage rating.",0.0,20
+"So, I’ve tried his method, but the mike oversaturates. I’ll speak loudly then I reduce the gain on my editing program... and bring volume back down. It however then sounds muffled and fuzzy. I’ll keep experimenting",0.6808,48
+"Some brands do indeed already have those exact wires in place. If you bought a really cheap racket, I must warn, you need to put that spark gap very close for it to ignite the gap. But your coil will still work. If you have any issues arise, feel free to reach out! But follow the directions closely, and the coil will work (only 1 out of 10 people who have contacted me so far could not get it to work)",0.636,91
+Sorry my transistor damaged.,-0.4939,5
+"Sorry to hear- but glad you thought ahead. True scientist. I’d suggest that once you have the new board wired up, make the spark gap very close... and gently widen it once you see performance.",0.936,43
+"Sorry to hear. Do you have every component installed? Have you set the spark gap screws at a proper distance? Adjust them inward until a spark can jump across. However, those circuits should be producing far more than 500vDC. 
+
+
+Also, some circuits have a resistor on the HV side that needs to be removed.
+
+
+Occasionally, a bad circuit is to blame (I had a bad one from factor once)",-0.8259,80
+"Sorry to hear. How long, in mm, are the sparks out",-0.0772,14
+"Sorry, do the opposite! Less primary turns to increase frequency!",0.3786,13
+"Sorry, meant 5.5/16ths",-0.0772,6
+"Sorry, that was eye-ball measurement.   The spark starts around 3/4"" and I can draw it out to 1"".    Sorry for the exaggeration ... my excitement got the best of me  :-)     My wife just shakes here head ... boys and their toys!",0.8832,48
+"Sparks are over an inch? Wow... you built this coil, and sparks are an inch? You have my attention.",0.0,24
+"Still, 3/4 of an inch is great. Your break rate must be very high, forming a constant arc?",0.6249,22
+Sure sure :) m a facebook advertising expert too if you need any help ping me up :) best of luck,0.9612,21
+"Thank you Darren! I’d stray away from the cheapo bug zapper rackets, a few have reported to me their performance is so terrible that the Tesla coil hardly works.",-0.4182,34
+"Thank you Darren. I checked out your channel. Great content, keep it coming!",0.784,17
+"Thank you for the info (and video).
+I've Googled it, and a 1"" PVC pipe has an OD of 1.315"" (33.4mm)
+I'm at the moment 3D printing the ""PVC"" pipe, top/base plate, and spacers (all in PLA).
+Rest of the parts should come in tomorrow :-)
+
+I'll report back when all is done (probably next week or so.)",0.5859,79
+Thank you for the information.  Justin,0.3612,7
+Thank you for your insight into this. Its most likely #2 - I made the secondary coil too long. I'll fix it and see what transpires!,0.4199,30
+Thank you greatly! Welcome to the plasmateering family!,0.7489,10
+"Thank you! This is a complex build, but it is amazing. Several people have reported that if you buy the absolute cheapest bug zapper rackets, sometimes the entire coil wont even work. This was not known to me when shooting this video. So, go for middle or high level bug zapper rackets.....mine came from a 15 dollar racket and has lasted three years of abuse in the tesla coil. Also, I have information in the video description for buying parts, and other info. Definitely build this with your Grandson!....this is why I do plasma channel - to inspire science.",0.8843,116
+Thank you! Welcome to the family. I love the Gaston comparison haha,0.9184,14
+Thank you! We’re looking into a move to Vancouver bc! Greetings from Texas!,0.7332,18
+Thank you.   Justin,0.3612,4
+"Thank you. It certainly will! 1600 v power supply will work, but output may be lower than the video. The video description has all pertinent info for buying capacitors, warnings, patent and usage info. Should also be a link for the exact capacitors. Feel free to ask for help during the building process. The exact windings are important on the primary, and the exact length of secondary and gauge of wire is important as well.",0.9041,86
+Thank you. I’ll have to try this,0.3612,10
+"Thank you. The bottom of the secondary is wound around that bolt, then connected to the ring of aluminum foil tape, as the video showed. Without that foil tape, or something similar, it will not perform very well. It acts as a ground. Turns, I did not count. As long as you fill the length of the secondary it is between 375-425.",0.1203,73
+Thanks Cap'!,0.4926,4
+Thanks Chris! Feel free to share with friends!,0.9018,10
+Thanks a lot for the counterpoise explanation.    I'm in the middle of building your Tesla coil.    The secondary coil is wound and the only hold-up is waiting for the capacitors to arrive.,0.4404,35
+"Thanks for asking! Did you watch our episode which was suggested? Prior to this DIY episode. It explained why a capacitor and spark gap is necessary. Without either of those, it will not function at all. I would highly recommend watching that video, it will give a great explanation.",0.8997,57
+"Thanks for inquiring! So, at least in the united states, when it's called 1/4"" thickness, its actually 5.5/16 of an inch, or 37% thicker than a quarter inch. Its really weird. I dont understand why the material is measured that way. I think a collab in time would be very fun. Also, You've peaked mu interest with New Zealand! I have so much to learn of your country. Feel free to email me directly via the 'About' tab",0.9347,96
+"Thanks for reaching out. The larger diameter secondary will work. As long as you have the 32 gauge enamel wire. Your cap bank needs to be twice the voltage (minimum of your HV power supply). Also, cermaic capacitors are very lossy, tons of energy goes into heat, wasted. So polypropylene are best. Electrolytic you cannot use on AC systems. They will explode. I have a link in the video description for the caps. They are very, very cheap.
+
+Your 3.3 volt supply will work fine, honestly. Just dont run the coil longer than 20-30 seconds at a time, to prolong life.",0.8545,121
+"Thanks for reaching out. The only way to get 1.3nF with 3 caps, are 3.9nF caps with three in series. 3.9/3 = 1.3",0.5719,30
+"Thanks for reaching out. Unfortunately, I cannot upload photos to youtube comments. But I can indeed tell you that the image of the wiring in the video is completely accurate, and if you follow that schematic, you will be golden. If the schematic is confusing, i'd suggest learning how to read schematics via google searches. This project is inherently intended for people who have some previous knowledge of electronics. I encourage you to read up on how to read schematics, it will help!",0.7712,94
+"Thanks for the feedback! So the smaller a coil is, the higher of a frequency it resonates at. This one's resonant frequency is quite high. As per the pancake coil. each pulse of the spark gap is less than 1/4 of a watt of power... and does not create massive EM fields. So wire that is now very close to the secondary ends up wasting it's influence. I experimented with various shapes and sizes of primary. If I remember right, the tight coupling provided best results. I could be wrong though. Maybe I should experiement with it for good ol sake!",0.7068,114
+Thanks for the info👍🏼,0.4404,6
+"Thanks for the quick reply. Okay good to know, and was trying to avoid spending any money (as a challenge to myself) but I guess i can just grab the caps off Digikey (cheaper for me then mouser)",0.4404,44
+"Thanks my coil worked 
+
+But the spark out from secondary coil is very small what to do to increase that 
+
+Please help",0.8779,22
+Thanks!,0.4926,2
+Thanks! I do not know the frequencies,0.4926,8
+"Thanks! That was the plan! I designed this years ago but didn’t want to share it out of fear that someone would just steal the idea as their own. Eventually I went ‘this thing is fun, I have to show people’",0.1615,49
+Thanks! The coils are really fun to build,0.7773,9
+"Thanks! Yes, you can get away with twisting the wires together. It will harm the performance slightly, but will do the trick. You can also try making conductive epoxy. Take epoxy, and add graphite powder (loc-tite in homedepot is pure graphite powder). Dont overdo it, but add a decent amount. until it turns black. This will be a conductive glue!",0.2105,74
+"Thanks. Aesthetics matter, to me. Always have. I don’t like loose wires, assymetry, and glue",0.4939,23
+That doesn’t hurt?,-0.5267,6
+"That is interesting...limited power in Europe? Yes the resistor is on some models, good idea removing it. Hm, i would indeed suggest removing or adding a primary turn to see if output is increased.",0.7717,41
+That link goes straight to 0.0039uF caps. That’s 3.9nF. Hope this clarifies,0.7118,18
+"That was a awesome video. 
+Thanks bru",0.7906,8
+"That will be too thick, not allowing for enough turns. If you use 20 gauge, your spark output will be reduced",0.2263,24
+That´s a cute little coil you have there! Love it,0.8172,13
+That’s a classic,0.0,5
+That’s wonderful!! Spark is as big or bigger than mine too 👍,0.7339,16
+The 3kv .0039 cap is the perfect cap... put three in series.,0.5719,15
+"The bolt is merely so that you have an attachment point so that you can 1)string multiple of these coils together, 2)attach a rod/grounded cable for experimenting, and 3) a general solid, non fragile contact point to connect to the coil's base wire. Let me know if your device is not performing, and I can help. Any deviation from the video's exact specs will change performance.",0.6705,80
+"The bug zapper is nice, but the current is way too small for the primary. Use a 555 timer + applicable capacitors/resistors, and a mosfet connected to the small zapper transformer (or any other transformer) to generate a much higher voltage in the secondary. Check out Maxwell's equations in induction, it's proportional to the magnetic field inside secondary, which is directly controlled by the current/number of loops in the primary. Higher current in the primary means bigger spark!",0.3903,92
+"The capacitor is probably the Panasonic ECW-HC3F392J (3900pF, 3kV)",0.0,13
+The capacitors are 3KV 2nf or 3.9nf?,0.0,9
+The coil that I made does work - although the spark it makes is VERY small. best I have gotten is about 6 mm. If I hold an LED close it will illuminate - but not very bright. the light bulb - nada.,0.0266,47
+The danger inherent in this coil is extremely low. I have licked the coil in operation out of curiosity before. 👍,-0.6997,23
+The ground is only connected to bolt then counterpoise,0.0,9
+"The higher end rackets have chips with screw holes, which make mounting them easier. Also, the higher end models last longer.",0.34,25
+The is the only stinger racket I could find... https://www.amazon.com/gp/product/B00CO6VP02/ it was $11. Is there another one I should look for?,0.0,25
+The light bulb did not work (yet) but the knob did work - however the spark is very tiny (about 1/2 mm) How can I get the spark to jump a bit farther off the torus?,0.5719,41
+"The light bulb did not work (yet) but the knob did work. However only produced a tiny (1/2 mm) spark. I tried more winds on the primary coil - no change, Then I tried less winds: four winds spaced about 3 mm apart - dramatic increase in spark; up to 6 mm! I'll have to keep experimenting with this thing.",0.63,71
+The primary has contact bolts. But the bottom of the secondary is attached to a bolt and a counterpoise if that’s what you are referring to?,0.0,30
+"The resister bleeds the charge after power is removed.  So, if you remove the resistor, be sure to short out the spark gap with that same resistor or the tip of a screwdriver.  Otherwise, and I speak from experience, you'll could get a bit of a shock later from the capacitors that haven't fully discharged.  I followed PC's instructions as best I could with what I had lying around and I was able to get mine working.",0.4019,85
+"The side of the circuit with the transistor on it, has two wires coming out. That will be your 3v input. The other side of the circuit will have 2-3 wires which are the  high voltage wires you connect to the rest of the circuit.",0.0,49
+"The spark cap is set to around 1 mm.
+The sparks itself from the torus around 10mm, but very weak and only visible when dark!",-0.6287,28
+"The specs are detailed mid video when talking about the caps. I forget exact numbers at this time. I also have a link in description, and pertinent patent info. Thanks for asking!",0.3164,37
+"The wire? It was solid insulated wire from Home Depot, about 1/16 of an inch thick.",0.1531,19
+"There should be two wires leading into the circuit. On the side that has a small black transistor. These are the 3v input wires. The other side of the circuit is high voltage, be careful. The two wires going out that side (sometimes three, you'll have to experiment to see which two create a spark) are the two wires you attach to the rest of the tesla coil. The two high voltage wires will connect directly with the spark gap, one wire on each bolt. Then, make a loop of a circuit on connected to both bolts. This loop, includes the capacitor, and the primary coil.",0.5574,122
+"These are to the best of my knowledge 
+Bug zapper
+Assortment of various screws 
+32 Gauge enamel copper wire 
+Electrical tape 
+Plexiglass 
+Nylon spacers 1” 
+Wire 
+A small doorknob 
+High power capacitors (not electrolytic)
+I think that is all",0.4939,42
+"They are not polarized, no. They will still function as one whole cap",0.2235,15
+"Things to check are the distance in the spark gap.  Normally the smaller the better.  However, you don't want theme to touch.  You can swap the primary coil connections.  If that doesn't help, you may need to adjust the number of loops  for the primary coil.",0.3859,53
+"This design when built exactly as what I showed, produces 25,000 volts. Albeit very low current.",-0.3384,19
+This guy likes his face to much😂,0.4215,8
+"This guys should be an ACTOR.  OOOOppppps, I guess he is.",0.0,14
+"This is because the coil cannot deliver high enough current. if you watch our 'will 100,000k volts kill you?' episode, it will better explain this.",-0.4215,32
+"This is going on the list of things I need to make. Two questions, what size wire is used for the primary coil and how many turns of wire for the secondary coil?",0.0,36
+"This is the first of your videos I have come across dude and I LOVED IT!!!  Great project, very well structured material and excellent presentation style.... Was very enjoyable, I subbed right away, keep the videos coming dude......  StAsh",0.9633,47
+Those stinger brands are good. My second favorite to use. Good choice,0.8316,14
+Tkor was good but not so good since nate took over and nice to see you check all your comments I subscribed tooooooooooooo😀,0.8591,24
+"To be honest, I am not certain. But likely 16-18 gauge. Approximately 1.5 mm thick.",0.3582,19
+To the counterpoise,0.0,3
+Took a while to get the caps.  Just finished it and it works like a champ w/o any dickering around!   Spark jumps over an inch.  It's also nice having the rechargeable lipo battery.   Thanks for all your help!   The grand kids will be wow'ed.,0.9551,52
+"Train on bag, not a fan of gloves! Chinese boxing and speed drills lead to skimming the bag eventually. When you skim, you rip off skin.",-0.308,31
+True! And nice resourcefulness! My build was intended for high quality construction.,0.7339,15
+"Under 1000. Around 400. A coil is not tuned with spark gap, spark gap effects rate of output sparks per second, and size of sparks (but not efficiency, or tuning of coil). I tuned this exact coil by trial and error. 4 primary turns, 4.5, then 5, 5.5, then 6, etc. went up to eight primary turns. Testing each scenario. Found 6.5 brought the largest sparks.",-0.7304,84
+"Unfortunately, as qualified as i'd like to think I am for spacetravel, I am not trained in that. Thanks for viewing though!",0.5093,26
+Usually a tuning issue. Your primary and secondary circuits may not be in resonance.,0.0,16
+Very awesome vidoe :-) tell me please how many turns secondary coil have ? And you connected one end of secondary coil to top and where you connected other end of secondary ?,0.8864,33
+"Very nice and awesome 
+Definately will buid it on my channel and all credits will go to you awesome hack",0.9362,20
+Very nice!,0.5244,3
+"Victor, thanks for reaching out. 50 volt capacitors are not rated for a 3,000 volt power source. Everything on this coil is specifically designed to match each other. No part can be supplemented with a random part.",0.3612,42
+WALLY SUNICO MALUYA 32,0.0,4
+WHY do you not have a BILLION more subs?!!?,0.0,13
+We have a link in the description,0.0,7
+"We heavily encourage you to build along, and build one for yourself. However, in case it was missed in our video description, we have applied for a patent for this physical design. This means you will not be able to profit from, nor sell this design. Thank you!",0.7777,56
+"Welcome to the family! Yes, bag chefe. I think you were referring to the kinetic energy equation, 1/2massXvelocity^2.         With speed comes more kinetic energy than with mass.",0.8478,36
+Well I built mine using the non preferred booster circuit. It does not work. I gt a tiny  spark if I put my multi meter across the two ends of the capacitor bank and a reading of ~500 VDC across those same two points. Do you have any troubleshooting advice?,0.4378,55
+"Well I will give it a shot & if the factory capacitor doesn't last long then I will pursue replacements.  Thanks for taking time to help out.  I will keep you posted on our progress & results.
+Thanks...",0.8591,42
+Well the rate of fire or discharge is a bit slower due to my cap's???  Or at least that's what I think it is.  If I wanted to beef up my caps would I want to wire another bank in parallel???,0.2406,48
+"Well, I got a prototype working this weekend!!!  Was able to produce around a 3/8"" arc with it.  Now we are cutting the base with our CNC so all parts can be seen laid out together.",0.3561,43
+"What a great vid dude, brilliantly instructive video, liked and sub'd",0.8979,13
+What about the button,0.0,4
+What are the numbers on those capacitors?,0.0,8
+What are the specs on the caps?,0.0,8
+What do did u uses when u wrapped the coil at the bottom 6 1/2,0.0,15
+What gauge is the wire?,0.0,6
+What is higher end racket,0.0,5
+What is the gauge number of primary coil ?,0.0772,9
+What should I do with the on/off switch,0.0,10
+What type of capacitors did you use,0.0,7
+"What's confusing, is that Youtube notified us that it's trending. We've excitedly looked for half an hour and cant find it anywhere on a trending page. Also, nope, no payment :P",0.2513,36
+"When designing coils I’ll usually design secondary around the lc circuit of primary and capacitor. But in this build I reversed the process. I do not know final number of turns for secondary. But that using the gauge listed and the length/width of pvc, you’ll get a duplicate of my secondary. Leaving 1/8 inch on both ends bare, it’s a 4” tall secondary. The primary is precisely tuned to this exact project",-0.0572,88
+"Where should i connect my secondary coil wire 
+
+
+One is on the top 
+Where should i connect the other end of the secondary coil",0.2023,24
+Where's the ground?,0.0,4
+Which type of high voltage lead you use in your circuit and where??,0.0,15
+While turned on put them slowly together and see what happends,0.0,11
+Why are you using inches when you figure it out the easyest is metric??,0.0,16
+Why have you connected the capacitors in series? you've decreased the capacitance of the capacitors,0.0,16
+Will a wire without enamal coting work,0.0,7
+"Will do, thx",0.3612,4
+Will do.,0.0,3
+"Will i have problem if  i put 3 capacitors with equivalent capacitance of 1.34nF ,like example 6.8nF ,6.8nF ,2.2nF ?",-0.0516,27
+With a classic spark-gap you might wanna use a pancake primary not elicoidal. This is a VERY low frequency TC and for instance the primary is way undersized,-0.4812,29
+With small coils a counterpoise can be used like we did in this coil.,0.3612,15
+"Without doing so, your coil has no counterpoise, and thus no ground connection and will not work",-0.5267,19
+Would changing the gauge of the secondary coil to 24 gauge lower the voltage output if so how much? and could i compensate by having more windings in the primary coil?,-0.3736,33
+"Would this be good enough
+https://m.reichelt.com/gb/en/?LANGUAGE=EN&CTYPE=0&MWSTFREE=0&CCOUNTRY=447&ARTICLE=179471&PROVID=2788&wt_guka=22596789857_79177369457&PROVID=2788&gclid=Cj0KCQiA2snUBRDfARIsAIGfpqFGlM8gVu2umuzrMFErYov9vmWi1-BaI4xzH4TC4SqbL6ftuA4TbtAaAlAWEALw_wcB",0.4404,6
+"Wow, I've never seen a Tesla coil demonstration that was so simple and so sexy! :D",0.9345,18
+Yeah A DIY Tesla coil will be on my channel! That's good to hear your healed! New Year fresh arm lol,0.8684,23
+Yeah you can do that. Just will look tackier. Up to your preference.,0.296,16
+"Yes ,what are they",0.4019,5
+Yes - I am learning that. shortened the secondary - still only need 4 winds on the primary. best I can get is about 8 mm spark to a piece of metal. to my finger only jumps about 1 mm.,0.8316,44
+"Yes sir just got it. Analyzing, give me a few minutes as I’m currently out of lab",0.4019,21
+Yes you can. That should work fine.,0.5423,9
+"Yes, placed an order with one of them mosiler?, got 3 of 3kv but didn’t see the 3.9nf ,hopes they work",0.6757,28
+"Yes, you can",0.4019,4
+"Yes. It is. Sticky tinfoil all the way around.
+The build was 1st not working at all. 
+The fly zapper used here is an European version, and they limit the power out. 
+After removing the resistor (fixed over the two output wires) I managed to get it to work, but as mentioned above not as powerful as yours.
+
+I'm going to play around with the primary tomorrow , and see if I will get a bit more power out.",0.2387,90
+You are certainly welcome! And thank you for promising to credit me when you build it.,0.9098,18
+You are correct. Thank you for pointing out my lack of information. I have now updated the video's info.,0.0516,22
+You are great. Best mini coil on YouTube!,0.8622,10
+"You can, yes",0.4019,4
+"You certainly can, though it may change the voltage output, by bringing the secondary coil out of resonance. You’ll have to experiment with that lightbulb approach.",0.34,32
+You did not use that fly's killing chip why,-0.6597,9
+You don't need to yell like he does.   Just keep the mic close and compress it for a similar result.,0.3612,22
+You look like wwe dolph zigggler.....,0.3612,7
+"You should be getting 10-12 mm sparks out of this....not sure why you're needing less primary turns. That indicates either 1)the primary is too low of frequency (too many turns, or, too high of capacitance)  or 2) your secondary was built with far too many turns, making it higher in frequency.",0.0516,63
+You should check out the episode prior to this one. I put a link in it during this video. It is the largest coil I have built up to date.,0.0,33
+You should give one away as a prize! They're awesome by the way.,0.8268,15
+You should use gloves to do heavy bag boxing training,0.0,10
+"You will not feel the current, but you will feel something else unpleasant if you increase the voltage. Plasma is warm, even hot, and that heat will you feel. Although you will not get an electric shock, you will get burnt parts where you let the sparks come (being your fingertips). When using something metal or conductive, the heat will only be where the plasma makes contact, for example: a screwdriver. The current will flow through the screwdriver and flow to the ground through your body (the skin effect).",-0.3291,105
+You would need to add additional primary turns to lower the primary frequency. Your spark output also may not be as much... but still would be something,-0.0387,29
+"Your delivery is entertaining and slightly over the top, so I subscribed. lol",0.759,15
+"Your knuckles are hammered buddy. Wonder what the guys face looked like. Good video! First rule of fight club:  Dont talk about fight club, and don't make videos until you heal up.",0.126,38
+"Your spark gap is either too wide, causing low break rate, or your used too large of capacitance. What is your capacitance? Try Closing the spark gap slightly, it will increase break rate",0.4091,38
+Your sparks should be 8-12 mm in length. Are they this length?,0.0,14
+"Your two capacitors are too large. In order to get the same result as my coil, every component must be identical. The 6.5 turns on the primary was specifically for a capacitance of 1.3nF. And the breakrate you saw on my video is high because I’m only using 1.3 nF of charge. You are using two caps which will total 2.1 nF... this will produce smaller sparks and low break rate.   To solve this: add a third capacitor in series like one of your two.... it will lower capacitance and up the breakrate. Hope this helps?",0.7096,110
+Yup,0.0,1
+a cooling fan would be helpful yes. If it specifically cooled the transistor - it is what self destructs and gets hot.,0.5267,24
+"and capacitance??
+thanks for replying !!!!!!!!",0.6628,10
+and change or replace any of the parts,0.0,8
+and how fats will the capacitors come to to my house in ontario,0.0,13
+and passionate about science!,0.5707,5
+can I install a light bulb in place of the torus?,0.0,12
+didn't make it yourself. you skipped how to make the circuit.(see: https://www.youtube.com/watch?v=Ca2e3evwVK0 ),0.0,18
+do you have to wrap the wire around the pipe perfectly without any mistakes or can it overlap in some places,0.7438,21
+five! you (not us) could make some dirty cash from all that!,-0.5399,16
+"got mine on Amazon.com, but I see the ones I got are out of stock right now.  
+amazon.com/gp/product/B07252DT8Z/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1",0.0,20
+great video,0.6249,2
+haha. Not many have noticed that yet! I practice chinese boxing and Jeet Kune Do barefisted. My knuckles consistently have skin missing from sloppy hits / long practice sessions. I just dont like gloves....they are not realistic!,-0.2249,44
+have you used the link I provided in the description?,0.0,11
+he's trolling,0.0,2
+"hey j! i m not gettin 3kv capacitors. can u suggest the no, and capacitance of 2kv capacitors",-0.3595,21
+"hey nice video, but after long time, you should make videos very frequently, and people prefer to watch something dangerous..",0.2263,24
+"hey there, first i realy like how you give the materials needed to get the project working, and then list the materials needed to make the base, making it a bit more finessed and functionable, this project could teach you about bridg rectifiers resistors and transformers, and also keeping in trend an old fashioned science toy, i love how you conduct your videos, being the most details you would need in such a short sentence, you split the project into five parts that are real easy to follow, being verry visual and instructive in each section, and with each showing the steps on screen every now and then helps so much, with the step highlighted and an arrow pointing to what it is refering to, you ask me what my favorite part is, well must be seeing your knuckles, i can tell you go through some pain to bring thies videos out, and also really like it how you pull out three of them puppys at the end of the vid, cheeky ;o), all your videos are conducted so well, it would be hard to find a true favoret point for me, lets just say, maybe one of my favoret channles =], thank you muchly ;o).",0.9674,228
+hi J can you please show wiring in show it in the form of wire like this wire joint there.some i can see but some i can't AND i'm blond you know lol,0.7269,33
+"hi,can i use IRFP250N mosfet transistor for tesla coil device?",0.0,14
+hmm u build 3 wanna sell me one ?,0.0,9
+how can i modify it to be 12v... you see i want bigger sparks !,0.1511,16
+i build that for my science project and u know what its admirable,0.5574,13
+is it ok if i use a high voltage module?,0.296,11
+is it not dangerous,0.3724,4
+"its pretty much how yours is, aluminium tape along the edge of the top perspex with magnet wire from secondary running under it. im going to start with the primary coil location on the secondary by moving it up. and will also look at the capacitor bank as there could be issues there due to different supplier of the caps.",0.6124,64
+kolmarX Suomi I guess you could always build your own? Plastic film canisters with a layer of foil on the inside and outside can work pretty well and are generally around 1pf.,0.6486,34
+"lol, more like the evil hot guy...🤔🤔  but you also could be a modern day MacGyver 😉",-0.0091,21
+"maybe say everything in inches and write metric conversion on screen so you can have both but dont mix it up. 
+cute little tesla coil by the way ;)",0.7469,30
+no he doesn't. he looks fine,-0.4199,7
+"nope, not in a good way",0.2594,7
+not enough jank,0.0,3
+"not the cheapest, but cheap.   Hope this works.  claimed 3K volt.   
+www.amazon.com/gp/product/B073BX345P/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1",0.5927,16
+o got mine from scrap electronincs. if you dig around you could probably find some. where i got mine is from a microwave. hope this helps. : ),0.7096,32
+oh thank you so much ! i was actually planning on upgrading every component's specifications by 4 ( 3V x 4 = 12V ) i dont know it might work !,0.4738,31
+"okay so i believe i have everything i need to make this except the capacitors, i saw in earlier comments you said the one the swatter comes with should work but i don""t know if mine will (https://www.alibaba.com/product-detail/CMPP-capacitor_114566714.html) <<<< that the cap in the unit at the moment.
+
+I guess my question is, is there any way of creating a suitable cap bank from what i have laying around? If so what should i be looking for? (ie. ceramic vs electrolytic, voltage ratings, capacitance, etc...) 
+
+Also my secondary diameter is a little bigger then yours (working off stuff i have laying around), mines 1 1/4 inches in diameter, will this make a difference? 
+
+Annnnnnd finally, would it be better to run this off of a couple batteries OR should i just run it off my converted ATX power supply at 3.3V? 
+
+Thanks in advance for the help!",0.9498,174
+okay! thanks for the help,0.7777,6
+paul austin I used keystone science's design and got 3 nF,0.0,11
+"preet, i believe i know what you mean. I agree. Maybe next video will be dangerous",-0.1531,19
+so i can't replace anything,0.0,5
+sorry fast,-0.0772,2
+"stop mixing up metric and imperial systems... choose one (obviously metric) and stick with it, you dont start a sentence in english und wechselst dann auf eine andere sprache... same with measuring systems",-0.3447,38
+thank you very much for your reply  Could you tell me which episode is that?,0.3612,16
+"that's pretty awesome and judging by the size, i would assume that coil resonates in MHz range though i could be wrong :-P do have a question though .. are those polyprop. caps pulse rated ? i have tried using some in the past as i have a lot but they do explode regardless of the HV rating, they dont stand up well to pulsed AC or DC .. but maybe they work well in a small circuit application .. oh may i suggest bleeder resistors for the tank cap ? 500k to 1M would be good plus the voltage would be spread evenly on the caps. i realize you know what your doing but a newbie might poke around the circuit and get a nip .. cheers from Germany :-D",0.9449,135
+"they use resonant magnetic fields so they are effectively EMP devices, so what do you expect? nothing negative about coils, just lack of understanding by individuals, and maybe your one.....",0.5943,35
+"this is so far i did it exactly , it didn't work and every other coil on youtube is fake",-0.4767,20
+too short sparks!,0.0,4
+"very well, but i have to ask you, why after  the high voltage transformer you use a gap and a capacitor ? is not be possible to drive the coil directly from the transformer? why this circuit enforce the current? thank you",0.6691,46
+waitwaitwait I'm at that web site  and I see a 3.0kv 0.0039uF 5% MPP 3900pF  I can't find anything that says 3.9nF. can you just give me the part #.,0.0,36
+what are hv leads,0.0,4
+what if i use 120 pf 50v polypropylene capacitors ? should i use a stronger battery,0.3818,16
+what sort of modifications would have to be made to use 28 AWG wire instead of 32? Would it be a simple matter of changing the primary coil length? The height of the secondary coil?,0.163,38
+"who do you think you are? ~(the king of random
+)? lol",0.4871,16
+why even very  high voltage dont give shock?,0.2924,9
+would another circuit of the same model work?,0.0,9
+"wow, real nice instructive vid, nicely done, nicely instructed, and real good working project, thank you so much, the world needs more vids like this.",0.9616,32
+www.digikey.com  part # P16753-ND,0.0,6
+yer i think its a bad rap to mate. but diy means did it to yourself lol take care. subscribed :),0.8945,23
+you are scary,-0.4939,3
+you can see the negative effect of tesla coil  https://www.youtube.com/watch?v=DHlys1dTum4,-0.5719,10

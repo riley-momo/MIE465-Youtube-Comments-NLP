@@ -1,0 +1,362 @@
+,sentiment,wordCount
+"""20 lemons. I feel like we'll have enough juice to make this happen."" Pun intended?",0.3612,20
+"""Another array of lemons?""",0.0,7
+"""Hey, wanna have a lemon party?"" I fucking love you Jason. I applaud that awful joke for the glorious delivery.",0.8977,26
+"""Lemon stealing whores"" made me laugh way more than it should have.",-0.6249,15
+"""Wanna have a lemon party???"" lol if you got that like this comment.",0.7041,19
+"""amperage"" is a thing?...",0.0,8
+"""oh! SCIENCE!!""",0.0,7
+"*Dont search up Lemon Party, I warn you*",0.3182,11
+"*IM GONNA GET MY ENGINEERS TO CREATE A COMBUSTIBLE LEMON, THAT BURNS YOUR HOUSE DOWN!*",0.3382,19
+10 mAh can stop a heart if ran at high current tho?,-0.296,13
+15:19 That's incorrect. What are you doing Brian.,0.0,10
+1:31 I want that on a t-shirt.,0.0772,8
+"1:31 no Jason, when life gives you lemons YOU BURN HIS HOUSE DOWN WITH THE LEMONS",-0.296,17
+"1:31 “When life gives you lemons, you make a taser” 😆",0.0,14
+"6 amps in a AAA battery... 
+not 600 mA,
+6 amps...",0.0,14
+"6 miliamps isn't enough to charge it AND maintain an Active power drain of around 20 miliamps (LED), I would recommend removing the LED and using thrice the lemons in parallel.",0.6369,35
+:-D,0.5106,1
+"@The Modern Rogue, you can probably solve this by
+1) Switching to limes. Limes will give you more acid/acidity. This will help increase both capacity and current.
+2) Increasing the number of batteries you hook up in parallel. This will help increase current.
+3) Increasing the surface area of the metal you use. Try sheets instead. This will help increase both capacity and current.
+4) Disconnecting the indicator LED, which is just a waste of energy for this experiment.",0.9246,96
+A lemon party is a old people orgy,0.4019,8
+"A year and 1/3, well over half a million subscribers, and 100 episodes! I'm so glad this channel is doing so well, and hope it continues to do at least this well for a long time to come!",0.9172,43
+Agreed.,0.2732,2
+Ah yes I realise it does sound like that. My bad. Was trying to ask for a little more research to be done before the video.,0.1779,29
+Am I the only one who got the joke “ Lemmon party “,0.5994,13
+Anyone who knows the principle of that knows that this thing is fake,-0.4767,13
+BOLTX VLOGS *That's what I was thinking*,0.0,9
+Basically kids making a potato clock 👌🏻😂,0.0,9
+"Boy, I remember my first LemonParty run in from a lovely suggestion from a friend.",0.7906,17
+"Brandt Hughes I guess that's what happens when Jason Murphy is listed as ""research"". 
+Jason: I read online you need a positive and a negative. 
+Brian: I talked to an electrical engineer. 
+Jason: Dude why I already did research 😂",-0.0258,48
+"Brian I love you, you're great, but those glasses make you look 20 years older than you are.
+
+Keep it up guys, fun to watch you guys try these different things out!",0.8718,37
+Brian learns how a diode works. . . also taught in 5th grade.,0.0,13
+Brian looks like a bear,0.3612,5
+Brian what watch is that?,0.0,6
+Brian@shwood.com,0.0,1
+Bust the inside of the lemons up. Like take the lemon and roll it between your hands and loosen the insides up.,0.3612,24
+COMBUSTIBLE LEMONS,0.0,2
+"Calvin once said ""When life gives you a lemon, wing it right back and add some lemons of your own."" I don't believe the stun gun was ever a part of it but it's a welcome addition.",0.5106,42
+Can you do a understanding men's style in a playlist?,0.0,11
+Cave Johnson approves this experiment.,0.4019,6
+"Congratulations on 100 episodes! 
+I look forward to the next 1000 :D",0.8491,13
+Couple of fucking mad men,-0.5413,5
+Did they just make a 4 phase lemon?,0.0,9
+Did you perpisuly dress up as the myth busters,0.0,9
+Didn’t even realize you guys were giving away butterfly bottle openers! Still ended up buying one about a week or so ago and I absolutely love it!,0.8165,31
+Do a video on boomerangs,0.0,5
+"Electrical Engineer here, Watts=volts*amps ( or P=VI) is not Ohms law. Volts=amps*resistance (V=IR) is Ohms law, because, imagine this, resistance is measured in the unit “Ohms”.",0.0,48
+"Except that you know nothing about electricity, it's pretty good video :D Ohm's Law isn't about watts.",0.8788,19
+Fair enough,0.3182,2
+Favorite channel ever,0.4588,3
+"Fun fact: LED stands for Light-Emitting Diode.  A diode is a one way street for electricity, so there's a fair chance you had the green LED connected backwards, and that's why it didn't work.",0.7988,39
+Go back to the duplicating key thing and try a car key,0.0,12
+Going hard.... 30 days later 544k,0.0,7
+Good beard.,0.4404,3
+Happy 100 dudes,0.5719,3
+He looks so different with the glasses!,0.0,8
+"Here are a few things that I think might help you out a bit. If you can determine what the capacitance of your capacitor is you will be able to determine how much charge is stored in the capacitor. This equation is q=CV where q is the charge (in coulombs) C is the capacitance in Farads (you will probably need to convert from microFarads to Farads) and V is the voltage. Since you know what the voltage of a AAA battery is and if you can determine the capacitance of the capacitor you will know what amount of charge is required to fully charge the capacitor. 
+
+After attaching the lemon battery to the capacitor, you will need to measure the amperage flowing into the capacitor (clamp on gauge works best for this and can be found at any hardware store). Now, amperage is just a measure of the amount of charge flowing per time (Coulombs/second) and by knowing the amperage and the amount of coulombs required to charge the capacitor the required amount of time to charge the battery can be determined. (Amperage=Coulombs/second-------plug in amperage and required coulombs from equation q=CV). This will give you a rough guess so that you don't have to sit around for 24 hrs waiting to charge  if it should charge in just an hour. 
+
+Another issue that I believe that you are having is that the LED is acting as a short circuit and is allowing any charge that you might be building up to dissipate through it. I would attempt to remove any unneeded components in the stun gun to prevent any parasitic loss. I would also increase the number of lemons and connect in parallel (to increase amperage). Another method could be to try different household items that might be able to provide a larger current. I have not tried these but it intuitively makes sense to use more of a liquid to increase amperage due to the increased mobility of the electrolytes in the solution. (Try Coca-Cola, salt water, bleach or lemon juice)",0.9161,383
+"Hey Brian can you pick me to win the rogue tavern box please I never EVER have won any giveaway in my life, and I love your channels and everything you do please pick me to win, thank you.",0.9423,42
+"Hey Fellas, I'm sure someone has said this before but an LED is USUALLY designed with 1 shorter and one longer pole come out of it - the longer one is positive, shorter is negative.",0.128,38
+"Hey guys, make a raspberry pi project",0.0,8
+"Hey, I drew up a diagram for the lemon stun gun.  How could I give you the diagram?  (if you still want it)",-0.2732,28
+"Hey, just noticed that the giveaway says 18jan 2017 not 2018.",0.0,13
+Hhahhhahahhahahaa,0.0,1
+"Hi Aircraft Mechanic here, Basic concept of a battery comes from a chemical reaction between the two metals. layman term is that the metal is corroding and your controlling how it corrodes and using the current from the corrosion. To get a better volts and amps you need more dissimilar metal also known as ""GALVANIC"". Very important term when it comes to batteries. The whole point of them lemon is to be a electrolyte to pass current from one metal to the other. Obviously there are better electrolytes to use. But Look up a galvanic chart to find better metals to use.",0.8687,112
+Hmmm. That merits some looking into.,0.4019,8
+"Holy crap I can't believe you guys only have 500k subs I forget you're a ""small"" channel y'all put better content out than most the site imho",-0.1531,29
+Holy shit forgot y'all don't have millions of subs the vids are just too good,-0.1779,15
+How do you recharge your lemon?,0.0,7
+I always get a little exited when Brian says “Murphy”,0.0,12
+I couldn't resist.,0.0,4
+I don’t believe for a second that you got 6 amps out of a AAA battery. That’s orders of magnitude more than the amount required to stop your heart.,-0.296,35
+"I feel that it didn’t work because while charging they disconnected where the battery should be 
+So the amount of current would be lost these are lemon batteries. Try doing it with then still on current was lost due to the electricity running through",-0.5574,47
+"I had to look up ""lemonparty"" to get the reference... I regret it...",-0.4215,17
+I have to brag.....I subscribed at 2k subs lol 😎,0.4215,12
+"I just love how enthusiastic Jason is at the same time as being super doubtful. You two are great.
+
+Edit: I love the automated voice. It's hilarious!",0.969,32
+"I kinda do, too.",0.0,6
+I made a stung gun from a camera and added extra capacitors and shocked myself on accident  and it fucking hurt. Made me sweat and made my heart race. I don't recommend being careless with capacitors.,-0.8883,39
+I made the camera taser,0.0,5
+I think you'd probably buy a battery for less than all those lemons would cost if you were to buy enough to fully charge the tazer,0.0,26
+"I used to watch this so long ago, I watched scam school and I watched the show on netflix (they all have this guy) and its so crazy to see this channel grow!",-0.7969,37
+I wonder how many people actually looked up lemon party,0.4019,10
+I would be really interested to know if the charged lemons taste different than the regular ones ;-),0.4927,18
+I wouldn't be surprised if y'all were on some FBI watch list.,-0.1695,13
+"I'm Imagining a flyer for a bar. 
+
+Jason's Lemon Party!
+Friday 13th, 23:00-4:00
+
+Murphy's Bar
+12 Brushwood Drive",0.4574,22
+I'm in trouble I need some LEMON-ADE (I'm soul shriveled as I typed this),-0.4019,16
+I'm not impressed at all...,-0.3724,6
+I'm surprised you aren't at 5 million subs. You're better than most channels on here,0.5859,16
+If you dont know what a lemon party is just dont look it up,0.4019,14
+"In Soviet Russia you don't make taser, taser make you",0.0,11
+"It looked like you were just measuring the current of the battery though, which means you were measuring the current in a short circuit. Still useful, I guess, if you want to know the battery’s maximum power output, and risk destroying it but whatever haha",0.6124,52
+"It would take around 6 million lemons to equal a cart battery. Who's up for it?
+Average lemon is 0.7V at 1mA when under load compared to around 1.2V 2000mA - give or take 3000 lemons.  
+You likely didn't overcome the internal resistance of the circuit to even start charging it.  
+Make it easier for you - got to a store and get some low voltage and high capacity electrolytic capacitors,  directly wire them up to the lemons and look for sparks.",0.1779,90
+It's resistance,0.0,2
+I’M THE MAN WHO’S GONNA BURN YOUR HOUSE DOWN! WITH THE LEMONS!,0.0,18
+Keep it up mr,0.0,4
+"Kind of like our 7.5 minute episode of maybe if someone heated glass with oil right, it might cut. - https://youtu.be/lkQYkg9QF48
+Or our 13.5 minute episode of if you make pruno right, it might get you drunk. - https://youtu.be/RxuEvQmdWyM
+Or our 27 minute episode of if you melt styrofoam right, it might make a usable knife. - https://youtu.be/HBTRyUQ61Bw",-0.25,64
+LOL LEMON PARTY,0.6705,3
+"Leave the volt meter connected while the 'taser' is connected+charging,and see if the voltage maintains 1.5V while under a load. (Hint: it will drop to something substantially lower.)",-0.3182,40
+Lemons for the taze god?,0.2732,6
+Lightning port?,0.0,3
+Lol he doesn’t know what lemon party is,0.6705,10
+Lol lemonparty,0.4215,2
+"Lol, I would like to give Jason a little more credit than that, but I'm not going to pretend that you're 100% wrong.",-0.0641,27
+Lowkey best channel on the site,0.6369,6
+Make something with adam savage,-0.4588,5
+Me neither.,0.0,3
+Miracle fruit om nom nom nom...,0.5859,7
+Modern notification squad.,0.0,4
+"My apologies, I should never have doubted you, as the rest of the video clearly shows! :p
+S'ppose other folk might try it and make that error though",0.4777,31
+"My friends and family always get on me for having inside jokes with myself. Now chuckling out ""make a tazer"" in response to the when-life-gives-you-lemons idiom will just get me more confused looks, instead of laughter it should get for being the greatest science joke ever.",0.9261,51
+Mythbusters aftershow do try this at home can we charge an mp3 player with lemons?,0.0,16
+Mythbusters?,0.0,2
+NO LEMONS HARMED IN THIS VIDEO!,-0.68,7
+"Never learned this but I am learning it here
+
+Great channel",0.7684,11
+"Not to be a party pooper here, but i gotta correct you. galvanized zinc on steel is not to actively avoid but to counteract the reaction with steel. In short: zinc will corrode EASIER than steel, so when there is a crack in the zinc coating, both zinc and steel (Fe) will react, but zinc will have a greater tendency to do so, and will make the iron in steel return to metallic form by giving it its electrons from the zinc reaction. The other way around is also not bad, because the coating will stay longer, but the same way zinc keeps the steel from reacting, it will once theres an opening, accelerate the corrosion of the steel. But yeah, works both ways",0.961,141
+Now let's charge lemons with tazers!!,0.0,8
+Oh god not the lemon party 🤦‍♂️,-0.0408,10
+"Oh, dear.",0.3818,4
+"Ohm's Law is V = IR, not P = IV. However, both are valid formulas, just for different things.",0.0,24
+"Ohms law: v=ir 
+Volts=amps•resistance 
+😂😂😂
+Appreciate the effort though.",0.4019,19
+"Ok, let's say you have just lemons to protect yourself and the attacker is coming at you, what would you do?
+1) Throw lemons at the attacker.
+2) Squirt lemonsuice into his face.
+3) Call 911.
+4) Call 112 because you're not in the US.
+5) Look for some wires and make a taser out of it.
+6) Buy a multimeter
+7) Just tell him to идти к черту. And hope a Russian accent would scare him of.",-0.5994,95
+"On the lemon batery and capaciter charging:
+TLDR: the more amps, the faster it charges, parallel batteries gives more amps.
+
+Full: the time it takes for a capacitor to charge (with constant current) is VC/I so if you give more amps, the faster it charges. Batteries in series gives more voltage, batteries in parallel gives more current. So, stack a bunch of lemons in parallel to get somewhere in the right amp range and you should be good to go, it would take 2,000 to match a  AAA, but 100 should give you a charge time of close to 3 minutes or so",-0.0387,120
+Oooooomg edible diy watch battery,0.0,5
+P=IV*,0.0,3
+PART 2 PLEASE!!! i love your guys videos keep it going,0.8446,14
+Please dont bring up lemon party ;-;,0.6124,9
+"Pretty sure pennies are 99% zinc, the copper ones were deemed too expensive decades ago",0.6705,17
+Put his arm in a vice!,0.0,7
+"Raw enthusiasm, no talent
+i want that on a modern rogue t-shirt",0.5859,13
+Remember that 'lemon party' from one of those cars movies?,0.4019,13
+Reminds me of one of my physics lab experiments but more enjoyable =p,0.8251,13
+Remove the LED and try again.,0.0,7
+Saying “anything galvanized is usually covered in zinc” is like saying “anyone Dutch is usually from the Netherlands.”,0.3612,23
+Screw lemon batteries just get some of the rechargeable batteries at Walmart,-0.1027,12
+Search lemon party,0.4019,3
+Sell the lemons buy a battery,0.0,6
+"Seriously guys, love what you do but did you even do high school?",0.3071,15
+Shave....the beard.....lol,0.0,6
+"Should of made it out of farts, then it could of been the smelly gun. Not the stun gun.",-0.5859,22
+"So if I hook it up right I can play xbox 24/7 as long as I have lemons, gotta keep those lemon stealing whores away",-0.743,26
+So it stuns lemons?,0.0972,5
+So much foil eeuuwgh...,0.0,5
+"So this is not about making a lemon stun gun, but about making the most inefficient stun gun charger ever. My disappointment is immeasurable and my day is ruined.",-0.9246,32
+So you could charge a cell phone... Eventually,0.0,9
+So... A 23 minute episode of maybe if someone did this right it would work.,0.0,17
+So... you guys are just.. making videos as some part of an experiment?,0.0,16
+Still enjoying for months on end. keep up the good work,0.743,12
+Subscribe to me,0.0,3
+THE POWER FROM THE LEMONS!,0.0,6
+TIL the r in v=ir is watts lol,0.4215,10
+Thank god surgeons have more of an idea about what they are doing.,0.5574,14
+Thank you!,0.4199,3
+Thank you! I appreciate that.,0.6696,7
+Thanks for the support!,0.7088,5
+Thanks!,0.4926,2
+Thanks! Glad you're digging it.,0.7345,7
+Thanks! I thought it would right up your alley.,0.4926,11
+"Thanks, man.",0.4404,4
+That sounds a bit like you're looking for a show that's not our show. (which is fine.),0.3612,21
+"That was Watt's Law that you showed where Watts = Volt*Amp, Ohms law is Volts=Amps*Resistance, or more sciencey Electromotive force = current * impedence",0.0,32
+That's a good idea!,0.4926,5
+That's a really good idea.,0.4927,6
+That's the Pebble Time Steel.  Love it.,0.6369,9
+That’s okay. We’re impressed by you.,0.6124,12
+"The Modern Rogue ""when life gives you lemons make a tazer"" should be a t shirt",0.0,18
+The Modern Rogue Happy birthday Brian,0.5719,6
+The Modern Rogue Love the videos keep it up!,0.6696,10
+The Modern Rogue SHAVE NOW,0.0,5
+The Modern Rogue can you guys make an electromagnetic coil gun from household items? I've seen them with the cheap cameras but would like to see your twists on the project.,0.3716,33
+"The Modern Rogue for the love of god, please make white phosphorus out of urine",0.8225,16
+The Modern Rogue just letting you guys know I haven’t seen it I just have bad friends,-0.1027,19
+The Modern Rogue that laugh at the end of the lemon party skit is totes my ringtone. [Cackles maniacally while wringing hands menacingly],0.5574,26
+The Modern Rogue the long beard at the beginning  does not suit you Brian. It looks like a hipster beard,0.3612,21
+The Modern Rogue yeah I know his thought I would try btw scam school scams work amazingly I've done a lot on my family,-0.743,24
+The Modern Rogue you two are so handsome yummm,0.6269,9
+"The Modern Rogue! Equal parts: Gentleman, Warrior, Scoundrel,
+
+
+
+
+
+
+
+and sketchy grade school science teacher.",0.0,20
+The R in Ohm's law actually stands for Resistance. Also a fundamental formular but different from the one to calculate Watts so the you manged to screw up an correction that was done while edditing xD,0.6808,37
+The formula under ohms law does not describe the words on screen. If you want watts then teh formula should be W=I*U if you want resistance (ohms law) the formula should be R=(U/I),0.1531,45
+"The lemon is only there to make contact between copper and zinc. If you cut disks of galvanized iron, cardboard and copper flashing. You could stack them up, add lemon juice to the cardboard, and get more current. See https://en.wikipedia.org/wiki/Voltaic_pile to see how it was done. They powered arc lamps with that sort of arrangement.",-0.2732,63
+The other thing is the thickness of material affecting the transfer of electricity,0.0,13
+They're beards finally balanced each other out.,0.0,8
+"Think there is a lot of bleeding.
+Mayyyybe try discharge 100% a recharge battery and see what you can put back into it via lemons.... Technically anything you use off that battery is done via lemon party powers. Just to show proof of concept as the taser may just loose whatever you are putting in",0.1027,59
+This is the most efficiently-run operation on the internet.,0.0,10
+This is... necessary.,0.0,5
+This reminds me of mythbusters,0.0,5
+"This stun gun doesn’t work, i think i got a lemon",-0.34,14
+"This week, we're giving away a Rogue's Tavern, the complete bar-in-a-box that gives you everything you need to to hundreds of magic tricks, effects, and puzzles! Not only that, each Rogue's Tavern includes an individually-numbered challenge coin. If you meet Brian and whip out your coin, Brian owes YOU a drink!
+One person who enters the free giveaway at http://gimme.scamstuff.com will win a Rogue's Tavern. No purchase required. Giveaway ends 1/19/18.
+
+Find out more about the Rogue's Tavern here: https://www.scamstuff.com/collections/main/products/the-rogues-tavern
+
+Congrats to last week's winners of the Butterfly Bottle Openers: Dom Halsall, Keegan Baker, Matthew Tompkins, Paul Fullen  and Caleb Swabel",0.9347,120
+"To the modern rouge:
+Measure the voltage while under load (charging something)
+
+To the poor people without a cheatcode:
+""We've got some voltage""
+Due to internal/parasitic resistance voltage will drop (severely in this case, this ain't a battery) when under load, always*. 1.6V for some LEDs is stretching it; To over-simplify it: LEDs attempt to regulate the current flowing through them so don't worry about supplying .5 volts too much.
+
+""100 Volts :D""
+*wires up a LED*
+""2V (!?)""
+*pro tip, just buy batteries, cheaper, smaller, last longer, more powerful, less resistance....
+
+""Voltage is cumulative?""
+For high voltage
+yes, if you wire it properly -- in series, or + to -
+For high amperage or current
+nope, in parallel, or all +'s (anodes (zinc)) together and all -'s together (cathodes (copper))
+
+""Only one way""
+Yes, as you've learned from experience: LEDs, or Light Emitting Diodes emit light when current flows through, which in turn only flows when you have the correct polarity; Diodes block current flow in the wrong/backward direction (up to a point), drop some voltage (Vf or forward voltage) in the correct direction.",0.3878,256
+Try charging a rechargeable battery. Or a super-cap capacitor above 20F (maybe it will also leak charge too fast) [note dont screw up with the wireing (+-)],-0.2741,35
+"Try making the breaking bad battery and chargeing a ""newer"" homemade tazer",-0.5423,14
+U should have done a parallel circuit not series. The more resistance ( light bulbs ) the more output,0.0,20
+Unyt how did you get the bold text,0.3818,8
+"Unyt you didn't know, did you?",0.0,8
+"Use a bigger copper wire, and remove the LED indicator light.",0.0,13
+"Use lemon juice, pennies, and dimes to build a voltaic pile.",0.0,14
+WOAH its been ages since i have watched yall but is it brian? im not sure but the ginger one WOW has his beard grown,0.7056,26
+Wait don't rob me yet I need 5 hours to charge my taser.,0.4449,14
+Watch it again.  Pretty sure I said “milliamps”,0.6705,11
+Watch it again. You said amps. 16:30,0.0,9
+"Watching you guys play with electricity was adorable and painful. :P
+
+Some other people have already mentioned using strips of zinc and copper to increase the surface area... you might also want to try squeezing or rolling around the lemons to break the little juice sacs inside... maybe even wiggle the nail around on the inside, so that metal and the juice are all making good contact.",0.873,72
+We're working on it Cave Johnson we'll burn lifes house down soon,0.0,12
+Well in actuality the whole reason behind zinc coatings on metal is so that the zinc acts as a sacrificial coating that will rust before the actual metal and the sacrificial coating is basically surface rust (only know this because I am a autobody technician),0.2732,47
+Well you can look it up just go to the urban dictionary and don’t look at google images,0.2732,20
+"Well, its better if you use metal which is further in Electrochemical Series",0.6124,14
+"Well, when lemons take your life, make poison lemonade",-0.34,11
+Wet skin was still too resistant...,0.0,7
+We’re pretty stoked.  Help us spread the word?,0.7096,12
+What happened to the 3 volts,0.0,6
+What!?!,0.0,4
+What's the point of this question? Do you actually want an answer or do you just want to belittle us?,-0.3939,22
+What’s a lemon party?,0.4019,7
+When life gives you lemons you make a taser.,0.0,10
+"When life gives you lemons, charge a taser",0.0,9
+"When life gives you lemons, don't make lemonade. MAKE LIFE TAKE THE LEMONS BACK ! GET MAD !",-0.6723,20
+When you wet your arm you should wet in two different spots and put each nail in a different wet spot because if the whole space is wet it just conducts over your arm and you can't feel it,0.0,39
+Will do!,0.0,3
+"Would you guys ever do a video on vapor fuel systems ? Google Tom Ogle. He invented a fuel system that allowed up to 100MPG in vehicles, and he was mysteriously assassinated. You can make one at home as far as I’ve heard.",0.0,49
+Yall needed a shiner bock to think harder,0.0,8
+"Yeah, we screwed that up SO BADLY.",-0.782,9
+"Yes, that's one I've wanted to do for a while. Trying to make it happen!",0.4574,18
+"You are on the right track with bigger electrodes and using series + parallel to get more current and voltage BUT lemon batteries have a relatively high internal resistance so when you connect a load like your stun gun the terminal voltage drops. The only way to beat it is more lemons and increase both the number of cells in series and parallel. One other point to keep in mind is that lemon batteries go flat fairly quickly by deposits building up on the electrodes.
+BTW The unloaded voltage is purely defined by the two metals and the chemistry in the lemon ie you can't really change the voltage by repositioning the electrodes, you might improve current capability or effect the internal resistance.",0.8314,128
+"You could do an episode about rappelling, yes with a harness and all the equipment, but also with the basic stuff, there is a way to do it just with a rope (dulfersitz rappel) 2 ropes  (south african rappel) or you can make a harnes with some rope and use a carabeener to rappel (swiss seat)",0.2144,65
+You guys are on your way to robotic engineering for sure.,0.3182,12
+"You guys should do an episode on different camouflage styles/prints and their uses. E.g. Urban (Berlin Brigade), Dazzle, Digital, Desert (pink?), Snow, etc.",0.0,40
+"You know your multimeter will measure amperage, right?",0.0,10
+You probably find the LED isn't lighting up too much due to very low current,-0.3384,15
+You shouldve used potatos,0.0,4
+Your kid's science fair projects must be awesome!!,0.7896,10
+Your right when you say grid but do some research on parallel Vs. series.,0.0,16
+"ah, that would have been good.  I'm sure We'll revisit it.",0.6369,14
+batteries have a higher amperage which is one reason why your LED lit up on the battery at a lesser voltage. If you make a couple of resistors in between the Amp rating you can essentially light up the green led at the base 1.8V they were rated for. Also the reason that the camera stun gun works is due to the amperage that is created by the circuit within the camera. There are a series of Resistors that are used to essentially change the current. If you want to do a test you can add in resistors in between each battery and test the change in current. Capacitors are used within a camera to allow the flash to charge. the release of the capacitor gives a higher current than if you were to just touch both ends to what you are shocking.,-0.2263,151
+brian nice beard,0.4215,3
+cheeky,0.0,1
+doesnt jason know what a lemon party is 😂😂😂😂😂😂😂😂😂😂😂😂😂,0.4019,11
+don't search up lemon party it is very gross,-0.1761,9
+enough *juice* - muahahaha!,0.0,7
+great idea!!,0.6892,4
+"hah.  yep, still me.",0.296,7
+"half sortof electrical engineer here: What you did at the end should have been entirely correct, and the spark kind of proves it (the battery in wrong way doesn't do diddely dit). The reason you didn't feel anything on the arm is because tissue isn't really all that conductive. You require a fairly high amount of voltage (Which accumulates as you charge it) to establish a connection through tissue. Proper tasers will output 50000 volts for a brief moment just to establish a connection, and immediately lower itself to 1200v once the currents starts flowing to not actually kill the guy.
+
+So yeah, proof of concept! Now you just need a whole lot more lemons :P",0.7298,129
+holy shit the lemonparty bit broke me,-0.7506,7
+how do you win it,0.5859,5
+http://www.beststungun.com/ brings me here :),0.4588,5
+if only he knew what a lemon party was 0:40,0.4019,10
+if the water on his arm was battled the it was not conductive. water is only conductive if it has minerals in it.,-0.296,25
+im hoping is kind of expensive and the coupons dont work,0.4215,11
+jeez 100 nice job!!!,0.5684,7
+lol,0.4215,1
+me and my friend got 0.4 volt out of half a lemon.,0.4939,13
+me the entire time: WHAT IS THE AMPERAGE OF A LEMON,0.0,12
+nah. we tried it both ways every time.,-0.1027,10
+"next, a potato powered potato gun, taterception!",-0.4003,10
+nice!,0.4753,2
+now you gotta make combustable lemons!,0.0,7
+oh... please don't.,0.3182,5
+oh...I used the camera taser as a class project...WELP,0.0,13
+ok you need like 1000 lemons give or take in parallel with another 1000 in parallel and then put both into series  and then you should get yourself apretty darn decent charge der basic car audio bruh.... lol,0.7579,39
+should have just used a variable voltage controller. Like $2 from china.,0.3612,15
+terminal... not node...,0.0,5
+thanks!,0.4926,2
+thats awesome,0.6249,2
+thats what i said,0.0,4
+the ed do not light as there isnt enough amps,0.0,10
+the long stem of a LED is the positive side,0.5574,10
+this screams myth busters,-0.296,4
+this two have a lot of chemistry,0.0,7
+"vinegar in place of the lemons should also work, as long as it is something acidic inbetween of the copper and zinc.",0.0,24
+wanna have a lemon party?,0.4019,6
+"well, that wouldn't be a very fair giveaway contest, would it? (good luck!)",-0.0953,19
+what if you made a second one but removed the light so the bleed is gone,0.0,16
+when life gives you lemons be glad it wasn't herpes,0.4588,10
+when life gives you lemons taze life with the lemons,0.0,10
+"when life gives you lemons, look up lemonparty",0.0,9
+who gets the golden play button when you guys hit 1 million?,0.34,13
+yes... and you should feel horrible... lol At least i'm an adult! XD 22 to be exact.,0.8236,21
+you guys r the best....so ill expect a full episode dedicated to that?? :),0.5514,18
+you need to do this again!,0.0,7
+you never retested the brightness of the blue bulb.....i reallllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllly wanted to see that :/,-0.555,17
+you should try to make a Jacobs ladder out of lemons,0.0,11
+"you were close with ohms law, ohms law is the relationship between voltage, current and RESISTANCE ( V = IR ). you refered to the power law equation which is P = IV which will give you power in the unit watts",0.0,45

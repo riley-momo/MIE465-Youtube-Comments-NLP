@@ -1,0 +1,355 @@
+,sentiment,wordCount
+"""The slats don't block much light?"" If each slat is 3/16"" (.188"") thick, and there are 30 slats, the slats block 5.64"" of the window. On the same topic (windows), and window screens...a window that is 4 square feet in surface area (2 ft x 2 ft), with a standard window screen, is effectively 2 square feet for the purposes of calculating air flow.",0.7725,86
+*REKT*,0.0,3
+"*Short explanation:* The sun appears to move up and down every day, but the entire time the flat edge of the blinds stay pointing at the sun, as the blinds are tilted. 
+*Long explanation:*
+There are two ways to think of it. One involves lines and stuff, while the other involves a cylinder.
+I'll start with the longest way. 
+You have a flat 2x2 unit square laying on the ground. You prop the square up on an edge such that the angle between the square and the ground is 45 degrees. 
+
+Kind of looks like this from the side:
+ _____\_____
+
+If you take two points, one from the midpoint of the side on the ground and one from the midpoint of the opposite side, and draw a line that includes those two points, the line will rise one unit upward for every one unit traveled horizontally, i.e. the slope of the line is 1 (because tangent(45 degrees)=1).
+
+However, take a point form a corner of the edge on the ground and a point from the corner farthest from the first point (i.e. opposite to the first corner), and draw a line using those two points. Going from the ground to the edge of the square, both lines rise by the same amount (the square root of 2 units, to be exact). However, the first line going down the middle of the square travels less distance horizontally to reach that height than the line going from one corner to the other.  Because the line going from corner to corner (the second line) travels more distance horizontally to reach the same vertical height as the line going through the middle of the sides (the first line), the slope of the second line is less than the slope of the first line.
+
+Now, from each line, travel the same distance along each line, starting from where the line intersects with the ground. One point is higher than the other, yet the line extending from both points are in line with the surface of the square.  Since the Sun is pretty much always the same distance from the Earth over the course of one day, these two points are an accurate  representation of what happens in reality.
+
+
+*Short way to think about it:*
+Take a cylinder, and slice it in half at an angle. Ta-da.
+
+Both explanations essentially describe the same thing.",0.8338,466
+"*gets a flat piece of foam*
+Oh here we go bois",0.0,13
+"244 Flatearthers disagree. 
+But thanks for this super simple and impressive explanation!! Never thought of this myself somehow 😅",0.8436,22
+"@Cody'sLab: I love your science videos. Don't bother with the flat eathers. Seriously. they're like mad men. Do you go try to go into a mental asylum and try to correct everyone there who is delusional? No.
+
+You have over a million subscribers. You are inadvertently giving these people way more publicity than they deserve. Not worth your time. I love your videos and your channel. Most admirably, you're delivering general science education to a broad audience in a very engaging format. Thank you and great work!",0.9744,103
+A Nerd..the new rock n roll star. Rock on cody!,0.0,14
+"A rotating plane will remain oriented only if it is normal to its rotational axis. A plane normal to Earth's rotational axis will only intersect the sun at the equinoxes.  What you are seeing with your blinds may have more to do with the fact that this time of year the sun is only up for a short time, and isn't changing enough in altitude during that time to be very noticeable in the shadow. The Earth is definitely not flat though, so +1 for that.",0.4019,93
+"A round-earther triggered! The disproof of non-round earth is just nonsense. All you have to do is move the sun along the plane of the sheet, no matter how exactly. 
+
+Also, on round earth, the sheet doesn't sweep a plane, it is a cone. So window blinds can't stay lined up with the sun perfectly (they can only at equinoxes).",0.1759,71
+"Ahh, but would flat-earthers ever go to a ball, or buy a round of drinks for those in their sphere of influence? It's funny how the flat Earth theory has global support.",0.8126,36
+"Awesome trees project, I think that tomorrow I'm going to do exact the same thing.",0.6249,17
+Aww Cody your so cute. I wish i was as much of a good person as you are.,0.8672,20
+BOI,0.0,1
+Birds (or you) have to eat those berries before they can spawn a tree,0.0,16
+"But only if your window is facing perfectly south. If you want the blinds to stay aligned in a window that is not facing perfectly south, the blinds would need to be non-horizontal.",0.8658,36
+But what if the earth is just flat in 3d?,0.0,11
+"CODY BROKE THE WORLD!
+
+But seriously, that depends on where you are on the planet. Doesn't work like that here in the Nordics.",-0.7674,27
+Can't use that model anymore Cody its to round to perfect a sphere. The new earth model is a oblate spheroid or a chubby wubby pear shape. So can you please try this again only with the true model of earth the chubby wubby pear Styrofoam shape earth. So looking forward to the experiment done properly an thank you as Neil would be so unhappy with this perfectly round earth you present here. smh,0.8704,78
+Cat,0.0,1
+"Clearly a stooge of big globe xP
+jk, fantastic video and very interesting effect",0.9152,15
+"Cody I love the video, but If I DON'T see one more clip of your cat in your videos I'm gonna have to demand that you make a 10 minute long video of nothing but you fussing your cats. That is true content. But seriously, love what you're doing, keep it up <3.",0.8834,59
+"Cody please stop with this kind of videos. @JamieMantzel did the sam thing. This is not funnz, entertaining educational informative or interesting.",0.1012,26
+"Cody you are wrong this time, look again during spring, right now it's only true because the sun is above the tropic of Capricorn and you are in the north. Right now the sun seen from Utah is just slight over the horizon during the hole day, if you don't have a big change in elevation then you don't have to adjust the blinds. Look at professional solar panels, they have motors for both axis.",-0.0772,82
+Cody's mind is always active !,0.4574,6
+"Cody,  for some reason I have not been getting notified when you post new videos.  I literally have to search for them so I just wanted to let you know in case your views have been dropping a lot because it may be happening to more people.  Hopefully you can figure out a way to correct the issue.",0.4549,62
+"Cody, you've been at that house long enough... have you made a composite photo of an analemma yet?",0.0,21
+"CodyMadeMyDay+=1 
+THANKS AGAIN !!",0.639,8
+Could you use the angle you have to adjust the blinds to in the summer and winter to calculate the planet's axial tilt and the latitude of your house?,0.0,30
+"Depending on the ecology in your area, usually juniper populations are too overgrown and condensed, pushing out native grasses and sages that should be adding to the soil and resisting erosion. Annual fire would naturally be sweeping through most grassy range areas, killing the baby junipers, keeping the prairie open and treeless. In Eastern Oregon this is a huge issue, as the prevention of naturally occurring range fires leads to juniper encroachment which causes a whole host of chain effects like riparian zone loss, trenched non perennial streams, loss of fish habitat.",-0.765,102
+"Do people actually believe this? How is that even an accurate representation of the flat earth model? First of all, the piece of cardboard representing the blinds covered what would be an entire continent on the flat earth. The size of it should be minuscule in relation to the styrofoam disc. Second, the light source representing the sun threw it's light onto the whole styrofoam disc. In reality it should only cover one third of the disc in order to be a better representation. This is completely inaccurate and nowhere near scientific. In the first minute of the video he states the truth about our sun whether he realized it or not. He says the sun moves across the sky. We see and experience that everyday because that's what is happening. The sun is small and close and it moves across the sky while we on this plane earth remain stationary.",0.6767,164
+Does anybody know the tree species?,0.0,7
+Earth is flat,0.0,3
+Earth is flat and Mr roboto killed JFK,-0.6705,8
+"Elite dark lord_dragonslayer_3.14159 
+True the scale isn’t doable to scale but it is real. Notice in the vid the light source was closer than the spherical, so it was dishonest. 
+
+The CE is not a true phenomenon, imo. There are plenty of demonstrations for you to watch. One thing to consider is this. The spherical system is closed and is not detectable. The CE would debunk this if it were true. That is, is the spherical system able to be empirically detected or not. You can’t have it both ways. Either the atmosphere is independent of the system or it’s not. The CE says it’s not.",-0.8896,131
+Enjoyed as usual.. Thank U!------ Does the sun blind the turtle that carries the earth? Maybe he wear's shades ;),0.6476,26
+"Even on a globe, It only works if your window is facing exactly north or exactly south, if your window is even slightly tilted, it won't work.
+Can it work on a flat earth? I don't think so...:D",0.0,45
+"FLAT EARTH
+
+
+jk",0.2263,3
+Fascinating model for the largest sunshade ever! Build it!,0.6229,11
+Flat earth confirmed.,0.0,4
+Flat earthers are so funny.  They basically got trolled. Suckers.,0.1132,13
+"Good to see you didn't delete this video. I just bookmarked it, a while back and got to see it now :) Was it because of the flat earth thing? or something to do with the restoration project?
+
+Don't worry, I won't share the link.",0.8528,51
+"Hah flat earth troll, thank you Cody for such a simple stop to this stupidity.",-0.3818,17
+Haha take that flat earthers,0.4588,5
+Have you seen the lemon and the plate experiment? Just about died. Stunned in this age we have people who still think the Earth is flat.,-0.6124,29
+Have you thought about making gin with the juniper berries?,0.0,11
+He made an error,-0.4019,4
+"He says the earth is a sphere but plays minecraft in real life? wth men, minecraft world is flat",-0.4767,21
+"Hello Cody. Norway here is wondering if you ever done any episode on the magnetic material named Lodestone ? or if you could do an episode if not ? There is a large statue named Kryptos placed in the backyard of the CIA's headquarters at Langley. The statue itself is made of cobber i think, and there are encrypted text on the statue, 3 out of 4 passages of the text has been cracked but last passage is still unknown. The artist himself Jim Sandborn says its there are clues around the statue itself so, Cody, please shed some light over the material named Lodestone please ? its used in Sandborns statue, my guess is , as a clue. Please ? - Norway",0.8921,132
+Hey Cody I think you would really enjoy having a pet snake. I don't know but I have one and you seem like you would enjoy that kind of thing.,0.8817,32
+"Hey Cody,  Take some measurements of the Suns diameter thoughout the day ;)",0.2263,14
+"Hey Cody, I'm surprised you use Seachem's Prime rather than sodium thiosulfate as your dechlor. Why is that?",0.2263,21
+"Hi Cody,
+
+I was just watching one of your metal refining videos. I just wanted to ask if you could make a video of the ways you dispose the unusable liquid and solid chemicals. I also would like to ask about batteries AA/AAA etc. Is there anything recyclable in depleted batteries and how would you dispose of them?
+
+Thanks!",0.7424,67
+Hope those Junipers really take off and the reforestation works!!!,0.5826,13
+"I agree with stemtuber.  It's close to the (Northern) Winter Solstice right now, so the sun has a narrow range of elevation, only 5 degrees, during the bulk of daylight (at least where I live, 42 latitude); not enough to notice.  Near the (Northern) Summer Solstice, the sun's elevation varies much more, about 20 degrees, throughout the day.  The bulk of daylight does not include sunrises or sunsets, which broadens the ranges even more.  A repeat experiment next summer would be great to see!",0.784,103
+I always love videos that debunk flat earthers. Amazing.,0.8402,11
+"I am blind. I used accessibility software to type this sentence.
+Well, my screen reader read the sentence at least, I use speech to text. iPhones are awesome￼",0.0387,34
+"I came here from your link as I wanted to see what you were wrong about? Obviously you and a few others ( if not all) are WAY WAY more intelligent than I am because after watching your explanation I could not see any thing wrong with it? It made perfect sense to me lol and by the way it takes a very very big person to admit when they are wrong or made a mistake it speaks volumes about the type of man that you are! I just get tired of saying ""Ok Ok I was wrong"" ha ha",0.4108,106
+I can’t tell if the flat earth comments are jokes or just idiots,0.25,15
+"I didn’t watch this till it was unlisted. I enjoyed it and understand what you’re trying to get at, but flat earthers are just a lost cause.  You can’t fix someone’s beliefs if they don’t want to learn.",-0.09,52
+I guess if you think about it as the sun moving around the earth (which is kinda how it looks from our perspective) then this doesn't make sense but once you think of the spinning earth it seems obvious. Until you showed the sphere I had no idea.,-0.4215,52
+"I like the video but there is additional ""rotation "" and movement throw ""space"" and you have a good question on the flat earth",0.6808,27
+I like these less structured and refined videos. More Vids for the Blab!,0.4199,15
+I love that Cody works in proof that the earth isn't flat wherever he can.,0.6369,16
+"I loved the tree part of the video, I'm so exited but now I have to wait for months 🙃",0.3506,21
+"I see why canyon loves you, cheers would love to meet you one day and shake your hand.  Keep educating them flatards ✌🏼",0.926,26
+"I thought flat earthers assume the sun moves like in Minecraft? still goes under and over, and the blinds thing would still work",0.3612,25
+I thought this was about software and was totally confused.,-0.3804,11
+"I understand your example, but my brain still doesn't get why the sun that moves in an arc across the sky doesn't change the shadow... Weird! 😀 Also, nice that you compare this to a flat earth!",0.4997,42
+I was confused until i realised that the Earth is not flat!,-0.3802,13
+"I was wondering where this was going. And then Cody put the slam down, again, on flat-earthers bunk ""arguments.""
+
+Good work sir, happy holidays!",0.784,32
+"I wish more people would take a couple days in the year to plant some trees, all it takes is digging a bunch of small holes in the ground and popping a seed or sapling in, Thank you Cody.",0.6369,42
+"I'd wager that Flat Earthers _don't_ actually believe it, and most of them are just trolls looking to have a giggle at the people who take them at face value.",0.6369,34
+I'm more worried about the Earth being made of styrofoam than I am the shape of it.,-0.3597,18
+I'm not flat,0.0,3
+I'm pretty sure you grow the best pot in town,0.8658,10
+"I'm pretty sure you would need to know the axial tilt to find the latitude of your house, and vice-versa.",0.6705,22
+"I'm with you 100% with debunking the flat earth theory Cody, but I believe that the flat earthers  say the path that the sun circles in the sky is so large that it appears that the sun is disappearing over the horizon in a straight line. Therefore casting a shadow in the way you described in the video. Is there something I missed here or can we disprove the flat earth theory the way you demonstrated?
+edit: I guess that their theory is thrown out when you look at a north pole summer sun.",-0.1154,101
+"I've used the same argument against flat-earthers (using a vertical stick, but the same principle), but never got a response..",-0.1901,25
+"Idiot who said that sun is constantly moving in the same direction, earth is flat its a fact, but sun does change a bit as it moves, giving us seasons",0.2382,33
+"If the Earth was flat there would be nothing on its surface, the cats would have pushed everything off the edge by now",0.0,24
+"If the blinds were perfectly lined up with the sun would the top and bottom face be dark or light? if its light, how far away would the sun have to be to make the faces dark?",0.7476,40
+"If the earth is flat or not, it doesn't matter, since mountains make the surface uneven. A simple explanation if you want to stop talking to people about this.",-0.2132,33
+"Im NOT a fe but your vid proves nothink because the measures and distance of ALL objects are VERY important.
+On your ""fe"" u used a blind of aprox 4.000 km... your fe blind is aprox 120  km removed from the surface...
+NO PROOF...",-0.8053,50
+Incoming Triggered FES,0.0,3
+Is that Hammer from Alaska video?,0.0,7
+"It's far from obvious and it doesn't serve as a good flat earth debunking at all. If you're so good at picturing the geometry involved, it should be obvious that a sun orbiting a flat earth in a plane going through it will produce the same results as a spherical earth rotating far from the sun.",-0.5875,59
+"I’ve got a better idea
+*Remove the blinds*",0.4404,12
+"Juniper seeds need scarification, typically provided by the digestive tract of grouse here in Utah. Best time to transplant them would be very end of winter or early spring just prior to bud break. At that time of year they’ve managed to move most of their stored energy close to the growing tips in prep for their first strong push of spring growth. That first flush allows them to withstand transplant shock. Would you be willing to trade chert for knapping lessons?",0.8834,90
+"Juniperus in general need alcaline soil whith a basic ph , try to recreate his original spouting place  , or use the same soil where do you have taken it,  i know youre pretty good whith minerals and soil , so do you know much more than me about it,  Just to xplain about juniperus, also great pieces do you have in your ranch 🌲🌲🌲",0.91,70
+Just remove it to have the window open no covers,-0.296,10
+Just started watching u I learned so much think u,0.0,10
+KITTY,0.0,1
+"Let it grow! Let it grow! 
+I'm sorry",-0.2225,10
+Listen man if the earth was round than why'd my grandma die,-0.5994,12
+"Lmao I love the Flat Earther roast. The only thing that truly boggles me about them is how much the public considers their completely absurd beliefs. It's almost completely non-arguable that the Earth is a sphere yet people take pride in ""proving"" them wrong when they already clearly were.",0.9186,54
+Lol do u always have to take a crack at earth chan,0.4215,12
+Love it when Cody battles the silly flat earthers with his knowledge by showing it simply,0.4019,16
+"Maybe I don't get something here, but the sun ""moves"" up and down during the day. I don't see any way the shadow would stay small all the time.",0.0,34
+Mind=Blown,0.0,3
+"More proof that the Earth is a spheroid that rotates on a tilted axis while orbiting a central light / energy source called the sun. I’m sure the “flat-tards” will have some flawed logic rebuttal that only works if you selectively & conveniently ignore the laws of one, or several bodies of well known, measurable, & proven physical phenomena that they suddenly admit existence of & rely upon when laughably refuting other arguments that prove the Earth to be round... I often wonder how magically confusing / blissfully ignorant life would be to lack the cognitive faculties necessary for comprehending confounded casual relationships that extend beyond 1or 2 independent variables... So far, it’s been found that magic can only exist in the minds of the simple....",0.128,140
+"My dear Cody, dont loose your precious time to prove such things :p They dont deserve your time.",0.3744,20
+Nice.. always the simple things.. 👍,0.0,8
+Nigga just pull up the blinds,0.0,6
+"No, blind slats will not stay lined up with the sun all day.
+Think of sunrise and sunset on a flat horizon, 
+the blind would have to be horizontal to line up 
+(except for the 2 equinox days, when the sun would shine along the axis of the blind and it could line up all day)",-0.8519,62
+"No. Your FE model is not to scale by any stretch of the imagination. Your light source is manipulated and incorrect by angle and distance. And your card stock isn’t a miniature blind in a miniature house. Try again. Oh, and maybe alternated your observational days/ months. My guess is in a different season your sun will produce a diff effect.",-0.7579,72
+"Not in defense for flat-earthers but in your flat-earth model you could actually move the ""sun"" in the plane of the card in such a way that it would look like what we see on the sky.",0.5423,40
+"Not sure why people are wasting their time with the flat-earthers. Are you expecting them to understand the explanations? They won't, and that's why they believe what they believe. Does any one know an ex-flat-earther?",-0.1926,40
+"Not to give any stupid flat-earthers any ammunition, but the blind thing is in no way a proof against a flat earth. What matters in this scenario is NOT the shape of the earth, but that the slats of the blind is lined up with the plane of the ecliptic of the sun. The earth could be almost any shape as long as it is the SUN that is moving on a plane and in a circular/ovoid shape around the earth. Well, it also has to be large enough and located close enough to the plane of the observer.... but the point is that what matters is the path of the sun, NOT the shape of the earth. 
+The reason it works like it does with our system is because the rotation of the approximately-spherical earth makes the sun APPEAR to move around it in a plane passing through the earth. If the earth were flat (or whatever) and the sun ACTUALLY moved around it in a plane passing through it, you'd get the exact same effect.",-0.5719,193
+Now your going to get the Flat earthers comming after you. LOL,0.5473,13
+O no this video is wrong,-0.6486,6
+Oh shit... Your talking about a flat earth! Jimmies have been rustled!,0.0,15
+"Oh, goodness. The geometry involving this is so simple. It's so obvious why this happens. I'm honestly shocked that you made a video about this, lol.
+
+EDIT: I guess it served as a good flat earth debunking? I'm still surprised at how ""cool"" you thought this was, lol. But all the same, keep up the good work. I love your videos.",0.9686,76
+"Out of interest, do you harvest the juniper berries?  Those things are delicious!",0.7901,16
+"Paragraph i wrote for flat earthers myself
+(Unless you know alot of their arguments it wont make alot of sense)
+
+What do NASA have to gain from lying about the shape of earth.
+Dont say money because if the earth was flat they would sell flat earth models instead of globe ones so they would make the same amount of money as they are now, so its not money. Also it would cost more to make a giant hologram and try to lie forever, we knew the shape of the earth long before nasa.
+Its not that it would prove science fake they dont care about that if it was told to be flat then scientists would invest in figuring out how a flat earth works instead of a globe.
+How does water stick to a globe you ask? Well this thing called gravity which pulls everything to the core and the ground of the earth.
+The moon landing wasnt faked because proper CGI was invented until 1971 or 72  even then it was only 2D they still hadnt developed 3D.
+Infact i still havnt seen a proper picture of a flat earth i see one every now and then but its so inconsistent i havnt seen the same picture twice. And when i do see a picture its like a cartoon or an illustration its not a satellite photo
+Just because you see a spread out picture of a map on a logo doesnt mean its flat they are just showing the globe flattened so you can see all the countries.
+You guys post pictures of the horizon and call it proof but compared to the size of the earth the horizon is nothing, it means nothing you can only see curve from very high up.
+Also some people are now saying its neither flat nor round, dont even get me started on you guys, its definitely one or the other.
+If there was an ice wall wouldn't everyone be very familiar with it by now, and since when did nasa become highly trained soldiers who dedicate their life to defending a wall, i still have yet to see the same pic of the wall twice its all different and inconsistent  again, just like the flat earth. Also how did this giant magic wall even get there? And why doesn't it melt?
+Also if it was flat the sun would shine on all the earth at once and it doesn't so explain that.
+They say taxation is theft when in reality tax pays for alot of stuff we use daily such  as roads, the fire departments police departments hospitals, basically any public surface maybe there are some problems with it here and there but it is totally necessary to run a country.
+Flat earthers only argument when they can't explain something is ""CGI"" or just saying its fake, we knew the earth was round a long time before NASA came around and there is alot more space companies than NASA are they all lying too?
+And when you guys say gravity doesn't exist it is literally the stupidest thing ever, or so i thought, then i found out most of you dont believe in Australia or New Zealand, my cousin lives in New Zealand FFS and my friend has family in Australia how can you just not believe in an entire 2 countries?
+Also please explain sun rise and sun set.
+""But if the wall doesn't exist how come no one can get to Antarctica"" simple answer......they can loads of people have been to Antarctica and taken photos, where do you think the penguins are?
+So tell me, why would NASA lie to us?
+Why would they put so much effort into trying to cover it up and photoshopping every photo?
+Why would they make a giant hologram, why would they even bother to pretend other planets exist if they dont? 
+Why would they lie about having a moon and the size or distance of the sun? Surely it doesn't matter to them how big or far away the sun is.
+So riddle me that please one of you harcore flat earthers.
+
+Also if we didnt spin a day would be 6 months long and a night would also be 6 months long and they aren't are they?
+Globe: proof
+            Facts
+            Evidence
+Flat:    no proof
+            Hypothesis 
+            Ignorant idiots that go against hard evidence and proof
+
+Flerfy logic:
+1: ask for proof
+2: see it
+3: deny it
+4: move to step 1
+
+*Things flat earthers cannot do*
+
+1. Show proof of the edge
+2. Provide real footage of the bullshit ""firmament""
+3. Show proof of the water-like substance outside the firmament where space doesn't ""exist.""",-0.9853,855
+"Please no ""..........?!"" Titles",0.1007,8
+"Probably because it doesn't actually prove that the earth isn't flat.
+
+(it isn't, of course, but this video doesn't prove that at all).",0.0,29
+"See guys, i told you the earth was made of Styrofoam.",0.0,13
+"See, Earth is not flat.",0.0,7
+"Serious question, Does anyone know a real flat earther? like, that isn't a troll, or someone who with some sort of disorder/deficit?
+
+I feel your efforts spent trying to prove a round earth would be better spent not debating them.",0.6662,48
+"Seriously... You're not even going to explain ""winter solstice"" just decided to do this on a whim ? 
+Timing of this video is not only suspect, It has cost you valuable creditability. Despite the shape of earth !",0.8009,43
+Should have noted that this phenomena only works if your windows (and blinds) are oriented perfectly south. If they are are oriented SE or SW then shadows will shrink or grow as the day passes therefore proving that the earth is flat.,0.6369,46
+"Since the Net Neutrality bullshit I cant even buffer  videos from my favorite YouTube channels. not a placebo effect either. They say its unrelated, but I feel it is. because I'm seeing it on a plethora of platforms not owned by google.",-0.1027,47
+So his blind now faces upright on a flat earth model .... dumb ass,-0.8683,14
+So much effort you go through just to plant those trees,0.0,11
+So that means that in different seasons they wont be aligned anymore right?,0.0,14
+"So the sun moves straight across. Lol
+Shouldn't it arc?
+And shouldn't we have orbited 67,000 mph at the same time around rhe sun which should have influenced the shadows?
+The earth neither rotates nor orbits anything. And the sun? It moves across the sky at the same level in a straight line",0.7303,58
+"Soon we will learn about Flat Earth in science class, you know, just to teach the controversy like they do with Creationism.",0.4939,25
+Sponsored by NASA.,0.0,4
+"Such an amazing demonstration of how the round earth effects can be seen here on the surface, with such simple materials and explanation. Your channel is really something special!",0.8162,32
+Suck on that flat earchers,-0.4404,5
+Sun no movy,-0.296,3
+"Surprise flat delusion debunk, mofuckas!!",0.3987,8
+Surprise flat-earth debunking! :D,0.7525,5
+THE EARTH IS FLAT!!!,0.0,7
+"THE ERATH IS FLAT??????????
+
+
+
+
+
+NOOOO WHY",0.0,9
+That's more sun than I'll get until March. /sadface,0.0,11
+The Earth is a watermelon.,0.0,6
+The Earth is actually a hovercraft full of eels!,0.0,10
+"The Earth is flat man, just face the truth",0.3182,10
+"The Plane Truth Nobody can create a flat earth model to scale. It's not real...
+
+
+
+Explain to me how the coriolis effect would ever happen on a flat Earth?",0.5267,32
+The best part was the cat screaming *MOWWWWW* lol,0.6597,11
+"The blinds are parallel to the ground, not perpendicular as in the demonstration with the styrofoam ball (which was stationary, not moving as in the heliocentric model)",0.1027,31
+The earth is actùally a cube and this proves it!,0.0,11
+"The earth is flat. But the sun in the flat earth model (the correct model) doesn't work like you demonstrated.
+
+It follows it's own ""plane"" along the earth from East to West.",-0.2755,39
+"The explanation seems wrong. It only works because the paper card is perpendicular to the rotation axis (the screwdriver). Any other angle would not work. In other words, the plane might be oriented parallel to the sun light beams, but it will not stay oriented if you rotate it along an axis not perpendicular to that plane.",-0.2617,65
+"The fish tank in the background is making me have to pee. Oh, and cool video by the way.",0.3182,22
+The lack of trees under the big tree was due to the tree wanting to avoid competition by making the seeds attractive to animals the animals eat the berries then poop the seeds elsewhere,-0.1531,34
+The perpendicular trunk of the tree would have the shadow move as demonstrated on the stationary styrofoam with the moving light shining onto the surface,0.0,25
+The world is ending..,0.0,5
+There's no h in window why did you say whindow,-0.296,10
+They tell us we can't see curvature because we're all to small!  😂,0.0,14
+This did not show up in my feed :(,-0.4404,9
+"This has to be the simplest, most destructive disproof of flat Earth theory I've seen",-0.6478,16
+This is Healgen. I used to be sweet on a girl from here.. I wonder if Vilod is still making that mead with juniper berries... ?,0.4588,29
+This is what people that don't drink are up to.,0.0,11
+This just triggered a bunch of angry flat earthers.,-0.5106,10
+This proves absoute sfa.Also the card you are using on the ball is vertical not horizontal like the blinds..Look the sun shines on my dog crap the Earth must be round.,-0.5733,34
+"Those trees did not give consent, reported.",-0.1695,9
+"Thumbed up for the cat!
+:o)",0.5255,7
+"To be clear, this works for north/south facing windows, but on east/west facing windows the blinds don't stay aligned with the sun.",0.2023,29
+Try and separate titanium from polyethylene for a precious metal refining video.,0.5719,13
+Using window blinds and foam balls to prove a spheroid earth and heliocentric solar system.  Awesome!,0.6588,18
+"Wait.  According to flat earth theory, doesn't the sun move around the earth, above and below at different times of day?  Not around in a circle entirely above the earth all the time?  I mean, the latter makes negative sense, while the former just makes zero sense.  The sun would be visible all the time everywhere.",-0.6199,65
+We need more slav cat!!,0.0,7
+Well we can't see ourself so to speak but we can see all the other planets in our solar system.  We've seen plenty of pictures of earth taken from space.  How many flat planets have we discoverd so far?  Can anyone name a flat planet besides earth?  Just curious.,0.594,54
+What a gross and stupid video smh -_-,-0.8316,10
+What breed is your cat?,0.0,6
+"What should you call a flat earther?
+
+
+
+
+
+
+
+
+An idiot, you should call him an idiot.",-0.765,18
+What's the song in your intro?,0.0,7
+When are you gonna make another  shrimp in a box,0.0,10
+"Who would win? 
+-A pseudo-scientific belief with thousands of followers.
+-A piece of cardboard.",0.5859,19
+Why do you bother arguing with Flat Earthers? It's not worth your effort. You can't fix stupid.,-0.509,20
+"Why is the flat-earth ""theory"" even a thing? People are just getting dumber as the years go by. Jeez.",-0.3612,24
+Why is this unlisted?,0.0,5
+Why is this video is unlisted?,0.0,7
+Why is this video unlisted? It took a trip to hell and a deal with the devil to find this gem back again.,-0.875,25
+"Why was the limestone never cared for ...?
+
+Because it was taken  for granite happy holidays everyone",0.6083,18
+Wondering if you could make magnesium metal  from store bought magnesium carbonate supplements!,0.0,14
+Wouldn't the blinds form a cone shape around a sphere rather than a plane? You'd have to have the blinds at the equator of a planet with no tilt for the blinds plane to constantly be aligned with the sun.,-0.296,42
+Wow,0.5859,1
+Yeah,0.296,1
+"Yes, another fine video of simple truth!  Love ya brother. 😀",0.8832,14
+"You know I've always wondered why that happened, thank you so much for your awesome video!! Hope learn more interesting facts soon!",0.9242,26
+You should make a video playing with super acids and super bases!,0.8718,13
+You took the baby tree away from mama and papa tree. Treenapper,0.0,13
+Your blinds weren't curved like the horizon. Faulty experiment.,-0.5283,11
+"Your slat only forms a planar ring if the axis of rotation is perpendicular to the slat's surface. This is probably the case with your blinds during winter months where the combination of the sun being relatively low in the sky and your latitude causes this to be the case. In summer months, the sun will get really high in the sky at midday, requiring a steeper slat angle relative to the ground, which corresponds a ring of a conical shape. The conical shape causes a slat set to have minimal shadow at noon to create a larger shadow as time moves on.",0.0,110
+You’re getting trolled if somebody said the earth is flat dude. Don’t feed the trolls. Unless you’re trolling us now. In which case I can’t take all the trolling.,0.0,41
+awesomeferret the geometry in the video is wrong. Not sure how it’s so “obvious”...,-0.2023,20
+but... but... but... **insert nonsensical flatard argument here**,-0.3612,15
+can you try and extract the mercury from fluorescent lamps?,0.0,11
+"dude, look up air layering. It'll blow ur mind",0.0,11
+"fire, when you have a Fire..?",-0.34,9
+flat earthers DON'T believe that shit... you can't make the shadow as you see it because you need a CLOSE and SMALL sun... as flat earthers say... ;) in any case... thanks for being honest... hope you continue triyng to prove flat earth wrong... \o/ cheers,0.9186,54
+gay squared,0.0,2
+"i am not sure I buy ur theory.  the way u explain it it makes sense, but in rea;ity that is NOT WHATS HAPPENING.
+
+the sun is actually NOT tracking horizontal in relation to the window blinds.  close but it is actually going up, 1,2, or three blinds higher.
+
+the difference is small, so the WIDTH OF THE SHADOW IS SMALL, IT ISNT AS NOTICABLE SINCE THE SHADOW IS NOT IN FOCUS SO THERE IS NO SHARP LINE TO MEASURE.
+
+
+
+BUT TO NOT RECOGNIZEthat the sun is below the horizon, and the blinds are kinda parallel to that same horizon is kinda on the basic of understanding... at least in my basic logic...
+
+hope im wrong and can b schooled.. as I luv ur video and would hate to doubt you",-0.9466,147
+i like the chuckle you made when you showed the way you destroyed flat earth theories,0.25,16
+"i love how this turned into a very simple explanation for stupid people. big fan of yours Cody, even when listening to you explain something I know.",0.4767,30
+if the earth isnt flat then how come my dad left me when i was a kid,0.0,17
+it's wrong and now unlisted because of that. Obvious much?,-0.4767,12
+juniper? can we make some gin!? :D,0.6893,10
+lmao i love when cody fucks with flat earthers,0.7184,9
+now that this is unlisted you can say that you have been to the dark web so well done anyone reading this comment welcome to the dark web,0.6948,28
+"the sun behaves that way due to MAGIC!!! and not because of your factual
+scientific explanations. it is all about magic because reasons. 😂😂",0.0,30
+thx,0.3612,1
+wat if earath is cuabic,0.0,5
+"well shieeet, this poorly made not up to scale science experiment proves the earth is a globe! this is all it takes to convince me and all the other dumbed down people in the population. Take that, flat tards.",0.2481,44
+yay unlisted videos dont get aids..oops i meant ads,0.5267,11
+your poor poor hands what happened?,-0.7351,7
+😱,0.0,1

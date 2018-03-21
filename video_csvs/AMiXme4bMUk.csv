@@ -1,0 +1,250 @@
+,sentiment,wordCount
+*Buy or DIY: 3D Printer*,0.0,8
+15$ save but you need gadgets that cost totally more than 1000$,0.2732,14
+"3D printer || DIY or BUY 
+please a video on this in future",0.3182,14
+3d printer diy or buy,0.0,5
+@GreatScott!! You just need to add two washers between ball bearings and plastic box - see the screenshot https://bdfss.blob.core.windows.net/shots/2018-02-21_00-11-54-857ee95e-7a67-4706-86a1-fa0cb568d267.png it's related to this timecode - https://youtu.be/AMiXme4bMUk?t=402,0.0,28
+@greatscott ive been watching you for long time i wonder if you can make an arduino video of two servos that start after the other stops its rotation,-0.1531,28
+"A DIY 3D Printer , like who doesn't wish to make that or own that?",0.0624,16
+A small cutout where the outer edge of the bearings contact the place would let you lock it down a little tighter while keeping the bearings free-spinning.,0.0,28
+"Adding some thin washers in between the bearings and the rotor shaft would help, but having the tube better contained on the outer circumference wall will increase its life span.  I think it flops too much inside compared to the professional unit.",0.6757,45
+"Although I understand that using readily avalable CAD material would save a lot of time, I wonder why did'nt you manage to recreate one by yourself, trying to reverse engineer the provided model, as you are showing the needed basic skills in Fusion 360 to do so. It would be cleaner and you can add all features you want. (If you are interested, I can do it and attach the ipt file right here).
+
+BTW,  depending on your stepper motor inductance per phase, you could achieve greater RPMs and torque by using higher voltage with proper current limit (<= motor rating) and thus, higher flow rate for the pump. The driver datasheet says it could use up to 48v and by my experience, Nema 19 motors of the size shown usually can handle 24  v with no issue, even 36v with proper heasinking.
+
+Nevetheless, very informative video as always.
+
+Edit:
+After getting the files, it seems that there's no need to make anything, Ralf is providing solidworks souce files. Silly me :)",0.8442,197
+Amazing job,0.5859,2
+Another good reason to use the stepper motor is that they are much more precise and constant in speed than normal dc motors.,0.4404,24
+Any one else thinking of “ Die hard with vegence” movie ?,-0.6486,13
+Arduino DIY or BUY,0.0,4
+Are you going to test this by letting it run for >24 hours on max speed. I want to know this is a long term solution before i make one.,0.3818,33
+Awesome.. as usual!,0.0,5
+"BIST DU DEUTSCHER???
+Liebe deine Videos <3",0.533,10
+"Buen dia, tengo una duda, como ajustó la presion de los ""rodillos"" para el tubo en su ensamblado y en su diseño, es decir como supo cuanto se iba a estirar el tubo.",0.0,39
+But I had fun while doing so,0.5106,7
+Buy,0.0,1
+Buy and review rock64,0.0,5
+"Buy cheap one instead of wasting time for building the mechanical parts, I would buy the $8 one.",-0.4019,21
+"By the way, you're the only person who designed a cocktail maker that uses weight and not some crazy flow measurement. I really thought that was pretty slick.",0.6412,31
+Can I put 2 of these in series to get a higher pump (mL/min)?,0.0,19
+Can I use another capacitor than the 10uf one? I have alot laying around from 100uf to 2200uf.,0.0,20
+Can U try to make 2D printer/drawing machine,0.0,10
+Can be used somehow water pump?,0.0,7
+Can u make a wireless remote control which works on clapping so that in 1 clap it should change tv channel to another on dual clap it should come back to previous one. Make it,0.0,36
+Can you make MP3 player?,0.0,6
+"Can you make an Rc car
+
+DIY or buy.
+Thanks",0.4404,11
+Can you make filter coffee machine?,0.0,7
+"Can you please try to build the tiny clock. 
+Arduino/ attiny85 + oled128x64 + tiny rtc ⏰ with logo 👌",0.3182,24
+Can you show how to make a simple battery over charge protector that shuts off when the battery reaches 13.5 volts,0.0516,21
+"Come on man I envy your ""lab""
+Awsome work!=)",-0.3382,13
+DIY ATX Power supply :D,0.6166,5
+DIY OR BUY A PET,0.0,5
+DIY a 3D printer,0.0,4
+DIY or BUY: Female,0.0,5
+DIY or Buy Philips Hue style WiFi/Alexa compatible Bulb. :),0.4588,13
+DIY or Buy a 3d printer.,0.0,7
+DIY or Buy for Bluetooth speaker.,0.0,7
+DIY or Buy: CPU,0.0,5
+DIY or buy Arduino,0.0,4
+DIY or buy: linear actuators/servos,0.0,8
+DIY ou BUY reflow oven,0.0,5
+DIY speakers or buy speakers,0.0,5
+Daaanke für das Video du bist die RETTUNG!,-0.636,9
+Diy Pure Sine Wave Inverter VS Readymade Inverter,0.0,8
+Diy or Buy power supply,0.0,5
+Diy or Buy: Make an Arduino board yourself or buy the Uno?,0.0,14
+Diy or Buy? 3D Printer?...,0.0,8
+Diy or buy 3D printer,0.0,5
+Diy or buy 3d printer,0.0,5
+Diy or buy ethernet over power,0.0,6
+Diy or buy uninterruptible power supply  (ups) pls☺,0.0,11
+Diy oscilloscope with Arduino at 5Mhz bandwidth vs Dso Nano or something similar,0.0,13
+Diy vs buy 3d printer,0.0,5
+Do a sound system diy or buy episode. Who is with me ?,0.0,14
+Do diy or buy on happiness,0.5574,6
+Dude plz make a video about 8*8led dot matrix and it's module,0.0772,14
+"Excellent video well, crystal clear and well documented. One question: did you experience with peristaltic pump any problem of suction pressure? I mean, does your peristaltic pump prime itself, in the case the suction reservoir is at lower elevation than the pump itself? This could pose problems in case I use such pump to irrigate my garden using rain water recovered from roof, as the suction reservoir is installed (for obvious reasons) at a lower elevation (about 1 m) than the pump itself.",-0.2168,96
+For me the winner is the diy cause it help us awaken our creativity thank u very much man,0.891,19
+For this project you could run motor just like that https://www.youtube.com/watch?v=ZEcQW5rCbSQ,0.3612,11
+Get 600ml/min pumps free when they go out of spec from biomed repair dumpsters.,0.3182,17
+Great project Scott. I do like your work very much. Thanks for sharing. I would like to have a PC Oscciloscope . DIY with stm32 or Chinese?? Please ..,0.9496,35
+Great video! And if you increase in the amount of mechanics and to use the motor from the washing machine? Is it possible to achieve a capacity of about 1-2 liters per minute?,0.7936,36
+Great..,0.0,2
+"HI GreatScott plese make video of compare clasical Transformer with regulator VS high frequency Switching power supply for powering Arduino(MCU) and other EMI sensitivity electronics powered  230 VAC.
+
+ I have problem with MAX7219 + Switching power supply    EMI  temporary stop  him function
+thank you (stay creative) :D",0.3885,54
+Hat sich da jemand von das Ding des Jahres inspirieren lassen ?,0.0,12
+"Have you ever thought of making a DIY function generator by combining a function generator mobile app with some type of amplifier circuit that can mimic many cool features that most higher priced generators have, like sweep, duty cycle, ramp up and down that can all be incorporated in coding in the mobile app and just relayed through the amplifier circuit.",0.5859,65
+Have you thought about trying to build a 3D printer from scratch?,0.0,13
+"Have you tried some of the cheaper peristaltic pumps?
+Like this one for example: http://bit.ly/2GsULm7",0.3612,17
+"Hello.
+Maybe build a drone fpv , it's many video on yt with this but you making everything more professional than average USA guy ;) .
+Great video :D",0.9387,30
+"Hey GreatScott! Good job! that a good idea to compare these 2 solutions. But I  not agree with you about the cost: 30$ for a peristaltic pump, whereas a diy project  means 10$(motor)+5/10$(arduino)+2/5$(motor driver)+3Dprinting stuff+ building time =>I my opinion, this DIY project is more expensive than a bought product mounted and reliable. Anyway, the pump you made looks great!",0.8851,89
+Hey Scott! At min  3:06 you add a 100µF cap to the power in of the driver. Why do u do it and how do you calc the cap? Thanks a lot!,0.5399,36
+"Hey great Scott can you make something like a hydraulic press using peristaltic pump because I think it can create high pressure and use more powerful motor.
+By JIVITESH",0.8622,30
+Hi Scot! I'm a new subscriber and i have to admit that your channel is awesome!!! I wish you could make a 18650 battery charger :),0.9147,30
+"Hi Scott,
+
+Great video! Well explained and good to see the DIY won!
+Quick question, based on calculation, what would the flow rate be? Can you also tell us what the frequency of the stepper motor is?
+Last question, why did you select the 16 steps per rotation option. Wouldn't less give a higher rpm, don't know what the torque should be for driving, but I bet it should handle it well.
+Gives a higher flow rate.
+
+Once again, great vid!!",0.9533,97
+"Hi,
+I really like your approach to technical issues and solutions.
+Your ability to explain what you are doing and why is excellent.
+And your handwriting is just enviably.
+From a 63 year old B.Sc.EE",0.8588,39
+"Hi, not a complaint, items used were ""roller bearings"" not ball bearings.  Yes the winner but only if you have a $900 3D printer to hand.  Great project though, thanks for sharing.",0.9671,41
+"How about a gear pump? I am trying to design a small electric pump to move oil in a lathe, and a stepper motor seems like the best option as well.",0.8316,34
+How about high power flashlight diy or buy?,0.0,9
+"I have a good subject : Arduino, DIY or BUY ?",0.4404,12
+"I knew the answer
+But my country is forbidden to do anything that involves money so no eBay also because I don't want to walk to the store I'm basically doing my projects on impossible mode
+Also yeah no 3D printer",-0.7618,41
+I like your videos!,0.4199,5
+I love this serie!,0.6696,5
+"I see the motor that model was made for is the super cheap one I have, is it hard to make that one work as a pump?",0.5423,29
+I think that you need an 3D Printer! And a 3D Printer is not cheaap!,0.0,17
+"I think there is a practical usage for fidget spinners finally.
+Seem the shape and the bearing can be used for this pump.",0.0,25
+I want to learn electronic like you how do i start ?,0.4215,12
+"I wonder if you could use this to make a pellet based extruder / hot end -- like, so you didn't need to use extruded filament, but instead could use injection molding pellets... -- just pump them into the melt zone with some thick teflon tubing... -- I guess retraction wouldn't work as well though...",-0.1207,63
+"I work at a municipal water treatment plant. We use peristaltic pumps to add liquid chlorine (sodium hypo-chloride) to the water flow. They are self-priming, and they are cheap to replace the pumping tube when it wears out due to cycling, every six months or so.",0.0,53
+I would love a DIY or Buy of surge protectors.,0.6369,11
+I' Very Intersted In Electro But im Not Good In english Can You add De Subtitle?,0.4404,18
+"I'm sure you had fun, your enthusiasm shows in the video. I understand the fun element -- I like to build audio amplifiers. But we pay for this kind of DIY fun by using our time.",0.9451,41
+"If you do not have a functional 3D printer and a mostly usable 3D sketch of the model, it is still recommended to buy the pump instead of making it.",0.2023,32
+"Ill bet you can print that pump also in PETG or PLA. If you are using a higher infill, or even also 60% with more perimeter and top/bottom layers, it will be very stable too. Maybe ill try printing that pump.",-0.4779,49
+"In general, peristaltic pumps are not a big concern when used for fluids which are meant to be ingested by Humans.  Just make sure you clean out the tube regularly. Also a big advantage of peristaltic pumps is that they will crush particles or even jam if the particles are too large.",0.6597,56
+"In strange time we live. Who would have thought that someone may need arduino to run f'kin dishwater pump. What's next, maybe a fart fan controlled by variable frequency drive?",0.128,34
+"Induction water heater
+DIY or BUY",0.0,6
+It controls the prescaler of the ADC and thus decreasing the sampling time.,0.0,14
+"It is a nice project, but I don't think it is cost effective. You ignored the opportunity costs of your labor. How much is an hour of your labor worth? It should probably be more than 15 EUR. So, in essence, you lost money by going the DIY route.",0.6486,57
+It was cool but you can make it more easy,0.7131,10
+"It would be nice, if you would would Make a Video how to build your own Inverter for 230Volt applications ✌",0.4215,22
+It’s a lil pump,0.0,6
+Kinda need a 3d printer which most people including myself cannot afford,0.0,12
+Li-ion balancer.,0.0,3
+Love the Videos. I have learned a lot and have been inspired. I had an idea for a project on your channel. An Arduino Nixie Tube clock. Thank you for what you do.,0.872,38
+"Make a DIY or Buy video on flight controllers. Since your'e already working on the quad-copter project, it would be easier for you to make and it would become a sort of buildup to your much awaited quad-copter video. Give us an idea about stuff like MPU6050 and its interaction with Arduino. I guess the video would hit millions of views.",0.6369,67
+Make a DIY rc transmitter using nrf24lo1 and arduino,0.0,10
+Make a basic about speakers and piezoelectric,0.0,7
+Make a hydraulic pump,0.0,4
+Make a incandescent mini vs led video,0.0,7
+Make a jet turbine...how about that?,0.0,9
+Make a mobilephone any kind of,0.0,6
+Make a welder,0.0,3
+Make an 12 volts DC - 240volts AC  inveter / converter,0.0,11
+"My suggest, ""USB HUB = DIY or Buy""",0.0,11
+NEMA17 vs DIY stepper motor,0.0,6
+"Next DIY or Buy, arduino controlled terrarium lights or buy something like these, http://www.mistking.com/Jungle-Hobbies-Advanced-LED-Lighting-System.html",0.3612,16
+Nice project but i dun have a 3D printer XD.,0.8481,11
+Nice work! I once created a standard turbine pump but it comes with a lot of leakage and wear of the parts. This one looks very good. I will try it rebuild it and finally water my plants automatically...,0.7895,43
+No,-0.296,1
+"No offense scott, but you have one of the greatest printers, and still your quality of prints is pretty terrible tbh... TWEAK AND TUNE IT!",0.7304,29
+"Not bad as long as you have a 3D printer (or are a good woodworker lol). 
+
+How about a light switch/dimmer WiFi based to work with Alexa or Google for home automation and control LEDs. I’m guessing some type of 555 based system?? But my friend you are truly the expert!  Thank you for sharing your knowledge!",0.8944,69
+"Oh, can you make NIXIE TUBE CLOCK ? They have soo awesome look !",0.6588,15
+One big advantage you have Scott is that you have a 3D printer...,0.25,14
+One way dc solenoid valves!,0.0,6
+Please send video making ups or ups hack pls😊,0.3182,10
+Plz diy a fm transmitter,0.0772,5
+Power inverter diy or buy,0.0,5
+"Pure Sine Wave Inverter, DIY or Buy maybe with an arduino",0.0,12
+Put lube or oil.,0.0,5
+"Robotic sexdoll, DIY or Buy",0.0,6
+SOLAR PANELS!! DIY OR BUY??,0.0,9
+"STM32 blue pill is cheaper (~1,7$) and MUCH MORE capable. Why not use that as default?",0.5612,23
+Sir can you make a vedio on pyton interface with arduino,0.0,11
+Smps power supply circuit and esr meter DIY or Buy please,0.3182,11
+So many subs? WOW;),0.0,6
+So you made for half the price a pump that has less than half the output of the one you purchased? If you consider $ per mL/s your DIY is pretty much the same if not more expensive.. 2*price for 500mL/min vs. 1*price for 200mL/min,0.4939,58
+Soldering iron DIY or BUY,0.0,5
+"Thank you, but in this sketch is really needed? It interferes with the output square wave signal?",0.2755,20
+Thanks for the feedback :-),0.6369,5
+"Thanks for this video... I've been looking for a way to circulate water through a liebig condenser for months... I've been wasting my time trying to get washing machine drain pumps to do the job... Just happened to watch this video simply because it was a Great Scott video... and you're talking about these things I've never heard of ""peristaltic pumps""... exactly what I've been looking for... I'm now the proud owner of an old peristaltic pump from an air conditioning unit and my condenser should be getting flooded with icy water any time soon... thanks and keep up The Great Work.",0.9371,112
+That's a rally interesting pump design. Reminds me of a Colon.,0.4019,13
+"That's so crazy cuz I'm just starting to build your cocktail maker. My thoughts are since it doesn't really matter about motor control for the pump because your design, which is awesome, measures the alcohol and mixes by weight, I've decided to try to use cheaper gear motorz that you can find on eBay. I have some already for another project that are at about 300 RPM at 12 volts. I'll publish how mine come out",0.2769,82
+The DIY version should also let you transfer liquids in a more precise way sins you can monitor the movement.,-0.5046,21
+"The bought pump proceeds 525 ml / min, the DIY 200 ml / min, so how can the DIY win as it is more than twice less efficient?",0.7436,31
+"The most useful aspect of peristaltic pumps is the predictability of flow rate. I'd like to see this pump with an optical encoder to detect and correct ""slip"", and a simple display that meters the resultant flow. A precision, variable, metered pump is an extremely useful device in many industries and hobbies. Off-shelf systems cost around $180, but they don't detect/correct stepper slip.",0.605,76
+The next diy or buy episode will 2.4ghz transmitters & receivers,0.0,12
+The prostatic pump. GG.,0.4466,6
+"The second you said it took 5 hours to print my girlfriend reacted with ""Its already more expensive"".
+If you take into account the time it takes to print and remake the model (and the multiple versions of that) its way cheaper to buy it.
+Of course that is a personal view, but 15 euro's or a couple of hours fumbling in a 3D program and printing. I think I will cough up the money. 
+Also missing a 3D printer helps on that part :P",0.6369,94
+This was so damn relevant to my interests.,-0.3593,9
+Those mechanical pump is the same design as the ones on my dialysis machine,0.0,14
+"Try building a UPS for the router, the battery can use lead-acid. For comparison you can buy Mikrotik mUPS",0.0,21
+"Uses a breakout board, still solders to the pins. Now you're just taking the piss 😄",-0.4019,18
+What about DIY 3D printer,0.0,5
+What does the ADCSRA register do? Is for increasing the frequency of the ADC?,0.0,16
+What song is at 2:30 it's none in the description.,0.0,11
+What was your hardest projects?,0.0,6
+Where do I find metric bolt in the USA?,0.0,10
+"Why did you go with stepper motor instead of DC-motors? I think a DC-motor with a suitable gearbox would be about the same as a stepper, if not less.",0.0,32
+Why haven't you uploaded to thingiverse your files for the 3d printer?,0.0,13
+"You are really interesting and I really love your videos, but sadly it doesn't say much to me and I want to start learning electronics... Do you have any suggestions where to start learn this online?",0.1263,39
+"You can pull peristaltic pumps with good powerful motors out of some ink jet printers.  Just change (or wash) the tubes, and you are good to go.  And BTW, they are multi channel pumps, up to 4 tubes, one for each ink.",0.8225,51
+You can upgrade your drinking machine now! ^^,0.0,10
+You forgot to add the cost of your 3d printer 🤑,0.0,11
+You should make a Bluetooth to aux converter and if it's better to diy or buy,0.4404,16
+You should make a big Tv hahah,0.0,7
+You should make diy or buy led growing pannel (warm white is better than red and blue),0.5574,19
+You should try mcookie microduino. It is great for making countless projects,0.6249,13
+"You're so smart, I applaud you 👏🏾",0.7408,9
+automated garden,0.0,2
+bauhaus schrauben regeln,0.0,3
+can I use it like a hydraulic pump?,0.3612,9
+"can you make an accelerometer for the next one....it is quite useful in a lot of places....to be hones I need one for my model rocket, but those things are pretty expensive",0.7504,37
+"cool channel, subd!",0.3802,5
+diy or buy spot welder to put tabs on 18650 or similar battery. great video also,0.6249,17
+diy wireless charger,0.0,3
+excellent ! Next video;  OverCurrent Protection,0.6114,7
+excellent :),0.7717,2
+"how loud are these pumps, compared to an impeller type (ddc, D5, etc)??",0.0,20
+i got a video idea you should try to create a power bank but with a wall outlet small as possible so it would be accessible anytime,0.1406,27
+"idea solar charger controller Diy or buy
+and making wind turbine mybe?",0.0,13
+"indeed interesting video, thank you .",0.6369,7
+its a good Diy if you have a 3D printer,0.4404,10
+keep diy :v,0.0,4
+kindly make a motor controller such as sabretooth and rage bridge using mosfets,-0.1027,13
+lol arduino nano for 3 dollars! cheap chinese copies.... but if it works then its ok,0.6114,18
+"me when you start talking electronic ""wha? hu? oh PWM I KNOW THAT.... y the capacitor......... ahhh duty cycle i understand that............ yeah im lost XD",0.6997,32
+next diy   ultrasonic cleaner,0.1779,4
+not that this applys to your application but can a peristaltic pump create a constant flow output somehow but still be highly controlled?  My thought is about a dosing spray nozzle but the application would need to be constant and not pulsed.,0.3919,44
+oscilloscope Current clamp DIY or BUY,0.0,6
+"please make a diy vs buy video on raspberry pi based smart tv box,also u can make a video on high rating smps like 48v 100amp diy or buy",0.7579,31
+soldering iron |DIY OR BUY,0.0,6
+that will be awesome..,0.0,5
+the problem is you need a 300$+   3d printer xD for those who dosent have 1 (---,0.2732,22
+there's a tiny peristaltic pump in (some?) ink jet printers... it needs a bit of work to make it as a standalone device but it's there,0.0,30
+"this design could be further improved by fine tuning the 3d enclosure, because it seems to me the cavity inside is too tight and is partially squeezing the tube where it shouldn't be squeezed, reducing the amount of water that can be moved by the motor",0.5994,48
+u are the best channel i want to know as much as you. in the future i hope i will,0.8126,21
+what an encouraging videos.. really love it..,0.8357,9
+"what is this for, diy dialysis ? :D",0.6166,9
+"what would you say has better temperature insulating qualities, PVC or silicone tubing?
+btw I was looking for a reliable pump, das video kommt also wie gerufen",0.4404,30
+why didn't you just use that model: https://www.thingiverse.com/thing:1134817 ?,0.0,10
+"yeah, if you have a fucking 3D printer, and don't value your time. otherwise, I wouldn't fuck around with it",0.4614,24
+"you forgot to add the cost of printing the plastic parts. If one does not have a 3D printer (which is most people), they need to get it printed from somewhere.",0.0,36

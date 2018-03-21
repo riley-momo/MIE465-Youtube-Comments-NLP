@@ -1,0 +1,455 @@
+,sentiment,wordCount
+"""...I don't really know, but what I do know is...""
+
+Surely this is where you segue into your sponsorship piece from audible, skillshare or brilliant? That's how educational YouTube works right?",0.8862,39
+"""Environmental satellite"" ... yea right.",0.0,8
+"""Master Summoner"" Level 6",0.0,6
+"*+Mythricia* - ""shitty commercial DSLR sensors""
+It might surprise you that these ""shitty"" sensors are pretty much always at the forefront of imaging technology.",0.1779,32
+"*+Mythricia* - To be more specific, the technologies invented in the making of modern camera sensors have great impact on the scientific equipment. NASA doesn't just make their own superior sensors from scratch, they are supplied by companies that already specialize in image sensors, largely from their previous R&D towards consumer equipment.
+A lot of emerging imaging tech makes it into consumer products very quickly, examples being Sony's highly sensitive backside illuminated sensors, or Canon's dual-pixel tech for faster live-view focusing.
+And better sensor tech *always* has the potential to benefit the entire field.",0.926,110
+"+HyperSpify even if they could, it would take very long time to transmitted the image, by the time they got the image the storm would be already pass, so it defeat the purpose it design for.",-0.507,41
++Mythricia Your job sounds really interesting. Even though you haven't told us what it is exactly. As an electrical engineer the field of optics and sensor design is just enough outside what I know to be elusive but it has always intrigued me.,0.2492,47
+... did you not watch the video?,0.0,8
+........2nd,0.0,2
+"...What? The resolution on these images isn't anywhere near capable of seeing into any specific building, it's probably close to 1 pixel = 0.5 kilometers. Also, how would lining a building with LEDs help anything? Unless you meant lead.",0.2206,46
+11000*11000pizels*16 channels*(at 24 bits resulution ) /10 minutes you would need 10 mb/s. but you can mask out some areas and use lossless compressions,0.0,35
+11th another GREAT SCOTT video,0.7034,5
+1st .. Great video!,0.6588,5
+3:15 birth of a storm? nice.,0.4215,8
+3:24 look at that tornado,0.0,5
+3:37 onwards.,0.0,3
+48.265%,0.0,2
+"5:36 Oh awesome, they got pictures of my neighborhood burning from space",0.6249,13
+"7:06 I like that image because I worked for Lockheed at Stennis Space Center, with NOAA and NASA.  Great video!",0.784,23
+"A digital camera and your smarthphone camera create computer-generated images (CGI) as well does that mean all it shows is fake? Ultrasounds commonly known for scanning the womb also generates CGI, MRI machines as well. The flat earth uses ""fake CGI"" as a weapon to destroy any factual evidences shown to them.",-0.765,60
+"A little disappointed you are showing all these propaganda being disseminated hiding the truth about the Earth being flat.
+
+(I keed, I keed.)",-0.5729,28
+"Aaron Williams Are you a troll, or an actual flat earther?",0.0,13
+Aaron Williams kek,0.0,3
+"Ah, you got the Dave reference. :)",0.4588,9
+"Ahha, I knew there was something incredibly fuckin' dodgy going on. Scotland suddenly beating England for the Calcutta Cup when last year they were still so bad they were tying their boots with laces from a ball. You've sold out to 'them', Mr Manley. You didn't mention that the apparent curvature of the earth in all of these images is hand drawn by a da Vinci clone. You Globetard hack, and all for a game I don't think you actually give two shits about. The shame.
+Ah well, I can rest assured that my batshit crazy theory with literally (the actual definition, not the one to make twats feel less moronic) no evidence supporting it. Hazah!",-0.8684,134
+Ahhh.. Cool.... Got any evidence proving earth's a slab?,0.0,12
+All I see is a FLAT EARTH!,0.0,8
+All of nasa's earth images are fabricated and they admit it.,0.2023,12
+All you globe people out there can't even comprehend that the earth is being infinitely generated.,0.0,17
+Amazing footage,0.5859,2
+Amazing.,0.5859,2
+And I am jealous.,-0.4588,5
+Another great vid,0.6249,3
+Any chance you could do a  video on the James Webb telescope?,0.25,13
+Any info on getting these as a screensaver? I've wanted that forever!,0.0,14
+Any links?,0.0,3
+"Anyone have a link for setting this up for the screensaver or background in real time like he talk about?
+Cool video btw!",0.6239,25
+"Are these images able to be pulled down with the right receiver and a freeware decoder like (NOAA 15,18,19,etc)?",0.4939,26
+Are you taking the piss?,-0.4019,6
+"As with other satellites, they will have minimal on-board memory. They have the hardened memory for system operations, and a small amount for the current set of data, also hardened. It will have redundant sets in case the working set is damaged. There is really no way of knowing it's current capacity and it's quality is far beyond what you put into your PC. That being said, it is likely not even connecting directly to earth itself, and would likely be piggybacking on a greater bandwidth communication satellite already in closer orbit.",-0.4391,102
+Awesome video,0.6249,2
+"Back-illuminated sensors have been around since like the 90's, in industry and science fields. They're much more difficult to create in CMOS sensors because the silicon construction of CMOS sensors contains a lot of logic circuitry on the backside of the die, blocking much of the light and thus reducing the advantage of BSI. Science / industry almost exclusively use CCD sensors, both now and historically, which are almost universally superior to CMOS sensors, in all but two areas; cost and high-speed imaging.
+
+Almost all the advanced techniques and technologies being incorporated in CMOS sensors *now* were invented for CCD sensors 30 years ago.
+
+While it's great that Sony, Canon, etc are making awesome consumer CMOS sensors that are extremely impressive for their price, there's also a reason that science, medicine and astronomy imaging sensors are made by obscure companies that nobody has heard of - or a few of the big names like Kodak and Sony (mostly Kodak). Because they're separate divisions within those companies. Most of this stuff is invented on CCD systems and backported to CMOS. In many cases CMOS can only emulate CCD behavior, because it's a physically different type of silicon device.
+
+Look at DSLR images or video from the Space Station. It's riddled with stuck or dead pixels, and due to the Bayer pattern this means color artifacts too. And these haven't even been up there for that long, nor have they been exposed to particularly harsh environments - after all, they're being used by astronauts.
+
+I understand what you're saying. But you need to understand what consumer technology is, and what it isn't.
+
+The cost of 100 DSLR sensors is an immeasureable drop in the bucket for a satellite like in this video. Literally not even a percent, or a percent of a percent. But it's the *wrong sensors to use*. For contrast, large CCD sensors used for DNA sequencing cost comfortably over 100'000$ ..... each. And those are basically mass production sensors compared to the specialty specced and verified sensors used on space telescopes.",0.9267,388
+"Because visible spectrum is ""almost"" the least important information. Infrared and Ultraviolet is of more interest to meteorologists. And DLSRs are built for relatively close up imaging. Huge pixel count only gets you that type of information if you have a lens that can get the light in the right place to be captured.",0.6125,60
+Bob Jones Thank you I was about to say the same thing.  These images are not for human consumption so you can't pull off lossy compression without compromising the integrity of the data.  I would think they use compression when sending the data down and the data should be ripe for compression.  The bitmaps should have large swaths of locations with the same value and the bitmaps themselves should have a lot of similarity between each other.  I'd be surprised if a compression ratio of 2 isn't possible.  I'd expect something closer to 10.,0.6709,100
+"Btw where us the 20,000 satelites? You believe and you are bought by the lies man, ill be praying for you",-0.4767,23
+"Buck warpzone ""based on"" Current topographic maps use the Mercater projection which is not the correct sizing of the globes land masses.",0.0,25
+"Buck warpzone I'm not implying ""flat earth"" look at both projections they are both for the globe, obviously you have not done any research. Peter's projection is the most accurate map of the world, but not used in any recent photos of earth shots from space or satellite. All globes sold are the Mercator projection which shows land masses bigger then they really are. everyone is also taught in school these days with this projection which is an inaccurate representation of the world map.",0.0,92
+Buck warpzone again its not accurate.,0.0,7
+Buck warpzone all maps and globes are based on projections. I get the feeling you don't care and are just replying without any research or knowledge.,-0.2796,28
+Buck warpzone you can go on nasa's web page and look into it like i did or simply search for it.,0.3612,22
+"But bananas can fit up your rectum, therefore Earth is a giant anus. QED",0.3612,16
+But why is it called GOES West if it goes east ?,0.0,12
+"Cameron Alexander Well then go see an eye doctor and while you're at it ask yourself.
+""why is there no evidence and only falsification and clueless fools, supporting Flattardism.",-0.4404,33
+Can I see your evidence proving its fake? Thanks.,-0.0516,11
+Check description,0.0,2
+Check description for links,0.0,4
+Check out the cartosat series of imaging satellites.  The data started coming up a few weeks back.,0.0,19
+"ColdNorwegian
+but you understand that what you see in this video, is.... fake cgi right? that's their point, how is saying ""look at this fake cgi you dumb flatearthers that say it's all fake cgi"" supposed to shut down their ""it's fake cgi"" argument?",-0.9791,53
+Cool andf thanks :~),0.6369,6
+"Cool to see Harris featured on one of your videos. Their night-vision division sponsors a ""dinner in the dark"" for a local charity that helps vision-impaired and blind folks in my area.",0.6124,36
+"Cool, I will link to this video, if someone claims the earth is flat ;) Hehe. In any case, thanks for some cool videos.",0.8126,29
+"Different ratings for different jobs. It's not a simple question of ""is it safe, yes no?"". They have strict ratings for the commercial crew flights, because 3 souls go up and down every ~3 months. It's a LOT of human life being transported, on a tight schedule that never stops. That's why the ratings for them are so insanely strict.",0.7222,72
+"Digging the simple animation at the end, kinda cute.",0.4033,11
+"Don't turn it on, take it apart.",0.0,9
+Download link for the image?,0.0,6
+"E2qNX8btraQ3zRD6J7fc yes, https://www.goes-r.gov/users/grb.html",0.4019,4
+"EM-1 is a shakedown flight.  EM-2 is an extremely low risk (Free-return) crewed shakedown mission and EM-3 is the first ""operational"" vehicle flying a ""normal"" Lunar NRO rendezvous mission with the Power Propulsion Bus of the DSG/LOP-G.",-0.8004,53
+Earth is not a globe. It's either a rectangle or a cylinder,0.0,13
+"Elon musk ""we live in a computer simulation""",0.0,10
+Even lunar eclipses cast a very blurry shadow on Earth... I'm almost certain the satellite doesn't even cast shadows but only penumbra. A very diffuse one.,0.0147,29
+FAKE!,-0.5255,2
+FAKE!!!!!!!!!!!!!!!!!!!!!!! Such crappy CGI. Sun Spot is a joke and the lightning is so big it would have taken out hundreds of cities.,-0.5526,28
+Fabricated. You keep using that word. I do not think it means what you think it means. When a scientist uses the word fabricated they are being genuine because most images are not taken in wavelengths humans can see. Additionally they have to correct for aberrations cause by atmospheric effects or geometries that aren't easy to take pictures of. Try wrapping a soccer ball with wrapping paper. You won't be able to make it perfectly smooth. The same things happen when you try to take a picture (2D image) and wrap it around a 3D object. Certain parts of the image get stretched. So depending on what you are trying to observe you enhance the image to get a better understanding of what is actually there. So yes in an honest sense all NASA images are enhanced and altered so that the most useful information can be obtained. The images are really expensive to get so they have to try and squeeze as much data from each image as possible.,0.9458,184
+Fake News Archive your just an idiot!!,-0.7896,9
+Fake... The earth is flat!-,0.0,8
+Fantastic explanation as usual. Thank for  the great vid.,0.8807,11
+Final Spartan the jwst needs a series to explain.,0.0,10
+"Finally, an image large enough to fill my ego.",0.0,11
+"First let me say this: I am NOT a flat Earther. Now, with that being said, they are right in as far as there's a lot of images supposedly from space that look fake as fuck. Take 4:17 for example. Can someone please explain it to me how it could possibly look like that, because I can't think of any way to rationally justify that image as being real, even considering the addition false colour. The oceans are completely matt, half the ground looks yellow, and most importantly the terrain looks like one of those model globes with the greatly exaggerated terrain features. Please explain.",0.4404,118
+Flat Earthers hate the Himawari,-0.5719,5
+"Flat-earthers: ""Fake image!""",-0.5255,7
+"Floyd Marston He's trolling, check your detectors haha",0.4588,9
+"For flat earthers - How is it then that the storms these satellites track long before they hit landfall, actually hit landfall at the same size/strength that the satellites predicted and observed? 
+
+Should debunk the whole- ""They shoot rockets up there but there's nothing on board"" Theory.",-0.1779,55
+"Friday Harlowe I cannot tell you what they chose, but if I had designed that satellite, I would have chosen neither an ssd nor an hdd but ecc drr ram (maybe even sram). It's fast, low power, has basically unlimited write endurance and is very robust. Of course you can't save the operating system on it because it might get deleted if power is lost, so that would probably be on flash memory.",-0.6707,83
+"Friday Harlowe because this is a GEO bird there isn't any science data kept on board. It's always in view of the ground station so the data is immediately downlinked and archived. This helps reduce cost on the vehicle by saving mass, power, and complexity. There have been plenty of partial images downlinked.",0.3818,59
+"From what I've been told, you won't hear a sonic boom while the craft is moving away from you. So, only during the rare shoreside SpaceX landings.",0.0,31
+"Funny how the Himawari satellite has the highest priority to look at Japan, as if the country who owns the satellite had any say on where it should look, but nah, that can't be the reason why, right?",0.09,43
+Funny how the US has to have the highest priority for weather scans... as if there are places on earth that are meteorologically more important than others...,0.6115,29
+"Goes16 science data: https://www.ncdc.noaa.gov/data-access/satellite-data/goes-r-series-satellites
+
+Goes16 pretty picture (full disk): https://www.star.nesdis.noaa.gov/GOES/index.php",0.4939,15
+"Gordon Freeman to remind you, the Hiawari satellite actually scans it's entire FOV in 10 minutes and in one fell swoop. Nothing prioritized, just that the satellite is geostationary over Japan but that's not my issue.",0.2144,40
+Great idea! It could talk about how biased ideas came through the representation of science and space too.,0.5093,20
+"Great stuff, Earth observation from space is sooo important.  How about doing a video on Landsat, Modis, Sentinel satellites. \m/",0.7096,27
+Hackrf box and a tuned dipole antenna is all you need!,0.0,12
+"Haha, well, that does give me some idea at least, thanks scott!",0.807,16
+"Hard to speculate but if we assume they could have the ability to zoom in enough to read a newspaper from space within minutes, with minimal latency and high frame rate, why bother with the more obvious UAVs? :O",-0.5338,43
+"Have you noticed the aliasing of circle of Earth on animation (ladder-effect?) - Scott, would you be interested to make a technology video on why this happens? )",0.4696,33
+Hell yeah!,-0.5707,3
+"Here's a real-time web application for the Himawari 8 that basically does the animation for you 
+
+https://himawari8.nict.go.jp/",0.0,17
+"Hey Scott! I'm 19, an engineering student, I've been on an internship at the Noaa satellite facility outside DC and I've been on the GOES-S project operations team! I've been a long time fan of your videos and I was at work all day for launch and coming home to see you do a video about the GOES mission is just super fantastic!! Keep up the good work!! P.S. I even got to directly command that spacecraft during a test back in november and now its in geo transfer orbit!!! You were one of my biggest inspirations to pursue the astro field so thank you for helping me get to such an opportunity!!",0.9756,129
+"Hey, flatearther's are getting close to figuring it out. There are a few things that need to be worked out, but science just isn't there yet.",0.0,30
+"Hi Scott, nice video and channel. This was a nice surprise! I'm actually an engineer for GOES and on the launch and operations team for GOES-S. This video was a nice surprise after waking up after the launch shift. The slide explaining the scans is actually super important for operations and I have it pinned in a couple different places at work. 
+
+The images ABI brings down is incredible. During non-critical weather days we point the Meso scans at Cape Canaveral and are actually able to see rocket launches using the IR bands. It's pretty neat, you can get about 4-8 frames of the ascent. Occasionally, volcano eruptions are so powerful you can see the shockwaves ripple through South American forests. (We have a workstation dedicated to monitoring real time products. The operators love it and show us cool crap they found all the time)
+
+One neat note about GLM, it's actually really useful in predicting tornados.
+
+If you want another cool GOES instrument, I'd recommend SUVI. It's an instrument that stares at the Sun. I'd wait for a few good sun spots first though. 
+
+Again great high level summary of ABI!",0.9942,214
+Hi Vsauce. Michael here.,0.0,6
+"How Satellites Capture 400 Megapixel Images Of Earth's Globe?
+
+this title is a bait, no answer in this video",-0.296,21
+How about looking into the requirements for Human Rated Spacecrafts. The Dragon was designed to carry astronauts but derated to just carrgo and Dream Chaser was just derated to just cargo. Is NASA's Human Rating system so stringent that private corporations can't compete?,0.3612,46
+How can you set up the screensaver to automatically crawl such images?,0.0,13
+How do I automate live pictures to be my background?,0.0,11
+How long before this camera is in an iPhone,0.0,9
+How long does it take to transmit a 400 MP image back to Earth?!,0.0,16
+"How would it even work that all governments and space agencies want to promote a globe. I mean Russian, China and India have no reason to support the ""round earth propaganda"" honestly they wouldn't and would say we're stupid for pushing a round earth. Lol. What's dumber than the flat Earth idea is people who think jets running on fuel is a lie....",0.3182,70
+"Hullooooo Scott =)
+
+Question : What is the side of the HDD/SSD inside these satellites ?",0.4939,18
+"I Love these satellites I been using these for ages nearly every day these sats are such a problem for the Flat-earthers the detail of weather matches to all weather reports and the sorts, now for all these to be faked you would need an army of people matching every single detail 24/7/365 and have it matching exactly for all images,maybe they will say a it supercomputer but still no way it would work, the earth is a globe! too much proof for a globe and none for the flat, maybe its possible someone could shine a powerful laser at these satellites and it would show up in the image that would be cool",0.7088,122
+"I always wondered if it's possible to have sattelites that provide really close up live footage of buildings like in all those ""CIA""-based movies and series...",0.3612,31
+"I can only find 100MP images of the Earth, are there full-colored ones with 400 Megapixels?",0.0,18
+I can't wait to finish my electrical engineering degree and computer science degree. My dream is to work on space exploration stuff. I live near ATK orbital. Sadly they don't do as much as they used too.,0.0258,41
+I completely agree. That SBIRS constellation is a helluva machine.,0.4201,12
+I didn't really catch it from the video. from where can I download those images/watch those vids.  I kinda hoped to see this linked in the video description.,0.3197,33
+"I do believe they are 12 channel. Channels 1-11 have 3km resolution while channel 12 which is a panochromatic visible has a 1km resolution. They will be starting to launch the 3rd generation satellites in 4 years time of which there will be 4, 2 imaging and 2 sounding. The imaging will have 16 channels and resolutions of 2-0.5 km with real time lightning detection etc.. The sounding satellites would have a 4 km resolution for vertical profiles of temperature and humidity.",0.0,90
+I dunno... dead satellites and other space waste are a real problem as-is. Better be careful with what you shoot up into an orbit where things don't come down by themselves.,-0.8271,34
+I freaking love this planet! She's so damn cute!,0.4159,11
+I have so many questions I would love to ask those guys.....,0.6369,13
+I hope you're joking.,0.5859,5
+"I looked at some images from that big daddy one a while back and thought it was cool. This perspective on what we're capturing was really interesting, thanks  for the knowledge Dump, man. <3",0.8304,38
+"I rarely comment, however I would be extremely interested in learning about this.",0.4576,15
+I remember one looked at a my video of an eclipse seen from himawari and declared that it was obviously fake because the earth wasn't oblate. I zoomed in and measured the image showing the oblateness and the response was that because it showed the oblateness it was clearly a CGI fake.,-0.5423,54
+"I see it now, I checked when you first uploaded, you must of just added them. Anyway thanks for the reply!",0.4926,25
+I suspect it's the other way around :),0.2023,8
+"I think its fair to say ssd more reliable and faster chances of an ssd breaking at launch much less than spinning disks, scratching head crashing ect.",0.4767,29
+I totally did get my info from Vsauce lol,0.4215,9
+"I used to just use their site for the east coast rainfall radars, but yeah... They've improved the functionality and quality of the imagery a LOT compared to a few years ago. It was good of the Japanese to give us access to that data.",0.8402,49
+I watched it from the LC 39 launch gantry. Boi that was an amazing launch.,0.5859,17
+"I wish we funded putting many GOES-16 up as soon as possible as well as improving coverage over the entire Earth, including the polar and ocean regions. All observation positions should be upgraded to at least GOES-16 standard. Currently some positions have much less capable hardware. A much more detailed view of the entire global weather would significantly aid scientific studies. Similar satellites should also be sent to give good coverage of both Venus and Mars in long term high orbits.",0.8958,91
+I would love a software that would  change my desktop pictures to the most recent image of my area. Would never have to leave home again !,0.6848,28
+"I'm from Australia, & I love checking the BOM (Bureau of Meteorology) site on a daily basis.
+ When the Himawari 8 satellite went up, it was a drastic improvement on the satellite that was used previously. 
+ I can zoom right in, & get a decent idea on the cloud cover in my general area (Sydney), & even make a reasonable prediction about cloud cover moving over the area. 
+ 
+It's brilliant, & it's really cool to be able to see India on one side of the image, & Hawaii on the other.
+
+& the update frequency man.. The update frequency! <3",0.95,116
+"I'm in Cocoa Beach, Florida right now. So I can watch the launch of GOES-S Live. 
+I am excited for it.",0.34,25
+I'm the webmaster on the GOES project. And have been working on the project for 11 years now. Really cool seeing you talk about this.,0.3804,28
+"Ib4 flatearthers ""it's all fake cgi""",-0.4767,8
+"If their goal was to make multi-gigapixel images, they would just build a system to do that, not use shitty commercial DSLR sensors. Clearly, this is not their goal. It's a weather satellite, not a ""please-youtube-armchair-engineers""-satellite. The resolution is what it is because that was their design target. This, incidentally, also answers everyones constant moaning about how NASA's cameras used in space are ""so bad"" - it's because they're designed to perform a specific job, and only that job.",-0.0688,97
+"If this satelite is directly above the equator, then why can't you see its shadow on the dayside pictures? Checkmate, globetards!",0.0,25
+"If you search for 'HS_D_users_guide_en_v12' or just 'Himawari 8 Users Guide', you should find a pdf that has all the specs you need to calculate the storage needs as well as the minimum bandwidth required. It has the valid number of bits per pixel for each band, what the resolutions are, what the observation areas are, how often they make observations for those areas and so on.
+
+I did the math, just for the giggles.
+
+For clarification this is *all the data* Himawari 8 gathers *during a 10 minute window* , some observations are once every 10 minutes, some are once every 2.5 minutes while some are once every 30 seconds. So these calculations take in to account every observation it makes during a 10 minute window.
+Using the appropriate valid number of bits per pixel for each band = 2196.2 megabytes or 2.144 gigabytes.
+If you want to move that amount of data in 10 minutes or under you'd need around 31Mbit/s of bandwidth. (bare minimum)
+For reference, the valid number of bits per pixel varies from anywhere from 11 to 14.
+
+I'm not sure why but the block structure in the users guide says 16 bits per pixel (""fixed value"", maybe it's how they format the data) for the files so I'll give you numbers for that as well.
+16 bits per pixel for all bands = 2486.2 megabytes or 2.42 gigabytes. For that you'd need around 35Mbit/s. (bare minimum)
+
+The actual files however (which you can download) are using the valid number of bits per pixel.
+For example, the calculated size for a 11Kx11K image at 11 bits per pixel is 158.667 megabytes.
+The largest image I found on the official website was 156.7MB. So quite close.
+Keep in mind that the calculated size is the absolute maximum for an image of that size with that many bits per pixel. The actual size depends on what the image shows. Brighter the image, larger it is. Darker the image, smaller it is. 11Kx11K is a square. Earth is a globe. Space is dark. You follow?
+Around noon, the full disk 11Kx11K images are around 150-156MB in size, during the night they can be as small as under one megabyte which is basically 100% black body as from Himawari 8's point of view the earth isn't lit at all by the light from the sun. The smallest images where you can actually still see the earth (a sliver of it) are a little under 4MB in size.",0.5746,486
+"If you want to try and grab images from a satellite your self check out this guys video!
+
+https://www.youtube.com/watch?v=cjClTnZ4Xh4",0.1511,20
+If you're referring to an uncompressed bitmap image it's gonna be in the range of 5600 MB for a 11000 x 11000 pixels with 16 channels. Around 350 MB per channel. To transmit that much data every 10 minutes you gonna need around 75 Mbps of bandwidth. Now if as Mythricia mentioned you compress all the parts of the image that don't contain the Earth you can obviously bring that down a bit.,0.0,77
+"In Zurich, where I live exists a small Restaurant in which only blind people serve and most of the kitchen crew as also blind. And yes, the whole dinner (exept the closets and kitchen) are completly dark. It is quiet an experience that everyone should make",-0.4019,52
+"Inb4 ""photoshoped""",0.0,5
+Insanity,-0.5719,1
+Irma's eye https://www.youtube.com/watch?v=QOJLX8MggGg,0.0,3
+"Is it just me or has Scott said this before? 7:26
+It feels like I have already watched some time ago...",0.3612,23
+"Isaac Passmore I only used ""Fabricated"" once. I know how they compose of photos but it does not explain why the images are not true to the actual sizing of the earths land masses but they are using a projection. in 2012 they composed one in peters and the following year 2012-17 composed them in Mercater.",-0.4585,61
+"It was awesome, but why was there no sonic boom?",-0.0644,12
+"It's almost as if the satellites made and launched by the US focuses on the US, and the satellites made by and launched by other nations, look at those other nations. Hmmmmmm...... I think I can figure this one out",0.25,44
+Its called World of Batshit - #5: Space Denial.  https://youtu.be/tMtwSVO0PQk,0.0,13
+It’s actually part of a Village People tribute band,0.0,11
+"I’m not for sale right now, the day job keeps me secure.",0.34,16
+"JJayzX https://www.goes-r.gov/users/grb.html
+
+Goes rebroadcast allows for anyone with a properly sized antenna to get all the data. Works great when you are out at sea and need the weather forecast",0.6249,31
+Joke's on you: 'Maffs' has 2 fs.,0.0,11
+"Jonassoe A sphere won't cast a shadow on itself. But the bottom is not dark, because it doesn't take one picture of the earth, it spins around it taking pictures which is also why you can see some of the same clouds. (it does this because it would need to be a long way from the earth, but single pictures have been taken. )",0.0,71
+Just a camera. If you want though you can say that it is CGI or *(C)* amera *(G)* enerated *(I)* mages,0.0772,34
+Just wow. Thank you Scott.,0.743,7
+Kalebk959 and?,0.0,4
+Lagittaja amazing!!,0.658,4
+"Learn how cameras work, and take a good read about exposure time.
+If you have a camera in your phone, you could test that yourself, that is of course, if you're not afraid of reality.",0.4404,41
+Lmao,0.5994,1
+Look at that beautiful flat earth!,0.636,7
+Look at the image capture animation - they use stars to calibrate the sensor.,0.0,15
+"Love that ""glare"" going along the equator during daytime, some kinda reflection off the atmosphere?",0.6369,19
+Lucas Moldrup Not to mention that 1 satellite isn't even a flea compared to the Earth and wouldn't even cast a shadow large enough to be seen from space,0.0,29
+"Lucas Moldrup Yes, that is what I meant",0.4019,9
+"Man, thought this was a video from Seeker (not sure why), so didn't bother to watch it..
+Then I saw it again, and it was from Scott. Instant click!",0.6002,37
+Mark McCulfor Engineer*,0.0,4
+"Markus, what are you doing. You think this is a game? Well, you just lost.",-0.0516,20
+"Matthew C 
+No doubt! I just found those idiots that think planes use compressed air and that they don't fly as high as they actually do. 
+I really need to stop clicking on those stupid videos to yell at them as my feed is being corrupted by stupidity.",-0.9145,51
+"Matthew C I worked for ATK before the split off of the aerospace div (military equipment) good company, but there was always talk of divisions splitting, so I found it nerve wracking. Good luck!",0.8777,40
+"Matthew C Like discussions between paleo and vegan or electric and ice cars etc. . logic doesn't matter at some points if you use emotions instead of facts. there's automaticly a ""real"" truth and excususes why the other one should do ""real"" research... I would be surprised if they would act different.",0.6834,59
+"Mindblowing stuff! Thank you for explaining it. I never tire of seeing science in such awe-inspiring action!
+
+Btw, if you want to see how these images get misused, go to Cool Hard Logic. He does a series called World of Batshit. I can't remember the name of the episode in which this is mentioned (and because I'm writing, I can't go look!) but some are plainly not related to this. Having said that, I recommend watching all of them for the lolz and that moment when you think it's got to be a hoax but realise it isn't. That's the moment you open the bottle of Scotch and forgo the glass ;-)",0.9077,126
+Mix this with WIfi cameras and and inferred and you can see into every non led lined building on earth that has wifi. Gotta love how corporations have access to this!,0.6696,33
+More videos like this!,0.4714,5
+Mount Cinnabon?,0.0,3
+My brother works at Harris as a engineer! He designs these cameras!,0.0,14
+My guess would be hdd im 90% sure ssd need radiation sheilding,0.3182,13
+My wife doesn't understand why I do this. But it works!,0.0,13
+"Name, when talking about the bandwidth needed to transfer these images, you also need to take into account that YouTube applies pretty heavy compression to their video.  These meteorological photos need to be transmitted with little or no compression for them to be useful.",0.6344,48
+Needs more jpg,0.0,3
+"Never. If you had watched the video, you'd have realized how unusable it would be in a smartphone.",0.0,21
+Nice.,0.4215,2
+No they go into graveyard orbits,-0.5267,6
+Not only is Earth actually flat! But it's also square!. So this is definitely one them there hoaxes! :P /S,0.7631,25
+"Not very long. It's only about 300 megabytes for the full resolution image. The satellite has a 66mbit data link, so that's about 38 seconds. A single 400mpix frame is very little data, but people think it's big because it has the word Mega in it.  ¯\_(ツ)_/¯",0.0,61
+"Oh but you forget, the Illuminati actually are the lizard people. I thought they were included. 
+
+(FYI: I don't even want to dig on teachers. They don't get paid enough. Maybe science teacher curriculum? Do we have to include 'reasons we know the earth is round' or can that just be, like, a side lecture?)",0.2328,69
+"One of your best vids to date Scott, awesome, thanks!",0.9098,13
+Only 10 dislikes,-0.4019,3
+"Only about 80% of the image area is occupied by the Earth, so already there you have decent savings. Something simple like Run-length encoding should take care of masked dark areas nicely. Also only the ""visual"" band image is 11k by 11k, the others are half resolution, or smaller. So, somewhat to my own surprise, it's not an insane amount of raw data needed to get these amazing results.",0.9409,81
+"Optics is, as far as I am concerned, magic, and only grey beard wizards and witches are allowed in that field. But it is very interesting what they can do! Digital sensors are very interesting, understanding them often straddles the border between electronics and physics / quantum mechanics. For me, understanding them better started out with just using them in astronomy. You learn a lot about them by having to deal with their strengths and weaknesses in a scientific way.",0.8617,90
+"Orion is for deep space exploration, commercial crew is for low earth orbit missions.",-0.0516,16
+Pfff you actually believe the earth exists... sheeple these days,0.0,11
+Phew! Thank god. If the picture did claim to be real I would have a hard time explaining that to flat Earthers. Thanks.,0.75,27
+Pluto : that make more sense than the flattard,0.0,9
+Pretty sure with SDR and right setup you can get the GOES data direct.,0.6705,15
+"Quality video, Mr Manley. Didn't even know that I didn't even know about this stuff. I wonder how much of this tech ends up in military satellites.",0.0,31
+Quick Mafs!! Thanks dude!,0.5826,7
+"RyRy XX are we talking about a map or the full disk image produced by the GOES16 spacecraft? As someone who works directly with the spacecraft, I can assure you that the images produced by the spacecraft are real pictures of the globe while the spacecraft is observing from the equatorial plane. There are minimal tweaks to the image to get optimal science data out which I previously mentioned. Algorithms needed to produce low level science data apply a mapping over-lay (unsure of what map) but it is not altering the observed image. The over-layed map is to assist with landmarking for the science algorithms. It's needed to help ID coastlines and things like that. So obviously the more accurate the better for these algorithms to be useful.",0.9501,139
+"Samizdata I was about to get on you until I pressed the read more, lol",0.4754,16
+"Scotsmen pronounce it how its bloody well red, awrite",-0.2023,10
+"Scott Manley  logically answer this, why do they use different projections with previous images but now only use ""Mercator"" when its 100% not how the earths land masses correctly look like at all.",0.5023,38
+Scott Manley Thanks for answering. But doesn't that help the Kessler syndrome?,0.1635,14
+Scott Manley he actually touched part of Goes 16!,0.0,10
+"Scott Manley he's really cool, I'll share this video with him!",0.6541,13
+Scott Manley so is the Orion Spacecraft just another NASA's theoretical pursuit?,0.0,13
+Scott Manley sry that my country had so much contact with the japs when the where isolating themselves,0.0,18
+Scott check out https://satsquatch.com! they do cool GOES 16 maps.,0.3802,12
+Scott how do you convert NetCDF files into raster images without spending money on scientific data processing software?,0.0,19
+Scott says you can make this a screensaver but Ive search around and couldnt find anything on it. Anyone know where I should be looking?,0.0,27
+"Scott, I am a technical illustrator for a space company in the SF Bay Area.  I was wondering if you would like to do a video discussing the role art has played in aerospace in people's perception of how spacecraft work as well as communicating what spacecraft will look like (in the early days of the space race a lot of art was used to communicate what Apollo would do).  It is a large part of what I do for my career and might make an interesting topic for others to learn about. -Steven",0.8807,101
+"Scott, what are the specifications for the European satellites? :)",0.4588,12
+Shut up you weeb we dont take kindly to fascists in America,-0.5312,12
+"Since it's owned by the US government, is it a surprise that it would focus more on the US?",0.2732,21
+"So he mentioned being able to have it where you could have your desktop auto update to the latest image of the earth, could anyone tell or point me in the direction of how to do such a thing?",0.0,41
+So what level of technology do they need to predict tomorrow's weather with greater than 50% accuracy?,0.3612,19
+"Solar radiation destroys/disrupts electronics - modern smaller and denser electronic is more vulnerable than older one. There is also matter of power, solar panels are not exactly powerful and they do decay over time.",-0.729,39
+"Sorry but if that is the flat earth then you should be able to see the Sun going around in circles below the satellite is 22,000 miles away from the earth meaning that your flat earth Sun should be some 19,000 miles below the satellite.",-0.0387,46
+Super interesting! Cheers Scott!,0.8829,6
+Temporal frequency? Isn't that a tautology? Or did I miss something? O.o,-0.4479,17
+That animation at the end was adorable. Always have to get your tongue at the right angle when making adjustments.,0.4939,22
+"That depends on where you are in the world, some places are easy to predict, others, like UK and San Francisco are especially unpredictable.",0.6597,28
+That is awesome. Thanks!,0.807,6
+That is one of the most beautiful things I have ever seen. That and Anne Hathaway.,0.6361,18
+That'd be really nice it's important it's note that the GOES Series mission is a 9 billion dollar mission that takes 10 years to get up there and another 6 months to check out.,0.6318,35
+"That's a simulation of the scanning modes, it is probably a model, it also lacks the bright spot where the sun is reflecting most so I'd say it's not a real picture, perhaps the clouds are real. Nowhere in the source video does it suggest that's a real image https://www.youtube.com/watch?v=MVUlYgm6zCo",0.4404,54
+"That's actually less pixels than a 4k screen has to update each second (~8.3 Mpix, 60 times per second, ~0.49 billion pixel updates per second). So, watching Netflix on a 4k TV or monitor at 60hz, you're transmitting more data each second, to the monitor. Now we're talking about what I would consider quite a lot!",0.0,68
+"That's exactly what these satellites do as well. Except instead of shifting the sensor, they shift the light path. The result is of course identical (it's the same thing). Stitching the image is also the same thing - on an electronics level, that's already what a sensor fundamentally does.",0.2732,57
+That’s like the largest scale most high tech most expensive time lapse for earth,0.3612,16
+"The Large Hardon Collider
+You forgot about the lizard people. Queen E-lizard-beth is behind the globe earth lie.",0.0,20
+"The US should use Molniya or Tundra orbits for their satellites.
+These are highly elliptical orbits that can be very useful for getting coverage of higher latitudes.
+While satellites in Geostationary orbits can only point to the equator, satellites in Molniya and Tundra orbits can get you images of the continental US PLUS Alaska and the Arctic.",0.4927,61
+"The answer is, they don't!  It's all fake, the earth is FLAT! lol",0.713,17
+The answer to this is classified.,0.0,7
+"The camera doesn't capture images when the sun is in the frame, it was literally exlained in the video",0.0,20
+The earth is only 5k pixels old,0.0,7
+"The local weather office (NWS Melbourne) has been tweeting some of the excellent GOES-16 images, because they're pretty proud of them. That sequence showing Hurricane Irma was amazing (even though it destroyed my fence :-) )",0.9169,43
+The one just launched will be GOES WEST. The one currently up there is GOES EAST.,0.128,18
+"The really interesting thing will be if you can pick up these transmissions with a cheap SDR.
+(That's a usb dongle that costs about £30 which, with the right antenna, can pick up a massive range of different transmissions. From tv, to cb radio, to satellite transmissions).",0.4576,57
+The world is a globe?!!  Well I'll be fucked!!! Who would have known 😝😝😝,-0.6671,22
+"There are 400MP cameras... They use sensor shifting of a 100MP sensor to do superresolution. 
+
+If you stich a few images you can get much higher resolution.",0.0,30
+"There's something here I don't understand -> it's fake -> Earth is flat
+
+That's a pretty interesting logic chain you have here.",0.4215,23
+"They could do that, and could make sure every other spacecraft not owned by them did that, and then use a giant fresnel lens in the sky to make it look like the earth is a globe. 
+
+Or, the earth could be a globe as observed by philosophers 2000 years ago. 
+Out of these possibilities I’m going to go with the one which isn’t batshit crazy.",0.34,76
+"They don't even have a motive to explain why everyone would lie about the shape of the Earth. 9/11? ""Gov't needed an excuse to invade middle east again, to get at their oil."" Moon hoaxers? ""It was a space race against the Soviets, national pride was at stake!"" 
+
+Flattards? ""NASA gets like, a kagillion dollars!!! See, there's many monies involved!!"" But NASA was formed hundreds, thousands of years _after_ we knew it was a globe. ""...Globe sales! Freemasons! Illuminati! Secret, shadow gov't elite corrupt LIES!! $#*$()@...""
+
+Keep in mind, there are no ""good"" conspiracy theories, otherwise they'd be proven: flatearthers can't even come up with a good conspiracy theory, and that's how low the standard is. 9/11 conspiratards step up to say, ""Hey man, don't lump us in with them, those people _crazy.""_ They're the gunk caked-on to the bottom of a dumpster. Don't bother trying to scrape it off, unless it's your job (like teachers).",-0.8319,214
+They don't like pointing the camera directly at the sun.,-0.2755,11
+They may look like a full disk but geostationary images only cover 81° in each direction and their weather images are only useful to 60°. That's why NOAA also has weather satellites in polar orbits. NOAA-19 covers both poles every 102 minutes and at only 870 km it gets high resolution images that cover the entire globe every 6 hours filling in the areas missed by the GOES satellites.,0.4215,76
+"They really are not. They're at the forefront of consumer DSLR imaging technology, and nothing else. As someone who does scientific imaging and astrophotography on a regular basis, I think I would know. If you want actual imaging technology, you gotta look at Kodak and Sony's scientific or industrial sensors (and many other names that are never heard or seen outside the sci imaging industry) - it's really not even close. Pro/Consumer DSLRs are toys in comparison. Which is why no scientific or satellite astronomy imaging is done using DSLR sensors, because boy that would sure save a lot of money if that was feasible. It isn't.
+
+Sure, you can use them for it, but that's the wrong tool for the job. They'd also not survive in space for very long.",-0.5157,150
+This Atlas V launch was the first rocket launch I have ever witnessed live. Boi that was a whole lot louder than expected.,0.0,25
+"This is what you want:
+himawari8.nict.go.jp",0.0772,7
+Today GOES-17 / GOES-S / new GOES-West joins the crew!,0.0,13
+"Tom Smith yes, you can. https://www.goes-r.gov/users/grb.html",0.4019,8
+ULA can up and die. Get SpaceX launching this stuff!,-0.636,12
+UW represent,0.0,2
+"Very, very cool. Like, like, like!",0.8941,11
+VitalFir 46 Oh okay,0.2263,4
+VitalFir 46 You mean it won't cast a shadow on earth? But yes it's true what your saying.,0.6705,20
+"Watched the launch from my front yard, picture perfect ;-)",0.6908,11
+We need a website that combines all available live images of the globe and paints those on a sphere... Then have that as a screensaver.,0.0,27
+We would need to be at least a Type III civilization..,0.0,12
+Well found and thanks for the link! :-) Good Egg.,0.8588,12
+What is the website you can download this photo,0.0,9
+What's wrong with Cool Hard Logic?,-0.296,7
+Where's the stars? 😉,0.0,5
+"While impressive technical achievements it always bugs me how much the performance of these fancy aerospace systems lags behind consumer tech. 
+im sure there are very good reasons for why we cant just strap commercial of the shelve stuff to satellites and I would definitely like to see a deep dive on that subject but Its still quite odd to think about.
+like sure the resolution is pretty good but the overall amount of data collected per unit of time seems decisively unimpressive compared to consumer tech even when considering there are 16 channels instead of 3 and the bit depth is probably something like 16bit. 
+consider that a modern mirror less camera can have 16bit capture at 40Mpx in the palm of your hand. 
+assuming you need to take one frame for every spectral band and 10 to capture the whole disk and match the 400Mpx resolution that means that in 160 shots of a handheld consumer device, using maybe 10watts of power, you could match the data captured by this car sized state of the art satellite using 4KW.
+If our camera was able to work at 2fps it would capture the full 16 bands at 400mpx in 1min 20sec. more than 10 times faster than our satellite! 
+I wonder what nuances go into these systems that make them lag so far behind what a back of the envelope calculation given available tech would suggest. after all a huge amount of thought must have been put into them.",0.971,261
+"While scrolling through the image at the start, the video seems to jump a bit occasionally, as if your machine couldn't quite keep up with loading in the next bit of texture and skipped a few frames.",0.0,40
+"Why can't they put an array of 100 or so DSLR senors on the spacecraft and get multi-Gigapixels images?  With the amount of money they're already spending, doing that can't cost too much more..",0.0,37
+"Why do that when much cheaper and more practical UAVs exist that can do exactly that?  Then again, it IS the gooferment we're talking about here.  Our tax dollars at work.",0.0,35
+Why don’t they spell it that way!!!!!!,0.0,12
+"With the right hardware you can actually download NOAA weather sat images as they're being sent down to earth yourself! Should be self-evident when you think about it, but I never did, so watching a video about that blew my mind 😁",0.0,45
+"Yeah I've got some notes for that. To be fair, no previous US human launch vehicle would qualify as human rated according to the commercial crew requirements. Dragon was never 'de rated' it was simply designed first as cargo and then later Dragon II became the pitch for commercial crew.",0.3182,56
+"Yeah, if you had you'd probably know just how red the earth actually is. XD
+Certainly a striking colour...",0.8455,22
+"Yeah, the correct answer to the OP question is: ""Neither"" - image data has no reason to get physically stored on the satellite, it's not really critical data in that sense. Losing a 10min set due to a power reset is not an issue they worry about. So it probably uses good old, basically off-the-shelf DDR memory to store it. Well, not off the shelf, it's probably rad hardened and all that... I've seen rad-hardened Flash memory used in space-faring vehicles before so that makes sense for the firmware / OS.",0.1726,104
+"Yes please, That would be so interesting",0.8172,8
+"You can't see its shadow because the dam satellite is 22,000 miles away from the earth.",0.0,17
+"You know Scott, I would just like to say thank you.  You make videos on so many things I had no idea about.  Each of these videos manages to spark my interest in something new and interesting.  I love your videos, and fly safe!",0.9501,50
+"You know they're gonna latch onto the word ""disc"", once spoken, once shown in text, for dear life. Because if they don't have the slightest clue what i refers to in this context they can at least pretend that it was some slipup of the most extreme conspiracy ever imagined.",-0.3566,57
+You put it into a geo transfer orbit? So now it's geostationary?,0.0,14
+"You would most certainly want a mechanical moving disk spinning at 5k to 15k rpm in a vacuum while operating incredibly sensitive mirrors en lenses to get a high resolution image. How does that even make sense. Just look at the satellite, its one giant heat/radiation shield.",0.5059,53
+"You're welcome:
+
+https://upload.wikimedia.org/wikipedia/commons/b/b0/Himawari-8_true-color_earth.jpg",0.4588,4
+"_""fake cgi""_
+
+That sounds like a double negative. So you're saying this is real? :P",0.1363,21
+"again, if you want an accurate representation, take a globe.... a projection will never be as accurate as a real image of the globe as it is...",0.0772,31
+another great video :),0.7964,4
+at 2:04 you can see cyclone gita form and the pass over new zealand in the bottom right,0.0,18
+awesome,0.6249,1
+"because a map is flat, unlike the earth really is.... if you want the more acurate representation of lands, buy a globe",0.0772,25
+clayman0 skycade bananas are curved therefore earth is proven flat... same logic I suppose.,0.0,17
+clayman0 skycade have you been to the Australian outback?,0.0,11
+coming soon to a smartphone camera near you..,0.0,9
+do they de-orbit the older satellites?,0.0,7
+"earth is flat,",0.0,4
+exactly,0.0,1
+"far, far away.",0.0,5
+"given the rate at which Apple improve their products aaa i mean milk iSheeps, never",0.4404,16
+great im never first,0.6249,4
+"hmmm actually ""himawari"" 's pronunciation in Japanese  is like ""himawali""...",0.3612,16
+how can you say great video when you havent watched it,0.6249,11
+how do you get those real time on screen saver?,0.0,11
+https://ibb.co/iVVX3H,0.0,1
+"https://www.youtube.com/watch?v=cjClTnZ4Xh4
+
++Tom Smith 
+You can indeed, this guy does it (at first he is using a HackRF box but later he uses some smaller USB SDRs
+
+If any one wants to try pulling some satellite images directly from the satellite check out this guys video",0.0,48
+https://youtu.be/cjClTnZ4Xh4 video for reference. Pretty cool!,0.6996,8
+it clearly shows the earth being a cube.,0.4019,9
+liking your own comments dont make your arguments valid,0.607,9
+"link that prove satelite imagery use projection of a 2d map rather than the expensive sensor, camera and radar they ship?",0.0,23
+nah,-0.1027,1
+nardgames that's true but I'm sure NASA is not going to send people into deep space without some shake down flights. The only thing available right now would be cew changes at ISS.,0.6835,35
+nibba try harder on that bait,0.0,6
+"no, just...no. you are wrong and mind are nothing to do with it",-0.6486,17
+"no, the ocean",-0.296,4
+"no, they are based on topographic measurements. do you really think they just glue a map on a globe? talk about research or knowledge...",-0.296,28
+or you could just download the images directly off the satelite..very easy with a SDR,0.4404,17
+"orangecode lool yea that's what's keeping them from being right. *Edit* actually, yea, science is what's keeping them from being right, because they're wrong lol.",-0.0772,32
+"randomnickify while those factors sure have some impact I doubt they fully explain it. solar power is actually pretty damn good once you are in space and dont have to deal with clouds (according to wikipedia this satellite actually has an impressive 4000 watts available) and If radiation required such much less dense electronics its seems odd that you couldnt just use dense electronics and spend the weight savings on shielding.
+I think another part of the explanation is the time it takes to get something flight rated. after all you better damn well make sure everything is incredibly reliable before you book a rocket launch. 
+though again I have to wonder wether bringing down cost would actually impact reliability all that much (80/20 rule and all) and wether It might be a viable strategy to have lower cost, smaller satellites that ocasionally fail but are cheaper to update and replace",0.2617,160
+religious people = retard,-0.5267,4
+"satellites small, earth big.",0.0,6
+she think they use 2d to make 3d...,0.0,9
+shouldnt we be able to see the sun on the other side when the camera is looking at the night side of the earth?,0.0,25
+"sounds like a 'my god, it's full of stars' moment XD",0.8455,14
+sweet,0.4588,1
+that was super exciting and informative! thanks Scott!,0.8906,10
+"that's not the full image of the globe, Scott, its 48% at best",0.6369,16
+the ULA put it into geo transfer orbit. the next three weeks we're doing a series of apogee burns to get it into geo,0.0,25
+the earths obviously flat scott like come on,0.3612,8
+the lightening video was incredible,0.0,5
+"these are geostationary satelites, they can just point a fixed parabolic antena at it and call it a day",0.0,20
+this is all CGI,0.0,4
+"watching this footage I can see dark bands at dawn and dusk, do you think this lends credence to the old saying ""it is always darkest before the dawn""?
+I always thought it was to do with the human eye having to filter out the twilight, when the sky is brighter than the earth's surface and so the eye filters out more light and you can't see as well despite it actually being the brightest part of the night.
+then of course, it has occurred to me that it might be purely a metaphor with no truth to it whatsoever.
+but then I can see it in this footage so now I'm wondering if maybe it is true, maybe it's something to do with the camera filters (the camera needs to be protected from overexposure just as much as the human eye) or maybe something I haven't thought of.",0.8504,161
+we dont use a projection to make a globe,0.0,9
+well Mega is 10^6 and 400 of them is effectively 0.4 billion pixels. That IS a lot.,0.6124,21
+"well, it's pretty easy to understand if it's possible or not, -look up some orbit data of keyhole satellites, look up some- nevermind, I found a photograph of an 
+hobby  astrophotographer who took an image of keyhole 12 with a ~1000$ telescope --> http://www.spacesafetymagazine.com/space-debris/astrophotography/view-keyhole-satellite/
+
+I hope that answers your question ;)",0.9001,59
+when weather is involved it's thicc,0.0,6
+where the hecc can i get the original resolution images?,0.3182,11
+why is earth red clearly fake and therefore earth is proven to be flat,-0.1027,14
+will my neighbours sky tv dish work?,0.0,8
+woo sub 300 club,0.4767,4
+"yes, great job thank you another science video...",0.8519,10
+you are correct,0.0,3
+"you dont understand, anyway, im tired arguing with you. have a nice day",-0.4767,16
+すごい,0.0,1

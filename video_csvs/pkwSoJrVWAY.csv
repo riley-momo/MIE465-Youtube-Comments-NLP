@@ -1,0 +1,9 @@
+,sentiment,wordCount
+"Do you mean to say you use OpenCV to read program from the printed paper using OCR? I guess you're not doing that, then you are printing program, markers alone isn't enough?",-0.3313,36
+"From the brief glimpse of the webcam I'd say it's a C Series, maybe a C910 or C920?
+I've had reasonable results from both regarding the delay and was confused why your speeds would be flagging, until I saw your on OSX, which has a ton of issues with the logitech driver :( 
+Either way, you should be able to get 1080p/30fps by fiddling with the RightLight BS that logitech use (it auto drops frame-rate for ""Low Light"" situations, but false triggers fro high contrast situations, like this one, as well)",-0.1406,105
+Interesting. I wonder if this could be used to create a virtual playroom in the future for children.,0.5859,20
+"No, there is no OCR involved. The markers alone are enough. The printed program code is for humans to read, not computers (for now).",-0.6597,31
+That is truly amazing,0.7717,4
+"Yeah it's a C920. Ah, interesting, good to know! I'll play with that some time then, thanks!",0.9133,23

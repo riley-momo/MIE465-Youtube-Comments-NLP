@@ -1,0 +1,33 @@
+,sentiment,wordCount
+"A neat description of the theroy plus the demo of USB, LSB and SSB, thank you very much.",0.6705,21
+"As a follow-up, have you looked at this project from HaD? https://hackaday.com/2015/09/22/a-better-spectrum-analyzer-for-your-rigol-scope/",0.0,14
+"Don't know what this is, but it's on trending and I clicked on it. Learned something new. Thanks",0.5927,21
+Excellent description. Keep up the good work 👍,0.765,9
+"Hi and thank you for another what I would consider as a mind blowing video. You mentioned that in SSB the carrier and the other side band is suppressed.  Is there any way to demonstrate that in the lab demo?  I'd love to see what the ""transmitting"" signal looks like in the time domain (with those components removed).  Is there any insightful way to show what happens when the carrier and the other side-band are suppressed by looking at the math alone?",0.8205,91
+"I absolutely stink at math, but I could follow along and for the first time I understand AM vs SSB! You sir, are a hero. Thanks!",0.8533,31
+"I have always understood the relationship between the carrier frequency and its sidebands, but in 40 years of dealing with it, I've never thought about the math behind it. The FFT demo was great on the Rigol, what model is it? I look forward to more videos like this.",0.8838,55
+"I know! It came as a total surprise when I checked the channel statistics. After some checking, I found that Hackaday picked up the video, and the ARRL FB page did, too, a few days later. I'm pleased so many people found the video helpful.",0.7959,53
+I look forward to a future video that you hinted to about how the carrier and one side and are removed.,0.0,22
+I really like the combination of the math and demo...reminds me of Alan W2AEW's channel....you have a new subscriber!  73 - Dino KL0S,0.474,30
+I thought ssb ment super smash brothers,0.5994,7
+Incredible! This is way better than anything the ARRL has which tries to explain SSB. I recommend anyone studying for the general exam view this video. Thank you.,0.8016,32
+"Justin This my friend is a subject in any Communication Theory / Signals course. I just went through the course last semester as a 3rd year Electrical Engineering major and I gotta say it is so interesting but sadly I have almost no clue where to apply the subject. Most of the course explains what you see in test equipment such as digital oscilloscopes.  When I saw the thumbnail I was like ""What the hell did I watch that to help me in my homework or something"" 😂 but it's on trending!!!",-0.6794,100
+Same !! Lol,0.5242,4
+"Thank you for this clear, concise explanation and demo for we the math challenged!",0.6588,16
+Thank you for this excellent explanation.  I look forward to your future videos..............................Berni,0.783,16
+Thank you!,0.4199,3
+"Thanks for the comment. I'm sorry you couldn't read my handwriting. Typesetting the algebra and notes in LaTeX or some other package is indeed possible and I might do that at some point, but for now I'll just write more neatly.",0.653,45
+"Thanks, Dino, that's high praise indeed! 73 -- David, WQ7F",0.7777,15
+"Thanks, I'm glad you found it helpful!",0.8398,9
+Thanks. I need to get a digital scope.,0.4404,10
+That made my day!,0.0,5
+"The content of the video is very interesting and the delivery of the audio is great. What ruined it for me was the (poor) handwriting on paper! C'mon, there are free maths programs that will make the presentation look MUCH more professional. The paper thing was so distracting I could not finish it. FWIW, my handwriting is much worse.",0.3856,68
+There's an idea!,0.0,4
+"This is a great question. Looking at the specs of several modern amateur HF transceivers, it appears that the unwanted sideband is typically suppressed 50 dB or more below the maximum output (see, e.g., http://www.kenwood.com/usa/com/amateur/ts-590sg/spec.html), so the signal level should be quite low. I've heard people talk about signals on the air where the suppressed sideband is audible, though I've never looked for that to tried to hear it. Those cases are probably due to very old or poorly designed transmitters. The suppression of one sideband relative to the other should be measurable using a spectrum analyzer, though care is obviously required. The w2aew channel has an excellent video that shows SSB in the time domain, https://www.youtube.com/watch?v=3DxBg6h4Fc8.",0.8275,135
+Trending,0.0,1
+Tried reading about SSB but I never got it. This made it much easier to understand! Thank you!,0.8193,21
+"Very enjoyable, and technical video that gets to the point showing not only the why it works, but how it works. 
+No guess work here, folks. This guy is the real deal.",-0.1787,38
+Very interesting and useful for someone like me who is getting into RF.,0.8251,14
+"Very nice, not being adept at RF stuff I enjoy your videos.",0.7425,14
+"Very nice. Now you can do a whole series.. Phase Modulation, BPSK, QPSK, OQPSK, QAM-16, etc ;-) !",0.6581,27

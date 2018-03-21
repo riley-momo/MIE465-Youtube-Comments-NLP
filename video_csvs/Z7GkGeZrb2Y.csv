@@ -1,0 +1,299 @@
+,sentiment,wordCount
+"""and i can get plastered""",0.0,7
+*puts potato in stew*,0.0,6
+00:06:30 - TRIGGERED 👺,0.0,6
+6:22 Flux capacitor spotted...,0.0,5
+"@GreatScott!  update your welder project , make a H bridge with IGBTs  and use a microcontroller to set the duty cycle aka the amps thru the load !",0.0,29
+Actually I made one with a pi/arduino combo. It has over 72 ingredients. This is just a basic and quick one he made. But if you really want to you can make one that can do just about any cocktail you can think of. I also have a touch screen and people can create profiles so they can customize their drinks and then save it to their profile.,0.7089,75
+"Ah, just one more drink...",0.0,7
+Alcohol 1000ml for me please,0.3182,5
+Also use an ESP32 to upload recipes over WiFi :D,0.6166,11
+Always love your awesome electronic videos. keep up the good work.,0.9042,13
+Amazing woodworking oh well it worked anyway now who wants a drink,0.7096,12
+"And thanks to metric system, the conversion from weight to volume are easy on liquids that is used in drinks. :-)",0.7964,23
+"Are there any safe (safe to use with drinking water) alternatives to your pumps, maybe some that make less vibration ?",0.4404,24
+Are you from Germany? (Kommst du aus Deutschland?),0.0,12
+At my school they made an app where you could select the cocktail you want,0.0772,15
+"At the beginning of the movie you should say ""let's get wasted"" instead of ""let's get started""   ;)",-0.3182,22
+Awesome Vidoe Scott...Keep It Up...👏👏,0.6249,10
+Awesome build!,0.6588,3
+"Awesome idea!  I'm going to start buying the parts now, maybe they'll arrive for a New Year's celebration!",0.6892,21
+Awesome machine. But you can add a leds and  beeper for control of empty bottles and for completed drink.,0.5106,21
+Awesome!!!!,0.0,4
+Bist du Deutscher?,0.0,4
+But other drinks may be heavier,0.0,6
+Bóbr Bobrowski totally agree,0.4201,4
+"Can i have a Martini? 
+Yeah just let me update the arduino code.",0.296,15
+Can someone link me some high quality solder? my cheap lead free stuff is a nightmare,0.5106,17
+Can you add an offset motor please I prefer mine shaken not stirred.,0.25,14
+"Can you even buy these on the market? If not, send it to Tefal or Hobbs, etc. Get them to market it",0.0,26
+"Can you make a proper video for complete circuit design on a copper pcb!
+Which really helps us for circuit layout design!",0.5388,24
+"Cool setup! Nice for a first attempt! FYI, your load cell should have overload protection so it doesn't bend too far and cause problems.",0.4619,28
+"Could be a good idea to add a cleaning function to pump water into tubes. If you're lazy I think a 1L would be enough circulating for some time.
+Where's the vodka? 😁",0.1027,36
+Did someone say rum and eggnog!,0.0,7
+Diy or buy: stereo audio mixer....maybe,0.0,9
+"Do you have actual video , so we can see how loud it is? also you should probably add some retraction so the tubes stay empty between uses maybe?",-0.2869,31
+Do you think you can combine this with peltier module ? Add some aluminium tubing with peltier module (cold side on aluminium tube) to keep tube cool and also the liquid.,0.3182,34
+Eine Party und das ganze Holz bricht ausernander xD,0.7579,9
+Epic!,0.0,2
+Excellent!,0.6114,2
+"Finally, a way to keep making drinks once already drunk...",0.0,12
+"From one Electrical Engineer to another, good work mate!",0.4926,11
+Fucking legend.  Every technophile recognizes this as the self-constructed trap we catch ourselves in every day.,-0.3182,18
+GREAT!!,0.6892,3
+Good luck cleanig these tubes :D,0.873,6
+Great Scott please can you do something Christmas related,0.7506,9
+Great Scott you NEED to make rocket that goes to the spase/stratosphear!,0.6588,15
+"Great project! I am thinking of doing something similar and I am wondering why you let the three pumps run individually instead of running them all at once, is it because the power supply can't deal with that effect? and why do you use a scale? if I'm correct you only use it to see when a liquid enters the glass to know when to start the timer. Correct me if I'm wrong but wouldn't it be easier to just scrap the scale and measure the passed time after the pump is activated, maybe you'll need to make up for the extra time it takes for the liquid to go through to the tube but that wouldn't be so hard I think.",-0.6651,129
+"Great project, Scott! The only improvement I could think of is the pump. Peristaltic pump seems to cause quite a lot of vibration, so are there better alternatives for pumps?",0.8899,35
+"Great work, GreatScott :)",0.7964,5
+"GreatScott! please upload and video on a 100watts 12V Dc to 220V AC inverter.. also discuss what changes can we make to increase the inverter power capacity?
+
+i'm waiting",0.5983,32
+Gut gemacht !,0.0,3
+"Hey Scott, do you think such (http://bit.ly/2CXJBYE) pump will be enough or should I buy a larger and more expensive one like this: http://bit.ly/2CKrGB2",0.4144,28
+Hey doesnt leaving the silicone tubes inside the juice bottle give the juice a plastic taste after a while??,0.0,21
+"Hey man. You got to apply the solder to the pins as you're heating with the iron. When you put the solder on the tip first, the flux burns away and you get a cold joint.
+
+Love the videos!!",0.6988,45
+Hi greatscott can u give me the code?,0.0,9
+"Hi thanks a lot for sharing this interessting project! I really need your Help!
+
+My code will not compile. I always get this error:
+src/CocktailMaker.ino:4:53: error: 'POSITIVE' was not declared in this scope
+
+Are you using exactly this LiquidCrystal_I2C library here:
+https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+and not maybe an another from which was preinstalled on your arduino IDB?
+
+Thanks a lot for your help and best regards,
+Philippe",0.9152,81
+"Hi,
+Very nice video!
+I would like to find some food-grade silicon tubing. On your instructables, you wrote ""You can get the beech plywood and the food safe silicone tube in your next home improvement store."" I don't really understand what you mean. Could please be a bit more specific (und wenn Du Deutsch bist, vielleicht könntest Du mir der Name von dem Geschäft geben und auch der Name von diesem Schlauch...).
+Anyway, thank you for your nice project and ideas.
+J.",0.9564,98
+Holy shit this is amazing. You make it look so simple XD,0.7194,13
+How about an esp8266 with OTA updates over wifi,0.0,10
+How necessary is the load measurement? Surely the pumps deliver fairly consistent volume per second? So you could just set the time they are on for?,0.533,29
+I  really enjoyed this  video.  Totally within reach for anyone new to the world of ardiothingsnet.  Building on past videos...  Great practical work!,0.8542,27
+I can have the Code?,0.0,6
+I can you make a video to show a jaule thief with a peltie module?,-0.5267,16
+I can't help thinking that using acrylic sheet rather than plywood would have been better for this project. Not only is it waterproof but it comes in many colours and looks great.,0.7888,34
+"I can't really figure out where is the 5V coming from, How you power the Arduino?",0.0,18
+"I did a similar project last year. I am not sure why you needed the Peristaltic Pump which is worth 34$. I used a Micro Air pump that is used in aquariums, and it cost 3$ per pump. Still a cool project. Keep uploading more.",0.3045,53
+"I feel that the quantity and quality of videos can only go downhill from here, after creating such a practical and useful machine.",0.6249,25
+I give you a dare... remake the cocktail machine without an Arduino or complex electronics......,0.0,17
+"I have a plan to make these cocktail machines in this way but with a vinyl wrap inside and outside. The pump motor inside the case, The LCD Display, The rotary encorder, The Arduino Nano, The pump motor driver, The Scale, the DC jack all connections will be connected through a designed PCB and order it from JLCPCB and with a on/off switch. The Rest of the Pump pipes will be in a professional look. I hope you make like this cocktail machine in a future video",0.7964,98
+"I have a question, are you from Germany?",0.0,10
+"I like it, subscribed!",0.4199,6
+I like that it´s food safe. German quality =),0.8225,12
+I like this idea!! Also I think a Nice EASY upgrade would to get a 3 to 1 hose adapter so only one tube comes out and the others can be kept behind the panel,0.8597,37
+I love your chanle GreatScott!,0.6696,6
+"I made such a machine years ago:
+https://youtu.be/_xZBPaKHaoY
+
+BUT your arduino code is way better then mine!!!
+Very nice project! 👍👍👍",0.8795,28
+I prefer Scotch in the rocks :),0.4588,7
+I really hope that I have those computer talents,0.7346,9
+"I saw a group of 4th year engineering students did a similar project to this for their capstone project. Cool! 
+Theirs worked a bit differently in that I think all tubes could run at the same time, no weight sensor. They also added an auto cup dispenser and conveyor for coolness factor.",0.1007,57
+"I saw many technology related YouTube channels ,they exponentially improved their subscribers.
+I don't know what they did.
+You really work hard to make these useful videos .
+I would like to see 5M subscribers on GreatScott! Channel.
+Please do something .!
+All the best!",0.9348,52
+I think Bond said that in one movie actually...,0.0,10
+I wish electronics made sense to me,0.4019,7
+I would have used the weight sensor to detect the glass and start pouring the cocktail,0.0,16
+"I'll create a 3D model of the pump, so I can use my unused motors... 30€ ist a bit too much...",0.2732,25
+I'm glad to see him with sponsorships now. He's been freelance for a while,0.6369,15
+If you just wanted to control the motors in only one direction and speed why dont yoh use an n channel mosfet,0.0,22
+"In Part 1, we have soldered our Special Arduino board. In this video, I am going to show you how I upload my first code and what is the difference between ICSP and Bootloader methods?
+
+The video link: https://youtu.be/d7NEwXBQuNY",0.4019,44
+Is it possible to get that arduino into a Network via Wifi and connect to a SQL server for recipies?,0.0,21
+"It is easy make a video on diy smps making with using module.Anyway,we want to see you can add  mini camera module for this Cocktail Machine.😃",0.4939,30
+Its better to add a routine in the end to pump back the liquid into bottle if you want to go from vodka to rum ;-),0.6369,26
+"Just a quick tip regarding wood glue: it works best when gluing two surfaces together, but is terrible at filling gaps. So instead of gluing the wood together with superglue and then filling the gaps with wood glue, I would only use wood glue. A thin layer is enough to create a super strong bond, it just needs some compression during drying. Ordinary clamps are totally fine, but when working with a rectangular shape, strap clamps are really useful. Gaps, should they remain, can be filled using wood glue mixed with an equal amount of saw dust.
+
+PS: You said beech wood, but it seems to be birch wood, but not a big deal ;)",0.9504,131
+Just make sure you want to use FDA approved pumps. You don't want contaminates in your drinks.,0.6908,19
+Kannst du das vielleicht in Deutsch übersetzen bzw einen Deutschen Kanal eröffnen weil ich würde das gerne nachbauen nur mein Englisch ist nicht das beste,0.0,25
+Loooool,0.0,1
+Love your videos! So many awesome ideas!,0.8796,9
+Mach mal bitze wieder ein q&a video das letzte ist schon ne zeit lang her. Und ich feiere deine videos mega.,0.0,25
+Make a DIY or buy about peristaltic pumps,0.0,8
+Make a video on hacking the eeprom of your uni t ut210e and making it 6k counts if the chip is dtm0660l and 10k if dm1106en and unlock DC AC mv and ncv MV readings,0.0,36
+"Man, you are a Genius! :)",0.5093,8
+Maybe add peltier module to cool down drink!,0.3802,9
+"Maybe one pump and a IC, Nano, controlled valve with as many tubes in as needed, this should cut building cost",-0.2732,24
+My friend i love watching your creations bro your very talented im from trinidad love watching your videos,0.9571,18
+"My uncle also made one a while ago that works with Apple Homekit/Siri and another app for android. Has a compartment for 50 red cups, 10 bottles of liquor and 10 bottles for soda/juices.
+
+Might make one of those as well in the future.",0.2732,52
+Next make a coffee machine.,0.0,6
+Nice Cocktail Machine !,0.4753,4
+"Nice job. Me and some friends made one these about 7 months ago, but we didn't use the correct type of pump.",0.4497,25
+Nice kludge. ;),0.5719,4
+"Nice project . 
+
+Nice pumping system btw",0.6808,7
+No,-0.296,1
+OH MY GOD !!!! DUDE THIS IS SO AWESOME!,0.897,12
+OMG this is awesome! :-D,0.8564,6
+Oh U coded with java?,0.0,6
+"Oh mein Gott, bleib bitte bei Elektronik. Holzarbeiten sind wirklich nicht Dein Ding :-)",0.3182,16
+On my to do list,0.0,5
+Or u just use ur hands 😊,0.0,7
+Or you just do it yourself...lazy fucks,-0.4767,9
+PHPO Labs *Casually grabs computer and cable*,0.0,9
+Paint job? Great video tho.,0.6249,7
+"Peristaltic pumps are very costly, is there any alternative? Why cannot you use a normal mechanical pump?",-0.2624,20
+"Please Make a video on TYPES OF GLUE you use-2component,woodglue etc..",0.3182,16
+Please make a Xod tutorial,0.3182,5
+Please make a coke and many other juice vending machine,0.3182,10
+Please make an EEG brain monitor next fo DIY,0.3182,9
+Please make an advanced arduino based locking system....,0.5106,9
+Prob could add a reverse function after dispensing to clear the tubes?,0.3818,13
+Puttinc ice in the cocktail in december-Genius!,0.0,8
+Really good use of strain guage.,0.4576,7
+Schöne Simson mit Seitengepäckträgern bei 4:38👌,0.0,7
+So delicius 🌷💋😍👄😍👄,0.0,8
+Supar bro,0.0,2
+"THAT is very cool. 
+I would like more of such projects :-)",0.7688,13
+Thank you for share. Great projekt. I like your electrikal knowledge. ;)  Greatings from Hungary.,0.9042,19
+Thank you!  This is right in line with some ideas that I've been pondering for my kitchen.,0.4199,19
+That is not how you use wood clue ffs,-0.5859,9
+That's really cool!😀,0.0,5
+The Arduino is the brains of the organization... Not operation? xD,0.5859,13
+"The idea is damn cool a drink Mixer, in fact that you've made that with an Arduino is really impressive!",0.54,22
+The thing i love about your videos is that they are so pulished,0.6369,13
+These DIY Is very satisfying! make more Videos like this!,0.7687,12
+This helped me on a completely different project!! Thanks forbthef help.,0.7542,14
+This is a project I feel like I want to experiment with...,0.4215,13
+This is great. I just love your videos.,0.8519,10
+"To much Alcohol!!!!!!!!
+
+Nemp, the Translation of YouTube seems to be very bad at all.",-0.715,20
+"Try MDF next time, its made of glued wood dust iirc. It doesnt split when you drill in it. Makes something like this maybe a little bit easier. Oh and its heavy for extra stability. Maybe worth a try",0.7115,44
+Ts100 soldering iron review please?,0.3182,6
+Typo I meant microcontroller not Microsoft lol,-0.3252,7
+Very nice build. You could just mount the motors off of the side of the device to eliminate the shaking.,0.3384,22
+"Very nice project! May I suggest an improvement? You're using a precision weight sensor, you can use it to measure the liquid weight and knowing that the liquid is around 1kg per liter you can measure the quantity of the liquid.. I just don't know if the voltage difference can be transformed in weight difference so easily.. the timer doesn't look so precise..",0.7495,69
+Very well done!,0.3989,4
+WWW IS THE ACRONYM FOR WILLIAM WORDSWORTH,0.0,7
+"Wait, I just need to resolve some merge conflicts, we'll get drunk in no time!
+When you wanna get wasted... but some jerk pushed their dev branch to master.",-0.69,34
+What cordless iron are you using?,0.0,7
+What do I need to go to college for/what classes do I have to take to have an understanding of electronics like this and your other videos?,0.3612,30
+What post did he use?,0.0,6
+Whatever you are really great scott,0.659,6
+"When you drill holes, remember to put a piece of scrap wood behind what ever you are drilling(this prevents the chipping). Also never use nails, they make things look cheap and never look nice, alternatively you could of done dowel joints, which is quite easy to do. I recommend that you get a laser cutter, as they are really useful for my electronics projects, and if you know how to make boxes via 2D CAD software, you can do the casing for that project in a matter of 45 minutes.",0.7878,103
+Who fucking dislike this project? I think GreatScott work very hard to write this machine code. Cheer up GreatScott.,-0.0736,22
+Why it pumps only two of three coctails ?,0.0,9
+Why measure by time? why not by weight?,0.0,10
+"Why the f**k everone shows display's bezel? It looks ugly... But anyway, nice project :)",0.7003,21
+Why the timers if you could just use the load cell data to precisely measure the amount of liquid?,0.0,20
+Why you not turned all pumps on in parallel?,0.0,10
+"Wood glue was more than sufficient for this project. Nails would just have helped to keep the boards aligned while the glue dried. Seems like you may have figured this out already.
+
+Noticed after each fluid is done it still drips and leaves some of the contents in the tube. Would it have been worth while to reverse the pump right away for a couple cycles and put back what was in the tube into the container again? Or does it naturally flow back on it's own?",0.5803,93
+"Wood work: Use wood file, not metal file.  And use sand paper to make the surfaces and edges better. :-)
+Drill holes in the wood before screw or nail them together.  Don't use to large drill bits. :-)",0.7269,44
+Would it be difficult to weight the amount instead of doing it with a timer?,-0.3612,16
+"Wow, great idea! But I think you could improve this further, like giving an ""upgrade"" to your machine. For example, you could offer ready-to-serve recepies. You choose you cocktail and the arduino knows how to mix it. This would inflate the code extremely but could improve the user experience, And you should consider transferring the three tubes to one final output, as only one liquid at a time flows through the system. Finally, you could try RFID-Chips to mark the different ingredients (means you should have RFID readers for every flask , I know.) But really cool though!",0.9448,115
+You are awesome..,0.0,4
+"You could use your strain gauge to measure the weight of your product.
+When you start your drink the scale zeros and measures the amount based on the density of water (assuming most drinks are >80% water).",-0.0516,43
+You drank a lot of juice in this project.,0.0,10
+"You know you can 3d print peristalic pumps and just hook then up to a DC motor.  Also,  you could've used an Esp8266 D1 mini.  With a built in Microsoft you could drop the LCD,  the rotary encoder,  and the Arduino while making it Wi-Fi compatible just a thought.",-0.2732,56
+"You might have used Arduino boards before in one of your projects but have you wondered if you can make your own Arduino?In this video, I will show you how I made my Arduino from scratch and used SMD components to make it competitive with the current versions.
+
+ https://www.youtube.com/watch?v=1-5bosjWx38",0.3421,53
+You might want to reverse the pump direction after each pump finishes it's job to avoid dripling juice out of the tubes,-0.2263,22
+You should check out my cocktail app for Android ! https://play.google.com/store/apps/details?id=nl.kevinvandenbroek.cocktailapplication,0.0,11
+"You totally should do a collab with Alex Steele, so that he made you a case or something!",0.0,20
+"Your ""Maker"" sounds like ""Mega"".
+Cocktail Mega.",0.3612,13
+Your voice makes me ready :DDDD,0.3612,7
+ad ends at 1:21,0.0,4
+also how could the load cell measure every amount of liquid a lone,-0.2732,13
+awesome bro!,0.6588,3
+can I make a ( rain water droping design) led,0.0,11
+can this be use using paint?,0.0,7
+can u make ( rain water droping design) led,0.0,10
+"can you make a 10 band graphic equalizer to control audio frequency.this is guide to build it 
+
+digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1118&context=eesp",0.0,18
+can you make a rain water droing design led circuit,0.0,10
+cucktail,0.0,1
+emeğe saygımız sonsuz,0.0,3
+glad i subscribed,0.4588,3
+"great idea!
+the scale measures mass not volume so liquids with different viscosities will give different volumes. you could have one pump and a distributor that changes the liquid being pumped (plus some valves and that way you could have maybe 10 liquids and only one pump , plus you could do a flush to the pipes after each liquid was pumped)",0.6588,66
+"great scoot i being read the schematic but i have cannot understand 2 thing 
+one where i connect ground of l298n and 
+two where i connect 5v+ and negatif
+
+ps 
+becouse i very very new at this stuff i suck
+sorry for my english",-0.4118,45
+hello sir can u pls show us that treasure box of yours that contains all the circuits that u ever created plsssss sir plssss,0.5423,24
+"hello sir, please make a project to attach map navigation using arduino...",0.3182,14
+"hi dear
+please what is the number 3000 in the code",0.6369,11
+how drank all the drinks in this video? bit to much for one guy ;),0.2263,16
+i feel like half of this was designed when you where drunk,0.0258,12
+"i need PARTS
+PARTS
+PARTS
+PARST
+PARTS",0.0,7
+"im a teenager in  the age of 12, and i was born in germany and now i live lithuania",0.0,20
+is it possible to give a thounsand likes? amazing work! this concept may become a commercial product. tell me when u choose to make a crowd funding to sponsor such machine,0.784,34
+its very significant in power electronics,0.2716,6
+let's get started,0.0,3
+lol :D,0.7804,2
+"love the ""so i can get plastered"" :p",0.7351,10
+"lul, thank you dude. I've been searching for an pcb manufacturer for at least a few weeks now. My goal was not to pay more than 70$ for 5pc. Now I payed 2$, for 10pc. With DHL Express. Awesome! :D",0.9046,50
+muchas gracias  apenas compre un encoder y no sabia como usarlo pero ya me di la idea gracias,-0.296,18
+muito legal!!!!!!!!!!!!,0.0,5
+"of course one can make even to the level when machine cleans glass, squeze juice, crush ice and you know what? it will never replace nice girl behind bar :P  so lets stick to this practical one allowing to effortlessly get drunk in deep darkness of  man cave and go to some civilized locals if need proper drinks ;)",-0.4017,62
+parastollic,0.0,1
+"piece of potato 
+His soldering is also somewhat suspect!",-0.2957,10
+please make video...audio frequency oscillator using arduino....,0.3182,10
+"question why didn't you use air pump reduce pressure at one end and increase at another 
+I think it would have been more quiet and smooth fluid flow through the pipes just asking",0.0258,33
+shut up and take my money!,0.0,7
+that was awesome!!,0.6892,5
+"thing that i learn today is... 
+
+
+
+
+
+he's not that good with woodworking",-0.3412,13
+very nice system!,0.5244,4
+was hoping for crude oil cocktails but oh well this'll do,0.296,11
+we will call this the prototype ;) bring on version 2.0 !!!!!,0.471,14
+what is the pumps called,0.0,5
+why?,0.0,2
+would you be able to make a cell phone jammer. ive heard their pretty simple to make,0.4939,18
+y not PC water cooling pumps?,0.0,7
+"yes, ill have 50ml of orange please",0.296,8
+you are a great man congratulations from colombia,0.8402,8
+"you can do a multi-tube selectable mechanism  with a stepper or a valeve solenoid with multiple inputs, and automatic switch depending...",0.0,23
+you make everything with arduino,0.0,5
+"you should make a smaller, more simple, spark gap Tesla Coil that someone with only a small knowledge in electronics can build.
+(im not saying I have a small knowledge, though: I know what you're talking about)",0.2911,44
+zip ties ftw,0.4588,3
+عمل فني جميل و متغن,0.0,5
+😂😂😂😂,0.0,3

@@ -1,0 +1,80 @@
+,sentiment,wordCount
+Am I the only one wondering why he's using wordpad?,0.0,11
+An embedded computer I.E. a Micro-ATX FM2+ plus a A10-7800k (Kaveri) and 256GB of DDR3 RAM and 5TB SSD drive might be better than an Arduino micro computer as it will give you access to long doubles which should make for more accuracy and a much more pleasing finish and the integrated graphics can drive a LCD display so that you can see what you are doing without having to use a desktop and you could keep your Gcode files in a My_Gcode_Files on the SSD inside the 3D printer.,0.7645,100
+"As for non Marlin printers, I have one. Its the CTC 3D Dual which is a Makerbot clone, running Sailfish. Its definitely...erm....not as refined. 
+But I believe even higher end printers like Ultimaker, Lulzbot, and of course lower end ones like Monoprice I3s and such are running all pretty much Marlin.",0.7184,63
+Bring some Kali Linux videos,0.0,5
+Darin Kitchen? More like Tony Stark,0.4201,7
+"Darren Kitchen It'd be awesome if you talked about the most popular tools included with Kali. Just anything that resembles the good ol' hacktip days :)
+
+(It'd also be awesome if you could make a series on Raspberry Pi's in computer security, but that might be inaccessible to some people)",0.8688,55
+"Darren, looking good, man. But this episode kinda sucked.",0.0498,13
+"David Randolph Hey David, just had one question. If I wanted to activate a servo motor for about 1 second whenever the extruder of the printer moves above a certain vertical point, what software would I need to edit to make that happen?",0.2732,47
+For the love of God apply some grease to those moving parts!!,0.7835,14
+"G-code(hobby)/ISO code(pro): G=Go and G1= Go whit feed speed, G0= Go whit full speed.
+M3=Turn spindle clockwise, M4=Turn spindle anticlockwise, M8=cooling.",0.0,44
+Gcode who would have throught.,0.0,6
+"Grease those poor acme rods! So squeaky! ;P 
+Great stuff by the way :) Got a kick out of it.",0.7048,23
+"HAK5: I know this is more of a ""proof of concept"" deal and not a serious way to brute force numeric passwords, but couldn't you do the same thing with an array of linear actuators tied to an Arduino board? It would be compact, portable, easier to deploy, and a heck of a lot quicker than waiting for that turtle to type one number. And, you won't have to hang around holding the damn thing in place because the keypad being used is on a wall.",0.1806,98
+"Hak5, has a good idea, but maybe we can hide it in plain site. Craft the printer so it can be disassembled and reassembled to look like a leg brace. Then when they ask about it, just chew them out for discriminating against the handicapped and cite the ADA.",0.4854,56
+Hey Darren. Couldn't help but notice that you have a gear s3? How are you liking it? I love mine but perhaps you could let us know your thoughts on smart watches and the associated security risks as well as some of your favourite apps that you run on yours?,0.951,54
+"Hey, your camera is offset. Not in level ;)",0.2263,11
+"I also have one, the Frontier model and also love it! By way of security I would assume (with no research to back this up so don't quote me!) that because Samsung does not use the generic smart watch OS that most other android smart watches use, it should have a higher level of security over other smart watches.  Now this isn't because their operating system is more secure, but following the thought process that it is on less devices, so it is less likely to be a target for exploitation research.  Playing devils advocate though, because it is their own system, there are less eyes on it meaning less bugs being found before it is release/updated.  I second your request though to get a Hak5 video detailing the security of modern smart watches!",0.9095,151
+"I didn't think about it. I typically use notepad when I need something that simple. With WordPad, you have to remember to save it as a plain text format, or it might inject either MS Word or Rich Text Format markups.",0.7783,46
+"I don't know what server room you guys are used to, but that is easily noticeable in any data center I've ever been in.",0.4767,26
+I love the Chan but I don't see the point of this episode. What is the use case?,0.3818,20
+I think he was just making a joke m8,0.5574,9
+"I'm gonna try sneaking my 3D printer into the NSA guys, wish me luck!",0.7177,16
+Im glad Im not the only one that didn't realise this was a joke ^_^ haha,0.802,18
+Is this a prank?,0.0,5
+Is this for real?,0.0,5
+It was easier to make the text look right on-screen.,0.4215,11
+It was sarcasm...,0.0,4
+"It's a ""proof of concept"". Obviously, it's not going to be used. (Or maybe they want people to think it's not going to be used...)",0.0772,33
+"It's called ""proof of concept"". They're showing that you can do this with a 3D printer. They're not suggesting you do this.",0.0,27
+It's genius! XD,0.7027,4
+"Just a thought, but would it be possible to copy the identifications of a already verified device to the rubber ducky and then go from there?",0.0,28
+Keep this facial hair,0.0,4
+Lol,0.4215,1
+M. de k. Yes,0.4019,6
+My biggest question is why people have 4 digit PINs everybody know you can't have security unless your PIN is 12345.,-0.2584,22
+No,-0.296,1
+Nope. We are so serious. XD,0.6212,8
+"Oh and if theres any interest in expanding on this, 'for teh lulz', delta bots are pretty fast, especially in the Z axis. Could reduce your brute force time by days ;) (Talking about, I think its been done before. Sounds familiar anyway)",0.7964,53
+"Oh....gosh.......wow.....ummmmm................ I really don't know how to feel about the law enforcement tech support situation. I just don't know how to feel about that. I'm having a hard time trying to decide how I feel about DK giving personal tech support to a LEO trying to access data on a ""suspect"". I might not be cool with this. Is there some way this is justified?",0.7985,79
+"Pretty sure it has to do with something the inventor of the ATM machine found out... Most people (like his wife) can't remember more than four digits. (True story. He was going to go with a six digit pin, but his wife couldn't remember it in testing. Soooooo four digits it is.)",0.4118,62
+Rob T the point is to introduce all the cool things you can do with G Code with a 3D Printer brute forcing a PIN code as the example.,-0.3182,30
+Roger that Darren Kitchen...not everyone is going to like every episode. Not bad. One I don't like out of many I love. Keep up the good work guys!,0.8356,34
+So lame,-0.4754,2
+So real it's not even funny. Trollolol,-0.3412,8
+So you're telling me that I can sneak a 3D PRINTER into a SERVER room and not get caught while it trying to bruteforce pins on USB numpad lol okeh not obvious at all,0.4215,34
+That has already been debunked. Get with the times.,0.0,11
+"There are some new tools released by Kali this year  &  i'm looking forward you will start a new Kali  series 
+ soon.",0.0,23
+This is a part of a series on 3D Printers. We have another series lined up after this. I'm sure we could also do a series on Kali too - what specifically would you want?,0.3818,38
+Trolllolololol,0.0,1
+"We recommend hiding it under your shirt. On our penetration tests, this was successful.",0.6249,17
+We're trolling.,0.0,3
+Well... I just figured out how to make something... So... *_THANKS!_*,0.0,18
+Why do you only upload 3DPrinter videos any more?,0.0,10
+"Yes you could, but it is a interesting way to hide a quick lesson on how 3D printers work into something more fun than practical.",0.8496,27
+"just why 3d printer ,the there are better ways and faster cost less ,",0.4404,15
+kek,0.0,1
+make it go faster! G1 Z10 F15000,0.5307,8
+prd. nos lol,0.4215,4
+prd. nos you better elitehacksor them,0.4404,7
+proof that the russians hakd the election,0.0,7
+"sar·casm
+
+ˈsärˌkazəm/
+
+noun
+
+noun: sarcasm; plural noun: sarcasms
+
+the use of irony to mock or convey contempt.
+
+""his voice, hardened by sarcasm, could not hide his resentment""",-0.8213,38
+the lack of google integration makes me hate it.,-0.7184,10
+zhen ji ba mo ji.,0.0,6

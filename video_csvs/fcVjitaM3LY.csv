@@ -1,0 +1,298 @@
+,sentiment,wordCount
+"""12345679"" is quite a special number too.....",0.5531,10
+"""We don't know it's true. It just feels true - in our guts; it has truthiness."" Yes. It smells like truth. No need for further research. Truthiness is truth everyone.",0.4471,39
+"""𝑇𝑟𝑢𝑡𝘩𝑖𝑛𝑒𝑠𝑠""",0.0,3
+*Just a hungarian guy's patriotic comment flying through the screen*,0.0,12
+/* Do not display this comment */,0.0,9
+0 is smaller,0.0,3
+"0*anything=0
+0*2^n+1=1
+1 isn't prime
+there you go",0.0,20
+"0:13 WHAT IF I SAY IM NOT LIKE THE OTHERS
+*coughs*
+Sorry",0.4466,14
+0:22 2016. So why wait a year to make the video?,0.0,13
+"111 111 111 kare = 1.2345679 × 10^(16), menm jan li pral gade san yo pa yon kalkilatris?",0.0,24
+"1:56 That's not that hard to check, it's divisible by 3 (if the sum of its digits is divisible by 3 then the number is)",0.1521,28
+"1=2
+2=4
+3=16
+4=65536
+5=?",0.0,15
+"2 + 2 = 4
+4 - 1  = 3
+Quick maths",0.0,12
+2 x 2^3 + 1 = 17. Could have just used that as your example.,0.0,19
+"2^(8*10^12), unless you mean tebibytes in which case it's 2^(8*2^40)",0.0,25
+"314 people. Why, that's PI!",0.0,8
+474 is a lychal number,0.0772,5
+"4:04 You can do that only if there 78557 is indeed the smallest. Because if there is a smaller one, you can't check that it's never ending by trying. The algorithm doesn't stop.",0.2235,37
+67607,0.0,1
+78557 and Proth Primes - Numberphile,0.0,6
+78557=17*4621; 21181=59*359; 24737=29*853; 55459=31*1789,0.0,23
+82 people with Dyscalculia disliked this video,-0.4019,7
+"9*17, fyi",0.2023,5
+;~),0.0,3
+@numberphile solve the dang cube already😂😂,0.2023,8
+A fitting video for the last consecutive prime date of the century!,0.0,13
+"A number that has more factors than all the numbers before it, i.e. 12, 5040, etc",0.0772,22
+A video on the proof of why (the number we currently believe is the smallest that never produce a prime) we know will never produce a prime would be nice.,0.4767,33
+"Aaaaaand, how exactly has this guy proven, that 78557 is never gonna give you a prime?",0.0,19
+Add a public comment...,0.0,5
+All these Primes and I'm still not Optimus... I know...,0.0,12
+Am I the only one who thinks Mr Grime looks like young Sting?,0.0,14
+Any chance we can get a James Grime video on Gaussian primes?  There has to be something cool to see when you put together primes and the complex plane.,0.2023,31
+Are they just running through tons of number using 'computation' or proving it mathematically. I would hope that advanced mathematicians would prove it.,0.6369,27
+"As I'm watching, it's #27 on Trending. Has a Numberphile video ever gotten higher?",0.0,17
+"Astonishing that during the entire video, the name of the project that got us down to those 6 values, Seventeen Or Bust, was not uttered. A lot of us put in a lot of computing time to crack it that far! I think the name at least deserved a mention.",0.4574,56
+"Because for 78557 and many other k-values they can find a ""covering set"" of primes where one of them will always be a factor for any value of n. For 78557 the covering set was {3, 5, 7, 13, 19, 37, 73}.  
+Since they have proved there are no covering sets for the remaining 5 k-values, they are almost certain there must be a prime eventually for some n.  
+  
+For 78557*2^n+1 the factors divides like this:  
+3 is a factor for n=2,4,6,8,10,12,...  
+5 is a factor for n=1,5,9,13,17,21,...   
+7 is a factor for n=1,4,7,10,13,16,...  
+13 is a factor for n=11,23,35,47,59,71,.....  
+19 is a factor for n=15,33,51,69,87,105,....  
+37 is a factor for n=27,63,99,135,171,.....   
+73 is a factor for n=3,12,21,30,39,48,.....  
+It can be down that all these combined covers all values of n.",0.7357,209
+But how can we know for sure that 78557 will NEVER produce a Prime Number? What if the Prime is just really large?,0.4515,25
+But how was it proven that the one number there never produces a prime?,0.0772,15
+"Can a number be expressed as being pregnant? 
+e. g. 1 + 1 = 2, how can 1 be expressed as being added to before it's value changes?",0.4696,33
+Can someone show me the link to john's proof?,0.0,10
+Can you plss put up a video for integral((√sinx)dx),0.0,16
+Can't they just check the remaining candidates like they did with 78557??,0.4329,14
+Cancelling bitcoin mining program and firing up smallest-k finding program right now... I'll get back to you.,-0.4939,19
+Classic Numberphile material.,0.0,4
+Classic Numberphile video. I've been missing these!,-0.3595,9
+"Colbert helps get rid of political candidates, I reckon?",0.3818,11
+Cool fact: sqrt(256-31)=15 and sqrt(256)-31=-15,0.3182,18
+C🤨L B E R T,0.0,7
+Did you upgrade your paper? Looks like it has some fancy ridges,0.3612,13
+Do a video on penrose tiling and the “Socolar-Taylor tile” please. I️ saw something about I️t online and I️ want to know more about I️t.,0.3818,35
+Does Steven Colbert know there are prime numbers named after him?,0.0,12
+"Dumbass. Stick with following the math problems with those ""fun math books"" meant to entertain the public of the wonders of math. OK, you can also find those things easily on the internet now.",0.5622,40
+First 314 subscribers... 3.14,0.0,5
+"For a quick check, the digits of 153 can be added (1+5+3=9) and the result is divisible by 3, meaning that 153 itself is divisible by 3.",0.0,38
+"For sure, I know about the probability... and I can live with a 1/(Graham's number) uncertainty!
+
+By the way,  after Graham's number factorial + 2, there won't be any prime for a long time...",0.126,44
+GOOD..JAMES IS MY FAVORITE ON NUMBERPHILE...!!,0.555,11
+"Great video as always. BTW, I can't figure out this problem. Finally posting this on a mathematically inclined group as no one on the Internet seems to be willing to answer this. Actually I'm appearing for an important test and it would be very helpful for me to know some facts. Based on current performance analysis on mock tests, my guesses are likely to be correct 50 percent of the times(ie, 50 percent chance of getting an Mcq correct or 50 percent accuracy) in a 4 option multiple choice question exam (mcq type exam) of total 300 questions, with 4 marks awarded for a correct answer and 1 mark deducted for every wrong answer. This 50 percent accuracy is for the 1st 250 questions I attempt which I tend to get right in the above mentioned percentage. For the next 50 however, upon guessing I would be right no more than a random chance of 25 percent. Then what is the optimum number of questions I should attempt to get the maximum marks, while getting the minimum negative marks? And what would that value be for a range of 40 to 60 percent accuracy for the first 250 questions ? I apologise if my question seems too complicated, as I myself am flummoxed by it. Would it be best to answer all, as the marking scheme seems to favour guessing? Thanks in advance for indulging in the cerebral effort.",0.9247,263
+Grimes on primes,-0.25,3
+Guys 24737 x 2^2857425774215674 + 1 is prime,0.0,11
+Have people tried to prove that some of the candidates are in fact Sierpinski Numbers?,0.0,16
+"He said it in the video.  The number produced will always be divisible by 3,5,7,9,13, 19, 37, or 73.  It's just a mathematical fact.",0.0772,34
+Here's a fun little exercise:Prove that 78557 will never produce a prime when taken in the form :78557*2^n+1,0.5106,27
+Hey in my math class we got a problem where you had to find the area of a shaded area in a triangle. It is Geometry so it's fairly simple and the area of the Shaded triangle is also a trapezoid if you solve it by finding the area of the whole triangle and subtracting the area of the smaller triangle on top it comes out with a different answer than if you just find the area the trapezoid our teacher can't figure out why and I was wondering if I sent this to you you guys could explain why this was the way it was,-0.0258,107
+"Hi Brady,
+I really appreciate your ongoing hard work and wish you all the best.I have one question which I kindly request you to pass it to Dr. Grime which is: “what is the limit of x^2+x as x goes to infinity”?
+Many thanks in advance.
+Hussein",0.8357,60
+How do we verify million digit as prime?,0.0,9
+How do you eliminate a number if you need to check for all n,0.0772,14
+How do you know that 78557 is? If you know that one is by proof cant you apply that method to the other 5? Wouldnt that be faster. Or im i missing something?,-0.4098,37
+How large a power of 2 would you require to proof it will never happen? Seems like you could never know if there is some absurdly large number that is actually prime.,-0.2047,34
+How many possible combinations of notes are on an 88 keys piano ? As in a chord,0.0,17
+How weird it must be to just have these random numbers stuck in your head and knowing exactly how important each one is.,-0.2263,24
+"Huh i haven't seen a video about Pi for a long time... here is a question i asked myself, but i'm not mathematician enough to answer it myself:
+if you add / substract / add / substract etc. all digits of pi... what whill happen?
+e.g. 3.14159265359... = 3-1+4-1+5-9+2-6+5-3+5-9...  right now its -5. But in theory... would it be possible to go up to infinty? or to negative infinity? after all, would it converge to 0, because after all, digits are kind of equally distributet? is there any way to get any sort of answer? may some fellow mathematician try to answer? ^^",-0.7912,131
+"I already have GIMPS, time to add another program for these types of primes",0.0,15
+I always wonder if the mathematicians know all these numbers off the top of their heads,0.2023,16
+"I am poor.
+Plz give me bitcoin
+
+1CXWehPKnWZMHpxcD9YU8RfoTuHAeXr5GC",-0.4215,9
+I clicked this video because James Grime is worth my time,-0.1531,11
+I discovered the largest prime...grahams number factorial minus 1.....,0.0772,12
+I enjoy your enjoyment of math far more than enjoying the math itself.,0.888,14
+I had the privilege of seeing James talk about codebreaking at Salford University last Thursday,0.3612,15
+"I had to wait six days to ask this: A five-toed proth?
+
+Answers next week, perhaps!",0.0,20
+"I have a challenge for you:
+I call it the Kalen challenge (don’t ask about the name).
+You have to find a number that is divisible by a formula formed by numbers from 0 to 100 or just the number (include the zero!). 
+For example: 
+9900 divided by 100= 99
+9900 divided by 99=100
+9900 divided by 3x3||3=100
+
+For the ecuations, you can use: addition, subtraction, multiplication, division, brackets, powers (they have to be of the same number), roots (the same number, so I don’t see much utility), concatenation, factorials (the ! thing) and points of the same number (12.12). 
+You’re also not allowed to do formulas that always give the same result, like (n+n) divided n, which always equal 2, and you’re not allowed to use the number 0 as the answer to the challenge, since that number can be divided by every other number. 
+A tip is for the last two digits to be 00, which immediately makes it divisible by 100, 10, 5, 4 and 2.
+Have fun!",0.8928,230
+"I have a question concerning their testing method. You can test if one of these numbers is a prime, but not if it isn't. I mean at what power to you say ""Ok, this is probably isn't a prime""? Even then, it doesn't prove that they do not have a prime number. Perhaps its just taken to a power higher than what was previously tested. I'd love to hear an answer! :)",0.8947,83
+"I have a question for you guys. If I had a 1 terabyte hard drive, then how many possible combinations of bits on it could exist?",-0.1027,29
+"I have been running this since the beginning of the year, highly encourage others to do the same (especially if they’re at uni and don’t pay for their own electricity)",0.4927,37
+I have discovered a truly remarkable proof that all of those lead to a prime which this comment box is too small to contain.,0.7579,25
+I have no interest in math whatsoever but I watched your videos cuz they are so interesting.,0.73,18
+"I just learned about the Catalan number in discrete math class and this thing is AMAZING ! It describes so many different problems. I know it is not related to primes, but I'd love to watch Dr Grimes or Matt Parker (or anyone else as a matter of fact) explaining it!",0.7887,56
+I like how truthiness was a Colbert reference at the end,0.3612,11
+I mean as a number instead of equation.,0.0772,9
+"I mean sub-project, sorry if that wasn't clear.",-0.3578,10
+"I really wish I had a maths teacher like this in school. Also, thanks for the link to primegrid, I have a lot of spare cpu/gpu cycles at home, which would you recommend downloading?",0.8718,41
+I used to be in my prime when I was on prime time television talking about prime numbers.,0.0,19
+I was think it could be 301 views,0.0,8
+I wish I knew what any of this meant,0.4019,9
+I would love to see some more geometry vids,0.6369,9
+"I'll grateful if any of the regular subscribers could answer my irrelevant question. I am looking for a video that I watched more than a year ago or so, with Dr. James Grime talking about possible outcomes/predicting outcomes. I vaguely remember that he also simulated all the possible outcomes that was making a pattern and he ends up with a philosophical view ""...if freewill exist?"". I'm not sure those outcomes were inside the mandelbrot set. 
+
+Strikes bell to anyone? I'm desperately looking for that video. Thank you!",-0.4047,102
+I'm never going to use this maths.,0.0,8
+"If Selfridge proved that all values of 78,557 * 2^n +1 will have one of seven prime factors, I wonder if that quality--guaranteed multiple of one of only a few different prime numbers--is a tell-tale sign of a k-value that yields no primes.
+
+Is the computer program that's checking the remaining k-values also keeping track of the smallest set of numbers that includes at least one factor of each power of 2 that's been analyzed so far for each of the k-values?  Hypothetically, if such a set has >20 members for four out of the remaining five k-values but only 5 members for the other k-value, I wonder if that could help refine our search.",0.5859,125
+"If you had a city of these Proth primes and one of those primes was named after the city, would he be Prothy the Prothean?",0.0,27
+"If you write a large number, no one has ever before written, have you invented it, discovered it, or neither?",-0.2263,25
+If you write it as 11132017 than 13 and 856309 are its other factors,0.0,14
+"In my program 47 was the lowest number that doesn't produce a prime this way. It might be a ""double"" overflow, but I take this as proof.",-0.1655,32
+"Is ""Seventeen Or Bust"" the name of the project? 
+The placement in the comment feels syntactically odd.",-0.3182,21
+Is James Grime single?,-0.3612,5
+Is there a special shortcut test for Proth primes? I know that the reason that most of the largest primes are Mersenne primes is because there is a special test for them.,0.6597,34
+Is there something special about videoing brown wrapping paper?,0.4019,10
+"Isn't every prime a Proth prime(except 2 if you don't  want 0 on the exponent)? Cause every prime is odd and odd numbers are 2n+1. In the case of 2, 1×2^0+1=2",-0.5889,47
+"It has ""truthiness"" - I guess James is a fan of Colbert too",0.3182,15
+It looks like he's drawing on a trailer house curtain.,0.3612,11
+"It was the name of the project, yes.",0.4019,10
+It's always nice seeing Dr. James Prime doing his thing.,0.4215,12
+Its so good to see Numberphile is #27 on Trending. 😁,0.4927,12
+"Ive been using primegrid through bionc for a while now, bionc is easy to download and you can help the cause for not just the search for primes, but for nearly anything science related.",0.4215,37
+I’m a proth,0.0,5
+I’ve never seen someone so excited about numbers,0.4795,10
+"JAMES GRIME
+TALKIN PRIMES
+HE DOESN'T NEED TO RHYME
+TO COMBINE
+THIS LOVE OF MATHS OF MINE
+WITH HIS SPARE TIME
+TO MAKE A VIDEO THAT'S REALLY FINE
+WHEN HE'S NOT HERE I PINE
+THINKIN ABOUT THE NUMBER NINE
+WHILE I DINE
+ON THIS TASTY COSINE",0.624,46
+James Grime is a true gift.,0.4939,7
+James Grime is my favorite in Numberphile.,0.128,8
+James Grime is my favorite!,0.2003,6
+James Prime is back again,0.0,5
+"James has twice said: ""If we can eliminate these candidates, we will have proved that 78557 is the smallest Sierpinski prime number"". The use of future perfect in this conditional sentence has been on my mind for quite some time now, as I don't understand why he didn't use future simple ""will prove"" instead. I don't feel any past reference from a future point in this sentence, or from the given context. I am not a native speaker, but I am trying to master English, so if anyone can explain the usage of future perfect in this particular sentence, I will  be very grateful.",0.9272,119
+Jeremy Gant how do you define antiprime?,0.0,8
+"Jooolse 
+Youll never know!",0.0,5
+Lol when I tried to sign up for the website it asked me for my birthdate. But the year I was born in wasn't on there.,0.4215,28
+Maths is  everywhere you go. Snow widows homes plants eta.,0.0,12
+More James Grime!        THANK YOUUUUUU,0.2524,6
+No one reacts about the Rubik's cube stuck in the armrest ?,-0.4939,12
+Now I don't like the website because I would have to pay monthly to actually use it. Another thing that would have been perfect it it didn't cost money.,0.2937,31
+"Observe: K = 0
+K * 2^n + 1 = 1
+You're welcome",0.4588,16
+"Off topic but could you please explain why, 2,3,7&8  don't exist in perfect squares???. & is there a proof they don't?",-0.4601,31
+One thing... What course should we take in order to study the stuff u guys talk abt on this channel?,0.0,22
+Parker Truth,0.3182,2
+"Please sirs and madams, I would like to know more about the number 72. Of all of the numbers should not this one top the charts as being oddly important!!",0.7316,34
+Prime numbers are so pure.,0.0,6
+Primes suck🤘,0.0,3
+Really wish you went over why that 78000 number will never create a prime using that function.  Because I am guessing that there is a concrete answer other than we've checked 100 of 1000s of iterations...since that isn't a proof technically by brute forcing...,0.3567,48
+"Request or suggestion: Hi...please do something on AVERAGE SPEEDS, like where we can replace (two different) speed(s) by average speed etc...like 'Every day a person walks at a constant speed, V1 for 30 minutes. On a particular day, after walking for 10 minutes at V1, he rested for 5 minutes. He finished the remaining distance of his regular walk at a constant speed, V2, in another 30 minutes. On that day, find the ratio of V2 and his average speed (i.e., total distance covered /total time taken including resting time)'.....and guess what, it is 1:1. Plz do something like this please.",0.7861,135
+Rubik's cube!!! Yas!,0.0,7
+So Mersenne Primes are Proth Primes such that k = 1.,0.0,12
+So if we eliminate another candidate we can get an even bigger prime?,0.0,14
+So where is that glory for Hungarian..? I don't know his name.. some guy.. pfff,0.5423,19
+Solve that damn cube already!  Ha,0.2003,7
+"Solve your cube, it's making me uncomfortable.",-0.2023,9
+Sooo... your sexually attracted to numbers?!?,0.5349,10
+"Surely it can't be long until there's something called a ""Grime Prime"".",0.1027,15
+T Perm you think you're smarter than him huh,0.4588,9
+That's Numberwang!,0.0,3
+The hello internet poster in the back is the 10... ^ ... Prime! thing,0.0,16
+The probability that this number be prime is less than 1/(Graham's number)... so zero in short!,0.1697,22
+The truthiness plug was A grade!,0.0,7
+There is a bigger prime number than the first one(lets call the first one x) in this list and it is 2^x -1. Thank me later.,0.4215,34
+There is always a Rubik's cube in the background...,0.0,10
+This guy looks like Thom Yorke from Radiohead,0.3612,8
+"This video was published on the day I actually went to a live taping of the Late Show and I actually got to talk to Colbert and ask him a question during Q&A time! How great is this! Colbert, a new Numberphile, and PrimeTime with Grime all in one! 🤗",0.5386,57
+"Truthiness, truly the most scientific term ever uttered.",0.4404,10
+Truthiness- I don't think I have ever heard that term on here before :),0.4588,15
+Truthiness.  Nice.,0.4215,4
+Truthiness? I thought that was a Larry Wall original.,0.3182,11
+Truthiness? Is it Parker's truth?,0.3939,7
+Try k=1,0.0,4
+Two plus two is four minus one that three quick maths,0.0,11
+Uhh... 0 works as a Sierpiński number,0.0772,8
+"Video suggestion: elliminate the last 5 candidates by hand, showing ALL work. As a bonus, you would set a world record for longest YouTube video!",0.7901,30
+"Vivek Ranjan the technique to check if something is prime doesn't depend on how large the number is, so you can just let a computer do it.",0.0772,29
+"Was, was that a parker proof?",0.0,8
+What do you mean thanks to advances in computation capacity we were able to check these k? Did they go trough all infinite possible n?,0.504,27
+"What is the significance of the number 26, you ask? If you divide it by 2, you get 13 - that’s a lucky number. If you times that by 2, you get 26... 26... The number of subscribers I have. It’s not enough!",0.7263,56
+"When it comes to finding the elusive pattern in primes, what progress has been made using alternatives to the base-10 system?",0.4215,25
+When the results are no longer reliable?,-0.296,8
+Who is watching this yesterday?,0.0,6
+"Why did 78557 have a proof, but the others have to be done by counterexample?
+Edit: ok, they didn't prove it. I should probably watch the whole video first...",0.4215,35
+Why do we use differentials in multiple integral and not partials?,0.0,12
+Why does 78557 seem truthy. Please do a video on that! Great video as usual!,0.7896,18
+Why don't try a proof like the number 78557?  Thx,0.1754,11
+Why is it so important to know smallest Sierpinski number? Are there some known applications of it or the search is driven by pure mathematical curiosity?,0.4636,28
+"Why is the current smallest k known, whereas the others are still questioned? What's the math which proves k never produces a prime?",-0.1926,26
+Why is this important to know the largest primes with scores and scores of numbers?,0.25,16
+Why not just prime95 or the corresponding GPU program?,0.0,11
+"Why not the significance of primes in music intervals, and how changing the hertz in its relation within primes can find other iterations of harmony, of course not every marriage is complete, within this thought, there would be  stepping stones between, but basing the freq. in bases of differing primes rather than just the fifths, allows for a broader depth of musical scoring. Which would be .. something interesting... but I suppose in some regard that is done, by other means, but not to scale... Hmmm Thoughts..",0.1136,100
+Why wait for someone to solve this on a home computer and not just run it on a cluster and get it over with 😀,0.2023,25
+"Wow, your excitement drew me in.",0.7906,8
+"Yay! Grime is back! Thanks for sharing this video! I have a little question for everyone.
+
+Imagine if an ""antiprime"" is n.
+
+What's the largest n+1 or n-1 that is prime?
+
+Thoughts?",0.8332,45
+You guys really improved your paper!,0.5697,7
+You're a transformer of my thinking!.,0.0,8
+amazing,0.5859,1
+"are there any (inconclusive, heuristic) reasons why these five shouldnt be Sierpinski numbers?",0.0,17
+big fan :) can you please explain the FFT reordering trick  and how it works,0.7506,15
+"but what if one of these five IS the smallest one?, if we only stripe them away, and there is one, we will never find it...",0.0,31
+could you do the first 78557 people get 78.557% off?,0.0,12
+"does this mean 3 is a proth prime?
+
+1 x 2 + 1",0.0,14
+"happy prime day my man
+11/13/17",0.5719,8
+how do they eliminate a number if they have to check all the values of N till infinity?,0.4588,19
+i commented,0.0,2
+i wish i learned this in 5th grade,0.4019,8
+is mayonnaise a prime number?,0.0772,6
+is there anything special about 151   136 and 287? (apart from adding the first two :-),0.6124,18
+lol e,0.4215,2
+please make video on approximation techniques for tough number... please,0.4767,11
+"please watch this videos at 0.5 x speed, is hilarious",0.6124,11
+pleaseee. use whiteboard instead of papers. :'(,-0.4939,9
+"sir I have a question and please answer it ,,sir as we seen that (1+2+3+4........)=-1/12  gives a negative number then does it will also true for if we add negative numbers and will get apositive number as (-1-2-3-4-5-6........)=1/12 by using the math as.  ...-(1+2+3....)=1/12... sir by these results what we can conclude ,,,,our mathematical calculation is wrong ,,,or maths is giving a wrong answer ,,,,,but math cannot give a wrong answer if we have performed it as we do usual then what is the reason behind this  we are getting such a absurd result ,,,, doex these results are challinging us that we are wrong",-0.9136,145
+the first pi people,0.0,4
+"truthiness, is that a colbert reference?",0.0,8
+"two plus two is four, minus one that's three quick mafths",0.0,12
+use (K x 2^0 + 1) ??,0.0,12
+wait are they called proth primes or colbert primes?,0.0,10
+what about 19 * 2^0 ?,0.0,8
+what is the deal though? why does this matter?,0.1243,11
+what's the truthiness out of 10?,0.0,7
+who care about Proth Primes?!?,0.593,8
+why are they writing on paper towels in every video...,0.0,11
+why does this house always look like somebody is moving in??? all the framed pictures on the floor...,0.466,22
+would $99.00 be called Amazon Prime?,0.1779,8
+"would have loved to have seen some discussion on how the original 16 candidates were found, how it's determined that they always have factors...",0.8225,26
+you are so cute and an excellent teacher 💋,0.8208,9
+"you've got funny pronunciation of ""Sierpiński""
+anyway, nice video :P",0.8143,13
+"Союз нерушимый республик свободных
+Сплотила навеки великая Русь, 
+Да здравствует созданный волей народов 
+Великий, могучий Советский Союз",0.0,19
+Что за кортонка???? Купи уже себе тетрадь!!,0.0,12
+"„brilliant“ is really a cool app, this is probably the first time i‘m happy about ads.",0.7425,22

@@ -1,0 +1,350 @@
+,sentiment,wordCount
+"""10^27 metric universes""",0.0,7
+"""10^27 metric universes"" lol",0.4215,8
+"""Get rekt"" -MENACE",-0.6037,6
+"""It's 10 to the 27 metric universes across?""
+
+What about the old imperial universes?",0.0,18
+"""It's learned to resign on the first move.""
+
+So basically, all it's learned in that case is that it's bad at noughts and crosses.",-0.7096,29
+"""That's not a real number"" Isn't it a real?",-0.0572,12
+"""This must be what procreating feels like""",0.3612,9
+"""that's enough matchboxes to set ur anus on fire.""",0.0,12
+"'Itd be on fire' - No. No I dont think it would be.
+Match box weighs around 12g = 0.012kg so 1.2*10^40kg for the lot.
+The orbital radius for Neptune is about 2.87*10^12m
+
+Plug that in to here:
+( 2 * 1.2*10^40kg * Gravitational Constant ) / (speed of light^2)
+You get about 1.78*10^13m
+ 
+It seems it wouldnt be so much ablaze as it would be a rather impressive black hole.",-0.3612,99
+(Watches a few more minutes... Realizes comment was unnecessary) 😄,0.0,13
++Jean-Jacq du Plessis You’re right: MENACE settles into a general strategy pretty quickly but there are often a lot of boxes that have not been ‘trained’ yet because they fall outside the normal strategy. If you play unusually so MENCE has to use untrained boxes it will get worse for a while until those boxes are trained (Michie did exactly that in 1961). This would be less of a problem if MENACE could learn from similar boxes (like more advanced machine learning would).,-0.8405,96
+1 metric universe = 3.681912536 imperial universes,0.0,7
+10 000 000 000 000 000 000 000 000 000 000 000 000 000 000 boxes),0.0,17
+10^43 matchboxes centered around the sun would collapse to a black hole.,-0.4939,15
+"1:25 What happends if it looses so much, that it doesn't have any beads left it the match box?",-0.1531,21
+2:46 Dat liquid DnB.,0.0,5
+2:50 ... So What?,0.0,5
+7:45 - You could have taught tic tacs tic-tac-toe tactics,0.0,10
+7:54 the moment he realised this was a Parker Neurological Network,0.0,11
+8:31  *S T O P*,0.0,8
+8:32,0.0,2
+"8:33 ""this must be what procreating feels like"". hahahaha",0.0,13
+"8:33 @Matt, that's kinda what programming feels like too! The satisfaction of your watching your theory autonomously running, and correctly... Bliss!",0.8652,27
+9:56 what is go,0.0,4
+AWESOME!,0.6588,2
+"Actually it was good that you didn't use actual tic tacs, as they would have molten away.",0.4404,19
+"Adam Filinovich inanimate objects literally can't be taught anything. This was just a glorified demonstration of a process, a process not very unlike how many card tricks work.",0.4939,31
+"Again,
+skill: the ability to do something well; expertise.
+
+Which people?",0.5267,16
+"Again, I don't think you're clearly understanding the scenario I'm describing. (Or maybe it's me not understanding you, sorry.) I'll try to draw out what I'm saying so it's a bit clearer. Imagine MENACE is having to choose from the following game state (I put a dash instead of a zero because zero looks just like the letter O): 
+
+O X -
+2 2 2
+O X 2
+
+In this case, let's assume that MENACE randomly choose the first spot in the second row. It will then win! Now, according to the rules of the game, it will increase that position's value by 3 and leave the other numbers untouched. This means that the next time it faces this game state, it will look like this:
+
+O X -
+5 2 2
+O X 2
+
+Now, again, it might randomly choose the winning spot here, but it also might not. However, if instead of just increasing the value of the winning position, we add another rule that on that winning game state board, we also zero out the non-winning spots, we will get instead this game state (remember, the dashes are zeros):
+
+O X -
+5  -  -
+O X  -
+
+When faced with this choice, MENACE will always choose the winning position! By zeroing out the other spots, we have eliminated the possibility (for this game state) that MENACE will randomly choose the non-winning position.
+Why wouldn't this work to improve the machine's capability?
+Hope this clarified things!",0.9439,285
+"Also, how about if it loses, instead of removing the offending colours, you just add some of all the other colours ? it's not mathematically exactly the same, but it still is a punishment, isn't it ? And it would prevent the machine from dying at all (provided you've an unlimited supply of beads)",-0.8079,61
+"Am I the only one who finds the face he makes when he says ""tic tac toe"" absolutely hilarious?",0.4576,22
+An amazing idea. I wish I had this kind of videos when I had to do maths at school ...,0.7579,21
+Anybody want to use Matchboxes to remake Wargames. Thinking that match boxes may be better than current POTUS at avoiding nuclear war,-0.4767,23
+"As a future maths teacher with experience in museum design, this makes me itch to go get a big pile of matchboxes and build one of these stateside....",0.0,30
+Ask it to run itself,0.0,5
+"Awesome, good to know :) I actually read about the experiment long ago in some obscure place and thought about reproducing it to see how it worked...but I'm glad it's been done here already so I don't have to gather all those matchboxes!",0.923,47
+"Best thing I've ever watched, I gotta try doin this myself",0.6369,12
+But what if he doesn't have a move cause he lost to much...?,-0.3182,15
+"Clayton Byrd And what part of that is clickbait? Because from what I can tell, he’s used the metaphor or teaching machines to summarize what he’s done. Just because the title isn’t a literal description of what they’ve done, doesn’t mean it’s clickbait.",0.0,60
+Clayton Byrd How is it clickbait?,0.0,7
+"Clayton Byrd I'm quite intrigued what card tricks you've seen.
+""Pick a card, memorise it, put it back in the deck and shuffle the cards.  Was this your card?  No, well I'll take it out and try again.  Was THIS your card?  Yes?  Great, I'll add another three and see if I can find one of them again!""
+
+But in all seriousness, he used machine LEARNing on MATCHBOXES in a PILE.  How was that not a ""pile of matchboxes which can learn""?",0.8048,100
+"Clayton Byrd The people didn’t learn a skill? Those playing against MENACE certainly didn’t. Most of the volunteers didn’t learn much more than how to add or remove beads. The only people you can argue who learned anything would be the people who looked at the data, even they already knew the best strategy for tic-tac-toe. No individual learned how to play tic-tac-toe.",0.3109,75
+"Depends what you mean by ""conscious"", I guess, something I've never seen anybody define clearly.",0.4019,20
+Do you not count as a member of the MENACE crew?,-0.6037,12
+"Doesn't this, rather, prove it hasn't ""learned"" anything as it doesn't have any conceptual understanding. 
+Learning, actually, is a function of intelligence. 
+So, this is more of a proof of a self programming machine, lacking understanding and any ability to actually extrapolate or intuit.",0.6597,55
+"Even though they do win from that state, it doesn't mean they always will.
+
+For example there are 3 options left. If MENACE plays in spot 1 it will win, and lets say player could also win if they play in spot 1.
+
+If MENACE plays in spot 2, then player plays in spot 3. MENACE is then forced to play in spot 1 and wins.
+
+If we then did your strategy MENACE would always play spot 2 and this clearly isn't optimal.",0.8217,92
+"Feels exactly like procreation, yes.",0.6369,7
+"For a win first move should be corner, surely.",0.7717,11
+"For go, that is an insane number of boxes.
+
+That was so much fun!",0.3549,17
+From about 11:20 you talk about how MENACE will always go in the centre but the data seems to show it will chose corner 96/102 of the time.,-0.3541,29
+From the Patreon supporters: Nelson Emerson as in the former NHL Player Nelson Emerson? :O,0.1943,18
+"Funny that he found this in a Martin Gardner book since this is exactly the method used to train the Hexapawn AI in one such book (except that moves are only removed, not added, since adding only slows the pace of learning in such a case as this).",0.4404,53
+Gillette is just one of many.,0.0,7
+Good match! Was that thinking outside the box?,0.4926,10
+"Good video, super interesting.
+Just wanted to say your cinematographer should lock the iso.",0.8591,17
+"Great fun, I did this at school at the end of the 1970's also inspired by the brilliant Martin Gardner :)",0.9545,24
+Great music,0.6249,2
+"Gruener Apfel 
+Museum of Science and Industry in Manchester UK - mosi for short 
+
+(but not to be confused with the mosi in Tampa FL USA which I have never visited).
+
+yes it is a really cool museum lots of vitorian machines - fun hands on science stuff for kids and if you pick the right day sometimes their replica of the Planet steam loco is running.
+
+On the site is the world's oldest intercity railway platform
+
+https://www.msimanchester.org.uk",0.6805,82
+"Guilherme Kobori I've seen that ratio in other simulations. Its probably the smallest set of prime integers that converge nicely, without wild gyrations, or risk of dying prematurely.",0.2023,32
+"Hard not to remember that the Crystal Maze is right next to that as well....lose to a matchbox machine, then make everything better by going next door...:D",0.3612,32
+Have menace play itself to train?,-0.2023,7
+Have menaceA go against menaceB,0.0,5
+Have you ever done a video proving why the 'Japanese' method for multiplication works?,0.0,17
+Hey Matt I wrote a programm in c# which simulates your matchbox MENACE. Its mostly a replica of the matchboxes but I made some adjustments like a lower bound on how many different beed from each color stay in the boxes so that it cant die. I also added an auto-learn function where MENACE playes against himself and learns that way.,-0.4934,65
+"Hey Matt, loved the video. I played with Matthew's javascript MENACE for a while and I noticed that if I set up MENACE to win, then often I could save myself by simply doing something unexpected. In other words, I created a game state which MENACE hadn't seen much and so it didn't know what to do next. Of course, this relies on MENACE not being well trained in all the states, but for more complex games I think that's a reasonable assumption. I'm just curious whether you know if this ""flaw"" is unique to MENACE? Do you know if other learning machines have mechanisms to take care uncommon game states without simply leaving it to chance?",0.3793,130
+"Hey now - it can't die, it can only conclude that not playing is optimal.  It has a 1/10 chance to find the optimal strategy  :P",0.4708,28
+How about a nice game of chess?,0.4215,8
+How the hell do people design these things??,-0.7149,10
+I am a huge magic nerd and when i heard martin gartner i nearly freaked.,-0.2732,16
+"I coded my program to start in a corner if it goes first, and it can't lose.",0.3089,19
+"I don't think you should have discouraged that lady from intentionally playing a bad move to ""be nice"" to MENACE.  Scrogg said that losing all the beads in the first box would ""kill"" MENACE, but another way of looking at it is that this means MENACE has learned that the best move is not to play.  Letting MENACE win or draw every now and then would ""encourage"" it and keep it playing.",-0.7708,82
+I feel quite strange that how much I find this video very entertaining. Excellent work!..,0.7484,18
+"I first came across this in Fred Saberhagen's 1963 short story ""Without A Thought"", the first of his Berserker stories. The (machine) Berserkers had a weapon which disabled higher brain function. the human pilot of a ship had to convince them it didn't work - which he did by teaching his pet to play the game using a Menace box/bead system",-0.25,70
+"I guess I wasn't clear in what I was trying to say. You replied that ""There are situations where it can win outright on that move but it doesn't."" That doesn't cover what I'm thinking of. I'm saying that when it DOES win on a particular game state, then from that point on, that should always be the only option available for that game state. What purpose is there in leaving other moves available on that game state if the only move we want the machine to play is the winning one?",0.9295,101
+I never thought I'd have pride over a sentient pile of matchboxes.,0.34,13
+I really thought the t-shirt you were wearing at the beginning of the video was an extremely nerdy mathematical version of a standard Joy Division's t-shirt.,0.5118,27
+"I reckon that this is less an approximation of learning and more one of evolution, though you might argue that in the long run they are the same thing.",-0.34,31
+I remember Martin Gardiner using this method years ago with Hexapawn.,0.0,12
+"I remember in elementary school, thinking myself pretty good at the tic-tac-toe. But then a friend beat me with a corner starting move. I was quite amazed and have played with a corner starting move ever since. I'm surprised at the disparity between greens and blues in the starting box. Corner move is pretty awesome...",0.9601,61
+"I tested out the software of Menace. It was fun to spend a few hours with. Of course forcing it to always lose is hard, so forcing it to always play the same opening moves meant that I could literally force it to go edge as it's starting move, some luck was involved of course, seeing as I had to beat the corner and center plays 8 times without it ever drawing or winning, only allowing edge to win, which is hard when your opponent basically is a smart randomizer, so after many failures I eventually managed to do it, forced menace to always play edge.
+
+Then I forced it to literally only win if it played the straight game edge center opposite edge.
+It's a lot more manageable, as it will naturally occur as long as you don't play in those 2 boxes.
+As I allowed Menace to do that, I also forced there to be states where I always win.
+For instance when I played center. which caused menace to automatically resign.
+So it was definitely fun abusing the program.
+
+However if you aren't intentionally forcing the machine into a perpetual losing state, by eventually forcing it to give up for all eternity as it has no legal starting move, it will after a while always end up winning or in a draw. Mostly drawing, there are after all only 8 states that will end up with a draw, and 4 states that will end up in a win, for menace, meaning eventually the result will always be a draw.
+That is at least the case with Menace against Menace 2. And what tends to happen in a game with only a couple of gamestates. It may be hundreds of states, but most of them will never occur. The double row win con is possible to force, however good luck doing it.",0.9493,346
+I think it was Isaac Asimov who wrote a short story using this idea.,0.0,15
+"I think menace is depressed, I am playing right now and it does not stop resigning. My wins are growing every second. Intended or a bug?",0.308,30
+"I wouldn't call it ""dying"". If MENACE loses a lot it just learns that the optimal strategie is to resign :)",-0.4824,24
+I'd like to see a Menace play against another Menace.,-0.3612,11
+"I'm glad a video about machine learning was finally able to tell me how it is programmed to learn, at least at a basic level. (I know I could have googled it but I couldn't be bothered most of the time that it came up)",0.5335,49
+"I'm probably being too pedantic, but I can't accept the idea that the matchboxes learned anything. They're merely being used to store data collected by humans, from games played by humans, and used according to a strategy conceived by humans. If the game data had been written on paper, would it be accurate to say that the paper ""learned?""",0.0834,68
+"I'm trying to generate the table of different moves, and I'm getting into trouble. 
+
+I'm getting the full table correct: nineteenthousand something... but the trouble comes when I try to compact it to 304.
+
+Either: I'm getting 338 different states or 295 different states... which is frustrating :)
+
+I'm testing for the four different rotations, horisontal flip and four rotations of that - Am I correct to assume that there are only 8 different ways a pattern can be repeatet? ( when I try vertical flip, it is equal to horisontal flip+two rotations )
+
+can you help with a pseudo-algoritm to get to 304 states? 
+
+thankyou for great videos. Best Regards from Frode, Denmark",0.9203,129
+Idea to make MENACE better. When you take away beads make sure there you always leave one of each color in the box. this way it can eventually learn new strategies that do not all start with the same move and it wont quit when it meets a guaranteed loss situation.,-0.3034,54
+"If the game example at 6:55 is played on the first game, does that mean that there is absolutly no more chance to play that first red move ever?",0.6318,31
+If the people purposely lost the first games it would trap it into a bad strategy.,-0.7964,17
+"If this really proves anything, it is that anything can ""learn"" how to do anything as long as it gets some kind of feedback from its environment. This, more than anything, is simple, concrete proof that intelligence and understanding of abstract things can arise from simple physical items and processes.
+
+... We all are just a pile of matchboxes.",0.4767,67
+"If you remove a winning path from a box in the first iteration because some time later the algorithm turns a loosing way, it will never again choose that path. Which is why this does not converge to an optimal game. You should put a random bead everytime you play a winning path.",0.8934,57
+In Murica it's called tic tac toe,0.0,7
+"In terms of computer science, what is a matchbox analogous to?",0.0,13
+"Inspired by this and a previous video, in a fit on boredom, i programmed a bot to play Nim and let it go second 300 times against a perfect opponent, and the only reason it wasn't infallable is because i wouldn't let the probability of any move drop to 0. But with only 11 possible board states, it made for a very easy introduction into learning programs vs. trying to teach it 300-some board states and how to recognize reflections and rotations.",0.8908,91
+"Instead of adding in 3 of the ""good"" color, I think you should instead roll an n sided die and see if it lands on 1 to see whether to just add 1 of that color in where n is the number of beads in the box, otherwise add nothing. That way the number of beads is sustainable. Better yet... I'm not sure if your feedback algorithm accidentally can get rid of the last bead which actually is a good choice for a state, but perhaps prevent that from occurring unless you can prove that was the bad decision out of the game set.",-0.7211,113
+Intel: Introducing the Blazing Fast -Pentium D-  MENACE!,-0.6399,12
+"Interesting that it starts in the center. My tic-tac-toe AI I had to write for class (it uses a min-max tree, so no learning) always starts in the corner.",-0.0429,34
+"Interesting that you can have ""learning"" without consciousness, since I doubt that a pile of matchboxes with beads in them is conscious.",0.5873,26
+"Is there a reasoning behind the rewarding distribution being +3 win, +1 draw and -1 loss?",0.7096,21
+Isn't the educated rule for naughts and crosses to go first not in the middle but in one of the corners?,0.0,22
+It can't for the reason explained.  The optimal game for X is totally different to the optimal game for O and there are far more options for O so they would need another 472 (if my memory serves me) matchboxes to learn to start as O.,0.6124,50
+It is an interesting that they did it in a museum and maybe some kids and adults alike would learn a bit of how machine learning works. A simple search algorithm would be much more efficient for this particular game though,0.6997,42
+It isn't fair to let the machine go first. It makes sense on why but if there's optimal play then first move always wins or draws.,0.8983,28
+"It's interesting that MENACE learned risk aversion and tended towards the safer ""draw"" as opposed to the riskier attempt to win outright.",-0.2577,25
+"Its a dentist
+a menace
+a oral higenist",-0.4939,8
+Jesus christ fix your iso on the camera,0.0,8
+Lets Make Chess !!  ))),0.0,8
+"Loll Matt, ""Metric Universes"".",0.0,8
+Love the music in this one!,0.6696,7
+"Love your videos. Also, love your shirt! Where'd you get it?",0.8655,15
+MENACE vs MENACE?,-0.8345,4
+"Machine Educatable Tic Tacs or M.A.T.T.
+
+Edit: Also, wouldn't there be less total boxes used if M.E.N.A.C.E. never went first",0.0,40
+Matchbox anthropomorphization.,0.0,3
+Matchboxes matchboxes make me a line.,0.0,7
+Maths,0.0,1
+Matt is so proud of his son learning to play - /r/totallynotrobots,0.75,15
+Matt please give us the new music at 12:34!!,0.4374,11
+"Matt, let's keep the perspective here. The success of the event wasn't teaching tic-tac-toe to a pile of matchboxes. It was introducing the concept of machine learning to a bunch of people, especially children.",0.5719,39
+"Maybe it’s just me, but it seems that this type of machine learning is essentially how DNA does it’s thing concerning adaptation; each cell, organism, species, and so on, working on different levels, trying out moves, keeping and discarding as usefulness waxes and wanes. Or maybe not .",0.1901,61
+Menace blinks his eyes around 12:13 ...becoming more human?,-0.4939,11
+"Menace is super dumb, no way it learns optimal strategy in 150 games. Didn't for me at least when I played online. I simmed most the games randomly too",0.0258,32
+Metric universes :D,0.6166,3
+Metric universes... a new unit? miliuniverses,0.0,8
+Mmm ...data sets.,0.0,5
+"More like Q-Learning: https://en.wikipedia.org/wiki/Q-learning
+We need the matchboxes to make cute baby matchboxes for it to count as a genetic algorithm.",0.6997,23
+"My brother in the 1970s, also inspired by Martin Gardner, made a learning envelopes-and-marbles machine that played hexapawn (https://en.wikipedia.org/wiki/Hexapawn)",0.6808,23
+Neural networks basically. Really cool,0.3804,6
+Nice video.... but why did I see you while watching a tv-show about huge vehicels in German television? Asking the real questions!,0.63,25
+"Nice way of showing an enumeration strategy for machine learning. But yeah, with more complex games like chess and go, enumeration of all feasible states isn't practical.",0.7759,31
+No that wouldn't always work. There are situations where it can win outright on that move but it doesn't. It then wins on the last move of the game. There is no box for this as there are no options.,-0.8315,44
+No. There are multiple copies of each bead in the ealier boxes.,-0.296,14
+Non-computerassisted machine learning.,0.0,4
+"Now a surprise: that's roughly the way Alpha Go plays go. Yet they managed to pack those gazillions matchboxes into more compact representation.
+_Edit._ Oh, they even said that further in the video!",0.5255,40
+Now that's a new generation of parkers.,0.0,8
+Now this is a hans on version of Madaline learning... nice!,0.4753,13
+ONE OF My MOST FAVOURITE VIDEOS ON YOUTUBE,0.0,8
+"Of course it knows that. I mean, what do you even mean when you say that it ""needs to know if it won""? It doesn't actually ""know"" anything. There are just rules that are followed by the person running the ""machine"". And one of those rules obviously is to stop the game when one of the players wins and then apply the game-state value-adjusting rules. So they just need to apply this additional rule, and the machine would be even ""smarter"".",0.3612,97
+Opens first matchbox and finds a note: Interesting Game! The only way to win is not to play!,0.7226,21
+Parker MENACE,-0.6037,2
+"Probably would mess up the ""algorithm"" but it occurrs to me that you could eliminate the first or second issue without adding any boxes, you'd just have to reverse who's playing Xs and who's playing Os when Menace went second.",-0.3919,44
+Q-learning!!,0.0,3
+"SOOOOOOOOOO, ....... at the end of the match,the inanimate match wins the match!!?!?!?!?!?!?!
+That's MATCHLESS!!!!!!!!!!!!!!!!!!!!!
+(& menace says ; ""YOU'VE MET YOUR MATCH!!!!!!!"")
+hahaahaaaaa",0.5615,51
+"Seems like you have a theoretical problem if you run out of beads corresponding to the optimal move.  Of course, given how easy it is to draw the game, I'm sure it won't be an issue.",0.7579,40
+"So I supposed the first day dropped into a local minimum - where it ""drew"".  The win reward was likely to rich - perhaps adding randomly 1-3 beads to the first box on a ""WIN"" might have yielded a better model.",0.9325,47
+"So if they know how to play tic tac toe, we should put them in charge of our nuclear weapons, right?",-0.128,24
+"So it has a 1 in 10 chance of dying? It’s almost perfect.
+I guess you may have to rename it to Parker’s Menace.",0.2975,31
+So this is what you do when your so great at math :D,0.8827,13
+"So, when I lose a game I can honestly say ""I am dumber than a box of matches""",-0.3566,21
+Some people say they wish they had friends to go out together and such. I say I wish I had some crazy friends so I could do stuff like this. lol,0.9319,33
+"Sounded like it killed his soul when he said ""tic tac to""",-0.4588,14
+Thank you! At least someone here cares about the feelings of menace :),0.68,14
+Thanks a lot. Now I’m going to collect tic tac toe boxes and try to make this in my own house.,0.4404,25
+That is so smart!,0.5836,5
+"That would work fine.
+
+The only thing is MENACE needs to know if it won instantly or latter on.",0.1449,21
+That's ultra cool!,0.3802,4
+The amount of wins menace got is shocking,-0.296,8
+The company that makes Tic-Tacs needs to sponsor this for NYC's Museum of Mathematics.,0.0,15
+The funny thing is that it's much better to start out in the corner if you know how to play well.,0.8519,22
+The mechanical neural network. Awesome.,0.6249,7
+"The online version of MENACE needs some work. I was winning a lot and around the 37-0-10 mark, MENACE went into a resigning loop. I'm 180-0-10 and counting. Need a ""life support"" check box.",-0.567,43
+"Then the most logical move by the player is centre, at which point MENACE gives up.
+
+Is it possible that that 2nd line is supposed to read;
+0 6 0 0 0 96 0 0 0 0",-0.6037,40
+There really isn't a strategy here. The learning is simply that by randomly attempting a move and observing the results it develops an algorithm that steers it to a more favourable outcome - winning.,0.5667,36
+This is a great example for teaching people about how computers learn.,0.6249,13
+"This is really interesting and brilliant. I'm going to try to put together an interactive workshop using all this. Thanks! One suggestion to make it ""smarter"": Wouldn't it make sense to add a rule that when the machine wins, it should also remove all the non-winning moves from the LAST box? After all, if we know this move just resulted in a win, why bother even considering the other choices? So we should just remove the other options entirely (for that last, winning, box). This way it will always make the winning move when faced with that combination.",0.975,115
+"This is similar to CGPGrey's ""This video will make you angry"". https://www.youtube.com/watch?v=rE3j_RHkqJc",0.0,15
+This kind of serves as a demonstration of biological evolution as well.,0.3612,13
+"This was for sure the saddest (the only one, actually) standupmaths video. Sorry. but I really did not lis at all. Your videos worth much more than this.",0.09,35
+"To be clear, I don't mean that it's strategy to play the game. I'm referring to strategy for collecting, storing, manipulating, and using data. Assigning game states to match boxes, assigning game moves to colored beads, adding and removing beads according to game results, etc. All of that is human strategy.
+
+I'm not sure which video includes this, but they discuss the idea of MENACE as the second player, and how the setup would be different; that it's essentially a different game to learn. In other words, they must use a different strategy to do it.",-0.7295,113
+"To play a game with 10^whatever the number was boxes, don't worry about the size. Just the computer algorithm trying to search for the state it needs to use would probably take longer than the age of the universe.",0.6256,44
+True my b,0.4215,3
+"Unless there are a hell of a lot of them, it won't matter.",-0.6882,15
+Was hoping for matchboxes to be on fire,0.1027,8
+Watched this standing and found myself automatically raving to the beat near the end 0.o,0.0,17
+"We got some Parker square match boxes...
+*But what is matc-* dangit Michael not again",0.0,19
+Well duh,0.2732,2
+"Well, it's certainly a pile of something.",0.5423,9
+What a waste of time. Clickbait.,-0.4215,8
+What about checkers?,0.0,4
+What about the people who intentionally mess it up?,-0.3612,10
+"What happens if the result is a draw? If it only gets beads if it wins, it's not going to learn at all is it?",0.6199,28
+What happens when MENACE plays against itself?,-0.4466,8
+What if menace played itself?,-0.2023,6
+What if you took two menaces and pitted them against each other?,0.0,13
+What is go?,0.0,4
+What is the significance of the pattern on Matt's T-Shirt?,0.2732,11
+What's the conversion here? ...10^27 Metric Universes = how many Imperial Unit Universes?,0.0,18
+What's the difference between a metric universe and an imperial universe?,0.0,12
+What's the music at 12:25??????,0.0,8
+Where is this? Looks like an interesting fair,0.7579,9
+"Why no discussion of false optima? My understanding was that the corner strategy was objectively better than centre strategy because of the increased number of ways of winning, but this shows that it's a less learnable strategy because it is so reliant on making a good second move.
+I know the second variant learned the corner strategy, and that's a very good example of how different learning algorithms can get stuck in false optima...",0.8987,79
+"Why not modify the algorithm to take all the beads away of a particular color if Menace loses on the next turn? You could also extend this concept by changing the weights based on the turn in which Menace wins or loses; if Menace loses, take away all the beads of it's last move (N),  3 beads of move N-1, 2 beads of move N-2, and 1 bead of move N-1. Increase the weights of a win of draw similarly.",-0.6124,96
+Why so many boxes? I show you can do it with 222 boxes...,0.0,15
+"Wouldn't the best way to try and beat this ai be to play as random as possible, hoping to have hit a matchbox that no one else has played before?",0.2575,32
+"Wow, this is, in a way, machine learning brought outside of the machine!! I am currently doing a project on Neural Networks for school and this fits so perfectly well with that project! It basically is machine learning! Love it, never thought it would be possible with matchboxes tho...",0.9578,58
+You could also teach matchboxes to play Dr. Nim.,0.34,11
+You could have taught tactics to tic-tacs in order to play tic-tac-toe,0.34,12
+"You could make one which starts on the second move, train it the play the two against each other. Lol",0.6369,22
+"You could use trinary in 3 lines of 3 didgets to keep track of what box you needed. 0 for O, 1 for X, 2 for  emptys/undecided moves. It could be read left to right, right to left, up to down and down to left. It would (maybe) easily match games and matchbox. 
+Writen example:
+220
+201
+021",0.34,71
+You need to have a Menace for Chess and then challenge a UK chess champion play a pile of match boxes,0.5267,21
+You should make another MENACE that goes second then have MENACE vs. MENACE.,-0.9153,15
+andymcl92 the matchboxes literally can not learn. They are simply storage containers filled by humans.,0.0,18
+"andymcl92 they haven't learned a skill, the people have.",0.0,12
+can i get a number for it playing cs:go,0.2732,11
+computers usually use some kind of neural net instead of tons of states and actions AMAZING:),0.0,17
+"damn, that is dumb.",-0.7184,6
+even better you could have taught tic-tac-toe tactics with tic-tacs,0.4404,10
+favorite channel. keep up the good work. really love the mix of humour and information!,0.9298,18
+fun for kids,0.5106,3
+"hey Matt!!! I Love your videos! I just wanted to let you know just a little bit of feedback that I had. I've watched every one of your videos on this channel, but today was the first time i had come across your second channel, (YAYYY MORE MATHS!!!) i feel like you ought to do more to advertise your second channel cos the content there is just as mad as the content you have here! People are missing out on some quality maths LIT-NESS!!!..... ...
+
+.... apart from that, your stuff is amazing (coz apart from maths, what else is?) Keep up the fun work!
+
+N.",0.9178,128
+how much beads do you take away for loosing?,0.0,10
+"https://www.youtube.com/watch?v=Ipi40cb_RsI
+These things have gone crazy dude",-0.34,7
+"if you had used tic tacs, you could eat the ""losing"" choices, and teach Menace a proper lesson on Survival of the Fittest",-0.4939,27
+if you understand the mechanics its almoste impossible to lose.,-0.4019,11
+im doing this for the maths talent quest next year.,0.4215,11
+"learn: gain or acquire knowledge of or skill in (something) by study, experience, or being taught.
+skill: the ability to do something well; expertise.
+
+Or were you expecting them to be sentient?",0.7783,42
+metric universes,0.0,2
+metric universes?,0.0,3
+metric universes?!,0.0,4
+music is dope,0.0,3
+music starting at 2:22?,0.0,5
+"no ,if you put the sun at the center ,and the circumference will be at uranus but it will not burn",-0.1531,23
+people knowing how to play and it being a solved game definitely makes it tougher. it would be interesting to see this sytem vs only children (people who almost never have strategy) or a version of itself that does the other side,0.8625,45
+physical genetic algorithms I love it <3,0.7964,7
+"seems to be a bug, variable plays seems to be null :/",-0.1027,13
+"the ideal game is as follows:
+
+XOX
+XOO
+OXX",0.5267,10
+"this blew my mind, and then it blew it again XD",0.6739,12
+tic tac tic tac toe,0.0,5
+tic tac would have been more interesting esp cuz you can reward the winner with a tic tac,0.8883,18
+"what happenes in the event of a tie/stalemate? EDIT: nvm
+also i dont think you shouldl remove a bead if it loses IF that bead is the last bead sincce that allows it to always maybe try new strategies and allows it to never truely die",0.2134,50
+what if menace plays against another menace?,-0.6597,8
+"what is ""go""?",0.0,6
+when you add a color do they add a color to the last state it was in when it lost or all of the states it was in,-0.3182,28
+while i watch this video i am training an online version of menace,-0.4939,13

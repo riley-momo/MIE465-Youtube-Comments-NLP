@@ -1,0 +1,17 @@
+,sentiment,wordCount
+Awesome project!! Subbed!,0.7163,6
+Awesome! What material are you using?,0.6588,8
+"Did you give up on using Hoverboard motors that you were experimenting on 6-7 months ago?  If so, what was the issue that made you drop them?  I'm currently where you were 8 months ago, taking apart existing hoverboards and trying to utilize the motor/wheels for a robot base.  Any hints/tips would be much appreciated!",0.4314,65
+"Hey dude I watched your video and thought about printing filament, can you use weed eater string? LOL",0.5473,20
+"Looks like it'll be very powerful, that motor is gigantic even on it's own (let alone 4x of them).
+
+You didn't use Herringbone gears tho?",0.5563,30
+"Paul Tan a friend gave me the old hoverboard. But those motors are heavy and when you want to source them they aren’t cheap. Hoverboard motors are excellent really, but I’m trying to make the robot easier to source. These motors come from hobbyking.",0.8074,53
+RedMetalic RobotDemon apparently the answer is yes: https://youtu.be/By_Ah0MKKqo,0.4019,9
+Samy Kamkar PETG. Hatchbox specifically.,0.0,7
+"Thanks for the information!  Qty 1 pricing seems to be about the same (hobbyking lists your motor at $60,  electricscooterparts.com lists a pair of hoverboard wheels at $100 - about the same as aliexpress).  For the kind of robots I want to build, the hoverboard motor wheels make more sense (commercial delivery type robots, 50lbs weight).  For what you are trying to accomplish, I agree, it probably makes sense, but 100 hours of 3d printing is quite a bit (I already complain when my prints have to take more than 5 hours!)",0.2695,110
+Thanks!,0.4926,2
+What I like most in this video is the vision you describe. I do share it 100%,0.6908,19
+"roidroid thanks! It’s going to have plenty of power - I didn’t want this to ever really not have enough. 🙂
+
+I want to use helical gears, but I still haven’t sorted out how to make them in OnShape. I’m not sure I can use herringbone gears because the gearbox needs to be assembled, but normal helical gears would help with the noise a lot. It is certainly something I want to work on.",0.8019,89

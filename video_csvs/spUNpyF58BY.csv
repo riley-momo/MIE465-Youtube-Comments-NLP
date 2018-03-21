@@ -1,0 +1,252 @@
+,sentiment,wordCount
+10:09,0.0,1
+"15:00 In caculation of 'physical' center of mass, we must use |dz|, not dz (z=e^ikx). Is this 'center of mass' just an analogy? From the fact that uncountably discontinuous function can't be integrable, i think the center of mass explanation is not exact.",0.0,61
+1:56 ayyy my favorite chord now I finally know what  Minor 7th looks like <3,0.8126,15
+"2:21 Looks like Kerflux, which makes sense.",0.3612,9
+3Blue1Brown I just can't believe I am actually Lucky enough to get to see such quality videos,0.4215,17
+3Blue1Brown i will b back,0.0,5
+@3Blue1Brown Will you be covering the Laplace Transform soon as well - would be very useful! This video is great also...,0.8653,23
+A Gift to Humanity!!,0.5399,6
+A alguien más se le acaban los subtítulos en español a mitad del vídeo?,0.0,15
+"Ah..... Sincerely,  I love your channel. It stimulates my intuition to understand what I didn't so through by books",0.8519,22
+Also check the nice insights by T. Tao here:  http://www.math.ucla.edu/~tao/preprints/fourier.pdf,0.4215,12
+Amazing!,0.6239,2
+"Annnnd phase is forgotten because when people think of Fourier they only think of sound not image, shrugs",-0.2263,19
+Another great video! I have only one question. Is there a way to wrap a signal like you did in the video in Matlab? So far I couldn't find anything useful - or I just don't know how to search.,0.669,44
+Are you Fourier?? Great explanation!,0.6958,8
+At 15.25 we integrated only the coordinates to the first power $\int{r dm} $ to get the COM but the COM is  measured by integrating the coordinates to the second power  $\int{r^2 dm}$ no?,-0.4215,48
+"At 2:37 doesn't the graph a the left lower corner roughly look like a mandelbrot set? Might be a coincidence and not entirely true, but is there a relationship?",-0.2463,32
+Awesome video dude! Fermilab?,0.6588,6
+Beim schauen einen Orgasmus bekommen.,0.0,6
+"Bessel functions, please.",0.3182,5
+Best explanation I have seen.,0.6369,6
+Brilliant,0.5859,1
+"Brilliant and elegant explanation. I glad you have made this video.
+Now I can understand better how it is used on image processing to remove noise as well as on sound applications.",0.9313,35
+"Bueno Xataka dicen esto (no se que mas diran, porque no seguí leyéndolo); pero no se alli no me dejan comentar nunca y sin embargo le meten una cantidad de errores de contenido a las personas que es una lastima que signa siendo un sitio retrógrado del siglo XX y no le permitan a la gente eliminarlo de sus cabezas patrones negativos creados por ellos.
+https://www.xataka.com/otros/alguien-ha-hecho-el-video-perfecto-para-todos-los-que-sufrimos-intentando-entender-la-transformada-de-fourier
+.........
+""Todos los aparatos electrónicos tienen elementos que son capaces de elegir las frecuencias que necesitan y esto es gracias al desarrollo matemático de la transformada de Fourier.""
+..............
+NO, eso no es cierto; lo que hacen que los equipos electronico elijan una banda de frecuencia para ""oírla"" son los filtros.
+Es decir, no es nada de ""software, sino de hardware; por decirlo en el lenguaje de ustedes.",-0.9496,151
+"But can't you still approximate a Fourier Transform using only trigonometric functions and calculus, without using complex numbers ?",0.0,20
+"But really, WHY is it that when the sweep frequency lines up with one of the frequency components of the original signal do we get the massive jump in the COM? I can see that we ran an experiment and saw that it was so, but what's the deeper unifying reason behind it?",0.2523,57
+"By 14:24, I'm thinking that this is also how JPEG compression works.",0.0,14
+Can i have you as my math teacher? Best explanation I've ever seen,0.6369,14
+Can you please brief on what exactly is the difference between beats/sec and cycles/sec. thanks :),0.802,21
+Can you please produce a version of this series with Tau instead of Pi?  Pi is an abomination.,0.3182,20
+"Can you subtitle your videos to Spanish too, please.",0.3182,11
+Cool! Thanks!,0.6988,4
+Could you give those scripts? ^^,0.0,8
+Damn I love this channel.,0.3612,6
+"Damn, you guys explain everything so great this is breathtaking, mankind needs more people like you",0.8526,18
+Do a video on Discrete Fourier Transform,0.0,7
+"Do a video on Laplace Transform and contrast it with Fourier. 
+Mention it's application.",0.0,16
+Do this for Laplace transform,0.0,5
+Does anyone know what software does the video owner use to make this video?,0.0,15
+Dude this were the best 20 minutes that I ever invested on a video or anything... Great job really,0.8519,20
+Eagerly waiting for the next one!,0.4389,7
+Espectacular !!!,0.0,4
+"Everybody who is studying chemistry in university should watch this. If I had this in Theoretical Chemistry, I'd have had a much easier time understanding the essence of things like NMR-spectroscopy",0.6486,33
+Excellent video! I cannot even find enough words for praising this.,0.8172,13
+Extremly good explained,0.4404,3
+Fantastic explanation!,0.5983,3
+Followup video about the uncertainty principle: https://youtu.be/MBnnXbOM5S4,-0.34,8
+Fuck yeaaaah!,-0.5848,3
+"Great Video, thanks 👍",0.7906,5
+Great content! Can we have a Stietljes transform video at some point too?,0.6588,15
+"Great video, I've gone through all of the math classes that teach fourier transforms, but was never quite able to visualize it the way that you showed. I'm excited for all of the other videos on fourier transforms! Also, I don't know if you will touch on this in upcoming videos, but it would be cool to see an explanation of harmonics and resonant frequencies.",0.903,72
+Have you made a video on like this on phase modulation vs frequency modulation?,0.3612,15
+"He has done three already on machine learning , and patreons have seen several sneak preview versions of a coming Essence of Probability series.  New patreon contributors get access to those (four?) too.",0.0,38
+"Hey! Great explanation! Why didn't you take a whole number of cycles in your original time domain signal, though? It would have been more symmetrical that way, but I'm sure you had a reason.",0.7835,40
+Honestly this is the best educational YouTube channel.,0.802,9
+How do you make your animations?,0.0,7
+How does a wave have a center of mass?,0.0,10
+"I absolutely love these videos! As an engineer, I've used these equations a lot without ever knowing what any part of it meant. I thought I knew Calculus and the Taylor Series and these videos just took it to a whole new level. This channel is priceless.",0.6989,52
+I absolutely love your videos! Hope you do more videos on probability theory and machine learning,0.8264,17
+"I agree with your comment.  As David Deutsch might put it, the EXPLANATION lies at the heart of knowledge's advance.",-0.0772,23
+I always wondered where complex numbers were useful where you could just use x/y. Thanks.,0.7003,19
+I am forced to ask God to Bless you. Honest. You have done more good for many than you know !,0.8264,23
+"I came looking for copper, and i found gold.",0.0,11
+I came to know about your channel from Khan Academy and I am loving it. This is the best video on Fourier Series on the internet. Thanks a lot !,0.906,32
+I can't believe I just got fascinated by Fourier transform! This was hell in my study as Civil Engineer (applications are not as common in the field but we are still required to learn).,-0.2598,38
+"I can't get my head round how you can use this when it isn't a constant signal. For example, in recording a song, any fraction of a second of music is going to be built up from different frequencies to the other fractions of seconds (generally). Do they just perform loads of fourier transforms over incredibly narrow time intervals to cover the whole song?",0.0,71
+"I did an honours degree in electrical engineering & power electronics and have been working  as a power engineer for 30 years. I passed a unit or two of my degree that pertained to the Fourier transform, DSP, etc. however only today has the true meaning of this concept become clear. People like you who take the time to make such great videos are helping people to understand concepts that they never really understood and introducing new concepts to those who never knew they existed. Keep up your amazingly inspirational work and thanks very much.",0.9716,102
+"I feel like a spoiled brat asking for more when you have already given so much with these videos, but:
+
+Can you do a video on the Gaussian Process?",0.1901,32
+"I find your video remarkably clear and exciting to watch. I would have liked to know which software you used to create your animations?
+Thank you and continue like this, it's a pleasure every time.",0.9581,39
+I have been working with DFT / FFT algorithms and implementing them on GPU platforms and I have never seen an explanation like this. Congratulations!,0.8135,27
+"I have no idea about this math stuff but the visuals made it clear what the idea behind this thing is.
+
+I have used Fourier transform multiple times in programming, glad I never had to implement it myself, but it's good to at least somewhat understand the things you are using.
+
+You really made me want to learn more about math, seeing things like this or functions and graphs makes me feel like the skipped most of the cool stuff in math class in high school.",0.9696,92
+"I just looked at the Fourier Transform a couple times in my life  and noped out instantly. This was so clear and abundantly well-made, like legitimately I understood it as a highscooler. Wow. Super impressive. As a side note, how did you do all the animations? Programming obviously but in what? Anyways, yeah, amazing job.",0.9538,66
+I need to re-watch...,0.0,5
+I really need make videos in math like this before I will die,-0.34,13
+I wish I could explain this well. Awesome work!!,0.8677,12
+I wish I'd seen this however many years ago. Very well done and very much appreciated.,0.8258,18
+I wish you taught me math in school.,0.4019,9
+I would love to see a similar video on Laplace Transforms!  Your videos are AMAZING.,0.8757,17
+"I would love to see how you animate all this stuff, it seems like a nuts amount of work",0.6597,20
+I'm a medical student that always loved math and I missed it after high school. You were able to explain me the Fourier transformation and this is incredible. I thought It would be too complex for me. You made it damn simple. I love your channel. It lets me to go into the math that I missed with my medical studies.,0.4588,67
+I'm just here to watch the lines moving around. Subscribed btw,0.0,12
+"I'm such a noob in debugging my code. I wanted to wrap the cosine function with polarplot, and the diagram wasn't the same with 3 cycles/second as in the video. All I had to do was to shift the cosine function with 1 doh.",-0.0516,50
+I'm watching this thinking how cool it would be in VR. Thanks for the video mate.,0.6369,18
+"If P1 and q1 are poles of highest order(not sure what the term is), and B is closed, then D is convex if p1+q1=/>pn+qm, where n/=/1.",0.3182,43
+If only my math teacher would have explained us Fourier Transform like this... Thanks for giving me back the love of math <3,0.9313,24
+Incredibly good work. Can you do a video on wavelet transformation?,0.4927,13
+"Interesting, I just passed a course with score of 92 and I had no idea what that transform was about xD",0.6486,22
+Is it matplotlib?,0.0,4
+Is there a good analogy for the center of mass for the y-axis instead of the x-axis? What does the y-axis Fourier transform tell us about the signal?,0.504,30
+"Is there an intuitive explanation for what the imaginary part of the fourier transform result means?  In the video he just says a ""fuller description"".  In another video I think he mentions phase, is that the mechanism by which you can identify multiple signals of the same frequency, that are just out of phase with each other?  Edit: absolutely awesome video.  I'm so happy I saw this!",0.8954,77
+"It really upsets me that when a youtube video explains way better than a professor in a German university. Great video, keep up the good work.",0.7968,29
+It won't be wrong to say that you are the Feynman of Maths!!,0.4833,15
+Just explain 'The Meaning of Life' next!! Incredible explanations.,0.0,14
+"Knowing with understanding , everythings seems to fall in place .",0.0,11
+LOVE YA,0.6369,2
+LOVE u guys!!,0.7592,5
+"La leche puta, deberías de dar clases en mi uni, en 20 minutos resumes una asignatura, que grande!!😍",0.0,24
+Las matemáticas son una belleza.,0.0,6
+Little Pi switched her hand up! Cute detail.,0.7574,10
+Love it. Thank you <3,0.8625,6
+Love your channel! Would it be possible to make a video on 2D Fourier transforms?,0.6696,17
+Loved the animations!! What application do you use to create the visuals?,0.7639,15
+"Magnificent 
+Brilliant 
+I liked it the most",0.8885,7
+"Man , you have got an Amazing explanation...
+I like the way that you avoid just putting up fascinations on youtube and still make it happen",0.6249,27
+"Man, I wish I had this video a few years ago. Down-to-Earth explanations like these make math so much easier to fully grasp.",0.8062,26
+May God bless you.,0.5994,5
+"May you please talk about the Laplace Transform? I heard my brother told me bout how it was ""Kind of an extension"" on the Fourier Transform. Thanks.",0.6369,32
+"Maybe one of you guys can answer this: Why is it that when the cyclical frequency is adjusted some parts of the wrapped graph move much faster than others, It seems as though there is a range of frequency for the wrapped graph from 0-the constantly changing, adjusted value?",0.34,55
+Mind blowing.. Awesome.. Thanks,0.4404,6
+Mind blown at 7m32s,0.0,4
+"Musicians been playing with this since 53,000 b.c.",0.2023,11
+Now i undrestand the world🤔,0.0,6
+Omg where were you when I was taking college calc,0.0,10
+"Once I get out of college, get a job, and start earning some money, I will for sure become a patron.",0.3182,25
+PALEY-WIENER THEOREM. NOW. PLEASEEEEEEEEEEE!,0.0,7
+Please for Laplace transform!,0.3802,5
+Please make a video about the Radon Transformation!,0.3802,9
+"Really good video !
+When my teacher explained the Fourier Transform he was focusing on the idea of the superposition/decomposition of pure signals, but he told us not to bother with the formula that much (as it is not an essential part of our academic program and it would be given during the exams). but thanks to the video support and your explanations, I understood how to visualize the formula and how to remember it without learning it by heart !
+thanks ! I look forward your next videos ;) !",0.9608,98
+"Seriously, consider a career in making education videos. You will spare millions of students from the pain of learning through horrible instructors.",-0.8176,25
+"Sir, your videos are really helpful for building an intuitive approach to math and other stuff. Thank you!",0.7082,21
+So anything about a Fourier series whose coefficients are found by the orthogonal projection of the function that models the sound wave onto each eigenfunction of the Fourier basis?,0.0,30
+Spirograph!,0.0,2
+"Sure, but the pi creature has a leg up on a Tau critter.",0.1655,15
+Sync Function and memorize a bunch of transform. Take test. So sad. You show the coulda shoulda I never got.,-0.5256,24
+THIS IS SO AMAZING!,0.6581,5
+TIL the Fourier transform is essentially a diffraction pattern of the input function,0.0,13
+Thank you sir the video changed my understanding about Fourier transforms could you please tell me what software do you use,0.5859,21
+Thank you so much.,0.3612,5
+"Thank you, you're amazing.",0.743,6
+Thank you. I wish you had done this few years ago when I was doing engineering.,0.6369,18
+"Thanks for making those videos, they really help me understand what I'm actually doing when calculating those kinds of things. Could you also make a visual introduction to the Laplace-Transform?",0.7089,33
+That's a pure A except in Cleveland.  The Cleveland Philharmonic tunes to an A of 444.  I can't help suspecting that this is why the Rock and Roll Hall of Fame is in Cleveland.,0.2869,37
+"The ""about"" tab above leads you to a FAQ section where he describes the software he developed (in Python) and how it's available to examine (by anyone) on Github",0.0,35
+"The best video about Fourier Transformation ever...thank you so much for sharing this information...at the end, i'm not mad at all and is good to know...:)",0.9151,33
+The visualization is the best of its class! Really good! Now I feel much better with the exam! :),0.9345,22
+There is no function g(t) for a random sound wave; so how do you determine the constituent frequencies of a wave that is merely a set of data over a finite period?,-0.296,37
+They're mostly funded by viewers who contribute through Patreon,0.0,9
+"This is a good video that gets a little deeper into discrete Fourier analysis for sound. https://youtu.be/aqa6vyGSdos.
+Here is something that I put together that takes 3B1B's frequency winding idea and applies it to discretely sampled points on a curve.https://ggbm.at/SbDrHq4k",0.4404,47
+This is a much better explanation then my professor's,0.4404,9
+This is an incredibly well done video! Im four semesters into my Computer-Science-Bachelor and that might be the first time I really got this! Thank you very much!,0.756,31
+This is crazy. It's like spectroscopy for sound.,0.0258,10
+This is just awesome! Thank you so much!,0.8011,10
+This is so beautiful! Thank you for showing this!,0.8539,11
+"This is so fantastically intuitive; pretty sure this is going to save my Signals & Dynamical Systems exam ^^
+Maybe someone could help me out with one thing though, since it doesn't seem to be in the follow-up either: How, in this, would the phase-shift be represented? I have two ideas about what it could be, but I'm not at all sure about them:
+1) it's the imaginary component along the y-axis
+2) the amplitude is actually the length of the vector in the complex plane, with the phase represented as the angle of that vector. That makes more sense when trying to visualize the Inverse Fourier Transform, but in that case the transform would lose some of it's linearity if I'm not mistaken.
+Also, a second follow-up that illustrates the IFT in this way would be super interesting.",0.9545,156
+This is superb! I wish I had this during college :),0.8777,12
+This puts most math books and professors to shame!  What a fantastic and beautiful explanation!  Many thanks.,0.8353,20
+This was an amazing way to break down and explain this topic! I love the end where you showed the final equation and circled bits saying how each was easy and combining them makes sense,0.9041,36
+Truly awesome,0.7906,2
+Try transforms in signals and systems by Peter kranauskis.,0.0,10
+Trying my hardest to like this video BUT I think a much simpler intuitive graphical explanation is th think of the eiwt as 2 3d surfaces a coswt and sinwt surface. The even part of f(t) modulates the coswt surface and odd part of f(t) modulates the sinwt and we add up all the components of the modulated surface aoing get time axis to get the frequency content. No need for any moving images. The frequency and time domain exist and xan be seen in 2 3d planes. Also this approach answers ALL Fourier transform properties. Sorry ladies and gentlejen this approach talking about centre of mass is just to contrived for my liking.  Although this does not take away my admiration for  the beauty of the video and ultimatelybif it helps others then great.,0.9643,148
+Unbelievable!,0.2714,2
+Very Nice vídeo,0.4754,3
+Vihart has some interesting videos on fourier analysis probably because she is a mathematician and a musician.,0.4019,18
+Was this center of mass idea something you came up with yourself or does it come from some preexisting pedagogy? It's so brilliant that I can't believe this is NOT how it's taught. Not to take away anything from your work. Even if you didn't come up with it yourself the fact that you put it in this form is already brilliant enough,0.8941,66
+"Well, Xataka says this (I do not know what else they will say, because I did not keep reading it); but they are not there, they do not let me ever comment and yet they put a lot of content errors in people that it is a pity that they are a retrograde place of the 20th century and they do not allow people to eliminate it from their heads. for them.
+https://www.xataka.com/otros/alguien-ha-made-the-video-perfecto-para-todos-los-los-sufrimos-intentando-entender-la-transformada-de-fourier
+.........
+""All electronic devices have elements that are able to choose the frequencies they need and this is thanks to the mathematical development of the Fourier transform.""
+..............
+No, that's not true; what makes the electronic equipment choose a frequency band to ""hear"" it are the filters.
+That is to say, it is not ""software"", but hardware, to put it in your language.",-0.8072,157
+What a beautifully constructed video. May I ask what you used to produce the graphics?,0.5719,17
+What a time to be alive!,0.4389,7
+What happens to the x-coordinate of the center of mass when the winding frequency is an integer multiple of the signal frequency?,0.0,23
+What is difference between Fourier & lissajous patterns,0.0,8
+What is ment by '3 Blue 1 Brown'..?,0.0,12
+What type of software is used here for the visuals?,0.0,11
+When the lil spike jumped up on the screen it was a heartbeat monitor. Math came to life.,0.0,20
+When will you post the episode for Fourier Transform and Riemann Zeta?,0.0,13
+When's the video on the Laplace transform?,0.0,8
+"Whenever I watch a 3b1b video, the quote, ""Simplicity is the ultimate sophistication"" - Leonardo da Vinci,  comes to my mind. Team 3b1b, you are doing an amazing job .Thank you so much !",0.7644,42
+"Whoa!  As a visual learner I can definitely say I absorbed more here than I could have by reading a ""chapter"" about Fourier.   Thanks for taking the time to do this!",0.7339,36
+"Why are we having the center of mass though? Are we interested in tracking the ""average"" correlation between the original signal and the ""signal"" of winding frequency?",0.6553,33
+"Why didnt I have you as my professor when I took digital signalling 2 years back. You cleared a concept in 20mins, which took me 1 whole semester to understand.",0.1027,33
+Why is the convention to go clockwise? Couldn't the exponent be positive in the formula and everything would work out fine?,0.6966,23
+"Woah! At 7:10, the rotating graph has certain points where the ""petals"" line up! The points where the coils line up are spaced differently, time wise. The graph lines up for longer when there are 3 petals. Is this a coincidence?",0.6988,50
+Wow 🙌,0.5859,2
+"Wow!
+I'm amazed by just how big a difference in content there is the curriculum I took in hs, and what ppl comfortable with this material, took in hs.
+/Bashful",0.8908,35
+"Wow. Just, wow. I have learned Fourier transforms in past education and had to do them for a job and NEVER did I understand them intuitively - just step-by-step. Fantastic job. Amazing visuals. You have another sub.",0.9432,44
+You Sir have just nailed Fourier transform youtube explanation videos !!! chapeau bas,0.0,15
+You are the best!!!!!!! thank´s!!!!!!!,0.0,13
+You just made the subject more complicated for the students to understand.  You are just a show-off who wants to be popular with students so you'd look and feel cool.  You are the typical teacher today:  you'd just rather entertain the students than actually teach and educate them.  You're nothing but a narcissistic stand-up comic who just wants to get the students' tuition money.   Babysitter!!!,0.6219,74
+"You said it's elegant to think 2d stuff in complex plane. I'm just learning complex numbers and I'm convinced that they're very useful and important to know, but is there 2d stuff which is NOT elegant to think in complex plane?",0.8651,44
+"You should have chosen 2 other frequencies.
+Surprise at 1 cycle/s.",0.2732,15
+You showed us that explanation is an art. Thanks for another fantastic video. Please do a video about relating Fourier transform with Riemann Zeta Function & Primes.,0.8316,30
+Your channel is pure gold!,0.0,6
+Your presentations are unbelievably elegant.  HOW are they done?  Who funds all this work?,0.5794,17
+"[translated by Google]
+Really nice video.
+But because it's only in English, that my English is not enough to understand directly in English, and that the subtitling system of YouTube is not yet well developed (often too long sentences , truncated at awkward places, which are then difficult to read), I have to content myself with just looking at the pictures.
+Fortunately, I am quite familiar with the Fourier Transform. I've already used it often, and even programmed ... But, the lower left part is a visualization that I did not know, even if it reminds me of another ..
+This approach is still different from everything I've used. It's a new way of approaching this subject for me.
+Thx for posting.",-0.0826,140
+a GREAT video!!!!!!!,0.7906,6
+amaterasu,0.0,1
+awsome !,0.0,2
+beautiful . this is what mathematics means,0.5994,7
+best,0.6369,1
+by far the best explanation,0.6369,5
+completed undergrad EEE in the 2009-10.  That time there were not that much animations on mathematics.... Ohhh! Learning would have been much easier and fun :-?,0.75,31
+"for some reason i see cross section of a torus and something that looks suspiciously  like the main part of the mandelbrot set, when the center of mass and the frequency of winding the graf line up... i wonder how the plot of the movement of the center of mass look's on 2d surface.",-0.0516,57
+fucking awesome.,0.659,3
+holyshit! I know Fourier Transform now!,0.0,8
+i understood nothing!,0.0,4
+i will remeber this in my whole life,0.0,8
+im binge-watching your videos like a maniac lol,0.296,8
+incredible! you safe my life for tomorrow presentation XD. Thank you !,0.8889,14
+incridible,0.0,1
+its so un-confusing when you explain it =D,0.6166,8
+man you are the best,0.6369,5
+"man, you make a revolution with your way of communicating science, you just show the true beauty of a thing that almost everyone thinks is ugly",0.5106,28
+please put a video explainig about the problem at the end,-0.1027,11
+priceless...,0.0,2
+"thank you for this, however i must ask, what is the proof for this? why does this centre of mass idea generate the composing frequencies? and how do i know that it works for anything other than the frequencies shown in this video. (of course im not doubting the validity of these claims, just curious.)",0.5988,64
+this is what youtube needs. I hope many lecturers to watch.,0.4404,13
+this video is a boon for mankind,0.0,7
+why the x-coordinate and not the distance from center?,0.0,10
+wow! what program is the visual made with?,0.6239,10
+wow!!! never thought Fourier transform this simple. nice work!!!!!! Thanks!!,0.8926,19
+"you shuld you the disdens from 0,0 insted for the x-value",0.0,11
+you're a genius,0.0,3
+♥️,0.0,2
+푸리에 변환보다 이 동영상이 한글 자막을 제공하는게 더 신기함 ㄷㄷㄷ,0.0,10

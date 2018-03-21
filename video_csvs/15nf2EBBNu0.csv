@@ -1,0 +1,384 @@
+,sentiment,wordCount
+"""Even the much older Apple ][ didn't have to do that""... *only* if you specified an autoboot program when you formatted the disk.  For example, if you formatted the disk with INIT HELLO it would look for a program called HELLO when you turned on the computer.
+
+Of course, HELLO could just be a program that doesn't actually *do* anything, in which case you still have to LOAD (or BLOAD) programs like normal.
+
+On the Commodore, the disk drive was a ""smart"" drive... it's literally a computer by itself, with its own RAM, ROM, and CPU.  For a long time, *nobody else* had smart drives like that... you either needed a special interface card or you had to load the disk operating system into the computer's RAM (or both).  So the autoboot function was built into the interface card or the disk operating system.
+
+Commodore's disk operating system was built into the disk drive, not into the computer.  And *that* is why it doesn't have an autoboot feature.  The benefit is that you get to use *all* the computer's RAM.  You don't have to reserve part of your RAM for the disk drive to use.",0.9081,236
+"""Go faster Stripes"" and ""Spoiler"" on the C64 is a must do.  Doubles your Megahertzing.
+
+I appreciate the humor.  Its why I keep watching.",0.5859,32
+#BeingBritishProblems :P,0.4084,2
+"+Amerigo Costa  I think you're right.  The Commodore trademark is, as of 16 December 2013, officially owned by a company called ""C= Holdings"" (formerly Commodore International B.V.)  Their trademark specifically includes the hardware, which probably includes the labels.  If so, you could not replicate the label without first paying a licensing fee and being licensed by C= Holdings.
+
+(The trademark does *not* include apparel, so if you want to print T-shirts with the Commodore logo on them, go right ahead.)
+
+EDIT: Confirmed.  The label is almost certainly part of the trademark.  I was checking to see if RMC could get new keys to go with that new case, and I found some... but the guys who made them said that they didn't have the license to make a new Commodore key that was an exact match for the original Commodore logo.  If they can't print keys with the Commodore logo, it's a pretty safe assumption that you can't make an exact match of the label without paying for a production license from C= Holdings.",0.9175,207
++Amerigo Costa I'm thinking you're right on that one.  I am going to try a little hot air to unstick the old label in pt3,0.0,27
++Cobrajellyfish leave her.  Immediately.  👍,-0.0516,8
++Csaba Sánta interesting idea thank you!,0.6696,8
++Dark Winter Do you think we have enough speed to warrant the stage 2 aero package?,0.0,18
++Edman hah that's some unfortunate snipping,-0.4588,7
+"+ElectronAsh I'm surprised no ones made replacement cases for the SNES yet, I'm pretty sure they would sell very well.",0.7645,23
++Findecanor that is a fun tip!  I'll have to try some denture tabs out thanks.  How long do you leave them soaking?,0.7424,26
+"+Gareth Leasley -9th Legion- not today Gareth, not today.",0.0,14
++Kjaer6792 he is indeed! I visit many systems and it always helps to have someone on board who has such intimate knowledge of a system to give something extra,0.4389,32
++MindFlareRetro Merry Christmas sir!,0.5848,6
++Mr JSV thanks!  Yes I'm sure somebody somewhere thought it was a good idea at the time! At least it fried your fuses and not your C64.,0.8856,31
++NJL 82 I'll see what I can do with some hot air to tease that sticker off.  Good idea.,0.1531,22
+"+ObsoletePowerCorrupts it's a point of contention for many that's for sure.  With this C64 I wasn't too concerned about mixing it up with a new case as the old one was not the original to the board.  I watched a restoration of a 60s Lamborghini recently and it was highly praised for having the original paint, but of course it was stored under cover and looked after its entire life. Very few systems are cared for in the same way.  I do love restoring systems back to their original shade, but also wish their was a better way of doing it.  Oh well, in this instance I can enjoy the new case and keep the old safely near by.",0.9854,129
++P Star yes maam!,0.4574,6
++Pantelis Christidis interesting...I will look into that thanks,0.4404,11
++Proscriptus good choice sir,0.4404,5
++Rafal Omnom yes!  Oh OK if you look carefully you'll see a C64 box behind it.  On the box is a picture of the machine including all the keys :D,0.8875,33
+"+RetroManCave  You can get replacement keys, but usually these are taken off salvaged units and have some yellowing.  As for *new* keys, there was an indiegogo project about two years ago, but I don't know if they're ever going to do another production run (it cost 30,000 euro for the first run; they were selling them for about 21 euro per set, plus shipping).  I suppose you could go to the website linked below and try to contact them to see if they still have any replacement sets in the original color (or plans to do another production run):
+
+http://phase5.eu/contact-us/
+
+Oh, related to an earlier comment about the Commodore 64 label not matching, these guys do *not* have the license to reproduce the original Commodore logo, so you can't get a new key that is an exact match for the Commodore key either. You'll have to settle for the retro-brighted one.",0.7096,172
++Rob Simpson thank you Rob we sure need some sun!,0.126,12
++Sascha Henken thanks for watching!  I have big plans for 2018 so stay tuned for a whole new level of sweeping retro shots and camera angles,0.4926,28
++Steve Martino noted!  Thank for watching,0.4199,8
++Tamitha Tindall me too :) I'll be trying to fix that with hot air.  Finishing touches :D,0.7925,19
++The Chris hey this is a RETRO man cave after all.  More tupperware I say.,0.0,18
++chongtak it's 3M thermally conductive tape designed precisely for this use.,0.0,13
+"+failing@commenting Why not, but can you buy brand new C64 keys?",0.0,15
++onedeadsaint here's a place in the UK or you can simply read the ratings on your caps and use an electronics supplier. https://www.retroleum.co.uk/c64-capacitors,0.0,25
++soupisgdfood Do you have any requests?,0.0,8
+..............Oh how I muss the  Commodore 64...............I had one in 1983 until 1985..............,0.0,17
+"...That little SD card reader that you put down with the Epyx cart is *adorable*. :-) Great how they styled it after the 1541 case (thought part of me wonders...you have a Datasette and a 1541, but no 1571?)",0.1027,49
+1531 > 1530,0.0,3
+2:26 FULL BRIDGE RECTIFIER!!,0.0,6
+8bitguy had a c64 dying because of the PSU overvoltage,0.0,10
+"@ElectronAsh, Yeah, the aca500plus allows for booting from fd1 external floppy drive. It makes more sense (surely?) to have a gotek in an external floppy enclosure that you can boot form, thereby never needing to touch the real floppy fd0 internal drive. So it is all reversible. I say a patina and its provenance are all part of the browning of the old computer cases. Any mods could instead be done to a new case. Fair enough, an amiga may need to have the hood popped so as to do maintenance inside and therefore a replacement case could be the answer (while the original is kept safe and not lost). The obvious disclaimer applies that people can do what they wish with their own computers. I wasn't all that overjoyed to see the c64 bass guitar Jeri Ellsworth made, however, I never ""moaned"" and certainly wouldn't want to be a party pooper. Sure, her net science contribution might somehow make it ok, perhaps. It's just that kids in Akiko could have eaten that breadbin.",0.9071,200
+"@RetroManCave, where can I find/buy one of those key cap pulling tools?",0.0,16
+"A good quick way of retrobriting the keys without sunlight (good for those of us in the UK) is to get some ""Super Star Crystal Clear Peroxide"", it's cheap. You then pop the keys (after cleaning them) in a large saucepan and fill with the Peroxide and water 50-50 solution and boil at 70c for about 4 hours. After 4 hours, or more if they're really yellow, you should have some keys that now look new.
+One of my C64c machines had almost banana-coloured keys, and after 4 hours of the above method they now look almost white. And the plastic feels just as strong, not brittle or weak.",0.9469,125
+"After all these years, the C64 is still my favorite computer :-)  I bought two of the PixelWizard cases, a breadbin-grey to house my 1982 326298 board, and an SX-64 style for the Reloaded-MK2 that's my daily driver now.  They both look fantastic!
+
+Question- can you link the product page for those handsome heat sinks?  I'm using smaller 10-11mm square sinks in tandem as I've seen Jan do, but I really like the look and fit of yours.",0.9229,91
+All you need is to add some stickers. Each sticker adds 5 HP!,0.0,15
+"Also, this: https://www.youtube.com/watch?v=vK1e5k9O3jg",0.0,5
+Amazing! I only spotted this because I made literally the exact same mistake ~ 24 hours before you posted this video :),0.69,23
+"An ancient remedy exists for over-retrobrited computer cases. Ancients used shark-urine it as an antidote to sunbleached antlers that gave away their position. It was called ""retro-dank"", and only the wise woman of the 7th shire knew what sharks and season to harvest. And only once the 3rd moon had passed would it be ready. And only once sun-dial ceremony was performed would the ritual be complete. And that is why stongehenge was built.",0.6808,83
+"Another fantastic vid, can't wait for part 3 I'm toying with buying one of theses or a spectrum what one would you recommend. 
+Kind regards Gary",0.8591,28
+Anyone else getting deja-vu from this?,0.0,7
+"As for the Apple II: Of course they did.  I just mentioned the whole INIT {name} thing, right?  It would automatically format a blank disk, and then save the BASIC program in memory to the disk.  When you turned on the computer, the first thing it did was check to see if there was a program with the name you specified.  If there was, it would load and run it automatically.  Of course, this only worked for Applesoft BASIC programs; if you wanted it to automatically run a machine language program instead, you had to use a sector editor and directly change the contents of track $00, sector $0D, byte $42 from $00 to $14 (this tells it to use BRUN instead of RUN).
+
+As for the Atari 1050 drive being 'smart'... that's true, but you *still* had to load DOS into the system RAM, which is why you couldn't use a disk drive unless you had at least 48k of RAM.  You probably didn't notice, because by the time the Atari 800 reached the market, the price of RAM had started to drop, so eventually *all* Atari computers shipped with 48k already installed.  The only reason you *wouldn't* have 48k is if you got a computer that was manufactured in the first year or so.
+
+Not only that, but because Atari DOS used 128 bytes per sector (instead of 256 bytes per sector like *everyone else* did), the older Atari 810 disk drive only held 90k per disk, compared to Commodore's 170k per disk or Apple's 140k.  The 1050 supported Enhanced Density disks, which had a limit of 130k.  Out of that 90k (or 130k), about 38k was eaten by DOS.SYS, DUP.SYS, RAMDISK.COM and MEM.SAV, leaving you with just 51.5k (or 91.5k).  You could delete MEM.SAV for more space, *if* you didn't mind losing the program you were typing *every time* you used the DOS menu (or bypass the DOS menu and use XIO commands like XIO 253,#1,0,0,""D1:"" which would format a blank disk.)",0.9213,416
+As someone who old enough to remember what beige boxes like the C64 used to look like - beige - I'm suspicious the retro brighting process takes out way too much colour.,0.3612,33
+Awesome video as always 👍,0.6249,5
+"Building up an icomp.de C64 Reloaded MKII board in one of the old Kickstarter 64C cases. Next step is to make a new Cherry MX keyboard for it, but until then I thought I'd clean up a classic keyboard for testing. They're really depressing keyboards compared to modern systems!",-0.1485,53
+But what will you do with the original case? Why not clean that and retrobright it so as to keep the computer more original? It's not like the original case was damaged right? Just needed some TLC.,-0.2283,41
+C64 Reloaded MK2: https://icomp.de/shop-icomp/en/shop/product/c64-reloaded-mk2.html,0.0,5
+Can you make nothing but C64 restoration videos? Strangely compulsive! Lovely work. 😁,0.5707,16
+Can you please play music on the floppy drive?,0.5719,10
+Can you swap the case badges too please 👍 Fantastic video as always 😊,0.7096,14
+"Capacitors and the like are bog-standard components found in pretty much everything made in many decades.
+You don't need any kind of specialist suppliers for stuff like that.
+But you might need to look a bit harder if you need to replace something like the SID chip or even the CPU.
+
+Technically WDC still manufactures brand new 65c02, and the 16 bit 65c802 and 65c816 chips, but while those are great for messing around with, I don't think they can be used as direct replacements of chips in older systems. (maybe in theory, but I suspect it would require quite a lot of work to adapt it. Even just the fact that the modern chips can run at up to 14 mhz might be an issue.)
+
+Really though, if you need to replace anything like that, you're probably well outside the realms of basic restoration, and into either major repairs, or heavy modifications of your system...",0.9186,173
+ChozoSR388 hah you certainly don't see many fluorescent green carts that's true,0.6369,13
+D.E.C. Tech I'll check that thanks!,0.4926,12
+DKTronics70 excellent idea thanks,0.765,5
+Did you read the description? :),0.4588,7
+Did you replace the the cap under the shield on the rf modulator?,0.0,14
+"Don't worry, I put it back in your bathroom when I finished with it :D",0.7535,16
+Edman amazing!  If you drop me an email on retromancave at gmail  I can provide my address!,0.508,19
+"ElectronAsh, I think perhaps there might be a way to identifying the fake stuff. It would require a sample of tape to be sacrificed. Basically, heat a heatsink (when not attached to anything) and film it with a heat camera (or a web-camera with the infrared plastic removed) and a thermometer (like an infrared one) and compare what happens to the temperature and footage between a genuine one and one which you know is fake. Then each time you get a batch of cheatsinks, test the extra one like so. Basically, that's my notion.",-0.5719,109
+"For washing keycaps, I find denture cleaning tabs is the easiest method.
+Also, wash them in a washing bag (for women's lingerie...): makes it easier and safer.",0.8126,34
+Funny what Youtube decided to show me as a video title... A Restoration (almost) Trash :D,0.7865,19
+Good vid there RMC quality as standard.  Love the new case and yes GET THEM KEYS RETROBRITED as soon as possible.....Kim 😋,0.8689,25
+Good video..thanks,0.4404,4
+"Got me by the intro, one of the best on the C64, Supremacy by Jeroen Tel :)",0.8126,19
+Great vid as always! Wish there was a way to pull the original case sticker and transfer it to the new case. Perhaps I'm just to anal about that sort of thing.,0.8553,35
+"Great vid, thanks!",0.807,5
+"Great video :) I had C64c bought new in 1989 and it had similar power supply as Jan Beta shows in his part of the video. Right after warranty expired, it  started blowing the fuse and as it's not serviceable, we had to buy a new one.",0.7964,51
+Great video RMC...may the sun shine on your retrobriteing...,0.6249,12
+Great video as always.,0.6249,5
+"Great video! Do you have access to the 1541 Ultimate II or Turbo Chameleon 64 cartridges? The are really the ultimate C64 flash carts from a compatibility and feature set standpoint. I have the 1541 Ultimate II and it's fantastic. Much, much more compatible (especially with demos) than the SD2IEC solutions.",0.8655,59
+"Great video, and looking forward to the next one.",0.6249,11
+"Great, almost missed this update, informative as always, didnt know all that about the power supplies, been using mine without any such protection and was enjoying it :) living dangerously... Highlight was when you pulled off the first key and there was something nastly and dangling... ha, great... thanks...",0.9245,58
+"Haha, I was thinking more hydraulic suspension.... this is the Man Cave after all :-) Wishing you and everyone on the channel a great 2018 and every success, can't wait to see what the year brings.",0.9325,40
+Have a Merry Christmas!! 💪🎅👍,0.6229,9
+"Have you ever thought of using an ozone generator for retrobrite-ing?   It's quite good for fiddly bits, or parts that can't get wet.",0.4927,26
+Here you go https://www.amazon.co.uk/Filco-Black-Key-Puller/dp/B003047ZW4,0.0,4
+"Honestly it would probably be simple as hell to incoprorate into a Saver.  (9VAC regulates very easily into 5VDC with a very small number of components)  Basically a bridge recifier and a regulator (7805 in Jan's example, but there are modern switching regulators that will do the job way more efficiently producing significantly less heat).",0.6514,62
+Hotplate Labs hehe easily done!  What have you been working on?,0.4003,13
+Hotplate Labs very nice!  Yes Commodore keyboards are mostly poor save for a few mechanical oddities like a limited run in the A500.  The Acorn Electron keyboard is fantastic in comparison and often coverted to a USB keyboard,0.8925,40
+I actually fixed on of these back in 90s. It was a bitch to take the plastic out. lol,-0.25,21
+"I am perfectly fine with the re-chipping montages, keep 'em coming. Thanks for the video",0.836,18
+"I continue to enjoy this video series, and really like the crossover with Jan Beta.  I look forward to more.  Oh, and Merry Christmas, by the way! 🎅",0.8764,34
+I don't know quite why but the badge on the new case not matching the old label is driving me crazy!,-0.5255,22
+"I don't know, to be honest.",0.5106,8
+"I don't suppose you know anything about the Melodik? I haven't been able to find a lot of information on it.
+
+It seems to be an external AY interface for the Didaktik to provide the same sound chip as the Sinclair +2.  There are many of these add-ons, both old & new, but I'm curious as to how compatible the Didaktik version was.",0.4497,70
+"I guess that in theory, the genuine / better thermal tape should make the heatsink slightly hotter, as it's then conducting (and then radiating) more heat away from the chip.
+
+Again though, on devices like this which didn't originally have heatsinks anyway, I doubt it would make much difference to the cooling, even if fake thermal tape was used.
+
+It just seems logical to me to add heatsinks to many chips that often run hotter than say 45 degrees C, as it should increase the chips' life span.
+
+It does come down to how much you want to spend, of course.
+
+A full recap, and a few heatsinks can really start to add up, especially on some machines.
+
+Like with the heatsinks though, even some cheap but half-decent new electrolytics can extend the life of a retro (or practically any) machine for many years.",0.5423,165
+"I have a C64C with a broken key, I can remove the broken plastic but I need to replace the plunger will a plunger from an earlier C64 keyboard work in the C64C",-0.4767,34
+"I just can't understand why you have to input a load command to load a disk.  Even the much older Apple ][ didn't have to do that, so it is impossible to justify.",0.0,37
+"I just leave them to themselves for 30 minutes to a few hours. No need to check on it or rub anything.
+A couple of tabs and a bag of keys in a _deep_ bowl. Warm water from the tap - just so that it covers. It will fizz a lot.
+Then I rinse the bag in the washbasin and hang it up to dry.",-0.128,71
+"I need to stop saying ""stuff"" so much. lol",0.2212,12
+I really have absolutely no idea. Would be nice to get one and test it. But the chance of getting one is nearly nonexistent.,0.2601,27
+I suppose that you could wire in a fuse to protect the computer if you really had to.,0.3818,19
+I think I'd be inclined to wear an NBC suit when cleaning the keyboard as there is a whole load of gunk and whatnot that makes my soul shiver inside my body.. hahaha!,0.5983,35
+"I think, seeing as a c64 gets called a ""breadbin"" (well some do), a person can safely say to their breadbin "" _consider yourself part of the furniture_ "". That means a ""patina"" pertains to its ""provenance"", rather than it being a beat-up motor. In fact, some people build computers into actual desks. Discuss. #WuvJoy",0.4939,72
+"I was about to suggest that myself..fix it up in your spare time, and keep it around as a spare. I miss my old C64C..and never did get around to trying out the 128, since the one I had showed up around the same time as my Amiga, and I used that instead, since it could do things better online.",0.3182,70
+"I wondered the same thing! it has to be. He is really knowledgeable of the C64. if it wasn't safe he wouldn't do it, right?",-0.4015,30
+"I'd love to get my hands on some eastern European tech but it's hard to come by here.  Perhaps some of Bazza's videos would bring back some nostalgia, such as this:  https://www.youtube.com/watch?v=lokKpr4lux0",0.25,35
+I'm having trouble myself.  I found one on ebay from an Australian seller but I can't vouch for it until it arrives.  There are also PSU's for sale in Poland with over voltage protection etc.  Have an ebay search for c64 power saver or psu,-0.2144,48
+"I'm not sure if i'm seeing things, but i'm pretty sure you put the spacebar spring on the P key. It's slightly longer, to keep the spacebar feeling like the other keys.",0.7488,36
+"I've replaced the linear regulator in a couple of c64/c16 PSU with buck voltage regulators, they run a hell of alot cooler than the LM7805.",-0.6808,29
+If it does make your eyes burn a little then its not worth looking at!,-0.2401,16
+"If it's still got the same edge connector as the Sinclair machines (or, even if all the signals are still present), in theory it may work with the various DIV sd card devices, which is a great way to shortcut the whole tape/floppy malarkey.",0.6249,52
+"If you do cleaning a lot, invest on a 1L ultrasonic cleaner. Just pour in some dish soap and tap water (~5%, for oil and grease removal) and put your keys and springs in. Run it for few seconds to minutes (without heat if possible), then pour in deionized or distilled water then run it again to prevent corrosion and salt residue. Then keys and springs come squeaky clean!",0.5848,82
+"If you got a brand new case, might as well go for brand new keys too for complete package.",0.2732,21
+"If you want to be REALLY lazy, you can bodge one together from a pair of modern wall warts, one that produces 9V AC @ 1 ampere and one that produces 5V DC @ 2 amperes.  Or buy a Commodore 128 power supply (which was a switching PSU, unlike the C64's PSU, so it doesn't generate as much waste heat), hack the square 5-pin DIN connector off, and replace it with a round 7-pin C64 DIN connector.",-0.7207,93
+"Infinitecanadian  On the Atari 800XL, if you have the Atari BASIC cartridge plugged in, the first thing the Atari does whem you turn it on is to check the first drive in the chain (D1) for a disk with DOS on it.  The computer only knows enough about the hard drive to load the first few sectors, which is the ""bootstrap"" for loading DOS.SYS.
+
+If you're trying to use Atari BASIC, and your first disk (D1:) does not have DOS.SYS on it, the computer displays the message ""Error: No DOS"" and then just sits there and does nothing.  The reason you don't remember having to load the disk operating system is because it does it automatically.
+
+Oh, and by the way, the Atari also did not automatically copy the DOS files to a freshly formatted disk.  You had to type DOS (which actually loads DUP.SYS), use Option P from the utility menu to format a blank disk, and then use Option H to write the DOS files to it.  You mean to tell me you've *never* seen this screen?  https://en.wikipedia.org/wiki/Atari_DOS#/media/File:Ataridos-2.5.PNG",-0.3818,209
+Is it ok to put heat sinks smaller than the chip? Will it improve situation or make it worse when it comes to heat?,0.3313,26
+It looked like you put the longer Spacebar spring on the P key!,0.4199,14
+"It will likely work fine.  Even surface mount chips would theoretically work, though those physically would need an adaptor.  The clock speed rating is just that: What speed the chip is capable of running at.  The actual speed is determined by the clock signal. 
+
+Modern produced versions of vintage chips are often produced using different processes to ones in the mid 80's and will have a higher clock rating.",0.7003,78
+"It's funny though. Compared to some U.S. garage sale, Goodwill, or eBay finds, that thing appears almost mint perfect. (No smoke film, barely discolored, no scrapes, no gouges, no soda spills, no build-up of hand oil shmoo, or who knows what?) I'd think the 8-bit Guy would be amazed to find one in that condition. But in this video it's still nowhere near good enough.",0.6838,86
+"It's not the same, but it does appear quite similar.  http://oldcomputer.info/8bit/didaktik/index.htm
+
+I wouldn't randomly slam Spectrum peripherals (particuarly vintage peripherals!) in there without checking the device pinouts (and definately wouldn't try didaktik peripherals on the Spec), but I think there's a reasonable expectation of a modern SD card device working with a minimum of jiggery pokery since those seem to be mainly 5V devices.
+
+Didaktic M doesn't supply some voltages on the edge connector that the Speccy does, nor does it provide video data, but the data, address and control bus lines seem to be in approximately the right place.
+
+But, at your own risk, etc etc.
+
+Also, didaktik case design might be an issue.  The overhang at the back of the case may physically interfere with many interfaces.",0.1073,148
+Jan Beta is a great addition to the videoes!,0.6588,10
+"Jeezus, that cartridge loud enough for ya? :p  Almost blindingly bright, that green.",0.5606,17
+"Jonathan Pearce I too am sensitive to (and old enough to remember first hand) originality.  Retrobrite reverses chemical reaction, from my experience it has never taken a plastic beyond the original shade.  Perhaps that's the science of it or perhaps that's the weak British sunshine.  I do understand though the division in opinions and try to remain faithful to the origins of the machines I work with as you'll find in my other restorations.",0.6705,81
+"Just wondering if this was meant to have ""part 2"" in the title?
+
+I'm guessing by the current title that it could be for a good reason? :p
+
+Yes, the C64 power bricks do tend to fail a lot.
+I'm sure the potting is trapping the heat in the case too, because the 5 Volt regs are usually pretty hefty, so would normally be overrated for the current draw and dissipation.
+
+The best ""C64 saver"" circuits by far are the solid state ones btw (with a MOSFET instead of a relay or simple fuse, which don't react anywhere near fast enough.)
+
+I believe that the devices from Mr bwack are full solid state, so that's good.
+
+There are also some C64 savers that let you use a standard wall wart or 12V power brick, but it is a bit of a challenge to generate the isolated 9V AC output from DC.
+
+Those designs should also include reverse-polarity protection as well though, as it would make it possible to plug in the wrong PSU.
+Again, the better C64 Saver circuits actually include that protection as an inherent thing. You just need to find the good ones. ;)",0.9179,220
+Larry Bundy Jr I have indeed and The8BitGuy has some good videos on that method. I find good old sunshine works best but there won't be any of that here soon.,0.765,34
+MadPete maybe we should lower it as well?,-0.0258,9
+"MadPete thanks Pete I'm looking forward to it as well, just as soon as everything is setup this week I'll slot into a nice regular schedule and see where the youtube adventure goes next",0.8442,35
+Mentat001 yes that annoys me too.  I wonder if a little heat might lift it.  If it does I'll put it in pt3,-0.0258,26
+Mighty C64 Mods!,0.0,4
+"My dad had an Apple ][.  All of the program disks booted automatically.  The Atari 1050 disk drive would also boot automatically with every disk, and it was a 'smart' drive.  Interesting information, though.",0.4019,43
+My gran just called....... She wants her bowls back!,0.0,11
+My wife thinks I'm weird watching and enjoying your videos.,0.4019,11
+"Needed 14 new keyboard springs myself, but ended up making my own - no one selling in volume.",-0.4215,20
+Nice,0.4215,1
+"No, No, No - don't use your OWN toothbrush! Use someone else's. What the eye don't see, the heart don't grieve over :)",-0.7342,28
+"ObsoletePowerCorrupts
+
+Yeah, that's a possible method.
+
+The ""3M"" tape that came with some small heatsinks a few weeks ago had the backing paper on it, but of course could still have been fake.
+
+The real thermal tape has more of a squishy feel, though. So, although it may not be ideal (if it is fake), as long as the tape is at least a ""thermal"" type, it's still better than nothing.
+
+As Mr RetroManCave said, it's possibly more important that the heatsinks don't fall off easily, as that can short something out, or damage components.",-0.819,115
+"ObsoletePowerCorrupts
+
+lol
+
+I think this was also how Trump and cheese strings were created? :p",0.7003,16
+"ObsoletePowerCorrupts 
+
+Hahaha - I just watched your vid. :)
+
+Yes, there is always an argument for NOT retr0brighting a classic computer (or anything else), but I can see why people choose to do it.
+
+If it can be proven to me that a safe method exists that doesn't cause the plastic to go brittle nor cause blotches / marbling, then I think it's fair enough for people to try it on their own machines.
+
+What I am personally REALLY against though, is when people cut or drill huge gaping holes into the cases of older retro machines unnecessarily.
+
+The latest trend is to cut a huge hole in the tops of original Amiga cases, so an LCD or OLED can be fitted for the Gotek drives etc.
+
+And that's why I created this little mod. ;)
+
+(which may or may not see the light of day yet, as I'm bogged down with other projects).
+
+https://drive.google.com/file/d/0B1grqFdAErsrQ3BJZ1hFVUpMcHc/view?usp=drivesdk",0.9603,173
+Ok thx! Merry Christmas ;-),0.8588,6
+"On the contrary, cheaper too ;)",0.2263,7
+Penurious Sierra  It would be useful but I do like to show accesible methods where possible to encourage others to try it.  We all have a toothbrush!  I'd like to give one a go some time though.  Thanks!,0.9541,42
+Perifractic Happy Christmas sir!,0.6114,5
+Perifractic hehe well if I get a breadbin I'd happily make a series on that.  Stick around though I'm just putting a new studio space together and then I have some real treats lined up,0.6908,36
+"RetroManCave 
+Thanks! Of course, not everyone has them on hand, so it should be noted that ""If you have one, try this method, but it's okay if you don't have one""
+
+Also another tip, if your circuit seems to malfunction for no reason (no broken traces, chips are all fine, no rogue components, etc) use rubbing alcohol and toothbrush to wash the flux and contacts. If you have 99% variant, you may use soak-and-scrub method, provided that denaturing agent does not include solvents like acetone or toluene. (Sanitary products do not contain such agents and isopropanol usually does not include them)
+For my Yamaha synth repair, the original board was absolutely caked in flux for some reason (I guess they just dipped the bottom of the board in flux then tossed it into solder pot) and board turned into sticky mess when I tried to clean the contacts, so I used alcohol to dissolve away all the permanent marker markings and flux that covered the entire board away and finished it by rinsing it in the distilled water, blowing the water off with air duster and putting it in a drying chamber made with cheap plastic container with lids made to accept low-heat air from hair dryer.",0.2794,233
+"RetroManCave - Couldn’t hurt. I’m pretty sure your C128 should be equipped with a Stage 3 package, though... 😎",0.2732,26
+RetroManCave Consider me stuck around. Happy Christmas from California. 🎄🕹️,0.4019,14
+"RetroManCave I don’t know what’s available, just that its possible.",0.0,16
+RetroManCave I just think the old sticker will lend a nice original look to your new case and it seems to be in good condition. Have a great Christmas,0.9022,30
+RetroManCave I suppose there are always photographs which can be used as objective reference. Maybe I just remember 80s being more brown than they were :),0.4588,27
+RetroManCave just started checking out jans channel from your link in the description and I will now check out this new link. thank you very much!,0.4199,28
+"RetroManCave thank you very much, sir. do you recommend any good sites for walkthroughs on checking and replacing parts. I have a c64 that I bought a few months back and I'm looking to fix it up. the person I bought it from said powered on, but I haven't done that myself cause I knew about the power issues. thanks, again! love the channel",0.937,72
+She canne' take it captain!,0.0,7
+"Silkworm was my favourite C64 game, and I think it also had the best intro theme.",0.6369,18
+"Something like this, I mean...
+
+https://www.ebay.co.uk/itm/LCR-T4-Component-Tester-Transistor-Diode-Capacitance-ESR-SCR-Meter-128-64-LCD/272924029150?epid=1794515598&hash=item3f8b8a30de:g:YUUAAOSwH-daBZDi
+
+But, it's best to try to get one with a case, and with sockets for external probes.
+
+(or just add the sockets yourself, but the cables will affect the accuracy of the readings, especially small inductance and capacitance values.)",0.5187,55
+Sooooo much love :)        Thank you mate. Great times back in the day. Lovely made video. Enjoyed it. I still have to find my time to get my Amiga back on the road again. Your Amiga Restoration videos are as well very lovely made and well done. Keep these videos coming :),0.9851,58
+"SpearM75503 I own an Atari 800XL with an Atari 1050 disk drive.  I never had to load the disk operating system; all I had to do was turn it on.  Perhaps it was different with earlier models, but my dad owned a couple of those and I don't recall having to load the disk operating system.  I am not saying that I don't like the Commodore 64 (in fact, I happen to like it very much), but having to type in a load command is not very user friendly for first-time users who didn't happen to have a manual.",-0.8435,110
+"Sure thing. Give me some time to get it, I'll get back you. Promise :D",0.824,18
+"Synthematix 
+
+tbh, I have heard more than a few horror stories of some cases becoming extremely brittle after Retrobrighting, but I've yet to try it myself.
+
+The methods that 8-bit Guy used seem best (like the ""B-Blonde"" gel, or clear liquid ""developer"" peroxide.)
+
+The main problem with the harsher treatments is that it removes the emollients from the plastics, hence the brittleness.
+
+But, from all the vids and articles I've seen in recent years, it seems that as long as you don't over do it, it's generally OK?",0.5814,107
+Take the guts outside the old one and fit your own inside the old shell.,0.3612,16
+Tape between chips and the heat-sinks??? Really? Is it special tape?,0.6025,16
+"Thank you as always for watching.  You can support the cave with Patreon here: https://www.patreon.com/RetroManCave
+Eagle eyed viewers spotted the slightly longer space bar spring was under the ""P"" key!  This has now been re-homed to the correct position.  You guys don't miss a thing!",0.7374,52
+"Thanks, I'll give it a chance. If you really are interested in our eastern stuff, I believe I can be of some assistance here later on. I'll get back to you as soon as I'll find one model M that does not look like ""kakatuti"" since it will be your first (and for many viewers too). They came painted in grey, but never mind that, they can still get yellow plus they peel. I will also try to find a piece with a working power supply, or at least a power supply (a challenge for you). And mainly - a piece that will be a little less costly than a combined value of both my kidneys :D When they work, they can get a little un-cheap. Then you'll be probably faced with sticky keys (meaning when you press them, you're done for and you have to disassemble the whole thing) and some other delightful quirks. You'll need an analog tape recorder (separate diskette drives cost like a whole diamond mine if you can find one, which you can't), a TV and some programs. I myself have none, so I can at least look for a game on tape or so. It should be compatible with ZX stuff most of the time too, but not always. So let me know if you're into it. I'll contact you for an address and send it your way then.",0.9637,268
+That was disturbing!,-0.5562,4
+That's it! I'm buying new brush :P,0.4633,8
+"That's very cool, thank you for the information.",0.6566,10
+The Atari 800XL doesn't need a BASIC cartridge as it was designed with BASIC built in.,0.0,17
+The SD-Card reader looks cute,0.4588,5
+"The case looks very authentic but  they should have gone the extra mile and replicate the label. I wonder why it looks like that, maybe some weird post-Commodore licensing problem?",-0.3291,33
+"The new-new cases look ideal.
+
+I just wish they were a tiny bit cheaper, but I'm more than aware of the time and money that goes into producing them, especially using the original moulds.
+
+It's currently €59 for the off-white C64C case, and to be fair, I've seen smaller project boxes costing more than that. lol",0.9252,64
+The potting was done to AID cooling?  I cant imagine how it would cool better than air would.,0.6369,20
+"The wise thing to do for caps is to just test both their capacitance and ESR value.
+
+The small component testers are only around £15 now with a case.
+
+They might not be super-accurate, but easily good enough for ESR etc.
+
+Some of the purpose-made ESR meters can even tests caps while they are in-circuit. ;)
+
+(most of the cheap testers don't auto-discharge the caps btw., so watch out for that.)",0.9011,82
+"There are modern boards that will do the same or a very similar job. But it's an unusual addition here because there are better options - if you want the AY chip, you're probably going to want the whole 128k
+
+That said, there is a surprising number of 48k games that still have the enhanced sound and I wonder now if that isn't because of the existence of things like the Melodik... though, given what you say, it sounds uncommon!  Maybe there were other sinclair compatibles where the AY was included as standard, though.",0.8268,103
+"There is also Ray Carlsen, who builds reproduction PSUs and sells them, among other useful hardware. I've seen other replacement PSUs elsewhere, but I don't know if any of them are any good. http://personalpages.tds.net/~rcarlsen/ There's also some repair resources there, so it's a useful site to have.",0.8641,54
+"There is no such thing as too many cleaning montage :)
+Another great video and can't wait to see part 3",0.7096,21
+"There is one spring that is larger then the others, it's supposed to go under the spacebar. In your video it seems to go under the letter P ;-)",0.25,31
+"There is some kind of connector, but since I'm not skilled in electronics, I have no idea what it is and what it is capable of. I've been told that it will not be compatible with anything. Even joysticks have to be proprietary and made for Didaktik, nothing else will work - unless of course you're good at modding, which I'm not :D",0.0985,69
+"There's also the option to keep using the old PSU for the 9VAC line and use, say a PSP PSU, for the 5VDC line which is the one that kills the C64 when it breaks anyway. All you need is a simple y-cable that is even sold online. Thank you for the superb mini-series, RMC!",0.5255,61
+"This is basically the same idea what Jan Beta used in his lazy DIY c64 PSU build. However, buying a y-cable online and a PSP PSU is I guess even lazier :) but definitely not as nice as Jan's solution.",0.3822,43
+"This is relevant to my interests you might say, since my first computer was a Speccy and I'm in the middle of building the ZX Harlequin Spectrum clone.",0.25,30
+"This might have been said already - too many comments to check - but don't use that two-sided tape to adhere the heatsinks to the chips. Unless it's specifically stated that it's thermal tape (and if that's the case then ignore this whole comment), you're impeding heat transfer rather than enhancing it. Rather, use proper thermal epoxy (or mix some two-part epoxy with thermal goop for PC heatsinks - you can find the correct quantities if you search for DIY thermal epoxy).",-0.5023,91
+"This was - as always - very good and informative video. What bugs the me most (being from central ""eastern"" Europe) is that during my childhood, we were still a communist country, ripped away from the rest of the western Europe. Therefore, as much as I love these Commodore 64 videos, it bears no memories for me. Most of us had different types of 8bit computers, like Didaktik (which was a ZX Spectrum clone). I was around for model M which was visually already very different from ZX (and when the the rest of the western world was already beginning to rock their x86es), and that model is connected to my childhood memories by a steel chain. Right at the edge of the so-called velvet revolution Skalica made the last and very pointless attempt to move a little closer to its competition attaching a 3.5"" drive to model M, which was called Didaktik Compact. They'd call it "" a gate to a world of professional computers"". If only, if only... It of course never took off. It's pity there's nobody like you doing videos about those forgotten computers. I'd love to restore one, but I can do only ""monkey see, monkey do"" repairs, 'cause I'm completely incompetent, so no go for me on that :D",0.7101,250
+"This, what you wrote, is about all I know. I've seen it detached behind glass in a museum - and I know many people are looking for one. Never had one, never listened to one, never even saw it working on a single Didaktik. So - sorry, can't provide you with any more info on the subject.",-0.2716,66
+Todd's Nerd Cave great to see you here Todd.  I don't have those but will take a look into them thanks!,0.7263,23
+"Very enjoyable as always, looking forward to part 3, the spoiler, and go faster stripe ;-)",0.6361,19
+"Very strange, I've got the notification, but I could not see the comment here for over a day...  Thanks for all the info. I struggle to understand some of it :D but I generally have the idea. I've just located an ad for a reasonably priced Didaktik M with PSU (seems working, but untested with display). The owner did not reply as of yet, so we'll see... still searching. I really want to see RMC getting his hands on it.",0.8313,93
+Was that an actually tupperware bowl?!,0.0,8
+"Well how it sounds is no mystery. https://www.youtube.com/watch?v=hLrNQ5m8MS8 The only question is whether or not it's addressed in the same way as the 128k's sound chip, or if it's mapped elsewhere and winds up like the Fuller Box which technically had the same capabilties but little to no software support. https://cs.wikipedia.org/wiki/Fuller_Box.  Though I suspect the former.",-0.09,63
+"Well made vid as always, and some inspired music choices.",0.6486,12
+"What, no Baking powder for fluffy muffins?",-0.296,9
+"When doing the spoiler, don’t forget the ground-effects package too! 😜",-0.2942,15
+Where can you buy the cable saver? (somewhere in Europe),0.0,13
+Whos here from the 8bit guy,0.0,6
+Woah im early!,0.0,4
+"Yep, the proper 3M stuff is great.
+
+But, be aware of the fake ""3M"" branded stuff too.
+
+It's common to see that stuff when ordering pre-taped heatsinks from China etc., and I haven't yet looked into ways of identifying the fake stuff.
+
+btw, the black anodised heatsinks genuinely dissipate the heat better. :p
+
+Some people will argue that machines usually worked OK without heatsinks for over 30 years, but if you really care about preserving them for longer, then I can't see the harm in spending a bit extra on a few heatsinks for the hotter chips.
+
+What often kills chips is actually the thermal cycling (and I don't mean riding a bicycle while wearing a jumper. lol)
+
+The expansion and contraction of the chip package and leadframe can eventually cause the wire bonds to break.
+
+The silicon chips themselves are normally very robust unless supplied too much voltage, or zapped by ESD (like the C64 CIA chips, if you touch the joystick port pins).
+
+The chips can still have problems with things like moisture ingress though.",0.8961,201
+Yes indeed another viewer has spotted this.  I can't say it feels any different but I'll swap them around as that's where it's meant to be!  Well spotted!,0.6229,31
+"Yes, it's thermal tape meant for small heat-sinks. As long as you use good quality thermal tape you should be OK. 3M brand is one of the best. Sometimes heat-sinks come with cheap tape. Never use that stuff.",0.9141,44
+You Git! You needz to paint it red to make it go FASTAAA! WAAAAAAAAAAAAAAAAAAAAAAAAAAGH! ;) #scnr,0.4168,19
+You are correct and it has been spotted by previous commentators - The spring is now where it belongs :D.,0.0,21
+"You know when Han Solo gets encased in carbon freeze, yeah? Well this is nothing like that. ;p
+As an aside, one argument against retrobrite (btw the new case seems a good idea) is it affects the provenance/patina. #rbneo",0.4195,48
+You say Lazy as if it's a bad thing ;),-0.6249,10
+Your keys scrubbing montage disturbs me on some level as i am currently using exactly same toothbrush (down to the colour scheme)... to clean my teeth :P,0.368,30
+can you mount keys back from memory?,0.0,8
+"cheers Mr Mongoose, thanks for watching",0.7184,7
+daoneTM I'd love to see retro man cave do a collab with electroboom!,0.6696,14
+"dont do it m8, it penetrates the plastic and weakens it.",-0.5165,13
+fallingwater it is indeed 3M thermal tape specifically for the purpose but thanks for checking and for your suggestion,0.5927,19
+fantastic video. I am really looking forward to the conclusion!,0.5983,12
+for yellow spots instead of peroxyde you can use regular bleach,0.0,11
+garybetts11 thanks!  If you have no nostalgic allegiance I would go C64 personally.  Although the Spectrum Next looks like fun.,0.7777,24
+"gnarlin good question, we found in part one (and the donor also advised) that it's not the original case.  I therefore used it as a license to take this approach without feeling bad about it.  I'll restore the old case to save a future system, perhaps one with major cosmetic damage.",0.6826,58
+"is there a shop I can go to for c64 parts?
+I want to replace all the capacitors and such, basically all the things that should be replaced. also is the good site that acts as a walkthrough for that sort of thing?",0.5514,47
+isnt it more the Sam Coupe that needs the spoilers.  :/,-0.34,12
+"it claims to be a bus connector, which is exactly what the original expansion connector is, and it seems to have a similar key to the original Speccy bus connector.  Which doesn't, of course, mean the pins are in the same place or that it has all the same signals present, as many a Sinclair 128K and Timex Sinclair owner will attest to.
+
+Interestingly the disk interface sounds a lot like the Disciple +D, right down to the snapshot feature.",0.8316,90
+just put inside your commodore a powerful 5.6 volt  zener diode  between the plus  5 volts and ground and  be happy  - if voltage rises more than 5.6 volts the zener diode will short circuit  and protect the entire circuit,0.8442,40
+"lol
+
+Yeah, I love most of the amazing work that Jeri has done, and her vids, but my heart did break slightly after seeing the bass guitar (which was incidentally stolen at an expo, apparently).
+
+@Jam ley - I would LOVE to see a decent Mini N64 case already.
+
+I recently designed a board that is only 10x10cm, uses the original N64 chipset, but adds HDMI, WiFi module, and an FPGA + SDRAM on the underside. ;)
+
+The SDRAM will soon be used for doing cart ""emulation"", like the Everdrive...
+
+https://i.imgur.com/W3SoYSD.jpg
+
+I've yet to see a nice mini case that I could use for it. There are some fairly decent 3D prints you can get, but either not quite ""production"" quality, or just very expensive.",0.9665,148
+oh! good catch,0.4926,4
+onedeadsaint perhaps this will help from msmadlemon https://youtu.be/Yj07tNj2EzU   or also be sure to check Jan Betas channel,0.6124,17
+"pauljs75 perfection is always the goal!  In all honesty I don't expect people to hold their machines to high standards so long as they work safely, but in showing what is possible people can make more informed decisions on what they fancy doing to their own C64s.",0.7043,51
+reggiep75 oh that's nothing compared the the gravy we cleaned off the Electron in a recent series.  It's why I use Mrs RMC's toothbrush.,0.0,27
+"retrobriting works but it makes the plastic brittle in time thats why i dont bother, just respray",0.3724,18
