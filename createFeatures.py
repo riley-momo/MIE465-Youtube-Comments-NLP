@@ -10,11 +10,17 @@ import statistics
 import nltk
 import Algorithmia
 
+from collections import Counter
+
 from nltk import word_tokenize
 from nltk.tokenize import RegexpTokenizer
 from nltk.tokenize import TweetTokenizer
 from nltk.probability import FreqDist
 from nltk.probability import FreqDist
+from nltk.corpus import stopwords
+from nltk.stem import *
+
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 def getFeatures(comments):
     features = {}
@@ -23,30 +29,44 @@ def getFeatures(comments):
     client = Algorithmia.client('simlyRpEh3jOufiSoZtvLACnR8p1')
     algo = client.algo('nlp/ProfanityDetection/1.0.0')
     
+    #Create frequency distribution for wordcounts of comments
+    tokenizer = RegexpTokenizer(r'\w+')
+    lengths = (len(tokenizer.tokenize(comment)) for comment in comments)
+    wordCountDist = Counter(lengths)
+    #give keys better names
+    for key in wordCountDist:
+        wordCountDist['wordCount' + str(key)] = wordCountDist.pop(key) 
+    
+    features.update(wordCountDist)
     #create combined text
     combinedText = ' '.join(comments)
     #find profanity frequency
     profanity = algo.pipe(combinedText).__dict__['result']
     profanitySum = sum(d for d in profanity.values())
+    features['profanitySum'] = profanitySum
+    
+    #Normalize Text
+    
+    
     #tokenize
     tokenizer = TweetTokenizer()
     tokens = tokenizer.tokenize(combinedText)
     #convert to nltk Text
     words = nltk.Text(tokens)
-    #get wordCount
-    # wordCount = len(words)
-    # features['wordCount'] = wordCount
+    
+    #Lemmatize text 
+    stemmer = PorterStemmer()
+    stemmedText = [stemmer.stem(w) for w in words]
+    
+    
     #get frequency distribution
     fdist = FreqDist(words)
-    #find words to clean
-    wordsToRemove = sorted(w for w in set(words) if len(w) < 5 and fdist[w] < 2)
     #convert FreqDist to dictionary
     fdist = dict(fdist)
     #append FreqDist to features
     features.update(fdist)
     
     
-    ## WIP ##
     
    
     
@@ -66,7 +86,9 @@ def getFeatures(comments):
 if __name__ == '__main__':
 
     
-    path = '\\\\SRVA\Homes$\\moherril\\Documents\\Analytics in Action\\Project\\video_csvs'
+    path = os.getcwd() + '\\video_csvs'
+    #init video Dictionary
+    videoData = {}
     #iterate through each video file
     for filename in os.listdir(path):
         #obtain video_id
@@ -79,6 +101,6 @@ if __name__ == '__main__':
         for index, d in data.iterrows():
             #append comment
             comments.append(d[0])
-        #obtain features
-        features = getFeatures(comments)
+        #obtain features and store in data dictionary
+        videoData[video_id] = getFeatures(comments)
     #export to csv
