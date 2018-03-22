@@ -367,6 +367,7 @@ def profanityList():
 'yaoi',
 'yellow showers',
 'yiffy',
+'yiffer',
 'zoophilia']
 
 def getFeatures(comments):
@@ -387,27 +388,34 @@ def getFeatures(comments):
     combinedText = ' '.join( [str(comment) for comment in comments])
     #find profanity frequency
     profanity = profanityList()
-    profanitySum = sum(d for d in profanity.values())
+    profanitySum = 0
+    for p in profanity:
+        profanitySum += combinedText.count(p)
     features['profanitySum'] = profanitySum
     
     #Normalize Text
     
+    #remove punctuation
+    combinedText = ''.join([ch for ch in combinedText if ch not in string.punctuation])
     
     #tokenize
     tokenizer = TweetTokenizer()
-    tokens = tokenizer.tokenize(combinedText)
+    tokens = tokenizer.tokenize(combinedText.lower())
     #convert to nltk Text
     words = nltk.Text(tokens)
     
-    #Lemmatize text 
+    #remove stopwords
+    stop = set(stopwords.words('english'))
+    words = [w for w in words if w not in stop]
+    #Stem text 
     stemmer = PorterStemmer()
     stemmedText = [stemmer.stem(w) for w in words]
     
     
     #get frequency distribution
     fdist = FreqDist(words)
-    #convert FreqDist to dictionary
-    fdist = dict(fdist)
+    #convert FreqDist to dictionary, only keep top 30 most common terms
+    fdist = dict(fdist.most_common(30))
     #append FreqDist to features
     features.update(fdist)
     
