@@ -8,6 +8,7 @@ import pandas as pd
 import string
 import statistics
 import nltk
+import emoji
 
 from collections import Counter
 
@@ -386,23 +387,33 @@ def getFeatures(comments):
     features.update(wordCountDist)
     #create combined text
     combinedText = ' '.join( [str(comment) for comment in comments])
-    #find profanity frequency
-    profanity = profanityList()
-    profanitySum = 0
-    for p in profanity:
-        profanitySum += combinedText.count(p)
-    features['profanitySum'] = profanitySum
     
-    #Normalize Text
+    #find emoji frequency
+    emojiSum = len(''.join(c for c in combinedText if c in emoji.UNICODE_EMOJI))
+    numAlphaNumeric = sum(c.isdigit() for c in combinedText) + sum(c.isalpha() for c in combinedText)
+    emojiFreq = emojiSum/(numAlphaNumeric + emojiSum)
+    features['emojiFreq'] = emojiFreq
     
-    #remove punctuation
-    combinedText = ''.join([ch for ch in combinedText if ch not in string.punctuation])
+    #remove punctuation and garbage characters
+    combinedText = ''.join(c for c in combinedText if c.isspace() or c.isalpha() or c.isdigit() or  c in emoji.UNICODE_EMOJI))
+    
     
     #tokenize
     tokenizer = TweetTokenizer()
     tokens = tokenizer.tokenize(combinedText.lower())
     #convert to nltk Text
     words = nltk.Text(tokens)
+    #find profanity frequency
+    profanity = profanityList()
+    profanitySum = 0
+    for p in profanity:
+        profanitySum += combinedText.count(p)
+    #get wordCount
+    wordCount = len(words)
+    profanityFreq = profanitySum/wordCount
+    features['profanityFreq'] = profanityFreq
+    
+    
     
     #remove stopwords
     stop = set(stopwords.words('english'))
@@ -414,8 +425,8 @@ def getFeatures(comments):
     
     #get frequency distribution
     fdist = FreqDist(words)
-    #convert FreqDist to dictionary, only keep top 30 most common terms
-    fdist = dict(fdist.most_common(30))
+    #convert FreqDist to dictionary, only keep top 15 most common terms
+    fdist = dict(fdist.most_common(15))
     #append FreqDist to features
     features.update(fdist)
     
@@ -460,4 +471,4 @@ if __name__ == '__main__':
     #convert videoComments to dataframe
     videoCommentsDF = pd.DataFrame.from_dict(videoData, orient = 'index').fillna(0)
     #Convert dataframe to csv
-    videoCommentsDF.to_csv('videoCommentStats.csv')
+    videoCommentsDF.to_csv(path + '\\videoCommentStats.csv')
