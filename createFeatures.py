@@ -391,11 +391,12 @@ def getFeatures(comments):
     #find emoji frequency
     emojiSum = len(''.join(c for c in combinedText if c in emoji.UNICODE_EMOJI))
     numAlphaNumeric = sum(c.isdigit() for c in combinedText) + sum(c.isalpha() for c in combinedText)
-    emojiFreq = emojiSum/(numAlphaNumeric + emojiSum)
-    features['emojiFreq'] = emojiFreq
+    if (numAlphaNumeric):
+        emojiFreq = emojiSum/(numAlphaNumeric + emojiSum)
+        features['emojiFreq'] = emojiFreq
     
     #remove punctuation and garbage characters
-    combinedText = ''.join(c for c in combinedText if c.isspace() or c.isalpha() or c.isdigit() or  c in emoji.UNICODE_EMOJI))
+    combinedText = ''.join(c for c in combinedText if c.isspace() or c.isalpha() or c.isdigit() or  c in emoji.UNICODE_EMOJI)
     
     
     #tokenize
@@ -403,6 +404,10 @@ def getFeatures(comments):
     tokens = tokenizer.tokenize(combinedText.lower())
     #convert to nltk Text
     words = nltk.Text(tokens)
+    #Find lexical variety
+    if len(words):
+        lexicalVariety = len(set(words))/len(words)
+        features['lexicalVariety'] = lexicalVariety
     #find profanity frequency
     profanity = profanityList()
     profanitySum = 0
@@ -410,8 +415,9 @@ def getFeatures(comments):
         profanitySum += combinedText.count(p)
     #get wordCount
     wordCount = len(words)
-    profanityFreq = profanitySum/wordCount
-    features['profanityFreq'] = profanityFreq
+    if wordCount:
+        profanityFreq = profanitySum/wordCount
+        features['profanityFreq'] = profanityFreq
     
     
     
@@ -450,7 +456,9 @@ def getFeatures(comments):
 if __name__ == '__main__':
 
     
-    path = os.getcwd() + '\\video_csvs'
+    path = '\\\\SRVA\\Homes$\\moherril\\Documents\\Analytics in Action\\Project\\MI465-Youtube-Comments-NLP' + '\\video_csvs'
+    
+    df = pd.read_csv('\\\\SRVA\\Homes$\\moherril\\Documents\\Analytics in Action\\Project\\MI465-Youtube-Comments-NLP' + '\\US_category_id.json')
     #init video Dictionary
     videoData = {}
     #iterate through each video file
