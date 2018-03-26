@@ -381,9 +381,9 @@ def getFeatures(comments):
     tokenizer = RegexpTokenizer(r'\w+')
     lengths = (len(tokenizer.tokenize(str(comment))) for comment in comments)
     wordCountDist = Counter(lengths)
+    wordCountCopy = wordCountDist.copy()
     #give keys better names
-    for key in wordCountDist:
-        if not str(key)[:9] == 'wordCount':
+    for key in wordCountCopy:
             wordCountDist['wordCount' + str(key)] = wordCountDist.pop(key) 
     #append wordcount distribution to feature dictionary
     features.update(wordCountDist)
@@ -392,6 +392,22 @@ def getFeatures(comments):
     if len(comments):
         capsFreq = numCapsComments/len(comments)
         features['capsCommentFreq'] = capsFreq
+    #Get Sentiment Measures
+    sid = SentimentIntensityAnalyzer()
+    sentiments = [sid.polarity_scores(comment)['compound'] for comment in comments]
+    negativeSentimentCount = sum([sentiment < 0 for sentiment in sentiments])
+    neutralSentimentCount = sum([sentiment == 0 for sentiment in sentiments])
+    positiveSentimentCount = sum([sentiment > 0 for sentiment in sentiments])
+    if len(comments):
+        negativeSentimentFreq = negativeSentimentCount/len(comments)
+        neutralSentimentFreq = neutralSentimentCount/len(comments)
+        positiveSentimentFreq = positiveSentimentCount/len(comments)
+        features['negativeSentimentFreq'] = negativeSentimentFreq
+        features['neutralSentimentFreq'] = neutralSentimentFreq
+        features['positiveSentimentFreq'] = positiveSentimentFreq
+    
+    
+    
     #create combined text
     combinedText = ' '.join( [str(comment) for comment in comments])
     
@@ -480,9 +496,9 @@ def getFeatures(comments):
 if __name__ == '__main__':
 
     
-    path = '\\\\SRVA\\Homes$\\moherril\\Documents\\Analytics in Action\\Project\\MI465-Youtube-Comments-NLP' + '\\video_csvs'
+    path = os.getcwd() + '\\video_csvs'
     
-    df = pd.read_csv('\\\\SRVA\\Homes$\\moherril\\Documents\\Analytics in Action\\Project\\MI465-Youtube-Comments-NLP' + '\\US_category_id.json')
+    df = pd.read_csv('USvideos.csv')
     #init video Dictionary
     videoData = {}
     #iterate through each video file
