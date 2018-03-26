@@ -9,6 +9,7 @@ import string
 import statistics
 import nltk
 import emoji
+import language_check as lc
 
 from collections import Counter
 
@@ -382,9 +383,15 @@ def getFeatures(comments):
     wordCountDist = Counter(lengths)
     #give keys better names
     for key in wordCountDist:
-        wordCountDist['wordCount' + str(key)] = wordCountDist.pop(key) 
+        if not str(key)[:9] == 'wordCount':
+            wordCountDist['wordCount' + str(key)] = wordCountDist.pop(key) 
     #append wordcount distribution to feature dictionary
     features.update(wordCountDist)
+    #Obtain allcaps comment frequency
+    numCapsComments = len([comment for comment in comments if str(comment).isupper()])
+    if len(comments):
+        capsFreq = numCapsComments/len(comments)
+        features['capsCommentFreq'] = capsFreq
     #create combined text
     combinedText = ' '.join( [str(comment) for comment in comments])
     
@@ -398,9 +405,26 @@ def getFeatures(comments):
     #remove punctuation and garbage characters
     combinedText = ''.join(c for c in combinedText if c.isspace() or c.isalpha() or c.isdigit() or  c in emoji.UNICODE_EMOJI)
     
+    #perform spelling grammar check
+    tool = lc.LanguageTool('en-US')
+    mistakes = tool.check(combinedText) 
     
+    
+    #Get allcaps word frequency
     #tokenize
     tokenizer = TweetTokenizer()
+    tokens = tokenizer.tokenize(combinedText)
+    #convert to nltk Text
+    words = nltk.Text(tokens)
+    numCapsWords = len([w for w in words if w.isupper()])
+    if len(comments):
+        capsFreq = numCapsWords/len(words)
+        features['capsWordFreq'] = capsFreq
+    #Get spelling/grammar mistake frequency
+    if len(words):
+        mistakeFreq = len(mistakes)/len(words)
+        features['mistakeFreq'] = mistakeFreq
+    #tokenize
     tokens = tokenizer.tokenize(combinedText.lower())
     #convert to nltk Text
     words = nltk.Text(tokens)
@@ -431,8 +455,8 @@ def getFeatures(comments):
     
     #get frequency distribution
     fdist = FreqDist(words)
-    #convert FreqDist to dictionary, only keep top 15 most common terms
-    fdist = dict(fdist.most_common(15))
+    #convert FreqDist to dictionary, only keep top 18 most common terms
+    fdist = dict(fdist.most_common(18))
     #append FreqDist to features
     features.update(fdist)
     
